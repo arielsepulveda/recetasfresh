@@ -8,6 +8,11 @@ The project started from HelloFresh recipe archives and evolved into a complete 
 
 - `0.3.0`
 
+## Disclaimer
+
+This project is provided "as-is", without warranties of any kind.
+No support, maintenance, updates, or guarantees are provided.
+
 ## What Is Implemented
 
 ### Core Product Features
