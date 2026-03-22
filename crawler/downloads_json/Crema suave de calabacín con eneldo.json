@@ -1,0 +1,827 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": "6373c33e6875fac468eeba6e",
+  "canonicalLink": "https://www.hellofresh.es/recipes/crema-suave-de-calabacin-eneldo-y-queso-crema-6373c33e6875fac468eeba6e",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/65d8b0f1700746d2fe520808.pdf",
+  "category": null,
+  "clonedFrom": "6347ef44bb36093c54997915",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-04-17T15:19:17+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Para las ocasiones en las que quieres un plato de cuchara caliente (y probablemente acurrucarte en el sofá a ver una película justo después), te ofrecemos esta crema de calabacín, eneldo y queso crema. Si ya sonaba interesante, ¿qué te parece si le añadimos picatostes caseros y tostadas de pesto? No te quedes con la duda y pruébala.",
+  "descriptionHTML": "<p>Para las ocasiones en las que quieres un plato de cuchara caliente (y probablemente acurrucarte en el sofá a ver una película justo después), te ofrecemos esta crema de calabacín, eneldo y queso crema. Si ya sonaba interesante, ¿qué te parece si le añadimos picatostes caseros y tostadas de pesto? No te quedes con la duda y pruébala.</p>",
+  "descriptionMarkdown": "Para las ocasiones en las que quieres un plato de cuchara caliente (y probablemente acurrucarte en el sofá a ver una película justo después), te ofrecemos esta crema de calabacín, eneldo y queso crema. Si ya sonaba interesante, ¿qué te parece si le añadimos picatostes caseros y tostadas de pesto? No te quedes con la duda y pruébala.",
+  "difficulty": 1,
+  "favoritesCount": 15,
+  "headline": "con picatostes caseros y tostadas al pesto de albahaca",
+  "id": "65d8b0f1700746d2fe520808",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R08_W01_ES_ESVV0038-7_MAIN_high-e566eda6.jpg",
+  "imagePath": "/image/HF_Y24_R08_W01_ES_ESVV0038-7_MAIN_high-e566eda6.jpg",
+  "ingredients": [
+    {
+      "id": "6352a87574b20ffb740efe5e",
+      "uuid": "529b21e5-df06-5f4b-be4f-d3d03cfd43ae",
+      "name": "Pan de chapata",
+      "type": "ciabatta",
+      "slug": "pan-de-chapata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352a87574b20ffb740efe5e-5a30d77e.png",
+      "imagePath": "/ingredient/6352a87574b20ffb740efe5e-5a30d77e.png",
+      "shipped": true,
+      "allergens": [
+        "5b0532aaae08b52eb9420552",
+        "5acf972fae08b54d333ac322",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b305303",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352a87574b20ffb740efe5e-Pan de chapata.png"
+    },
+    {
+      "id": "6340436f233160a36674ba00",
+      "uuid": "d6afeb8d-f6dd-5aff-af10-bb9f6fb7c0ce",
+      "name": "Eneldo",
+      "type": "dill",
+      "slug": "eneldo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f233160a36674ba00-f81b4ffb.jpg",
+      "imagePath": "/ingredient/6340436f233160a36674ba00-f81b4ffb.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f233160a36674ba00-Eneldo.jpg"
+    },
+    {
+      "id": "6352ac0f0f0324d2cd53b1bc",
+      "uuid": "5da5c54f-a194-4ef9-b062-0cd73e7e009b",
+      "name": "Pesto de albahaca",
+      "type": "basil-pesto",
+      "slug": "pesto-de-albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352ac0f0f0324d2cd53b1bc-15a361fe.jpg",
+      "imagePath": "/ingredient/6352ac0f0f0324d2cd53b1bc-15a361fe.jpg",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fb",
+        "57962a07b7e8697d4b3052fa",
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352ac0f0f0324d2cd53b1bc-Pesto de albahaca.jpg"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b9aebf08332f1bff15b",
+      "uuid": "5a6e5739-7a68-4d57-a489-5ccecbc07b8a",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b9aebf08332f1bff15b-8dc244a6.png",
+      "imagePath": "/ingredient/63492b9aebf08332f1bff15b-8dc244a6.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b9aebf08332f1bff15b-Leche.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "De La Abuela",
+    "handle": "grandma-style",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#b980d0",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/65d8b0f1700746d2fe520808",
+  "name": "Crema suave de calabacín con eneldo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2584,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 617,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 18.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 4.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 64,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 6.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 16.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.68,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 14,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 467,
+  "slug": "crema-calabacin-eneldo-picatostes",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220°C. Pela y pica el ajo (ver cantidad en ingredientes). Retira los extremos del calabacín y córtalo por la mitad a lo largo. Luego, corta cada mitad en dados de 1-2 cm. Retira las raíces y el extremo verde del puerro y deséchalos. Córtalo por la mitad a lo largo y, luego, corta en medias lunas finas.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220°C. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Luego, corta cada mitad en dados de 1-2 cm. Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. Córtalo por la mitad a lo largo y, luego, corta en medias lunas finas.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220°C. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Luego, corta cada mitad en dados de 1-2 cm. Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. Córtalo por la mitad a lo largo y, luego, corta en medias lunas finas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0f1700746d2fe520808/step-e5b92b00.jpg",
+          "path": "/65d8b0f1700746d2fe520808/step-e5b92b00.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/65d8b0f1700746d2fe520808-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una olla, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega el puerro y el calabacín, salpimienta y saltea durante 6-8 min, removiendo frecuentemente. Agrega el agua (ver cantidad en ingredientes) y el caldo vegetal en polvo y lleva a ebullición. Cuando hierva, baja a fuego medio-alto y cocina 5-7 min, removiendo ocasionalmente.",
+      "instructionsHTML": "<p dir=\"ltr\">En una olla, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega el <strong>puerro</strong> y el <strong>calabacín</strong>, <strong>salpimienta</strong> y saltea durante 6-8 min, removiendo frecuentemente. Agrega el <strong>agua </strong>(ver cantidad en ingredientes) y el <strong>caldo vegetal</strong> en polvo<strong> </strong>y lleva a ebullición. Cuando hierva, baja a fuego medio-alto y cocina 5-7 min, removiendo ocasionalmente.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una olla, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega el <strong>puerro</strong> y el <strong>calabacín</strong>, <strong>salpimienta</strong> y saltea durante 6-8 min, removiendo frecuentemente. Agrega el <strong>agua </strong>(ver cantidad en ingredientes) y el <strong>caldo vegetal</strong> en polvo<strong> </strong>y lleva a ebullición. Cuando hierva, baja a fuego medio-alto y cocina 5-7 min, removiendo ocasionalmente.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b30537c",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0f1700746d2fe520808/step-4272d810.jpg",
+          "path": "/65d8b0f1700746d2fe520808/step-4272d810.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/65d8b0f1700746d2fe520808-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Corta la mitad del pan de chapata en bastones de 1-2 cm de grosor. Coloca las tiras de pan chapata en un lado de una bandeja de horno con papel de horno. Extiende la mitad del pesto de albahaca sobre las tostadas y agrega un chorrito de aceite.",
+      "instructionsHTML": "<p dir=\"ltr\">Corta la mitad del <strong>pan de chapata</strong> en<span> bastones de 1-2 cm de grosor</span>. Coloca las tiras<strong> </strong>de<strong> pan chapata</strong> en un lado de una bandeja de horno con papel de horno. Extiende la mitad del <strong>pesto de albahaca</strong> sobre las <strong>tostadas</strong> y agrega un chorrito de <strong>aceite</strong>.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Corta la mitad del <strong>pan de chapata</strong> en<span> bastones de 1-2 cm de grosor</span>. Coloca las tiras<strong> </strong>de<strong> pan chapata</strong> en un lado de una bandeja de horno con papel de horno. Extiende la mitad del <strong>pesto de albahaca</strong> sobre las <strong>tostadas</strong> y agrega un chorrito de <strong>aceite</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0f1700746d2fe520808/step-fa9c9d20.jpg",
+          "path": "/65d8b0f1700746d2fe520808/step-fa9c9d20.jpg",
+          "caption": "Prepara las tostadas",
+          "localImage": "/images/recipes/65d8b0f1700746d2fe520808-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Corta el pan de chapata restante en dados de 2 cm. Coloca los dados de chapata en la bandeja de horno con papel de horno, junto a las tostadas con pesto, y agrega un chorrito de aceite y una pizca de sal. Mezcla para que queden bien aderezados. Hornea a media altura 8-10 min, hasta que los picatostes y las tostadas con pesto se doren. Remueve los picatostes a mitad de cocción.",
+      "instructionsHTML": "<p dir=\"ltr\">Corta el <strong>pan de chapata</strong> restante en dados de 2 cm. Coloca los <strong>dados de chapata</strong> en la bandeja de horno con papel de horno, junto a las <strong>tostadas</strong> con <strong>pesto</strong>, y agrega un chorrito de <strong>aceite</strong> y una pizca de <strong>sal</strong>. Mezcla para que queden bien aderezados. Hornea a media altura 8-10 min, hasta que los <strong>picatostes</strong> y las <strong>tostadas</strong> con <strong>pesto</strong> se doren. Remueve los <strong>picatostes</strong> a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Corta el <strong>pan de chapata</strong> restante en dados de 2 cm. Coloca los <strong>dados de chapata</strong> en la bandeja de horno con papel de horno, junto a las <strong>tostadas</strong> con <strong>pesto</strong>, y agrega un chorrito de <strong>aceite</strong> y una pizca de <strong>sal</strong>. Mezcla para que queden bien aderezados. Hornea a media altura 8-10 min, hasta que los <strong>picatostes</strong> y las <strong>tostadas</strong> con <strong>pesto</strong> se doren. Remueve los <strong>picatostes</strong> a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0f1700746d2fe520808/step-28d28c30.jpg",
+          "path": "/65d8b0f1700746d2fe520808/step-28d28c30.jpg",
+          "caption": "Hornea el pan de chapata",
+          "localImage": "/images/recipes/65d8b0f1700746d2fe520808-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando las verduras estén tiernas, agrega la leche (ver cantidad en ingredientes), luego, tritura con ayuda de un túrmix, hasta que quede una crema lisa. Agrega el pesto de albahaca restante y tritura de nuevo para que se integre. Prueba la crema y salpimienta al gusto.",
+      "instructionsHTML": "<p>Cuando las <strong>verduras</strong> estén tiernas, agrega la <strong>leche</strong> (ver cantidad en ingredientes), luego, tritura con ayuda de un túrmix, hasta que quede una <strong>crema</strong> lisa. Agrega el <strong>pesto de albahaca</strong> restante y tritura de nuevo para que se integre. Prueba la <strong>crema</strong> y <strong>salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>verduras</strong> estén tiernas, agrega la <strong>leche</strong> (ver cantidad en ingredientes), luego, tritura con ayuda de un túrmix, hasta que quede una <strong>crema</strong> lisa. Agrega el <strong>pesto de albahaca</strong> restante y tritura de nuevo para que se integre. Prueba la <strong>crema</strong> y <strong>salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0f1700746d2fe520808/step-8beac740.jpg",
+          "path": "/65d8b0f1700746d2fe520808/step-8beac740.jpg",
+          "caption": "Tritura la crema",
+          "localImage": "/images/recipes/65d8b0f1700746d2fe520808-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Deshoja la mitad del eneldo (doble para 4p) y pícalo en trozos grandes. Sirve la crema de calabacín en platos y agrega encima el queso crema y el eneldo picado. Cubre la crema con picatostes y acompaña con las tostadas de chapata con pesto.",
+      "instructionsHTML": "<p>Deshoja la mitad del <strong>eneldo</strong> (doble para 4p) y pícalo en trozos grandes. Sirve la <strong>crema de calabacín</strong> en platos y agrega encima el <strong>queso crema</strong> y el <strong>eneldo</strong> picado. Cubre la <strong>crema</strong> con <strong>picatostes</strong> y acompaña con las <strong>tostadas de chapata</strong> con <strong>pesto</strong>.</p>",
+      "instructionsMarkdown": "<p>Deshoja la mitad del <strong>eneldo</strong> (doble para 4p) y pícalo en trozos grandes. Sirve la <strong>crema de calabacín</strong> en platos y agrega encima el <strong>queso crema</strong> y el <strong>eneldo</strong> picado. Cubre la <strong>crema</strong> con <strong>picatostes</strong> y acompaña con las <strong>tostadas de chapata</strong> con <strong>pesto</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0f1700746d2fe520808/step-81f38d50.jpg",
+          "path": "/65d8b0f1700746d2fe520808/step-81f38d50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/65d8b0f1700746d2fe520808-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESVV0038-11",
+  "updatedAt": "2025-06-12T14:26:46+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "fd8dbe62-f61f-4352-a87e-79e517fc3fa7",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/crema-calabacin-eneldo-picatostes-65d8b0f1700746d2fe520808",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6352a87574b20ffb740efe5e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f233160a36674ba00",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352ac0f0f0324d2cd53b1bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b9aebf08332f1bff15b",
+          "amount": 30,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6352a87574b20ffb740efe5e",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f233160a36674ba00",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352ac0f0f0324d2cd53b1bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 4,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 800,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b9aebf08332f1bff15b",
+          "amount": 60,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/65d8b0f1700746d2fe520808-Crema suave de calabacín con eneldo.jpg",
+  "localCard": "/pdf/65d8b0f1700746d2fe520808-Crema suave de calabacín con eneldo.pdf"
+}

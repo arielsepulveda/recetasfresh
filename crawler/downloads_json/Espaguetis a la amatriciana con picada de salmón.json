@@ -1,0 +1,761 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf97a2ae08b54dad34eb82",
+      "name": "Sulfitos",
+      "type": "traces-of-sulphites",
+      "slug": "traces-of-sulfitos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf967d30006c4cbc61d152",
+      "name": "Crustáceos",
+      "type": "traces-of-crustaceans",
+      "slug": "traces-of-crustaceos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5fdcacf19520e811397b51c9",
+      "name": "Moluscos",
+      "type": "traces-of-molluscs",
+      "slug": "traces-of-moluscos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "5de91d27f4c17e42c17aef94",
+      "name": "Mostaza",
+      "type": "traces-of-mustard",
+      "slug": "traces-of-mostaza",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/669fcb5a44e4fbb9d2132100-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "661f8af4019ddbd535c05cfa",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-08-21T09:58:17+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "La salsa amatriciana es una salsa tradicional italiana con base de tomate y un toque picante. En este caso, te proponemos una versión con picada de salmón y tomates cherry, que podrás tener lista en tan solo 15 minutos para acompañar los espaguetis y disfrutar en tiempo récord de un sabor excepcional.",
+  "descriptionHTML": "<p>La salsa amatriciana es una salsa tradicional italiana con base de tomate y un toque picante. En este caso, te proponemos una versión con picada de salmón y tomates cherry, que podrás tener lista en tan solo 15 minutos para acompañar los espaguetis y disfrutar en tiempo récord de un sabor excepcional.</p>",
+  "descriptionMarkdown": "La salsa amatriciana es una salsa tradicional italiana con base de tomate y un toque picante. En este caso, te proponemos una versión con picada de salmón y tomates cherry, que podrás tener lista en tan solo 15 minutos para acompañar los espaguetis y disfrutar en tiempo récord de un sabor excepcional.",
+  "difficulty": 1,
+  "favoritesCount": 19,
+  "headline": "con queso italiano curado y chili",
+  "id": "669fcb5a44e4fbb9d2132100",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R17_W32_ES_ESQCPF25582-3_Main_high-d0df00c9.jpg",
+  "imagePath": "/image/HF_Y24_R17_W32_ES_ESQCPF25582-3_Main_high-d0df00c9.jpg",
+  "ingredients": [
+    {
+      "id": "661fe0ae019ddbd535c06f54",
+      "uuid": "9b3ce0ea-12c6-4175-b049-8cf0012fbde7",
+      "name": "Picada de salmón",
+      "type": "salmon-mince",
+      "slug": "picada-de-salmon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/661fe0ae019ddbd535c06f54-4413bdc7.png",
+      "imagePath": "/ingredient/661fe0ae019ddbd535c06f54-4413bdc7.png",
+      "shipped": true,
+      "allergens": [
+        "5acf97a2ae08b54dad34eb82",
+        "5acf967d30006c4cbc61d152",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305303",
+        "5acf97b7ae08b54d88061162",
+        "5fdcacf19520e811397b51c9",
+        "5b0532aaae08b52eb9420552",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/661fe0ae019ddbd535c06f54-Picada de salmón.png"
+    },
+    {
+      "id": "6340437641033266d7be9528",
+      "uuid": "2904fadb-88de-569e-9c92-a87c61848fdb",
+      "name": "Chile",
+      "type": "red-chilli",
+      "slug": "chile",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9528-12333c56.png",
+      "imagePath": "/ingredient/6340437641033266d7be9528-12333c56.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9528-Chile.png"
+    },
+    {
+      "id": "64afc5bc565e2133abaa58a3",
+      "uuid": "27bdf929-2223-5877-8919-3bd93eb85c24",
+      "name": "Passata de tomate",
+      "type": "tomato-passata",
+      "slug": "passata-de-tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "imagePath": "/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64afc5bc565e2133abaa58a3-Passata de tomate.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "664be4727d59947cc3a72e6c",
+      "uuid": "67ed2a73-776c-5bd2-b8bc-2c60832399da",
+      "name": "Espaguetis",
+      "type": "spaghetti",
+      "slug": "espaguetis",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/664be4727d59947cc3a72e6c-dbfde238.png",
+      "imagePath": "/ingredient/664be4727d59947cc3a72e6c-dbfde238.png",
+      "shipped": true,
+      "allergens": [
+        "5b0532aaae08b52eb9420552",
+        "5de91d27f4c17e42c17aef94",
+        "57962a07b7e8697d4b3052f3",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/664be4727d59947cc3a72e6c-Espaguetis.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "638d95012d9af192559539ba",
+      "uuid": "81735a05-eaac-4944-b263-c8299b14566d",
+      "name": "Agua de la cocción",
+      "type": "cooking-water",
+      "slug": "agua-de-la-coccion",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "imagePath": "/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638d95012d9af192559539ba-Agua de la cocción.jpg"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Exprés",
+    "handle": "super-quick",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/669fcb5a44e4fbb9d2132100",
+  "name": "Espaguetis a la amatriciana con picada de salmón",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2786,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 666,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 28.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 6.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 73.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 33.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.19,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT15M",
+  "promotion": null,
+  "ratingsCount": 31,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 401,
+  "slug": "espaguetis-amatriciana-salmon-queso",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, agrega abundante agua y sal, cubre con una tapa y lleva a ebullición. Pela y ralla el ajo (ver cantidad en ingredientes). Corta los tomates cherry por la mitad. Corta el chili rojo por la mitad y retira las semillas. Luego, corta en rodajas finas.\nRECUERDA: Utiliza guantes para manipular el chili y lávate las manos y los utensilios después.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, agrega abundante <strong>agua</strong> y <strong>sal</strong>, cubre con una tapa y lleva a ebullición. Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Corta los <strong>tomates cherry</strong> por la mitad. Corta el <strong>chili rojo</strong> por la mitad y retira las semillas. Luego, corta en rodajas finas.</p>\n<p>RECUERDA: Utiliza guantes para manipular el chili y lávate las manos y los utensilios después.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, agrega abundante <strong>agua</strong> y <strong>sal</strong>, cubre con una tapa y lleva a ebullición. Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Corta los <strong>tomates cherry</strong> por la mitad. Corta el <strong>chili rojo</strong> por la mitad y retira las semillas. Luego, corta en rodajas finas.</p>\n<p>RECUERDA: Utiliza guantes para manipular el chili y lávate las manos y los utensilios después.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "64ba7d3d9d1f1314f17e6c06"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb5a44e4fbb9d2132100/step-6dc13b00.jpg",
+          "path": "/669fcb5a44e4fbb9d2132100/step-6dc13b00.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/669fcb5a44e4fbb9d2132100-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Cuando el agua de la olla hierva, añade los espaguetis y cocina durante 7 min o hasta que queden tiernos. Cuando estén listos, reserva el agua de cocción (ver cantidad en ingredientes). Luego, escurre los espaguetis. ",
+      "instructionsHTML": "<p>Cuando el <strong>agua</strong> de la olla hierva, añade los <strong>espaguetis </strong>y cocina durante 7 min o hasta que queden tiernos. Cuando estén listos, reserva el <strong>agua de cocción</strong> (ver cantidad en ingredientes). Luego, escurre los <strong>espaguetis.</strong> </p>",
+      "instructionsMarkdown": "<p>Cuando el <strong>agua</strong> de la olla hierva, añade los <strong>espaguetis </strong>y cocina durante 7 min o hasta que queden tiernos. Cuando estén listos, reserva el <strong>agua de cocción</strong> (ver cantidad en ingredientes). Luego, escurre los <strong>espaguetis.</strong> </p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb5a44e4fbb9d2132100/step-3e2cd210.jpg",
+          "path": "/669fcb5a44e4fbb9d2132100/step-3e2cd210.jpg",
+          "caption": "Cuece los espaguetis",
+          "localImage": "/images/recipes/669fcb5a44e4fbb9d2132100-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén, agrega un chorrito de aceite, el ajo y chili rojo al gusto. Calienta a fuego medio y cocina 1-2 min. Luego, añade los tomates cherry y la passata de tomate, salpimienta y cocina 3 min con la sartén tapada, moviendo regularmente. Añade la picada de salmón y cocina todo junto 3-4 min, moviendo frecuentemente, hasta que quede bien cocinada.\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<p>En una sartén, agrega un chorrito de <strong>aceite</strong>, el <strong>ajo</strong> y <strong>chili rojo</strong> al gusto. Calienta a fuego medio y cocina 1-2 min. Luego, añade los <strong>tomates cherry</strong> y la <strong>passata de tomate</strong>, <strong>salpimienta</strong> y cocina 3 min con la sartén tapada, moviendo regularmente. Añade la <strong>picada de salmón</strong> y cocina todo junto 3-4 min, moviendo frecuentemente, hasta que quede bien cocinada.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<p>En una sartén, agrega un chorrito de <strong>aceite</strong>, el <strong>ajo</strong> y <strong>chili rojo</strong> al gusto. Calienta a fuego medio y cocina 1-2 min. Luego, añade los <strong>tomates cherry</strong> y la <strong>passata de tomate</strong>, <strong>salpimienta</strong> y cocina 3 min con la sartén tapada, moviendo regularmente. Añade la <strong>picada de salmón</strong> y cocina todo junto 3-4 min, moviendo frecuentemente, hasta que quede bien cocinada.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb5a44e4fbb9d2132100/step-15f5c320.jpg",
+          "path": "/669fcb5a44e4fbb9d2132100/step-15f5c320.jpg",
+          "caption": "Cocina la salsa y el salmón",
+          "localImage": "/images/recipes/669fcb5a44e4fbb9d2132100-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la sartén con el salmón y la salsa, agrega los espaguetis y el agua de cocción y cocina a fuego medio 1-2 min más, removiendo para integrar los ingredientes. Prueba y rectifica de sal y pimienta. Sirve los espaguetis con salsa amatriciana y salmón en platos y cubre con el queso italiano rallado al gusto.",
+      "instructionsHTML": "<p>En la sartén con el <strong>salmón</strong> y la <strong>salsa,</strong> agrega los <strong>espaguetis</strong> y el <strong>agua de cocción</strong> y cocina a fuego medio 1-2 min más, removiendo para integrar los ingredientes. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong> Sirve los <strong>espaguetis</strong> con <strong>salsa amatriciana</strong> y <strong>salmón</strong> en platos y cubre con el <strong>queso italiano rallado</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>En la sartén con el <strong>salmón</strong> y la <strong>salsa,</strong> agrega los <strong>espaguetis</strong> y el <strong>agua de cocción</strong> y cocina a fuego medio 1-2 min más, removiendo para integrar los ingredientes. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong> Sirve los <strong>espaguetis</strong> con <strong>salsa amatriciana</strong> y <strong>salmón</strong> en platos y cubre con el <strong>queso italiano rallado</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb5a44e4fbb9d2132100/step-d5ebc630.jpg",
+          "path": "/669fcb5a44e4fbb9d2132100/step-d5ebc630.jpg",
+          "caption": "Combina y emplata",
+          "localImage": "/images/recipes/669fcb5a44e4fbb9d2132100-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "62163c70143a35226e03d85e",
+      "type": "super-quick",
+      "name": "Exprés",
+      "slug": "expres",
+      "colorHandle": "quickPrep",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESQCPF25582-5",
+  "updatedAt": "2025-10-29T11:30:13+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "64ba7d3d9d1f1314f17e6c06",
+      "type": "pot-with-lid",
+      "name": "Olla con Tapa"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    }
+  ],
+  "uuid": "6d553024-9cf3-4a9a-8e86-4d87f0c5b9a8",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/espaguetis-amatriciana-salmon-queso-669fcb5a44e4fbb9d2132100",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "661fe0ae019ddbd535c06f54",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 210,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "664be4727d59947cc3a72e6c",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "661fe0ae019ddbd535c06f54",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 420,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "664be4727d59947cc3a72e6c",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/669fcb5a44e4fbb9d2132100-Espaguetis a la amatriciana con picada de salmón.jpg",
+  "localCard": "/pdf/669fcb5a44e4fbb9d2132100-Espaguetis a la amatriciana con picada de salmón.pdf"
+}

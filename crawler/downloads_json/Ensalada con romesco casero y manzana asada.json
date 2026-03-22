@@ -1,0 +1,946 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": "66e99fbe3c5fed5af3e8cca9",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ensalada-con-romesco-y-mozzarella-66e99fbe3c5fed5af3e8cca9",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68493261b9b1c59f93d88b09-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "66e99fbe3c5fed5af3e8cca9",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-11T07:38:10+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "¿Tienes 20 minutos y ganas de probar una ensalada diferente? En esta receta, preparamos una ensalada con manzana, mezclum, tomates cherry y una fresca mozzarella y la cubrimos con parte de la manzana cortada en láminas y asada y una salsa romesco casera. ¡Que nunca más te aburra una ensalada!",
+  "descriptionHTML": "<p>¿Tienes 20 minutos y ganas de probar una ensalada diferente? En esta receta, preparamos una ensalada con manzana, mezclum, tomates cherry y una fresca mozzarella y la cubrimos con parte de la manzana cortada en láminas y asada y una salsa romesco casera. ¡Que nunca más te aburra una ensalada!</p>",
+  "descriptionMarkdown": "¿Tienes 20 minutos y ganas de probar una ensalada diferente? En esta receta, preparamos una ensalada con manzana, mezclum, tomates cherry y una fresca mozzarella y la cubrimos con parte de la manzana cortada en láminas y asada y una salsa romesco casera. ¡Que nunca más te aburra una ensalada!",
+  "difficulty": 2,
+  "favoritesCount": 9,
+  "headline": "con mozzarella italiana y tomates cherry",
+  "id": "68493261b9b1c59f93d88b09",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R13_W21_ES_ESQFCLVV33002-2_edit_Main_high-2cc8de45.jpg",
+  "imagePath": "/image/HF_Y25_R13_W21_ES_ESQFCLVV33002-2_edit_Main_high-2cc8de45.jpg",
+  "ingredients": [
+    {
+      "id": "63497d88971d5eddb3ff71b3",
+      "uuid": "1f16402c-d087-4303-9cb9-ce2dbbb436f6",
+      "name": "Mozzarella italiana",
+      "type": "mozzarella-cheese",
+      "slug": "mozzarella-italiana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b3-85a8c761.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b3-85a8c761.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b3-Mozzarella italiana.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca0",
+      "uuid": "e2769482-364e-53c8-97cc-79b0d2b33e8a",
+      "name": "Manzana",
+      "type": "apple",
+      "slug": "manzana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca0-Manzana.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "63bd8b8447216d30617cbe34",
+      "uuid": "eece3be8-5fc5-569f-9907-7644c9f41b9b",
+      "name": "Avellanas enteras crudas",
+      "type": "hazelnuts",
+      "slug": "avellanas-enteras-crudas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bd8b8447216d30617cbe34-30e80cfc.png",
+      "imagePath": "/ingredient/63bd8b8447216d30617cbe34-30e80cfc.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bd8b8447216d30617cbe34-Avellanas enteras crudas.png"
+    },
+    {
+      "id": "6340437841033266d7be952c",
+      "uuid": "827bd110-c089-50ac-9b7a-346ec7b98257",
+      "name": "Mezclum",
+      "type": "salad-mix",
+      "slug": "mezclum",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "imagePath": "/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437841033266d7be952c-Mezclum.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "65b9f37ed1da3988cdd8ea2e",
+      "uuid": "2172102e-c765-43f0-a8ee-369a17e6ad6f",
+      "name": "Vinagre",
+      "type": "vinegar-in-tbsp",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "imagePath": "/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65b9f37ed1da3988cdd8ea2e-Vinagre.png"
+    },
+    {
+      "id": "659bbfbac7596f421e543157",
+      "uuid": "85a6c457-ddf6-4b16-ab8f-55316c4ddc02",
+      "name": "Vinagre para aderezar",
+      "type": "vinegar-for-salad",
+      "slug": "vinagre-para-aderezar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/659bbfbac7596f421e543157-faf37314.png",
+      "imagePath": "/ingredient/659bbfbac7596f421e543157-faf37314.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/659bbfbac7596f421e543157-Vinagre para aderezar.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68493261b9b1c59f93d88b09",
+  "name": "Ensalada con romesco casero y manzana asada",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1795,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 429,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 43.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 12.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 20.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 14.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.57,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT20M",
+  "promotion": null,
+  "ratingsCount": 17,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 420,
+  "slug": "ensalada-con-romesco-casero-y-manzana-asada",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nDesmenuza la mozzarella en trozos medianos y reserva en un colador.\nPela el ajo.\nCorta el tomate en cuartos.\nCorta el pimiento en dados pequeños.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Desmenuza la <strong>mozzarella</strong> en trozos medianos y reserva en un colador.</li>\n<li>Pela el <strong>ajo</strong>.</li>\n<li>Corta el <strong>tomate</strong> en cuartos.</li>\n<li>Corta el <strong>pimiento</strong> en dados pequeños.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Desmenuza la <strong>mozzarella</strong> en trozos medianos y reserva en un colador.</li>\n<li>Pela el <strong>ajo</strong>.</li>\n<li>Corta el <strong>tomate</strong> en cuartos.</li>\n<li>Corta el <strong>pimiento</strong> en dados pequeños.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493261b9b1c59f93d88b09/step-c3231400.jpg",
+          "path": "/68493261b9b1c59f93d88b09/step-c3231400.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/68493261b9b1c59f93d88b09-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nExtiende el pimiento, el tomate y el ajo en una bandeja de horno con papel de horno y adereza con un chorrito de aceite, sal y pimienta. Mezcla.\nHornea a media altura 15-20 min o hasta que los vegetales estén asados y tiernos. Remueve a mitad de cocción.\nUna vez estén listos, reserva los vegetales en una jarra medidora.\n",
+      "instructionsHTML": "<ul>\n<li>Extiende el <strong>pimiento,</strong> el <strong>tomate</strong> y el <strong>ajo</strong> en una bandeja de horno con papel de horno y adereza con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> Mezcla.</li>\n<li>Hornea a media altura 15-20 min o hasta que los <strong>vegetales</strong> estén asados y tiernos. Remueve a mitad de cocción.</li>\n<li>Una vez estén listos, reserva los <strong>vegetales</strong> en una jarra medidora.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Extiende el <strong>pimiento,</strong> el <strong>tomate</strong> y el <strong>ajo</strong> en una bandeja de horno con papel de horno y adereza con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> Mezcla.</li>\n<li>Hornea a media altura 15-20 min o hasta que los <strong>vegetales</strong> estén asados y tiernos. Remueve a mitad de cocción.</li>\n<li>Una vez estén listos, reserva los <strong>vegetales</strong> en una jarra medidora.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493261b9b1c59f93d88b09/step-2ab95510.jpg",
+          "path": "/68493261b9b1c59f93d88b09/step-2ab95510.jpg",
+          "caption": "Hornea las verduras ",
+          "localImage": "/images/recipes/68493261b9b1c59f93d88b09-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nMientras tanto, corta la manzana por la mitad.\nCorta una mitad en láminas muy finas y la otra mitad en daditos.\nColoca las láminas de manzana en una bandeja de horno con papel de horno. Hornea a media altura 10 min o hasta que se doren.\nCorta los tomates cherry por la mitad. \n",
+      "instructionsHTML": "<ul>\n<li>Mientras tanto, corta la <strong>manzana</strong> por la mitad.</li>\n<li>Corta una mitad en láminas muy finas y la otra mitad en daditos.</li>\n<li>Coloca las láminas de <strong>manzana</strong> en una bandeja de horno con papel de horno. Hornea a media altura 10 min o hasta que se doren.</li>\n<li>Corta los <strong>tomates cherry</strong> por la mitad. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Mientras tanto, corta la <strong>manzana</strong> por la mitad.</li>\n<li>Corta una mitad en láminas muy finas y la otra mitad en daditos.</li>\n<li>Coloca las láminas de <strong>manzana</strong> en una bandeja de horno con papel de horno. Hornea a media altura 10 min o hasta que se doren.</li>\n<li>Corta los <strong>tomates cherry</strong> por la mitad. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493261b9b1c59f93d88b09/step-9fcae020.jpg",
+          "path": "/68493261b9b1c59f93d88b09/step-9fcae020.jpg",
+          "caption": "Prepara la manzana",
+          "localImage": "/images/recipes/68493261b9b1c59f93d88b09-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la jarra medidora con el ajo, tomate y pimiento asado, añade el vinagre, las avellanas, un chorrito de aceite, sal y pimienta.\nTritura con un túrmix, hasta conseguir una salsa cremosa.\nPrueba la salsa y añade sal, pimienta o vinagre al gusto. \n",
+      "instructionsHTML": "<ul>\n<li>En la jarra medidora con el <strong>ajo, tomate</strong> y <strong>pimiento</strong> asado, añade el <strong>vinagre</strong>, las <strong>avellanas,</strong> un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Tritura con un túrmix, hasta conseguir una <strong>salsa</strong> cremosa.</li>\n<li>Prueba la <strong>salsa</strong> y añade <strong>sal, pimienta</strong> o <strong>vinagre</strong> al gusto. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la jarra medidora con el <strong>ajo, tomate</strong> y <strong>pimiento</strong> asado, añade el <strong>vinagre</strong>, las <strong>avellanas,</strong> un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Tritura con un túrmix, hasta conseguir una <strong>salsa</strong> cremosa.</li>\n<li>Prueba la <strong>salsa</strong> y añade <strong>sal, pimienta</strong> o <strong>vinagre</strong> al gusto. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493261b9b1c59f93d88b09/step-53e66230.jpg",
+          "path": "/68493261b9b1c59f93d88b09/step-53e66230.jpg",
+          "caption": "Prepara el romesco",
+          "localImage": "/images/recipes/68493261b9b1c59f93d88b09-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn una ensaladera, mezcla un chorrito de aceite, el vinagre para aderezar, el orégano, sal y pimienta.\nAñade el mezclum, la mozzarella, la manzana a dados y los tomates cherry y mezcla.\n",
+      "instructionsHTML": "<ul>\n<li>En una ensaladera, mezcla un chorrito de <strong>aceite,</strong> el <strong>vinagre para aderezar,</strong> el <strong>orégano</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Añade el <strong>mezclum,</strong> la <strong>mozzarella</strong>, la <strong>manzana</strong> a dados y los <strong>tomates cherry</strong> y mezcla.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una ensaladera, mezcla un chorrito de <strong>aceite,</strong> el <strong>vinagre para aderezar,</strong> el <strong>orégano</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Añade el <strong>mezclum,</strong> la <strong>mozzarella</strong>, la <strong>manzana</strong> a dados y los <strong>tomates cherry</strong> y mezcla.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493261b9b1c59f93d88b09/step-eae32f40.jpg",
+          "path": "/68493261b9b1c59f93d88b09/step-eae32f40.jpg",
+          "caption": "Prepara la ensaladera",
+          "localImage": "/images/recipes/68493261b9b1c59f93d88b09-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la ensalada en la base de los platos.\nCubre con la manzana asada y la salsa romesco.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve la <strong>ensalada</strong> en la base de los platos.</li>\n<li>Cubre con la <strong>manzana</strong> asada y la <strong>salsa romesco</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve la <strong>ensalada</strong> en la base de los platos.</li>\n<li>Cubre con la <strong>manzana</strong> asada y la <strong>salsa romesco</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493261b9b1c59f93d88b09/step-3a9f6150.jpg",
+          "path": "/68493261b9b1c59f93d88b09/step-3a9f6150.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/68493261b9b1c59f93d88b09-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "6566f7d63bae852974651021",
+      "type": "prepped-in-10",
+      "name": "Preparación en 10'",
+      "slug": "preparacion-en-10",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "61bcc274f0aa2a6e79272a5a",
+      "type": "extra-vegetables",
+      "name": ">250g de vegetales",
+      "slug": "250g-de-vegetales",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305316",
+      "type": "low-carb",
+      "name": "<50g carbohidratos",
+      "slug": "50g-carbohidratos",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT10M",
+  "uniqueRecipeCode": "ESQFCLVV33002-5",
+  "updatedAt": "2025-11-19T17:59:40+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "9f024b34-7882-41b1-afb1-bde4102cf22c",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ensalada-con-romesco-casero-y-manzana-asada-68493261b9b1c59f93d88b09",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b3",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63bd8b8447216d30617cbe34",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "659bbfbac7596f421e543157",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b3",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63bd8b8447216d30617cbe34",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "659bbfbac7596f421e543157",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b3",
+          "amount": 375,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 375,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63bd8b8447216d30617cbe34",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "659bbfbac7596f421e543157",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68493261b9b1c59f93d88b09-Ensalada con romesco casero y manzana asada.jpg",
+  "localCard": "/pdf/68493261b9b1c59f93d88b09-Ensalada con romesco casero y manzana asada.pdf"
+}

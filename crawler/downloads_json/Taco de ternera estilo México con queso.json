@@ -1,0 +1,677 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "634e833a3ad0aeafac16cb82",
+  "canonicalLink": "https://www.hellofresh.es/recipes/taco-de-ternera-estilo-mexico-con-queso-634e833a3ad0aeafac16cb82",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/taco-ternera-queso-6373c347300835c748be6ae8-06c73fb0.pdf",
+  "category": null,
+  "clonedFrom": "6347ef45bb36093c54997925",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-11-15T16:50:15+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "¿Sabías que en México se comen los tacos en solo dos bocados? Tú puedes comerlo como prefieras, sin dejar de disfrutar del delicioso sabor que la carne de ternera y la salsa de tomate nos proponen. Si acompañas con una ensalada fresca de maíz y tomate y, además, fundes queso sobre los tacos, queda un plato equilibrado y suculento que esperamos que te transporte al país latinoamericano.",
+  "descriptionHTML": "<p>¿Sabías que en México se comen los tacos en solo dos bocados? Tú puedes comerlo como prefieras, sin dejar de disfrutar del delicioso sabor que la carne de ternera y la salsa de tomate nos proponen. Si acompañas con una ensalada fresca de maíz y tomate y, además, fundes queso sobre los tacos, queda un plato equilibrado y suculento que esperamos que te transporte al país latinoamericano.</p>",
+  "descriptionMarkdown": "¿Sabías que en México se comen los tacos en solo dos bocados? Tú puedes comerlo como prefieras, sin dejar de disfrutar del delicioso sabor que la carne de ternera y la salsa de tomate nos proponen. Si acompañas con una ensalada fresca de maíz y tomate y, además, fundes queso sobre los tacos, queda un plato equilibrado y suculento que esperamos que te transporte al país latinoamericano.",
+  "difficulty": 1,
+  "favoritesCount": 36,
+  "headline": "y ensalada fresca de maíz y tomate",
+  "id": "6373c347300835c748be6ae8",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF200403_R09_W19_NL_Q2084-2_MB_Main_Extra_high-a1bb3b9e.jpg",
+  "imagePath": "/image/HF200403_R09_W19_NL_Q2084-2_MB_Main_Extra_high-a1bb3b9e.jpg",
+  "ingredients": [
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "63404373233160a36674ba0f",
+      "uuid": "a9702fdb-e742-5fe0-b221-974c1ea5db87",
+      "name": "Mix de especias mexicanas",
+      "type": "mexican-spice",
+      "slug": "mix-de-especias-mexicanas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0f-Mix de especias mexicanas.png"
+    },
+    {
+      "id": "6340437841033266d7be952c",
+      "uuid": "827bd110-c089-50ac-9b7a-346ec7b98257",
+      "name": "Mezclum",
+      "type": "salad-mix",
+      "slug": "mezclum",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "imagePath": "/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437841033266d7be952c-Mezclum.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f3",
+      "uuid": "7e69f80c-67d4-45b1-a3bd-d76e5d9e539b",
+      "name": "Maíz dulce",
+      "type": "canned-corn",
+      "slug": "maiz-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f3-Maíz dulce.png"
+    },
+    {
+      "id": "63e3d43351d720b4af41cbc6",
+      "uuid": "edb45406-e818-56a4-b9b9-2022a79d3087",
+      "name": "Carne de ternera picada",
+      "type": "beef-mince",
+      "slug": "carne-de-ternera-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63e3d43351d720b4af41cbc6-a778829a.png",
+      "imagePath": "/ingredient/63e3d43351d720b4af41cbc6-a778829a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63e3d43351d720b4af41cbc6-Carne de ternera picada.png"
+    },
+    {
+      "id": "6348219ebb36093c54997964",
+      "uuid": "1f59d4e9-83f7-5dac-abec-916f5f2c6d99",
+      "name": "Tortillas de trigo",
+      "type": "6-pack-tortilla",
+      "slug": "tortillas-de-trigo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6348219ebb36093c54997964-209def95.png",
+      "imagePath": "/ingredient/6348219ebb36093c54997964-209def95.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6348219ebb36093c54997964-Tortillas de trigo.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "63493a08ebf08332f1bff15d",
+      "uuid": "bd338898-c991-4bcf-ac07-74fe7e736c4f",
+      "name": "Queso rallado",
+      "type": "grated-cheese-mix",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "imagePath": "/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63493a08ebf08332f1bff15d-Queso rallado.png"
+    },
+    {
+      "id": "638dd72e9657f9d918dfd2d1",
+      "uuid": "67ea6126-49e3-5b03-b722-5fc0efcb1e68",
+      "name": "Tomate frito",
+      "type": "tomato-sauce",
+      "slug": "tomate-frito",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638dd72e9657f9d918dfd2d1-7f73ebd6.png",
+      "imagePath": "/ingredient/638dd72e9657f9d918dfd2d1-7f73ebd6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638dd72e9657f9d918dfd2d1-Tomate frito.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/6373c347300835c748be6ae8",
+  "name": "Taco de ternera estilo México con queso",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 589,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2464,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 24.03,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 11.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 51.59,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15.85,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.99,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 41.04,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.16,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT20M",
+  "promotion": null,
+  "ratingsCount": 42,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 482,
+  "slug": "taco-de-ternera-estilo-mexico-con-queso",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 220 ºC. Pela y pica el ajo (ver cantidad en ingredientes). Corta el tomate en cubitos pequeños. Retira el agua del maíz con ayuda de un colador.",
+      "instructionsHTML": "<p dir=\"ltr\">Precalienta el horno a 220 ºC. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Corta el <strong>tomate</strong> en cubitos pequeños. Retira el agua del <strong>maíz</strong> con ayuda de un colador.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Precalienta el horno a 220 ºC. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Corta el <strong>tomate</strong> en cubitos pequeños. Retira el agua del <strong>maíz</strong> con ayuda de un colador.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c347300835c748be6ae8/step-8860e800.jpg",
+          "path": "/6373c347300835c748be6ae8/step-8860e800.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/6373c347300835c748be6ae8-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén, añade el ajo y un chorrito de aceite. A fuego medio, cocina por 1-2 min o hasta que se dore. Añade las especias mexicanas y fríe 1 min. Añade la carne picada y sofríe 4-5 min. Agrega la mitad del tomate frito (doble para 4p) y la mitad del maíz y del tomate cortado. Cocina a fuego medio-bajo 6-7 min.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda. ",
+      "instructionsHTML": "<p dir=\"ltr\">En una sartén, añade el <strong>ajo</strong> y un chorrito de <strong>aceite</strong>. A fuego medio, cocina por 1-2 min o hasta que se dore. Añade las <strong>especias mexicanas</strong> y fríe 1 min. Añade la <strong>carne picada</strong> y sofríe 4-5 min. Agrega la mitad del <strong>tomate frito</strong> (doble para 4p) y la mitad del <strong>maíz</strong> y del <strong>tomate</strong> <strong>cortado</strong>. Cocina a fuego medio-bajo 6-7 min.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una sartén, añade el <strong>ajo</strong> y un chorrito de <strong>aceite</strong>. A fuego medio, cocina por 1-2 min o hasta que se dore. Añade las <strong>especias mexicanas</strong> y fríe 1 min. Añade la <strong>carne picada</strong> y sofríe 4-5 min. Agrega la mitad del <strong>tomate frito</strong> (doble para 4p) y la mitad del <strong>maíz</strong> y del <strong>tomate</strong> <strong>cortado</strong>. Cocina a fuego medio-bajo 6-7 min.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda. </p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c347300835c748be6ae8/step-36b74c10.jpg",
+          "path": "/6373c347300835c748be6ae8/step-36b74c10.jpg",
+          "caption": "Cocina la carne junto con el picado",
+          "localImage": "/images/recipes/6373c347300835c748be6ae8-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Extiende las tortillas mexicanas sobre una bandeja de horno con papel de horno y hornea 2-3 min. Reparte la salsa de tomate con la carne picada sobre las tortillas horneadas y espolvorea con el queso rallado. Hornea durante otros 3-4 min para derretir el queso. Mientras, corta la lima en gajos.",
+      "instructionsHTML": "<p dir=\"ltr\">Extiende las <strong>tortillas</strong> <strong>mexicanas</strong> sobre una bandeja de horno con papel de horno y hornea 2-3 min. Reparte la <strong>salsa de</strong> <strong>tomate</strong> con la <strong>carne picada</strong> sobre las <strong>tortillas</strong> <strong>horneadas</strong> y espolvorea con el <strong>queso </strong><strong>rallado</strong>. Hornea durante otros 3-4 min para derretir el <strong>queso</strong>. Mientras, corta la <strong>lima</strong> en gajos.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Extiende las <strong>tortillas</strong> <strong>mexicanas</strong> sobre una bandeja de horno con papel de horno y hornea 2-3 min. Reparte la <strong>salsa de</strong> <strong>tomate</strong> con la <strong>carne picada</strong> sobre las <strong>tortillas</strong> <strong>horneadas</strong> y espolvorea con el <strong>queso </strong><strong>rallado</strong>. Hornea durante otros 3-4 min para derretir el <strong>queso</strong>. Mientras, corta la <strong>lima</strong> en gajos.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c347300835c748be6ae8/step-6e837d20.jpg",
+          "path": "/6373c347300835c748be6ae8/step-6e837d20.jpg",
+          "caption": "Prepara los tacos",
+          "localImage": "/images/recipes/6373c347300835c748be6ae8-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En un bol grande, mezcla un chorrito de aceite de oliva, el zumo de 1 gajo de la lima, sal y pimienta. Luego, agrega la mitad del mezclum (doble para 4p) y el maíz y tomate cortado restante, mezcla todo bien. Sirve los tacos junto con la ensalada y un gajo de lima.",
+      "instructionsHTML": "<p dir=\"ltr\">En un bol grande, mezcla un chorrito de <strong>aceite de oliva</strong>, el zumo de 1 gajo de la <strong>lima</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Luego, agrega la mitad del <strong>mezclum</strong> (doble para 4p) y el <strong>maíz</strong> y <strong>tomate</strong> <strong>cortado</strong> restante, mezcla todo bien. Sirve los <strong>tacos</strong> junto con la <strong>ensalada</strong> y un gajo de <strong>lima</strong>.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En un bol grande, mezcla un chorrito de <strong>aceite de oliva</strong>, el zumo de 1 gajo de la <strong>lima</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Luego, agrega la mitad del <strong>mezclum</strong> (doble para 4p) y el <strong>maíz</strong> y <strong>tomate</strong> <strong>cortado</strong> restante, mezcla todo bien. Sirve los <strong>tacos</strong> junto con la <strong>ensalada</strong> y un gajo de <strong>lima</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c347300835c748be6ae8/step-76a1f630.jpg",
+          "path": "/6373c347300835c748be6ae8/step-76a1f630.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6373c347300835c748be6ae8-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCFQB0032-4",
+  "updatedAt": "2026-02-05T09:09:36+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    }
+  ],
+  "uuid": "261acf60-0746-435c-b7e1-77d46af1798a",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/taco-de-ternera-estilo-mexico-con-queso-6373c347300835c748be6ae8",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63e3d43351d720b4af41cbc6",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "638dd72e9657f9d918dfd2d1",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63e3d43351d720b4af41cbc6",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "638dd72e9657f9d918dfd2d1",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6373c347300835c748be6ae8-Taco de ternera estilo México con queso.jpg",
+  "localCard": "/pdf/6373c347300835c748be6ae8-Taco de ternera estilo México con queso.pdf"
+}

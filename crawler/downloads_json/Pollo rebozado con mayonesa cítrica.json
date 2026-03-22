@@ -1,0 +1,892 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.8,
+  "canonical": "64788ad2904daffe76f26a27",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-rebozado-con-mayonesa-citrica-64788ad2904daffe76f26a27",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/682c9b0197a36a9824b47b43-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347ef924eacd7e8b5e77c0a",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-05-20T15:08:50+00:00",
+  "cuisines": [
+    {
+      "id": "67ebf900b2ffe612cd83e51a",
+      "type": "",
+      "name": "American",
+      "slug": ""
+    }
+  ],
+  "description": "Siempre es buen momento para disfrutar de un crujiente y sabroso pollo rebozado, pero no nos gustaría quedarnos ahí, así que te proponemos que lo cocines en el horno para hacerlo más saludable y lo acompañamos con zanahoria a la miel y un arroz sazonado con perejil y limón.",
+  "descriptionHTML": "<p>Siempre es buen momento para disfrutar de un crujiente y sabroso pollo rebozado, pero no nos gustaría quedarnos ahí, así que te proponemos que lo cocines en el horno para hacerlo más saludable y lo acompañamos con zanahoria a la miel y un arroz sazonado con perejil y limón.</p>",
+  "descriptionMarkdown": "Siempre es buen momento para disfrutar de un crujiente y sabroso pollo rebozado, pero no nos gustaría quedarnos ahí, así que te proponemos que lo cocines en el horno para hacerlo más saludable y lo acompañamos con zanahoria a la miel y un arroz sazonado con perejil y limón.",
+  "difficulty": 2,
+  "favoritesCount": 4,
+  "headline": "con zanahoria a la miel y arroz con perejil y limón",
+  "id": "682c9b0197a36a9824b47b43",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R02_W20_ES_ESCFC0140-2_Main_high-ad72b675.jpg",
+  "imagePath": "/image/HF_Y23_R02_W20_ES_ESCFC0140-2_Main_high-ad72b675.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "6874cb2f5a587f17f4588c97",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "imagePath": "/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6874cb2f5a587f17f4588c97-Panko.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/682c9b0197a36a9824b47b43",
+  "name": "Pollo rebozado con mayonesa cítrica",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3522,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 842,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 34.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 4.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 111.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 17.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 7.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 40.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.63,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT45M",
+  "promotion": null,
+  "ratingsCount": 5,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 494,
+  "slug": "pollo-rebozado-con-mayonesa-citrica",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nPela la zanahoria y córtala por la mitad a lo largo, luego, corta en medias lunas de 0,5-1 cm de grosor.\nEn un bol, mezcla la zanahoria, la miel, un chorrito de aceite, sal y pimienta. Reserva hasta el paso 4.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo, luego, corta en medias lunas de 0,5-1 cm de grosor.</li>\n<li>En un bol, mezcla la <strong>zanahoria</strong>, la <strong>miel</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Reserva hasta el paso 4.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo, luego, corta en medias lunas de 0,5-1 cm de grosor.</li>\n<li>En un bol, mezcla la <strong>zanahoria</strong>, la <strong>miel</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Reserva hasta el paso 4.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379",
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b0197a36a9824b47b43/step-9ae7da00.jpg",
+          "path": "/682c9b0197a36a9824b47b43/step-9ae7da00.jpg",
+          "caption": "Adereza la zanahoria",
+          "localImage": "/images/recipes/682c9b0197a36a9824b47b43-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nDeshoja y pica el perejil.\nRalla la piel del limón y corta el limón en gajos.\nPela y ralla el ajo.\nEn un bol, mezcla la mayonesa, la mitad de la ralladura de limón, unas gotas de zumo de limón y el ajo rallado.\n\nSABÍAS QUE: Al rallar la piel de los cítricos, evita usar la parte blanca, también conocida como albedo, para evitar que tu plato quede amargo.",
+      "instructionsHTML": "<ul>\n<li>Deshoja y pica el <strong>perejil</strong>.</li>\n<li>Ralla la piel del <strong>limón</strong> y corta el <strong>limón</strong> en gajos.</li>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>En un bol, mezcla la <strong>mayonesa,</strong> la mitad de la ralladura de <strong>limón,</strong> unas gotas de zumo de <strong>limón</strong> y el <strong>ajo</strong> rallado.</li>\n</ul>\n<p>SABÍAS QUE: Al rallar la piel de los cítricos, evita usar la parte blanca, también conocida como albedo, para evitar que tu plato quede amargo.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Deshoja y pica el <strong>perejil</strong>.</li>\n<li>Ralla la piel del <strong>limón</strong> y corta el <strong>limón</strong> en gajos.</li>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>En un bol, mezcla la <strong>mayonesa,</strong> la mitad de la ralladura de <strong>limón,</strong> unas gotas de zumo de <strong>limón</strong> y el <strong>ajo</strong> rallado.</li>\n</ul>\n<p>SABÍAS QUE: Al rallar la piel de los cítricos, evita usar la parte blanca, también conocida como albedo, para evitar que tu plato quede amargo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b0197a36a9824b47b43/step-d5e62010.jpg",
+          "path": "/682c9b0197a36a9824b47b43/step-d5e62010.jpg",
+          "caption": "Prepara la mayonesa cítrica",
+          "localImage": "/images/recipes/682c9b0197a36a9824b47b43-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\n\nSeca el pollo, salpimienta y colócalo en un plato hondo.\nAgrega la mitad de la mayonesa de limón y mezcla para que el pollo quede bien cubierto.\nEn otro plato, agrega el panko y reboza el pollo. Presiona ligeramente para que el panko quede bien adherido.\n\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p><div>\n<ul>\n<li>Seca el <strong>pollo</strong>, <strong>salpimienta</strong> y colócalo en un plato hondo.</li>\n<li>Agrega la mitad de la <strong>mayonesa de limón</strong> y mezcla para que el <strong>pollo</strong> quede bien cubierto.</li>\n<li>En otro plato, agrega el <strong>panko</strong> y reboza el <strong>pollo</strong>. Presiona ligeramente para que el <strong>panko</strong> quede bien adherido.</li>\n</ul>\n</div>\n<div>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</div></p>",
+      "instructionsMarkdown": "<div>\n<ul>\n<li>Seca el <strong>pollo</strong>, <strong>salpimienta</strong> y colócalo en un plato hondo.</li>\n<li>Agrega la mitad de la <strong>mayonesa de limón</strong> y mezcla para que el <strong>pollo</strong> quede bien cubierto.</li>\n<li>En otro plato, agrega el <strong>panko</strong> y reboza el <strong>pollo</strong>. Presiona ligeramente para que el <strong>panko</strong> quede bien adherido.</li>\n</ul>\n</div>\n<div>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</div>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9419279f8fe60e867a",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b0197a36a9824b47b43/step-1ce41c20.jpg",
+          "path": "/682c9b0197a36a9824b47b43/step-1ce41c20.jpg",
+          "caption": "Reboza el pollo",
+          "localImage": "/images/recipes/682c9b0197a36a9824b47b43-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nColoca el pollo rebozado en un lado de una bandeja de horno con papel de horno y, al otro lado, agrega las zanahorias con miel.\nHornea a media altura 17-20 min, hasta que el pollo deje de estar rosado en el interior y las zanahorias estén tiernas. Da la vuelta a mitad de cocción.\n",
+      "instructionsHTML": "<ul>\n<li><span>Coloca el <strong>pollo </strong>rebozado en un lado de una bandeja de horno con papel de horno y, al otro lado, agrega las <strong>zanahorias</strong> con <strong>miel</strong>.</span></li>\n<li><span>Hornea a media altura 17-20 min, hasta que el <strong>pollo</strong> deje de estar rosado en el interior y las <strong>zanahorias</strong> estén tiernas. Da la vuelta a mitad de cocción.</span></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li><span>Coloca el <strong>pollo </strong>rebozado en un lado de una bandeja de horno con papel de horno y, al otro lado, agrega las <strong>zanahorias</strong> con <strong>miel</strong>.</span></li>\n<li><span>Hornea a media altura 17-20 min, hasta que el <strong>pollo</strong> deje de estar rosado en el interior y las <strong>zanahorias</strong> estén tiernas. Da la vuelta a mitad de cocción.</span></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b0197a36a9824b47b43/step-cb39de30.jpg",
+          "path": "/682c9b0197a36a9824b47b43/step-cb39de30.jpg",
+          "caption": "Hornea el pollo y la zanahoria",
+          "localImage": "/images/recipes/682c9b0197a36a9824b47b43-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nPela y pica la cebolla.\nEn un cazo, calienta un chorrito de aceite a fuego medio y cocina la cebolla 2-3 min.\nAñade el agua, el caldo de pollo, el arroz y sal y lleva a ebullición con el cazo tapado.\nCuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.\nLuego, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y pica la <strong>cebolla</strong>.</li>\n<li>En un cazo, calienta un chorrito de <strong>aceite</strong> a fuego medio y cocina la <strong>cebolla</strong> 2-3 min.</li>\n<li>Añade el <strong>agua</strong>, el <strong>caldo de pollo</strong>, el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y pica la <strong>cebolla</strong>.</li>\n<li>En un cazo, calienta un chorrito de <strong>aceite</strong> a fuego medio y cocina la <strong>cebolla</strong> 2-3 min.</li>\n<li>Añade el <strong>agua</strong>, el <strong>caldo de pollo</strong>, el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b0197a36a9824b47b43/step-3e829040.jpg",
+          "path": "/682c9b0197a36a9824b47b43/step-3e829040.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/682c9b0197a36a9824b47b43-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nCuando el arroz esté listo, agrega al cazo la mitad del perejil picado y la ralladura de limón restante. Salpimienta y remueve.\nSirve el pollo y las zanahorias en platos y acompaña con el arroz.\nEspolvorea el perejil picado restante sobre la zanahoria.\nSirve la mayonesa de limón restante a un lado y añade a tu plato al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando el <strong>arroz</strong> esté listo, agrega al cazo la mitad del <strong>perejil</strong> picado y la ralladura de <strong>limón</strong> restante. <strong>Salpimienta</strong> y remueve.</li>\n<li>Sirve el <strong>pollo</strong> y las <strong>zanahorias</strong> en platos y acompaña con el <strong>arroz</strong>.</li>\n<li>Espolvorea el <strong>perejil</strong> picado restante sobre la <strong>zanahoria</strong>.</li>\n<li>Sirve la <strong>mayonesa de limón</strong> restante a un lado y añade a tu plato al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando el <strong>arroz</strong> esté listo, agrega al cazo la mitad del <strong>perejil</strong> picado y la ralladura de <strong>limón</strong> restante. <strong>Salpimienta</strong> y remueve.</li>\n<li>Sirve el <strong>pollo</strong> y las <strong>zanahorias</strong> en platos y acompaña con el <strong>arroz</strong>.</li>\n<li>Espolvorea el <strong>perejil</strong> picado restante sobre la <strong>zanahoria</strong>.</li>\n<li>Sirve la <strong>mayonesa de limón</strong> restante a un lado y añade a tu plato al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b0197a36a9824b47b43/step-53b5e250.jpg",
+          "path": "/682c9b0197a36a9824b47b43/step-53b5e250.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/682c9b0197a36a9824b47b43-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESCFC0140-9",
+  "updatedAt": "2026-01-23T15:19:29+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "59d49a9419279f8fe60e867a",
+      "type": "shallow-dish",
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    }
+  ],
+  "uuid": "030cb338-b307-426b-8c3f-f4c75c788107",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-rebozado-con-mayonesa-citrica-682c9b0197a36a9824b47b43",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 10,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 15,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/682c9b0197a36a9824b47b43-Pollo rebozado con mayonesa cítrica.jpg",
+  "localCard": "/pdf/682c9b0197a36a9824b47b43-Pollo rebozado con mayonesa cítrica.pdf"
+}

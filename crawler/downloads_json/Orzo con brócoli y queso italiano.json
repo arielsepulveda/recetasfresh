@@ -1,0 +1,757 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/orzo-brocoli-tomillo-semillas-638a20954af6d174904411f5-faa1a236.pdf",
+  "category": null,
+  "clonedFrom": "6347ef92e9568549b78497ae",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-02T15:58:13+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "¿Sabías que el orzo es un tipo de pasta que tiene forma de grano de arroz? Al estilo italiano, lo utilizamos en esta receta combinado con brócoli, especias y queso curado rallado para que disfrutes de un plato fresco y nutritivo que te permitirá llevar una dieta equilibrada.",
+  "descriptionHTML": "<p>¿Sabías que el orzo es un tipo de pasta que tiene forma de grano de arroz? Al estilo italiano, lo utilizamos en esta receta combinado con brócoli, especias y queso curado rallado para que disfrutes de un plato fresco y nutritivo que te permitirá llevar una dieta equilibrada.</p>",
+  "descriptionMarkdown": "¿Sabías que el orzo es un tipo de pasta que tiene forma de grano de arroz? Al estilo italiano, lo utilizamos en esta receta combinado con brócoli, especias y queso curado rallado para que disfrutes de un plato fresco y nutritivo que te permitirá llevar una dieta equilibrada.",
+  "difficulty": 2,
+  "favoritesCount": 47,
+  "headline": "con tomillo limonero y semillas de calabaza",
+  "id": "638a20954af6d174904411f5",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF200702_R05_W32_NL_R0368-2_MB_Main_pumpkinseds_high-aeb1bcf2.jpg",
+  "imagePath": "/image/HF200702_R05_W32_NL_R0368-2_MB_Main_pumpkinseds_high-aeb1bcf2.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be950b",
+      "uuid": "9c185787-b4f8-5457-863b-da9d361fcd22",
+      "name": "Brócoli",
+      "type": "broccoli",
+      "slug": "brocoli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "imagePath": "/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be950b-Brócoli.png"
+    },
+    {
+      "id": "636923bb4cc379a27f60cc05",
+      "uuid": "12a33629-d36c-55db-9ccc-8f5a5cadb4de",
+      "name": "Semillas de calabaza",
+      "type": "pumpkin-seeds",
+      "slug": "semillas-de-calabaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636923bb4cc379a27f60cc05-e7db4109.png",
+      "imagePath": "/ingredient/636923bb4cc379a27f60cc05-e7db4109.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636923bb4cc379a27f60cc05-Semillas de calabaza.png"
+    },
+    {
+      "id": "634d1e6cebf08332f1bff1a0",
+      "uuid": "a60633dc-e736-5ba7-af65-c2ad6efa5fc0",
+      "name": "Orzo",
+      "type": "orzo",
+      "slug": "orzo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1e6cebf08332f1bff1a0-4e790a00.png",
+      "imagePath": "/ingredient/634d1e6cebf08332f1bff1a0-4e790a00.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1e6cebf08332f1bff1a0-Orzo.png"
+    },
+    {
+      "id": "63404373233160a36674ba0c",
+      "uuid": "752436b0-de64-5396-8278-d825ba256340",
+      "name": "Tomillo limonero",
+      "type": "lemon-thyme",
+      "slug": "tomillo-limonero",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0c-2a037c6a.jpg",
+      "imagePath": "/ingredient/63404373233160a36674ba0c-2a037c6a.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0c-Tomillo limonero.jpg"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/638a20954af6d174904411f5",
+  "name": "Orzo con brócoli y queso italiano",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 561,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2345,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 12.31,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.54,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 79.56,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 31.07,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.39,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 79,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 425,
+  "slug": "orzo-con-brocoli-y-queso-italiano",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Pon a hervir una olla grande con suficiente agua para cubrir el brócoli y una pizca de sal. Pela y corta la cebolla por la mitad, luego, corta una mitad (doble para 4p) en cubitos pequeños. Pela y pica el ajo (ver cantidad en ingredientes). Corta el brócoli por la mitad y, luego, córtalo en floretes. Pica el tomillo limonero.",
+      "instructionsHTML": "<p>Pon a hervir una olla grande con suficiente <strong>agua</strong> para cubrir el <strong>brócoli</strong> y una pizca de <strong>sal</strong>. Pela y corta la <strong>cebolla</strong> por la mitad, luego, corta una mitad (doble para 4p) en cubitos pequeños. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Corta el <strong>brócoli</strong> por la mitad y, luego, córtalo en floretes. Pica el <strong>tomillo limonero</strong>.</p>",
+      "instructionsMarkdown": "<p>Pon a hervir una olla grande con suficiente <strong>agua</strong> para cubrir el <strong>brócoli</strong> y una pizca de <strong>sal</strong>. Pela y corta la <strong>cebolla</strong> por la mitad, luego, corta una mitad (doble para 4p) en cubitos pequeños. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Corta el <strong>brócoli</strong> por la mitad y, luego, córtalo en floretes. Pica el <strong>tomillo limonero</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20954af6d174904411f5/step-911b9500.jpg",
+          "path": "/638a20954af6d174904411f5/step-911b9500.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/638a20954af6d174904411f5-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En un cazo, pon a calentar el agua (ver cantidad en ingredientes) junto con el caldo vegetal en polvo a fuego fuerte. Remueve ocasionalmente. Cuando hierva, apaga el fuego y retira el cazo del fuego. Mientras tanto, calienta una sartén a fuego alto y tuesta, sin aceite, las semillas de calabaza hasta que comiencen a dorarse. Reserva fuera de la sartén.",
+      "instructionsHTML": "<p>En un cazo, pon a calentar el <strong>agua </strong>(ver cantidad en ingredientes) junto con el <strong>caldo vegetal</strong> en polvo a fuego fuerte. Remueve ocasionalmente. Cuando hierva, apaga el fuego y retira el cazo del fuego. Mientras tanto, calienta una sartén a fuego alto y tuesta, sin <strong>aceite</strong>, las <strong>semillas de calabaza</strong> hasta que comiencen a dorarse. Reserva fuera de la sartén.</p>",
+      "instructionsMarkdown": "<p>En un cazo, pon a calentar el <strong>agua </strong>(ver cantidad en ingredientes) junto con el <strong>caldo vegetal</strong> en polvo a fuego fuerte. Remueve ocasionalmente. Cuando hierva, apaga el fuego y retira el cazo del fuego. Mientras tanto, calienta una sartén a fuego alto y tuesta, sin <strong>aceite</strong>, las <strong>semillas de calabaza</strong> hasta que comiencen a dorarse. Reserva fuera de la sartén.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b30538c",
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20954af6d174904411f5/step-13ef0810.jpg",
+          "path": "/638a20954af6d174904411f5/step-13ef0810.jpg",
+          "caption": "Tuesta las semillas",
+          "localImage": "/images/recipes/638a20954af6d174904411f5-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la misma sartén, calienta un chorrito de aceite junto a la cebolla y el ajo. Saltea durante 2 min a fuego lento. Agrega el tomillo limonero y el orzo y cocina por 1 min a fuego medio-bajo. Vierte el caldo vegetal y cocina, tapado, durante 10-12 min. Remueve regularmente.",
+      "instructionsHTML": "<p>En la misma sartén, calienta un chorrito de <strong>aceite</strong> junto a la <strong>cebolla</strong> y el <strong>ajo</strong>. Saltea durante 2 min a fuego lento. Agrega el <strong>tomillo limonero</strong> y el <strong>orzo</strong> y cocina por 1 min a fuego medio-bajo. Vierte el <strong>caldo vegetal</strong> y cocina, tapado, durante 10-12 min. Remueve regularmente.</p>",
+      "instructionsMarkdown": "<p>En la misma sartén, calienta un chorrito de <strong>aceite</strong> junto a la <strong>cebolla</strong> y el <strong>ajo</strong>. Saltea durante 2 min a fuego lento. Agrega el <strong>tomillo limonero</strong> y el <strong>orzo</strong> y cocina por 1 min a fuego medio-bajo. Vierte el <strong>caldo vegetal</strong> y cocina, tapado, durante 10-12 min. Remueve regularmente.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20954af6d174904411f5/step-1adc1a20.jpg",
+          "path": "/638a20954af6d174904411f5/step-1adc1a20.jpg",
+          "caption": "Combina los vegetales con el orzo",
+          "localImage": "/images/recipes/638a20954af6d174904411f5-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando el agua de la olla hierva, agrega el brócoli y cocina durante 6-8 min con la olla tapada. Después, con la ayuda de un colador, escurre el brócoli.",
+      "instructionsHTML": "<p>Cuando el <strong>agua</strong> de la olla hierva, agrega el <strong>brócoli</strong> y cocina durante 6-8 min con la olla tapada. Después, con la ayuda de un colador, escurre el <strong>brócoli</strong>.</p>",
+      "instructionsMarkdown": "<p>Cuando el <strong>agua</strong> de la olla hierva, agrega el <strong>brócoli</strong> y cocina durante 6-8 min con la olla tapada. Después, con la ayuda de un colador, escurre el <strong>brócoli</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20954af6d174904411f5/step-88b06b30.jpg",
+          "path": "/638a20954af6d174904411f5/step-88b06b30.jpg",
+          "caption": "Cuece el brócoli",
+          "localImage": "/images/recipes/638a20954af6d174904411f5-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Agrega el brócoli y la mitad del queso rallado al orzo y remueve hasta que el queso se derrita. Agrega sal y pimienta al gusto.",
+      "instructionsHTML": "<p>Agrega el <strong>brócoli</strong> y la mitad del <strong>queso rallado</strong> al <strong>orzo</strong> y remueve hasta que el <strong>queso</strong> se derrita. Agrega <strong>sal</strong> y <strong>pimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Agrega el <strong>brócoli</strong> y la mitad del <strong>queso rallado</strong> al <strong>orzo</strong> y remueve hasta que el <strong>queso</strong> se derrita. Agrega <strong>sal</strong> y <strong>pimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20954af6d174904411f5/step-03538f40.jpg",
+          "path": "/638a20954af6d174904411f5/step-03538f40.jpg",
+          "caption": "Agrega el brócoli al orzo",
+          "localImage": "/images/recipes/638a20954af6d174904411f5-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el orzo en platos y espolvorea con las semillas tostadas y el resto del queso rallado.",
+      "instructionsHTML": "<p>Sirve el <strong>orzo</strong> en platos y espolvorea con las <strong>semillas tostadas</strong> y el resto del <strong>queso rallado</strong>.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>orzo</strong> en platos y espolvorea con las <strong>semillas tostadas</strong> y el resto del <strong>queso rallado</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20954af6d174904411f5/step-0a65a050.jpg",
+          "path": "/638a20954af6d174904411f5/step-0a65a050.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/638a20954af6d174904411f5-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCLCVV0113-2",
+  "updatedAt": "2026-02-17T02:24:21+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    }
+  ],
+  "uuid": "395c43a1-2a6c-4ee2-b86b-a2f9843df99e",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/orzo-con-brocoli-y-queso-italiano-638a20954af6d174904411f5",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1e6cebf08332f1bff1a0",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 350,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 1000,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1e6cebf08332f1bff1a0",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 700,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/638a20954af6d174904411f5-Orzo con brócoli y queso italiano.jpg",
+  "localCard": "/pdf/638a20954af6d174904411f5-Orzo con brócoli y queso italiano.pdf"
+}

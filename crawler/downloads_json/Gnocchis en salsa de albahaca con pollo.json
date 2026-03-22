@@ -1,0 +1,692 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/65d8b0d5700746d2fe520777.pdf",
+  "category": null,
+  "clonedFrom": "63db73f5db1fd0bc84bb97ab",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-04-08T14:35:38+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Esta sabrosa receta es perfecta para los amantes de los productos caseros, pues los gnocchis se cubren y aderezan con una salsa de albahaca y queso creada a partir de los ingredientes más frescos. Para coronar la receta, agregamos unos dados de pollo aderezado con tomillo y miel, que aportan un contraste dulce y un sabor intenso al plato.",
+  "descriptionHTML": "<p>Esta sabrosa receta es perfecta para los amantes de los productos caseros, pues los gnocchis se cubren y aderezan con una salsa de albahaca y queso creada a partir de los ingredientes más frescos. Para coronar la receta, agregamos unos dados de pollo aderezado con tomillo y miel, que aportan un contraste dulce y un sabor intenso al plato.</p>",
+  "descriptionMarkdown": "Esta sabrosa receta es perfecta para los amantes de los productos caseros, pues los gnocchis se cubren y aderezan con una salsa de albahaca y queso creada a partir de los ingredientes más frescos. Para coronar la receta, agregamos unos dados de pollo aderezado con tomillo y miel, que aportan un contraste dulce y un sabor intenso al plato.",
+  "difficulty": 1,
+  "favoritesCount": 39,
+  "headline": "con aderezo de miel y tomillo",
+  "id": "65d8b0d5700746d2fe520777",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R08_W19_ES_ESCFC14621-2_edit_color_Main_high-6723f5f8.jpg",
+  "imagePath": "/image/HF_Y24_R08_W19_ES_ESCFC14621-2_edit_color_Main_high-6723f5f8.jpg",
+  "ingredients": [
+    {
+      "id": "6340437b2268bc1bff0d3cd1",
+      "uuid": "9838d4d1-5c2e-4e68-a073-54d514ccfdb0",
+      "name": "Pechuga de pollo troceada",
+      "type": "chicken-breast-diced",
+      "slug": "pechuga-de-pollo-troceada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd1-Pechuga de pollo troceada.jpg"
+    },
+    {
+      "id": "63eb9aca49bd0d0a6b225fa9",
+      "uuid": "1caec975-6da0-5803-bca6-6e86b575541d",
+      "name": "Gnocchi",
+      "type": "gnocchi",
+      "slug": "gnocchi",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63eb9aca49bd0d0a6b225fa9-088e2832.png",
+      "imagePath": "/ingredient/63eb9aca49bd0d0a6b225fa9-088e2832.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63eb9aca49bd0d0a6b225fa9-Gnocchi.png"
+    },
+    {
+      "id": "6340436b233160a36674b9e9",
+      "uuid": "fae5ea17-1d10-5a79-acab-118ec738e69e",
+      "name": "Albahaca",
+      "type": "basil",
+      "slug": "albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "imagePath": "/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9e9-Albahaca.jpg"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    },
+    {
+      "id": "638d95012d9af192559539ba",
+      "uuid": "81735a05-eaac-4944-b263-c8299b14566d",
+      "name": "Agua de la cocción",
+      "type": "cooking-water",
+      "slug": "agua-de-la-coccion",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "imagePath": "/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638d95012d9af192559539ba-Agua de la cocción.jpg"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/65d8b0d5700746d2fe520777",
+  "name": "Gnocchis en salsa de albahaca con pollo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2232,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 534,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 9.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 48.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 32.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.16,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT20M",
+  "promotion": null,
+  "ratingsCount": 43,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 308,
+  "slug": "gnocchis-salsa-albahaca-pollo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En un cazo, agrega abundante agua junto con una pizca de sal y lleva a ebullición. Cuando el agua hierva, agrega los gnocchis y cocina 2 min. Una vez listos, reserva el agua de cocción (ver cantidad en ingredientes). Luego, escurre con un colador y reserva los gnocchis en el cazo.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En un cazo, agrega abundante <strong>agua</strong> junto con una pizca de <strong>sal</strong> y lleva a ebullición. Cuando el <strong>agua</strong> hierva, agrega los <strong>gnocchis</strong> y cocina 2 min. Una vez listos, reserva el <strong>agua de cocción</strong> (ver cantidad en ingredientes). Luego, escurre con un colador y reserva los <strong>gnocchis</strong> en el cazo.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En un cazo, agrega abundante <strong>agua</strong> junto con una pizca de <strong>sal</strong> y lleva a ebullición. Cuando el <strong>agua</strong> hierva, agrega los <strong>gnocchis</strong> y cocina 2 min. Una vez listos, reserva el <strong>agua de cocción</strong> (ver cantidad en ingredientes). Luego, escurre con un colador y reserva los <strong>gnocchis</strong> en el cazo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b30538c",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d5700746d2fe520777/step-97f76300.jpg",
+          "path": "/65d8b0d5700746d2fe520777/step-97f76300.jpg",
+          "caption": "Cuece los gnocchis",
+          "localImage": "/images/recipes/65d8b0d5700746d2fe520777-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén, agrega el agua de cocción reservada y el queso crema y lleva a ebullición, mientras remueves. Cuando hierva, cocina a fuego alto 1-2 min, hasta que la salsa empiece a espesar. Mientras tanto, deshoja la albahaca y pícala en trozos grandes. Cuando la salsa esté lista, resérvala en la jarra medidora y agrega casi toda la albahaca troceada, reservando un poco para el emplatado.",
+      "instructionsHTML": "<p>En una sartén, agrega el <strong>agua de cocción</strong> reservada y el <strong>queso crema</strong> y lleva a ebullición, mientras remueves. Cuando hierva, cocina a fuego alto 1-2 min, hasta que la <strong>salsa</strong> empiece a espesar. Mientras tanto, deshoja la <strong>albahaca</strong> y pícala en trozos grandes. Cuando la <strong>salsa</strong> esté lista, resérvala en la jarra medidora y agrega casi toda la <strong>albahaca</strong> troceada, reservando un poco para el emplatado.</p>",
+      "instructionsMarkdown": "<p>En una sartén, agrega el <strong>agua de cocción</strong> reservada y el <strong>queso crema</strong> y lleva a ebullición, mientras remueves. Cuando hierva, cocina a fuego alto 1-2 min, hasta que la <strong>salsa</strong> empiece a espesar. Mientras tanto, deshoja la <strong>albahaca</strong> y pícala en trozos grandes. Cuando la <strong>salsa</strong> esté lista, resérvala en la jarra medidora y agrega casi toda la <strong>albahaca</strong> troceada, reservando un poco para el emplatado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d5700746d2fe520777/step-01915810.jpg",
+          "path": "/65d8b0d5700746d2fe520777/step-01915810.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/65d8b0d5700746d2fe520777-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Limpia la sartén, luego, calienta un chorrito de aceite a fuego medio. Una vez caliente, agrega el pollo, salpimienta y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>Limpia la sartén, luego, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega el <strong>pollo</strong>, <strong>salpimienta</strong> y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>Limpia la sartén, luego, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega el <strong>pollo</strong>, <strong>salpimienta</strong> y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d5700746d2fe520777/step-d7081120.jpg",
+          "path": "/65d8b0d5700746d2fe520777/step-d7081120.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/65d8b0d5700746d2fe520777-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la sartén con el pollo, agrega el agua para la salsa (ver cantidad en ingredientes), la miel y el tomillo. Luego, saltea a fuego medio-alto 1-2 min, removiendo para cubrir el pollo con la salsa, hasta que la salsa espese y el pollo quede caramelizado.",
+      "instructionsHTML": "<p>En la sartén con el <strong>pollo</strong>, agrega el <strong>agua para la salsa</strong> (ver cantidad en ingredientes), la <strong>miel</strong> y el <strong>tomillo</strong>. Luego, saltea a fuego medio-alto 1-2 min, removiendo para cubrir el <strong>pollo</strong> con la <strong>salsa</strong>, hasta que la <strong>salsa</strong> espese y el <strong>pollo</strong> quede caramelizado.</p>",
+      "instructionsMarkdown": "<p>En la sartén con el <strong>pollo</strong>, agrega el <strong>agua para la salsa</strong> (ver cantidad en ingredientes), la <strong>miel</strong> y el <strong>tomillo</strong>. Luego, saltea a fuego medio-alto 1-2 min, removiendo para cubrir el <strong>pollo</strong> con la <strong>salsa</strong>, hasta que la <strong>salsa</strong> espese y el <strong>pollo</strong> quede caramelizado.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d5700746d2fe520777/step-68c06930.jpg",
+          "path": "/65d8b0d5700746d2fe520777/step-68c06930.jpg",
+          "caption": "Adereza el pollo",
+          "localImage": "/images/recipes/65d8b0d5700746d2fe520777-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Mientras se cocina el pollo, tritura la salsa de queso y albahaca de la jarra medidora con un túrmix, hasta obtener una salsa de albahaca homogénea. Luego, agrega la salsa al cazo con los gnocchis y remueve bien, hasta que queden cubiertos. Prueba y rectifica de sal y pimienta.",
+      "instructionsHTML": "<p>Mientras se cocina el <strong>pollo</strong>, tritura la <strong>salsa de queso</strong> y <strong>albahaca</strong> de la jarra medidora con un túrmix, hasta obtener una <strong>salsa</strong> <strong>de albahaca</strong> homogénea. Luego, agrega la <strong>salsa</strong> al cazo con los <strong>gnocchis</strong> y remueve bien, hasta que queden cubiertos. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "instructionsMarkdown": "<p>Mientras se cocina el <strong>pollo</strong>, tritura la <strong>salsa de queso</strong> y <strong>albahaca</strong> de la jarra medidora con un túrmix, hasta obtener una <strong>salsa</strong> <strong>de albahaca</strong> homogénea. Luego, agrega la <strong>salsa</strong> al cazo con los <strong>gnocchis</strong> y remueve bien, hasta que queden cubiertos. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d5700746d2fe520777/step-61723040.jpg",
+          "path": "/65d8b0d5700746d2fe520777/step-61723040.jpg",
+          "caption": "Combina los ingredientes",
+          "localImage": "/images/recipes/65d8b0d5700746d2fe520777-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve los gnocchis en salsa de albahaca en platos y agrega encima el pollo con miel y tomillo. Acaba el plato añadiendo las hojas de albahaca restantes.",
+      "instructionsHTML": "<p>Sirve los <strong>gnocchis</strong> en <strong>salsa de albahaca</strong> en platos y agrega encima el <strong>pollo</strong> con <strong>miel</strong> y <strong>tomillo</strong>. Acaba el plato añadiendo las hojas de <strong>albahaca</strong> restantes.</p>",
+      "instructionsMarkdown": "<p>Sirve los <strong>gnocchis</strong> en <strong>salsa de albahaca</strong> en platos y agrega encima el <strong>pollo</strong> con <strong>miel</strong> y <strong>tomillo</strong>. Acaba el plato añadiendo las hojas de <strong>albahaca</strong> restantes.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d5700746d2fe520777/step-78cdab50.jpg",
+          "path": "/65d8b0d5700746d2fe520777/step-78cdab50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/65d8b0d5700746d2fe520777-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCFC14621-2",
+  "updatedAt": "2025-06-12T13:33:54+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "18e83d5d-bdcf-4a6a-8e9e-1f8a63157de5",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/gnocchis-salsa-albahaca-pollo-65d8b0d5700746d2fe520777",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63eb9aca49bd0d0a6b225fa9",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 120,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63eb9aca49bd0d0a6b225fa9",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 6,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 240,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/65d8b0d5700746d2fe520777-Gnocchis en salsa de albahaca con pollo.jpg",
+  "localCard": "/pdf/65d8b0d5700746d2fe520777-Gnocchis en salsa de albahaca con pollo.pdf"
+}

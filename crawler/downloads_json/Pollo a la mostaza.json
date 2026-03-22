@@ -1,0 +1,748 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 2.9,
+  "canonical": "643669737d6ab6d3a5175c46",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-a-la-mostaza-con-miel-643669737d6ab6d3a5175c46",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/pollo-mostaza-miel-pure-6373c3456875fac468eeba76-40eebd90.pdf",
+  "category": null,
+  "clonedFrom": "6347efe5e9568549b78497bb",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-11-15T16:50:13+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Si quieres cocinar pollo, pero quieres probar otros sabores, atrévete con esta receta en la que le añadimos una salsa de miel y mostaza combinada con soja que lo volverá mucho más atractivo sin dejar de ser una receta sana. Acompáñalo de unos guisantes salteados y un puré decorado con cebollino y disfruta de un plato lleno de sabor y color.",
+  "descriptionHTML": "<p>Si quieres cocinar pollo, pero quieres probar otros sabores, atrévete con esta receta en la que le añadimos una salsa de miel y mostaza combinada con soja que lo volverá mucho más atractivo sin dejar de ser una receta sana. Acompáñalo de unos guisantes salteados y un puré decorado con cebollino y disfruta de un plato lleno de sabor y color.</p>",
+  "descriptionMarkdown": "Si quieres cocinar pollo, pero quieres probar otros sabores, atrévete con esta receta en la que le añadimos una salsa de miel y mostaza combinada con soja que lo volverá mucho más atractivo sin dejar de ser una receta sana. Acompáñalo de unos guisantes salteados y un puré decorado con cebollino y disfruta de un plato lleno de sabor y color.",
+  "difficulty": 1,
+  "favoritesCount": 32,
+  "headline": "con miel y puré de patatas",
+  "id": "6373c3456875fac468eeba76",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221010_R10_W49_ES_ESCFCL0150-1_KB_Main_high-2332f2ac.jpg",
+  "imagePath": "/image/HF221010_R10_W49_ES_ESCFCL0150-1_KB_Main_high-2332f2ac.jpg",
+  "ingredients": [
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "634d5daaebf08332f1bff1a8",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "imagePath": "/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d5daaebf08332f1bff1a8-Salsa de soja.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404377233160a36674ba20",
+      "uuid": "040eb90c-dd30-595f-9558-4c6ff3d179ea",
+      "name": "Romero",
+      "type": "rosemary",
+      "slug": "romero",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba20-88a98239.png",
+      "imagePath": "/ingredient/63404377233160a36674ba20-88a98239.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba20-Romero.png"
+    },
+    {
+      "id": "634043752268bc1bff0d3cc4",
+      "uuid": "cf091724-33ca-57a1-be89-5146fb69dee3",
+      "name": "Guisantes",
+      "type": "peas",
+      "slug": "guisantes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043752268bc1bff0d3cc4-03e9d02d.png",
+      "imagePath": "/ingredient/634043752268bc1bff0d3cc4-03e9d02d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043752268bc1bff0d3cc4-Guisantes.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6373c3456875fac468eeba76",
+  "name": "Pollo a la mostaza",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 571,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2390,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 2.11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 0.59,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 83.68,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.23,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.85,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 37.55,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.06,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 26,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 623,
+  "slug": "pollo-a-la-mostaza",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Salpimienta las pechugas de pollo al gusto. Calienta un chorrito de aceite en una sartén. Agrega las pechugas y cocínalas 2-3 min por cada lado. Mientras, pela y pica el ajo (ver cantidad en ingredientes) y resérvalo. En un bol, mezcla la miel, la salsa de soja y la mostaza. Reserva la salsa. Cuando el pollo esté hecho, retira de la sartén y reserva.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\"><strong>Salpimienta</strong> las <strong>pechugas de pollo</strong> al gusto. Calienta un chorrito de <strong>aceite</strong> en una sartén. Agrega las <strong>pechugas</strong> y cocínalas 2-3 min por cada lado. Mientras, pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes) y resérvalo. En un bol, mezcla la <strong>miel</strong>, la <strong>salsa de soja</strong> y la <strong>mostaza</strong>. Reserva la <strong>salsa</strong>. Cuando el <strong>pollo</strong> esté hecho, retira de la sartén y reserva.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\"><strong>Salpimienta</strong> las <strong>pechugas de pollo</strong> al gusto. Calienta un chorrito de <strong>aceite</strong> en una sartén. Agrega las <strong>pechugas</strong> y cocínalas 2-3 min por cada lado. Mientras, pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes) y resérvalo. En un bol, mezcla la <strong>miel</strong>, la <strong>salsa de soja</strong> y la <strong>mostaza</strong>. Reserva la <strong>salsa</strong>. Cuando el <strong>pollo</strong> esté hecho, retira de la sartén y reserva.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3456875fac468eeba76/step-36117b00.jpg",
+          "path": "/6373c3456875fac468eeba76/step-36117b00.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/6373c3456875fac468eeba76-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela las patatas y córtalas en cubos de 3 cm. En una olla, pon las patatas y cúbrelas con agua. Pon a hervir las patatas con una pizca de sal a fuego fuerte y baja a fuego medio cuando empiece a hervir. Cocina las patatas durante 15-18 min o hasta que estén blandas.",
+      "instructionsHTML": "<p dir=\"ltr\">Pela las <strong>patatas</strong> y córtalas en cubos de 3 cm. En una olla, pon las <strong>patatas</strong> y cúbrelas con <strong>agua</strong>. Pon a hervir las <strong>patatas</strong> con una pizca de <strong>sal</strong> a fuego fuerte y baja a fuego medio cuando empiece a hervir. Cocina las <strong>patatas</strong> durante 15-18 min o hasta que estén blandas.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pela las <strong>patatas</strong> y córtalas en cubos de 3 cm. En una olla, pon las <strong>patatas</strong> y cúbrelas con <strong>agua</strong>. Pon a hervir las <strong>patatas</strong> con una pizca de <strong>sal</strong> a fuego fuerte y baja a fuego medio cuando empiece a hervir. Cocina las <strong>patatas</strong> durante 15-18 min o hasta que estén blandas.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e8671"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3456875fac468eeba76/step-e4b65810.jpg",
+          "path": "/6373c3456875fac468eeba76/step-e4b65810.jpg",
+          "caption": "Cuece las patatas",
+          "localImage": "/images/recipes/6373c3456875fac468eeba76-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la sartén utilizada para el pollo, agrega un chorrito de aceite y la mitad de ajo, la otra mitad la utilizarás en el paso 4. Cuando el ajo empiece a dorarse, agrega la salsa junto con el agua (ver cantidad en ingredientes) y ⅔ del romero. Deja que reduzca 2 min. Agrega el pollo y cocina todo junto 5 min, hasta que la salsa empiece a espesar y tenga la consistencia deseada. Al acabar, retira el romero.",
+      "instructionsHTML": "<p dir=\"ltr\">En la sartén utilizada para el <strong>pollo</strong>, agrega un chorrito de <strong>aceite</strong> y la mitad de <strong>ajo</strong>, la otra mitad la utilizarás en el paso 4. Cuando el <strong>ajo</strong> empiece a dorarse, agrega la <strong>salsa</strong> junto con el <strong>agua</strong> (ver cantidad en ingredientes) y ⅔ del <strong>romero</strong>. Deja que reduzca 2 min. Agrega el <strong>pollo</strong> y cocina todo junto 5 min, hasta que la <strong>salsa</strong> empiece a espesar y tenga la consistencia deseada. Al acabar, retira el <strong>romero</strong>.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En la sartén utilizada para el <strong>pollo</strong>, agrega un chorrito de <strong>aceite</strong> y la mitad de <strong>ajo</strong>, la otra mitad la utilizarás en el paso 4. Cuando el <strong>ajo</strong> empiece a dorarse, agrega la <strong>salsa</strong> junto con el <strong>agua</strong> (ver cantidad en ingredientes) y ⅔ del <strong>romero</strong>. Deja que reduzca 2 min. Agrega el <strong>pollo</strong> y cocina todo junto 5 min, hasta que la <strong>salsa</strong> empiece a espesar y tenga la consistencia deseada. Al acabar, retira el <strong>romero</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3456875fac468eeba76/step-ae9b6520.jpg",
+          "path": "/6373c3456875fac468eeba76/step-ae9b6520.jpg",
+          "caption": "Combina el pollo con la salsa",
+          "localImage": "/images/recipes/6373c3456875fac468eeba76-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Retira el pollo, córtalo a tiras y colócalo en un plato plano. Vierte la salsa sobre el pollo. Lava la sartén y vuélvela a poner a fuego alto. Añade un chorrito de aceite y el ajo restante y cocina durante 1-2 min o hasta que quede dorado. Escurre los guisantes y saltéalos en la sartén durante 1-2 min, hasta que estén calientes. Deshoja el romero restante, pícalo y resérvalo. ",
+      "instructionsHTML": "<p dir=\"ltr\">Retira el <strong>pollo</strong>, córtalo a tiras y colócalo en un plato plano. Vierte la <strong>salsa</strong> sobre el <strong>pollo</strong>. Lava la sartén y vuélvela a poner a fuego alto. Añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong> restante y cocina durante 1-2 min o hasta que quede dorado. Escurre los <strong>guisantes</strong> y saltéalos en la sartén durante 1-2 min, hasta que estén calientes. Deshoja el <strong>romero</strong> restante, pícalo y resérvalo. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Retira el <strong>pollo</strong>, córtalo a tiras y colócalo en un plato plano. Vierte la <strong>salsa</strong> sobre el <strong>pollo</strong>. Lava la sartén y vuélvela a poner a fuego alto. Añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong> restante y cocina durante 1-2 min o hasta que quede dorado. Escurre los <strong>guisantes</strong> y saltéalos en la sartén durante 1-2 min, hasta que estén calientes. Deshoja el <strong>romero</strong> restante, pícalo y resérvalo. </p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538",
+        "623c805661a1b9d0034f9064"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3456875fac468eeba76/step-7d62ac30.jpg",
+          "path": "/6373c3456875fac468eeba76/step-7d62ac30.jpg",
+          "caption": "Cocina los guisantes",
+          "localImage": "/images/recipes/6373c3456875fac468eeba76-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Una vez las patatas estén cocidas, escúrrelas con la ayuda de un colador y vuelve a ponerlas en la misma olla. Incorpora, de forma opcional, la mantequilla (ver cantidad en ingredientes). Con la ayuda de un pasapurés o un tenedor, aplasta las patatas hasta que quede consistencia de puré. Sazona al gusto con sal y pimienta.",
+      "instructionsHTML": "<p>Una vez las <strong>patatas</strong> estén cocidas, escúrrelas con la ayuda de un colador y vuelve a ponerlas en la misma olla. Incorpora, de forma opcional, la <strong>mantequilla</strong> (ver cantidad en ingredientes). Con la ayuda de un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta que quede consistencia de <strong>puré</strong>. Sazona al gusto con <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "instructionsMarkdown": "<p>Una vez las <strong>patatas</strong> estén cocidas, escúrrelas con la ayuda de un colador y vuelve a ponerlas en la misma olla. Incorpora, de forma opcional, la <strong>mantequilla</strong> (ver cantidad en ingredientes). Con la ayuda de un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta que quede consistencia de <strong>puré</strong>. Sazona al gusto con <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305393"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3456875fac468eeba76/step-86e12540.jpg",
+          "path": "/6373c3456875fac468eeba76/step-86e12540.jpg",
+          "caption": "Haz el puré",
+          "localImage": "/images/recipes/6373c3456875fac468eeba76-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el pollo a la mostaza junto al puré de patata y añade los guisantes. Espolvorea el romero picado por encima.",
+      "instructionsHTML": "<p>Sirve el <strong>pollo a la mostaza</strong> junto al <strong>puré de patata</strong> y añade los <strong>guisantes</strong>. Espolvorea el <strong>romero</strong> picado por encima.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>pollo a la mostaza</strong> junto al <strong>puré de patata</strong> y añade los <strong>guisantes</strong>. Espolvorea el <strong>romero</strong> picado por encima.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3456875fac468eeba76/step-ab44fd50.jpg",
+          "path": "/6373c3456875fac468eeba76/step-ab44fd50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6373c3456875fac468eeba76-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCFCL0150-5",
+  "updatedAt": "2026-01-29T17:43:45+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "59d49a9319279f8fe60e8671",
+      "type": "medium-pot",
+      "name": "Olla mediana"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "623c805661a1b9d0034f9064",
+      "type": "largeplate",
+      "name": "Plato plano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305393",
+      "type": "potato-masher",
+      "name": "Pasapurés"
+    }
+  ],
+  "uuid": "9020c194-61af-4f36-b302-f752427b9429",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-a-la-mostaza-6373c3456875fac468eeba76",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043752268bc1bff0d3cc4",
+          "amount": 140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043752268bc1bff0d3cc4",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6373c3456875fac468eeba76-Pollo a la mostaza.jpg",
+  "localCard": "/pdf/6373c3456875fac468eeba76-Pollo a la mostaza.pdf"
+}

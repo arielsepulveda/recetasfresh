@@ -1,0 +1,836 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "666c26e64db7a7c5c859ce34",
+  "canonicalLink": "https://www.hellofresh.es/recipes/crema-remolacha-menta-salsa-666c26e64db7a7c5c859ce34",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "689d910383f90c073abb03f7",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-14T16:06:27+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "La remolacha es un ingrediente llamativo a la vista, pero también muy versátil. Atrévete a probar esta crema de remolacha a la menta con semillas de calabaza tostada que podrás tener lista y en la mesa en tan solo 25 minutos y disfrutarla sin preocuparte de la dieta, ¡tiene menos de 650 calorías!",
+  "descriptionHTML": "<p>La remolacha es un ingrediente llamativo a la vista, pero también muy versátil. Atrévete a probar esta crema de remolacha a la menta con semillas de calabaza tostada que podrás tener lista y en la mesa en tan solo 25 minutos y disfrutarla sin preocuparte de la dieta, ¡tiene menos de 650 calorías!</p>",
+  "descriptionMarkdown": "La remolacha es un ingrediente llamativo a la vista, pero también muy versátil. Atrévete a probar esta crema de remolacha a la menta con semillas de calabaza tostada que podrás tener lista y en la mesa en tan solo 25 minutos y disfrutarla sin preocuparte de la dieta, ¡tiene menos de 650 calorías!",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con salsa de yogur y pipas de calabaza tostadas",
+  "id": "689e09821597ca63310a1342",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R11_W32_ES_ESVCLV22134-3_Main_croutons_edit_high-aad1fee3.jpg",
+  "imagePath": "/image/HF_Y24_R11_W32_ES_ESVCLV22134-3_Main_croutons_edit_high-aad1fee3.jpg",
+  "ingredients": [
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "64be8562a1aa6db20ea1184f",
+      "uuid": "1b7902f0-ec25-52cb-ab2d-d03b64525b3e",
+      "name": "Remolacha cocida",
+      "type": "cooked-beetroot",
+      "slug": "remolacha-cocida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64be8562a1aa6db20ea1184f-590d549e.png",
+      "imagePath": "/ingredient/64be8562a1aa6db20ea1184f-590d549e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64be8562a1aa6db20ea1184f-Remolacha cocida.png"
+    },
+    {
+      "id": "636923bb4cc379a27f60cc05",
+      "uuid": "12a33629-d36c-55db-9ccc-8f5a5cadb4de",
+      "name": "Semillas de calabaza",
+      "type": "pumpkin-seeds",
+      "slug": "semillas-de-calabaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636923bb4cc379a27f60cc05-e7db4109.png",
+      "imagePath": "/ingredient/636923bb4cc379a27f60cc05-e7db4109.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636923bb4cc379a27f60cc05-Semillas de calabaza.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "634043732268bc1bff0d3cb9",
+      "uuid": "bf396f23-64e6-52fb-9c2a-f3ea6e6a53f3",
+      "name": "Menta",
+      "type": "mint",
+      "slug": "menta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043732268bc1bff0d3cb9-1c90d3e8.png",
+      "imagePath": "/ingredient/634043732268bc1bff0d3cb9-1c90d3e8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043732268bc1bff0d3cb9-Menta.png"
+    },
+    {
+      "id": "634976b3e9568549b784980e",
+      "uuid": "29eb59dd-a095-51ac-b053-e2b300368bde",
+      "name": "Yogur griego",
+      "type": "greek-yogurt",
+      "slug": "yogur-griego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "imagePath": "/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634976b3e9568549b784980e-Yogur griego.png"
+    },
+    {
+      "id": "68936cd49643892dc8fb4ed8",
+      "uuid": "d2d77c69-bf14-56fc-84a0-9b45c341d2e3",
+      "name": "Picatostes",
+      "type": "croutons",
+      "slug": "picatostes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/68936cd49643892dc8fb4ed8-a59d6278.png",
+      "imagePath": "/ingredient/68936cd49643892dc8fb4ed8-a59d6278.png",
+      "shipped": true,
+      "allergens": [
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68936cd49643892dc8fb4ed8-Picatostes.png"
+    },
+    {
+      "id": "6340437741033266d7be952b",
+      "uuid": "26c839a7-90d5-5ab1-808a-7f16c7526471",
+      "name": "Filete de ternera",
+      "type": "rump-steak",
+      "slug": "filete-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "imagePath": "/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437741033266d7be952b-Filete de ternera.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/689e09821597ca63310a1342",
+  "name": "Crema casera de remolacha a la menta y ternera",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2582,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 617,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 33.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 9.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 57.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 30.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 38.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.72,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 652,
+  "slug": "crema-casera-de-remolacha-a-la-menta-y-ternera",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nRetira las raíces del puerro y córtalo por la mitad a lo largo. Corta en medias lunas.\nPela la cebolla y córtala en tiras finas.\nCorta casi toda la remolacha en dados de 2-3 cm.\nCorta la remolacha restante en láminas finas y coloca en un bol. Adereza con un chorrito de aceite, sal y pimienta.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Retira las raíces del <strong>puerro</strong> y córtalo por la mitad a lo largo. Corta en medias lunas.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Corta casi toda la <strong>remolacha</strong> en dados de 2-3 cm.</li>\n<li>Corta la <strong>remolacha</strong> restante en láminas finas y coloca en un bol. Adereza con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Retira las raíces del <strong>puerro</strong> y córtalo por la mitad a lo largo. Corta en medias lunas.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Corta casi toda la <strong>remolacha</strong> en dados de 2-3 cm.</li>\n<li>Corta la <strong>remolacha</strong> restante en láminas finas y coloca en un bol. Adereza con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689e09821597ca63310a1342/step-3b3dca00.jpg",
+          "path": "/689e09821597ca63310a1342/step-3b3dca00.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/689e09821597ca63310a1342-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCalienta una olla a fuego medio-alto sin aceite y tuesta las semillas de calabaza 1-2 min, hasta que se doren. Retira y reserva.\nEn la olla, calienta un chorrito de aceite a fuego medio. Agrega el puerro y la cebolla, salpimienta y cocina 6-7 min, removiendo, hasta que se ablanden ligeramente.\n",
+      "instructionsHTML": "<ul>\n<li>Calienta una olla a fuego medio-alto sin aceite y tuesta las <strong>semillas de calabaza</strong> 1-2 min, hasta que se doren. Retira y reserva.</li>\n<li>En la olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>puerro</strong> y la <strong>cebolla</strong>, <strong>salpimienta</strong> y cocina 6-7 min, removiendo, hasta que se ablanden ligeramente.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Calienta una olla a fuego medio-alto sin aceite y tuesta las <strong>semillas de calabaza</strong> 1-2 min, hasta que se doren. Retira y reserva.</li>\n<li>En la olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>puerro</strong> y la <strong>cebolla</strong>, <strong>salpimienta</strong> y cocina 6-7 min, removiendo, hasta que se ablanden ligeramente.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689e09821597ca63310a1342/step-c3750610.jpg",
+          "path": "/689e09821597ca63310a1342/step-c3750610.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/689e09821597ca63310a1342-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCuando las verduras estén listas, agrega en la olla el agua y el caldo vegetal. Cocina a fuego medio 7-8 min más, hasta que las verduras estén tiernas.\nAñade la remolacha a dados y cocina 1 min más.\nRetira del fuego y tritura con un túrmix al menos 1-2 min, hasta que quede una sopa lisa y homogénea.\nPrueba y rectifica de sal y pimienta.\nEn una sartén, calienta un chorrito de aceite a fuego medio-alto.\nAñade la ternera, salpimienta y cocina 1 min por lado.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando las <strong>verduras</strong> estén listas, agrega en la olla el <strong>agua</strong> y el <strong>caldo vegetal</strong>. Cocina a fuego medio 7-8 min más, hasta que las <strong>verduras</strong> estén tiernas.</li>\n<li>Añade la <strong>remolacha</strong> a dados y cocina 1 min más.</li>\n<li>Retira del fuego y tritura con un túrmix al menos 1-2 min, hasta que quede una <strong>sopa</strong> lisa y homogénea.</li>\n<li>Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>En una sartén, calienta un chorrito de aceite a fuego medio-alto.</li>\n<li>Añade la <strong>ternera</strong>, salpimienta y cocina 1 min por lado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando las <strong>verduras</strong> estén listas, agrega en la olla el <strong>agua</strong> y el <strong>caldo vegetal</strong>. Cocina a fuego medio 7-8 min más, hasta que las <strong>verduras</strong> estén tiernas.</li>\n<li>Añade la <strong>remolacha</strong> a dados y cocina 1 min más.</li>\n<li>Retira del fuego y tritura con un túrmix al menos 1-2 min, hasta que quede una <strong>sopa</strong> lisa y homogénea.</li>\n<li>Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>En una sartén, calienta un chorrito de aceite a fuego medio-alto.</li>\n<li>Añade la <strong>ternera</strong>, salpimienta y cocina 1 min por lado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0",
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689e09821597ca63310a1342/step-9c343120.jpg",
+          "path": "/689e09821597ca63310a1342/step-9c343120.jpg",
+          "caption": "Prepara la crema y cocina la ternera",
+          "localImage": "/images/recipes/689e09821597ca63310a1342-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nDeshoja y pica la menta, reservando algunas hojas para el emplatado.\nEn un bol, mezcla el yogur griego, la menta picada, sal y pimienta al gusto.\nSirve la sopa de remolacha en platos y agrega encima la remolacha a láminas, la salsa de yogur y menta, las semillas de calabaza, las hojas de menta reservadas y los picatostes.\nEmplata la ternera en un plato para acompañar la crema.\n",
+      "instructionsHTML": "<ul>\n<li>Deshoja y pica la <strong>menta</strong>, reservando algunas hojas para el emplatado.</li>\n<li>En un bol, mezcla el <strong>yogur griego</strong>, la <strong>menta</strong> picada, <strong>sal</strong> y <strong>pimienta</strong> al gusto.</li>\n<li>Sirve la <strong>sopa de remolacha</strong> en platos y agrega encima la <strong>remolacha</strong> a láminas, la <strong>salsa de yogur</strong> y <strong>menta</strong>, las <strong>semillas de calabaza</strong>, las hojas de <strong>menta</strong> reservadas y los <strong>picatostes.</strong></li>\n<li>Emplata la <strong>ternera</strong> en un plato para acompañar la crema.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Deshoja y pica la <strong>menta</strong>, reservando algunas hojas para el emplatado.</li>\n<li>En un bol, mezcla el <strong>yogur griego</strong>, la <strong>menta</strong> picada, <strong>sal</strong> y <strong>pimienta</strong> al gusto.</li>\n<li>Sirve la <strong>sopa de remolacha</strong> en platos y agrega encima la <strong>remolacha</strong> a láminas, la <strong>salsa de yogur</strong> y <strong>menta</strong>, las <strong>semillas de calabaza</strong>, las hojas de <strong>menta</strong> reservadas y los <strong>picatostes.</strong></li>\n<li>Emplata la <strong>ternera</strong> en un plato para acompañar la crema.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689e09821597ca63310a1342/step-49d89d30.jpg",
+          "path": "/689e09821597ca63310a1342/step-49d89d30.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/689e09821597ca63310a1342-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESVCLV22134-AP-1-14",
+  "updatedAt": "2026-02-24T15:11:40+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "a2ad0153-4678-4118-93f9-660ec6d4d4ff",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/crema-casera-de-remolacha-a-la-menta-y-ternera-689e09821597ca63310a1342",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68936cd49643892dc8fb4ed8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 1000,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68936cd49643892dc8fb4ed8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 1500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68936cd49643892dc8fb4ed8",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1800,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/689e09821597ca63310a1342-Crema casera de remolacha a la menta y ternera.jpg"
+}

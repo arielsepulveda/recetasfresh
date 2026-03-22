@@ -1,0 +1,742 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 4,
+  "canonical": "6699151bd188c65a70c4d120",
+  "canonicalLink": "https://www.hellofresh.es/recipes/guiso-facil-de-pollo-con-tomate-seco-6699151bd188c65a70c4d120",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "68da5f359ed4d679418a4b1c",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-01T14:25:00+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Los platos tradicionales alcanzan este estatus cuando se llevan cocinando y disfrutando generación tras generación. Esto solo ocurre con recetas que son sencillas, satisfactorias y sabrosas, pero ¿qué ocurre si agregas ingredientes novedosos? En esta ocasión agregamos tomates secos a un guiso de toda la vida para que disfrutes aún más.",
+  "descriptionHTML": "<p>Los platos tradicionales alcanzan este estatus cuando se llevan cocinando y disfrutando generación tras generación. Esto solo ocurre con recetas que son sencillas, satisfactorias y sabrosas, pero ¿qué ocurre si agregas ingredientes novedosos? En esta ocasión agregamos tomates secos a un guiso de toda la vida para que disfrutes aún más.</p>",
+  "descriptionMarkdown": "Los platos tradicionales alcanzan este estatus cuando se llevan cocinando y disfrutando generación tras generación. Esto solo ocurre con recetas que son sencillas, satisfactorias y sabrosas, pero ¿qué ocurre si agregas ingredientes novedosos? En esta ocasión agregamos tomates secos a un guiso de toda la vida para que disfrutes aún más.",
+  "difficulty": 1,
+  "favoritesCount": 12,
+  "headline": "con verduras y garbanzos",
+  "id": "68dd39bb396adcc61a3ea313",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R08_W50_ES_ESCFQC30082-2_Main_high-9b937cb5.jpg",
+  "imagePath": "/image/HF_Y24_R08_W50_ES_ESCFQC30082-2_Main_high-9b937cb5.jpg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "665f05e3a1553dfae6b0c057",
+      "uuid": "4d63ab7b-4672-4dfa-a8e8-138abfc6d670",
+      "name": "Tomates secos",
+      "type": "dry-tomatoes",
+      "slug": "tomates-secos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/665f05e3a1553dfae6b0c057-b63309bc.png",
+      "imagePath": "/ingredient/665f05e3a1553dfae6b0c057-b63309bc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/665f05e3a1553dfae6b0c057-Tomates secos.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340436e233160a36674b9f9",
+      "uuid": "43cf496e-b81e-45b7-977d-ba85227fed76",
+      "name": "Muslos de pollo deshuesados",
+      "type": "chicken-thighs",
+      "slug": "muslos-de-pollo-deshuesados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9f9-Muslos de pollo deshuesados.png"
+    },
+    {
+      "id": "6399e2044fc733684f4c6900",
+      "uuid": "f1a7c3f3-6783-46af-87b2-df2fd87c6820",
+      "name": "Pimentón ahumado",
+      "type": "smoked-paprika",
+      "slug": "pimenton-ahumado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "imagePath": "/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6399e2044fc733684f4c6900-Pimentón ahumado.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68dd39bb396adcc61a3ea313",
+  "name": "Guiso fácil con extra de pollo y tomates secos",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3122,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 746,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 6.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 55.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 13.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 72.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.67,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 2,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 799,
+  "slug": "guiso-facil-con-extra-de-pollo-y-tomates-secos",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela la cebolla y córtala en daditos pequeños.\nPela la zanahoria y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.\nCorta el tomate seco en tiras finas.\nPela las patatas, luego, clava el filo del cuchillo y rompe la patata en trozos irregulares.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos pequeños.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Corta el <strong>tomate seco</strong> en tiras finas.</li>\n<li>Pela las <strong>patatas,</strong> luego, clava el filo del cuchillo y rompe la <strong>patata</strong> en trozos irregulares.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos pequeños.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Corta el <strong>tomate seco</strong> en tiras finas.</li>\n<li>Pela las <strong>patatas,</strong> luego, clava el filo del cuchillo y rompe la <strong>patata</strong> en trozos irregulares.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68dd39bb396adcc61a3ea313/step-528e7800.jpg",
+          "path": "/68dd39bb396adcc61a3ea313/step-528e7800.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68dd39bb396adcc61a3ea313-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una olla, calienta un chorrito de aceite a fuego medio.\nAgrega la cebolla y la zanahoria, salpimienta y cocina 4-5 min, removiendo, hasta que las verduras se ablanden un poco.\n",
+      "instructionsHTML": "<ul>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio.</li>\n<li><span style=\"color: rgb(0, 0, 0)\">Agrega la <strong>cebolla </strong>y la <strong>zanahoria</strong>, <strong>salpimienta</strong> y cocina 4-5 min, removiendo, hasta que las <strong>verduras</strong> se ablanden un poco.</span></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio.</li>\n<li><span style=\"color: rgb(0, 0, 0)\">Agrega la <strong>cebolla </strong>y la <strong>zanahoria</strong>, <strong>salpimienta</strong> y cocina 4-5 min, removiendo, hasta que las <strong>verduras</strong> se ablanden un poco.</span></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68dd39bb396adcc61a3ea313/step-b2015210.jpg",
+          "path": "/68dd39bb396adcc61a3ea313/step-b2015210.jpg",
+          "caption": "Verduras al fuego",
+          "localImage": "/images/recipes/68dd39bb396adcc61a3ea313-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCorta el pollo en trozos de 2 cm.\nEn la olla, agrega el pollo, el tomate seco, el pimentón ahumado y el tomillo y cocina 2 min, removiendo.\nAñade las patatas y cocina 1 min.\nAgrega el agua y el caldo de pollo en polvo y cocina a fuego medio 15-20 min, removiendo. Salpimienta.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">Corta el <strong>pollo</strong> en trozos de 2 cm.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">En la olla, agrega el <strong>pollo, </strong>el <strong>tomate seco</strong>, el <strong>pimentón ahumado</strong> y el<strong> tomillo</strong> y cocina 2 min, removiendo.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Añade las <strong>patatas</strong> y cocina 1 min.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Agrega el <strong>agua</strong> y el <strong>caldo de pollo</strong> en polvo y cocina a fuego medio 15-20 min, removiendo. <strong>Salpimienta</strong>.</span></li>\n</ul>\n<p><span style=\"color: rgb(0, 0, 0)\">RECUERDA: Lávate las manos y los utensilios de cocina después de</span> manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">Corta el <strong>pollo</strong> en trozos de 2 cm.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">En la olla, agrega el <strong>pollo, </strong>el <strong>tomate seco</strong>, el <strong>pimentón ahumado</strong> y el<strong> tomillo</strong> y cocina 2 min, removiendo.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Añade las <strong>patatas</strong> y cocina 1 min.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Agrega el <strong>agua</strong> y el <strong>caldo de pollo</strong> en polvo y cocina a fuego medio 15-20 min, removiendo. <strong>Salpimienta</strong>.</span></li>\n</ul>\n<p><span style=\"color: rgb(0, 0, 0)\">RECUERDA: Lávate las manos y los utensilios de cocina después de</span> manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68dd39bb396adcc61a3ea313/step-fb74ee20.jpg",
+          "path": "/68dd39bb396adcc61a3ea313/step-fb74ee20.jpg",
+          "caption": "Dale vida al guiso",
+          "localImage": "/images/recipes/68dd39bb396adcc61a3ea313-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCuando queden 5-6 min para que el guiso esté listo, escurre los garbanzos y agrégalos a la olla.\nCocina 5-6 min más, hasta que las patatas estén tiernas y el pollo quede bien cocinado.\nPrueba, salpimienta y sirve el guiso de pollo y garbanzos en platos.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando queden 5-6 min para que el <strong>guiso</strong> esté listo, escurre los <strong>garbanzos</strong> y agrégalos a la olla.</li>\n<li>Cocina 5-6 min más, hasta que las <strong>patatas</strong> estén tiernas y el <strong>pollo</strong> quede bien cocinado.</li>\n<li>Prueba, <strong>salpimienta</strong> y sirve el <strong>guiso</strong> de <strong>pollo</strong> y <strong>garbanzos</strong> en platos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando queden 5-6 min para que el <strong>guiso</strong> esté listo, escurre los <strong>garbanzos</strong> y agrégalos a la olla.</li>\n<li>Cocina 5-6 min más, hasta que las <strong>patatas</strong> estén tiernas y el <strong>pollo</strong> quede bien cocinado.</li>\n<li>Prueba, <strong>salpimienta</strong> y sirve el <strong>guiso</strong> de <strong>pollo</strong> y <strong>garbanzos</strong> en platos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68dd39bb396adcc61a3ea313/step-810cf430.jpg",
+          "path": "/68dd39bb396adcc61a3ea313/step-810cf430.jpg",
+          "caption": "Añade los garbanzos y emplata",
+          "localImage": "/images/recipes/68dd39bb396adcc61a3ea313-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCFQC30082-DP-1-2",
+  "updatedAt": "2026-01-21T17:19:38+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "57571784-69ef-4047-bc77-34ce9ce2a0c7",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/guiso-facil-con-extra-de-pollo-y-tomates-secos-68dd39bb396adcc61a3ea313",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "665f05e3a1553dfae6b0c057",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 660,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 380,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "665f05e3a1553dfae6b0c057",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 1320,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 760,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "665f05e3a1553dfae6b0c057",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 1980,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 1140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1800,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68dd39bb396adcc61a3ea313-Guiso fácil con extra de pollo y tomates secos.jpg"
+}

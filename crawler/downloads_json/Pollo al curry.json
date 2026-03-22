@@ -1,0 +1,742 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/curry-pollo-lentejas-6373c34b300835c748be6aeb-fff6dfd6.pdf",
+  "category": null,
+  "clonedFrom": "6347ef92bb36093c54997945",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-11-15T16:50:19+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "¿Buscas una opción de cena rápida y sabrosa entre semana? Prueba a preparar nuestro curry cremoso de pollo con lentejas y verduras en tan solo 20 minutos para obtener un plato delicioso y con sabores inspirados en la India.",
+  "descriptionHTML": "<p>¿Buscas una opción de cena rápida y sabrosa entre semana? Prueba a preparar nuestro curry cremoso de pollo con lentejas y verduras en tan solo 20 minutos para obtener un plato delicioso y con sabores inspirados en la India.</p>",
+  "descriptionMarkdown": "¿Buscas una opción de cena rápida y sabrosa entre semana? Prueba a preparar nuestro curry cremoso de pollo con lentejas y verduras en tan solo 20 minutos para obtener un plato delicioso y con sabores inspirados en la India.",
+  "difficulty": 1,
+  "favoritesCount": 44,
+  "headline": "con lentejas, boniato y espinacas",
+  "id": "6373c34b300835c748be6aeb",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF211123_R16_W01_UK_R4474-1_MB_Main_high-1923c9cc.jpg",
+  "imagePath": "/image/HF211123_R16_W01_UK_R4474-1_MB_Main_high-1923c9cc.jpg",
+  "ingredients": [
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "6340437b2268bc1bff0d3cd1",
+      "uuid": "9838d4d1-5c2e-4e68-a073-54d514ccfdb0",
+      "name": "Pechuga de pollo troceada",
+      "type": "chicken-breast-diced",
+      "slug": "pechuga-de-pollo-troceada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd1-Pechuga de pollo troceada.jpg"
+    },
+    {
+      "id": "6340436e233160a36674b9fd",
+      "uuid": "4be57e09-204f-50f6-abf5-a91e4a8099db",
+      "name": "Leche de coco",
+      "type": "coconut-milk",
+      "slug": "leche-de-coco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9fd-Leche de coco.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f0",
+      "uuid": "49d1ae88-5dea-5aa5-be78-86a06abe0582",
+      "name": "Lentejas",
+      "type": "brown-lentils",
+      "slug": "lentejas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f0-Lentejas.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "634d532eebf08332f1bff1a5",
+      "uuid": "b330fdf9-ab81-5b42-bc68-7b5748ae00ba",
+      "name": "Curry en polvo",
+      "type": "curry-powder",
+      "slug": "curry-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d532eebf08332f1bff1a5-11f940df.png",
+      "imagePath": "/ingredient/634d532eebf08332f1bff1a5-11f940df.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d532eebf08332f1bff1a5-Curry en polvo.png"
+    },
+    {
+      "id": "6340437941033266d7be9531",
+      "uuid": "61a2604a-ad14-5a3c-b00f-f81d58cb0c90",
+      "name": "Boniato",
+      "type": "sweet-potato",
+      "slug": "boniato",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "imagePath": "/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9531-Boniato.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6373c34b300835c748be6aeb",
+  "name": "Pollo al curry",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 723,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3027,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 19.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 81.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 8.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 42.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.16,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT20M",
+  "promotion": null,
+  "ratingsCount": 45,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 754,
+  "slug": "pollo-al-curry",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 220°C. Corta el boniato en trozos de 1 cm. Coloca el boniato en una bandeja de horno con papel de horno. Rocía con aceite, sazona con sal y pimienta y remueve para cubrir. Reparte el boniato en una sola capa para que se cocine uniformemente. Cuando el horno esté caliente, hornea en el estante superior durante 16-18 min, hasta que estén dorados y tiernos.",
+      "instructionsHTML": "<p>Precalienta el horno a 220°C. Corta el <strong>boniato</strong> en trozos de 1 cm. Coloca el <strong>boniato</strong> en una bandeja de horno con papel de horno. Rocía con <strong>aceite</strong>, sazona con <strong>sal</strong> y <strong>pimienta</strong> y remueve para cubrir. Reparte el <strong>boniato</strong> en una sola capa para que se cocine uniformemente. Cuando el horno esté caliente, hornea en el estante superior durante 16-18 min, hasta que estén dorados y tiernos.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 220°C. Corta el <strong>boniato</strong> en trozos de 1 cm. Coloca el <strong>boniato</strong> en una bandeja de horno con papel de horno. Rocía con <strong>aceite</strong>, sazona con <strong>sal</strong> y <strong>pimienta</strong> y remueve para cubrir. Reparte el <strong>boniato</strong> en una sola capa para que se cocine uniformemente. Cuando el horno esté caliente, hornea en el estante superior durante 16-18 min, hasta que estén dorados y tiernos.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c34b300835c748be6aeb/step-b4447a00.jpg",
+          "path": "/6373c34b300835c748be6aeb/step-b4447a00.jpg",
+          "caption": "Cocina el boniato",
+          "localImage": "/images/recipes/6373c34b300835c748be6aeb-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En un cazo, pon el agua (ver cantidad en ingredientes) a fuego fuerte. Cuando hierva, añade el caldo vegetal en polvo y remueve hasta que se disuelva. Retira y reserva. Pela la cebolla y córtala por la mitad, luego, pícala en trozos pequeños. Pela y pica el ajo (ver cantidad en ingredientes). Corta la lima por la mitad. Escurre y enjuaga las lentejas con la ayuda de un colador. ",
+      "instructionsHTML": "<p dir=\"ltr\">En un cazo, pon el <strong>agua</strong> (ver cantidad en ingredientes) a fuego fuerte. Cuando hierva, añade el <strong>caldo vegetal</strong> en polvo y remueve hasta que se disuelva. Retira y reserva. Pela la <strong>cebolla</strong> y córtala por la mitad, luego, pícala en trozos pequeños. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Corta la <strong>lima</strong> por la mitad. Escurre y enjuaga las <strong>lentejas</strong> con la ayuda de un colador. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En un cazo, pon el <strong>agua</strong> (ver cantidad en ingredientes) a fuego fuerte. Cuando hierva, añade el <strong>caldo vegetal</strong> en polvo y remueve hasta que se disuelva. Retira y reserva. Pela la <strong>cebolla</strong> y córtala por la mitad, luego, pícala en trozos pequeños. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Corta la <strong>lima</strong> por la mitad. Escurre y enjuaga las <strong>lentejas</strong> con la ayuda de un colador. </p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b30538c",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c34b300835c748be6aeb/step-554db210.jpg",
+          "path": "/6373c34b300835c748be6aeb/step-554db210.jpg",
+          "caption": "Corta la cebolla y el ajo",
+          "localImage": "/images/recipes/6373c34b300835c748be6aeb-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén, añade un chorrito de aceite y el ajo. Pon a calentar a fuego medio y fríe el ajo durante 1-2 min o hasta que esté dorado. Agrega las pechugas de pollo troceadas, sazona con sal y pimienta y cocina 5-6 min o hasta que se dore por completo. Añade la cebolla a la sartén y cocina todo junto 1-2 min.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">En una sartén, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Pon a calentar a fuego medio y fríe el <strong>ajo</strong> durante 1-2 min o hasta que esté dorado. Agrega las <strong>pechugas de pollo troceadas</strong>, sazona con <strong>sal</strong> y <strong>pimienta</strong> y cocina 5-6 min o hasta que se dore por completo. Añade la <strong>cebolla</strong> a la sartén y cocina todo junto 1-2 min.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una sartén, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Pon a calentar a fuego medio y fríe el <strong>ajo</strong> durante 1-2 min o hasta que esté dorado. Agrega las <strong>pechugas de pollo troceadas</strong>, sazona con <strong>sal</strong> y <strong>pimienta</strong> y cocina 5-6 min o hasta que se dore por completo. Añade la <strong>cebolla</strong> a la sartén y cocina todo junto 1-2 min.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c34b300835c748be6aeb/step-a9cb1f20.jpg",
+          "path": "/6373c34b300835c748be6aeb/step-a9cb1f20.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/6373c34b300835c748be6aeb-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Añade a la sartén la leche de coco, el curry en polvo y el caldo. Mezcla bien, luego, agrega las lentejas. Lleva a ebullición, remueve y baja el fuego para que la salsa hierva a fuego lento. Cocina 4 min o hasta que el pollo esté bien cocido.",
+      "instructionsHTML": "<p>Añade a la sartén la <strong>leche de coco</strong>, el <strong>curry</strong> <strong>en polvo</strong> y el <strong>caldo</strong>. Mezcla bien, luego, agrega las <strong>lentejas</strong>. Lleva a ebullición, remueve y baja el fuego para que la <strong>salsa</strong> hierva a fuego lento. Cocina 4 min o hasta que el <strong>pollo</strong> esté bien cocido.</p>",
+      "instructionsMarkdown": "<p>Añade a la sartén la <strong>leche de coco</strong>, el <strong>curry</strong> <strong>en polvo</strong> y el <strong>caldo</strong>. Mezcla bien, luego, agrega las <strong>lentejas</strong>. Lleva a ebullición, remueve y baja el fuego para que la <strong>salsa</strong> hierva a fuego lento. Cocina 4 min o hasta que el <strong>pollo</strong> esté bien cocido.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c34b300835c748be6aeb/step-d7940630.jpg",
+          "path": "/6373c34b300835c748be6aeb/step-d7940630.jpg",
+          "caption": "Prepara el curry",
+          "localImage": "/images/recipes/6373c34b300835c748be6aeb-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Agrega las espinacas y remueve hasta que se ablanden y todos los ingredientes se integren. Cuando el boniato esté cocido, añádelo al curry y agrega el zumo de una mitad de la lima (doble para 4p). Corta la lima sobrante en gajos.",
+      "instructionsHTML": "<p>Agrega las <strong>espinacas</strong> y remueve hasta que se ablanden y todos los ingredientes se integren. Cuando el <strong>boniato</strong> esté cocido, añádelo al <strong>curry</strong> y agrega el zumo de una mitad de la <strong>lima</strong> (doble para 4p). Corta la <strong>lima</strong> sobrante en gajos.</p>",
+      "instructionsMarkdown": "<p>Agrega las <strong>espinacas</strong> y remueve hasta que se ablanden y todos los ingredientes se integren. Cuando el <strong>boniato</strong> esté cocido, añádelo al <strong>curry</strong> y agrega el zumo de una mitad de la <strong>lima</strong> (doble para 4p). Corta la <strong>lima</strong> sobrante en gajos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c34b300835c748be6aeb/step-b8836640.jpg",
+          "path": "/6373c34b300835c748be6aeb/step-b8836640.jpg",
+          "caption": "Agrega las espinacas",
+          "localImage": "/images/recipes/6373c34b300835c748be6aeb-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Reparte el curry de lentejas entre los boles. Sirve con los gajos de lima restantes a un lado para exprimir. ",
+      "instructionsHTML": "<p>Reparte el <strong>curry</strong> de <strong>lentejas</strong> entre los boles. Sirve con los gajos de <strong>lima</strong> restantes a un lado para exprimir. </p>",
+      "instructionsMarkdown": "<p>Reparte el <strong>curry</strong> de <strong>lentejas</strong> entre los boles. Sirve con los gajos de <strong>lima</strong> restantes a un lado para exprimir. </p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c34b300835c748be6aeb/step-94dd1450.jpg",
+          "path": "/6373c34b300835c748be6aeb/step-94dd1450.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6373c34b300835c748be6aeb-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESQCL0143-4",
+  "updatedAt": "2025-12-15T16:42:34+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    }
+  ],
+  "uuid": "19cc33db-92bd-4801-864e-c72138561166",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-al-curry-6373c34b300835c748be6aeb",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 340,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d532eebf08332f1bff1a5",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 680,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d532eebf08332f1bff1a5",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6373c34b300835c748be6aeb-Pollo al curry.jpg",
+  "localCard": "/pdf/6373c34b300835c748be6aeb-Pollo al curry.pdf"
+}

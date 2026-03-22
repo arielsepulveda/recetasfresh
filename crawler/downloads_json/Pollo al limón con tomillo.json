@@ -1,0 +1,823 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "634e83d3ab4a7ae25c41cb9e",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-al-limon-con-tomillo-634e83d3ab4a7ae25c41cb9e",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/pollo-limon-arroz-verduras-6373c35108cf0b02479225cf-39969b5d.pdf",
+  "category": null,
+  "clonedFrom": "6347efe5e9568549b78497ba",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-11-15T16:50:25+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Si buscas un plato completo, sano y de sabores mediterráneos, no dejes de probar este pollo al limón con arroz basmati. La combinación de salsas y especias que acompañan al pollo se ven compensadas por un arroz de gusto suave en una receta cuyo sabor te sorprenderá.",
+  "descriptionHTML": "<p>Si buscas un plato completo, sano y de sabores mediterráneos, no dejes de probar este pollo al limón con arroz basmati. La combinación de salsas y especias que acompañan al pollo se ven compensadas por un arroz de gusto suave en una receta cuyo sabor te sorprenderá.</p>",
+  "descriptionMarkdown": "Si buscas un plato completo, sano y de sabores mediterráneos, no dejes de probar este pollo al limón con arroz basmati. La combinación de salsas y especias que acompañan al pollo se ven compensadas por un arroz de gusto suave en una receta cuyo sabor te sorprenderá.",
+  "difficulty": 1,
+  "favoritesCount": 29,
+  "headline": "y arroz basmati",
+  "id": "6373c35108cf0b02479225cf",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221011_R10_W47_ES_MB_Main_high-a494edc0.jpg",
+  "imagePath": "/image/HF221011_R10_W47_ES_MB_Main_high-a494edc0.jpg",
+  "ingredients": [
+    {
+      "id": "6340436e233160a36674b9f9",
+      "uuid": "43cf496e-b81e-45b7-977d-ba85227fed76",
+      "name": "Muslos de pollo deshuesados",
+      "type": "chicken-thighs",
+      "slug": "muslos-de-pollo-deshuesados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9f9-Muslos de pollo deshuesados.png"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "634e576fab4a7ae25c41cb82",
+      "uuid": "b4f36945-566b-5d02-8e68-929d76b976a5",
+      "name": "Salsa Worcester",
+      "type": "worcester-sauce",
+      "slug": "salsa-worcester",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634e576fab4a7ae25c41cb82-15922710.jpg",
+      "imagePath": "/ingredient/634e576fab4a7ae25c41cb82-15922710.jpg",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634e576fab4a7ae25c41cb82-Salsa Worcester.jpg"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "6340436c41033266d7be950b",
+      "uuid": "9c185787-b4f8-5457-863b-da9d361fcd22",
+      "name": "Brócoli",
+      "type": "broccoli",
+      "slug": "brocoli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "imagePath": "/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be950b-Brócoli.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492a38ebf08332f1bff158",
+      "uuid": "f3edd1e7-4508-4709-aa78-41efa824db4d",
+      "name": "Harina",
+      "type": "flour",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a38ebf08332f1bff158-ff411a48.png",
+      "imagePath": "/ingredient/63492a38ebf08332f1bff158-ff411a48.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a38ebf08332f1bff158-Harina.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6373c35108cf0b02479225cf",
+  "name": "Pollo al limón con tomillo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 531,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2223,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 6.68,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 1.55,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 79.21,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.73,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.49,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 38.46,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.79,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 57,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 451,
+  "slug": "pollo-al-limon-con-tomillo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 180ºC. Pela la cebolla y córtala por la mitad, luego, corta una mitad (doble para 4p) en trozos de 3 cm. Corta el brócoli por la mitad. De una mitad (doble para 4p), retira el tronco y córtalo en floretes. Pela y pica el ajo (ver cantidad en ingredientes) y resérvalo en un bol grande. ",
+      "instructionsHTML": "<p dir=\"ltr\">Precalienta el horno a 180ºC. Pela la <strong>cebolla</strong> y córtala por la mitad, luego, corta una mitad (doble para 4p) en trozos de 3 cm. Corta el <strong>brócoli</strong> por la mitad. De una mitad (doble para 4p), retira el tronco y córtalo en floretes. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes) y resérvalo en un bol grande. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Precalienta el horno a 180ºC. Pela la <strong>cebolla</strong> y córtala por la mitad, luego, corta una mitad (doble para 4p) en trozos de 3 cm. Corta el <strong>brócoli</strong> por la mitad. De una mitad (doble para 4p), retira el tronco y córtalo en floretes. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes) y resérvalo en un bol grande. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c35108cf0b02479225cf/step-e67c3700.jpg",
+          "path": "/6373c35108cf0b02479225cf/step-e67c3700.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/6373c35108cf0b02479225cf-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta el limón por la mitad y exprímelo en el bol con el ajo. Agrega la mostaza, la salsa Worcester, la miel, el tomillo, un chorrito de aceite, el agua para la salsa (ver cantidad en ingredientes) y la harina (ver cantidad en ingredientes). Sazona con sal y pimienta y mézclalo todo junto. ",
+      "instructionsHTML": "<p dir=\"ltr\">Corta el <strong>limón</strong> por la mitad y exprímelo en el bol con el <strong>ajo</strong>. Agrega la <strong>mostaza</strong>, la <strong>salsa Worcester</strong>, la <strong>miel</strong>, el <strong>tomillo</strong>, un chorrito de <strong>aceite</strong>, el <strong>agua para la salsa</strong> (ver cantidad en ingredientes) y la <strong>harina</strong> (ver cantidad en ingredientes). Sazona con <strong>sal</strong> y <strong>pimienta</strong> y mézclalo todo junto. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Corta el <strong>limón</strong> por la mitad y exprímelo en el bol con el <strong>ajo</strong>. Agrega la <strong>mostaza</strong>, la <strong>salsa Worcester</strong>, la <strong>miel</strong>, el <strong>tomillo</strong>, un chorrito de <strong>aceite</strong>, el <strong>agua para la salsa</strong> (ver cantidad en ingredientes) y la <strong>harina</strong> (ver cantidad en ingredientes). Sazona con <strong>sal</strong> y <strong>pimienta</strong> y mézclalo todo junto. </p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c35108cf0b02479225cf/step-a4538510.jpg",
+          "path": "/6373c35108cf0b02479225cf/step-a4538510.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/6373c35108cf0b02479225cf-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Agrega los muslos de pollo al bol y mézclalo todo bien para que se impregne la salsa. Pon el pollo en una bandeja de horno con papel de horno, junto con la salsa.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">Agrega los <strong>muslos de pollo</strong> al bol y mézclalo todo bien para que se impregne la <strong>salsa</strong>. Pon el <strong>pollo</strong> en una bandeja de horno con papel de horno, junto con la <strong>salsa</strong>.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Agrega los <strong>muslos de pollo</strong> al bol y mézclalo todo bien para que se impregne la <strong>salsa</strong>. Pon el <strong>pollo</strong> en una bandeja de horno con papel de horno, junto con la <strong>salsa</strong>.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c35108cf0b02479225cf/step-9a04f520.jpg",
+          "path": "/6373c35108cf0b02479225cf/step-9a04f520.jpg",
+          "caption": "Adereza el pollo",
+          "localImage": "/images/recipes/6373c35108cf0b02479225cf-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Coloca la cebolla y los floretes de brócoli alrededor de la bandeja. Pon la bandeja en el estante del medio del horno y cocínalo 30-35 min, hasta que el pollo esté totalmente cocinado, las verduras estén tiernas y la salsa quede espesa y suave.",
+      "instructionsHTML": "<p dir=\"ltr\">Coloca la <strong>cebolla</strong> y los floretes de <strong>brócoli</strong> alrededor de la bandeja. Pon la bandeja en el estante del medio del horno y cocínalo 30-35 min, hasta que el <strong>pollo</strong> esté totalmente cocinado, las <strong>verduras</strong> estén tiernas y la <strong>salsa</strong> quede espesa y suave.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Coloca la <strong>cebolla</strong> y los floretes de <strong>brócoli</strong> alrededor de la bandeja. Pon la bandeja en el estante del medio del horno y cocínalo 30-35 min, hasta que el <strong>pollo</strong> esté totalmente cocinado, las <strong>verduras</strong> estén tiernas y la <strong>salsa</strong> quede espesa y suave.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c35108cf0b02479225cf/step-40b33f30.jpg",
+          "path": "/6373c35108cf0b02479225cf/step-40b33f30.jpg",
+          "caption": "Hornea los ingredientes",
+          "localImage": "/images/recipes/6373c35108cf0b02479225cf-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Llena un cazo con el agua para el arroz (ver cantidad en ingredientes) y añade el arroz y sal al gusto. Cuando hierva, baja el fuego y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el arroz con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p dir=\"ltr\">Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes) y añade el <strong>arroz</strong> y <strong>sal</strong> al gusto. Cuando hierva, baja el fuego y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes) y añade el <strong>arroz</strong> y <strong>sal</strong> al gusto. Cuando hierva, baja el fuego y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538c",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c35108cf0b02479225cf/step-97b26d40.jpg",
+          "path": "/6373c35108cf0b02479225cf/step-97b26d40.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/6373c35108cf0b02479225cf-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Cuando todas las elaboraciones estén listas, pon el pollo al limón con sus verduras en la mitad de un plato, luego, sirve el arroz en la otra mitad.",
+      "instructionsHTML": "<p dir=\"ltr\">Cuando todas las elaboraciones estén listas, pon el <strong>pollo al limón</strong> con sus <strong>verduras</strong> en la mitad de un plato, luego, sirve el <strong>arroz</strong> en la otra mitad.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Cuando todas las elaboraciones estén listas, pon el <strong>pollo al limón</strong> con sus <strong>verduras</strong> en la mitad de un plato, luego, sirve el <strong>arroz</strong> en la otra mitad.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c35108cf0b02479225cf/step-2674fb50.jpg",
+          "path": "/6373c35108cf0b02479225cf/step-2674fb50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6373c35108cf0b02479225cf-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESFCL0148-4",
+  "updatedAt": "2026-01-23T15:18:59+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "009064ba-5f4e-4861-93ad-a6ed7b0d4d31",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-al-limon-con-tomillo-6373c35108cf0b02479225cf",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634e576fab4a7ae25c41cb82",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 560,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634e576fab4a7ae25c41cb82",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6373c35108cf0b02479225cf-Pollo al limón con tomillo.jpg",
+  "localCard": "/pdf/6373c35108cf0b02479225cf-Pollo al limón con tomillo.pdf"
+}

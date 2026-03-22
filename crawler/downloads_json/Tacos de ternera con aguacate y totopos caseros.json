@@ -1,0 +1,864 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3,
+  "canonical": "659e862e70cc438cf4f780d9",
+  "canonicalLink": "https://www.hellofresh.es/recipes/taco-ternera-pico-gallo-totopos-659e862e70cc438cf4f780d9",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68493255b9b1c59f93d88ad2-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "655f56092d94ad532d61cd1d",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-11T07:37:57+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "El término \"totopo\" tiene su origen en la lengua náhuatl, la lengua indígena de los aztecas, y en origen se refería a la pieza de maíz que ha sido tostada o cocida. Con esta receta, podrás remontarte a sus orígenes y tostar las tortillas de maíz para tener unos totopos caseros crujientes y perfectos para acompañar unos sabrosos tacos de ternera marinada.",
+  "descriptionHTML": "<p>El término &quot;totopo&quot; tiene su origen en la lengua náhuatl, la lengua indígena de los aztecas, y en origen se refería a la pieza de maíz que ha sido tostada o cocida. Con esta receta, podrás remontarte a sus orígenes y tostar las tortillas de maíz para tener unos totopos caseros crujientes y perfectos para acompañar unos sabrosos tacos de ternera marinada.</p>",
+  "descriptionMarkdown": "El término \"totopo\" tiene su origen en la lengua náhuatl, la lengua indígena de los aztecas, y en origen se refería a la pieza de maíz que ha sido tostada o cocida. Con esta receta, podrás remontarte a sus orígenes y tostar las tortillas de maíz para tener unos totopos caseros crujientes y perfectos para acompañar unos sabrosos tacos de ternera marinada.",
+  "difficulty": 1,
+  "favoritesCount": 6,
+  "headline": "con salsa fresca de lima y pico de gallo",
+  "id": "68493255b9b1c59f93d88ad2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R21_W34_ES_ESSGSFB20875-3_edit_Main__F1_high-a9a20f1a.jpg",
+  "imagePath": "/image/HF_Y25_R21_W34_ES_ESSGSFB20875-3_edit_Main__F1_high-a9a20f1a.jpg",
+  "ingredients": [
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "6671a06877d4ed4ef24a239a",
+      "uuid": "04e5d056-bb09-43d9-b7ef-94a027495381",
+      "name": "Pulpa de aguacate",
+      "type": "avocado-spread",
+      "slug": "pulpa-de-aguacate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6671a06877d4ed4ef24a239a-c5137cc5.png",
+      "imagePath": "/ingredient/6671a06877d4ed4ef24a239a-c5137cc5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6671a06877d4ed4ef24a239a-Pulpa de aguacate.png"
+    },
+    {
+      "id": "635bf32c715b05ed6af180bd",
+      "uuid": "92d67c8f-7ca6-5e50-b1ea-12d85a78d150",
+      "name": "Crème Fraîche",
+      "type": "creme-fraiche",
+      "slug": "creme-fraiche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "imagePath": "/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635bf32c715b05ed6af180bd-Crème Fraîche.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "63404373233160a36674ba0f",
+      "uuid": "a9702fdb-e742-5fe0-b221-974c1ea5db87",
+      "name": "Mix de especias mexicanas",
+      "type": "mexican-spice",
+      "slug": "mix-de-especias-mexicanas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0f-Mix de especias mexicanas.png"
+    },
+    {
+      "id": "65cb85095d025093059467eb",
+      "uuid": "7c57d79d-7783-5d04-ba1d-359705692440",
+      "name": "Tortillas de maíz",
+      "type": "corn-tortilla",
+      "slug": "tortillas-de-maiz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65cb85095d025093059467eb-bb9e4658.png",
+      "imagePath": "/ingredient/65cb85095d025093059467eb-bb9e4658.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65cb85095d025093059467eb-Tortillas de maíz.png"
+    },
+    {
+      "id": "6348219ebb36093c54997964",
+      "uuid": "1f59d4e9-83f7-5dac-abec-916f5f2c6d99",
+      "name": "Tortillas de trigo",
+      "type": "6-pack-tortilla",
+      "slug": "tortillas-de-trigo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6348219ebb36093c54997964-209def95.png",
+      "imagePath": "/ingredient/6348219ebb36093c54997964-209def95.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6348219ebb36093c54997964-Tortillas de trigo.png"
+    },
+    {
+      "id": "6340437741033266d7be952b",
+      "uuid": "26c839a7-90d5-5ab1-808a-7f16c7526471",
+      "name": "Filete de ternera",
+      "type": "rump-steak",
+      "slug": "filete-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "imagePath": "/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437741033266d7be952b-Filete de ternera.png"
+    },
+    {
+      "id": "63565b58edd6336545dbe131",
+      "uuid": "04d854ae-33e4-599b-b3bc-3e9c0acb3298",
+      "name": "Pasta chipotle",
+      "type": "chipotle-paste",
+      "slug": "pasta-chipotle",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63565b58edd6336545dbe131-250b7f4b.png",
+      "imagePath": "/ingredient/63565b58edd6336545dbe131-250b7f4b.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff",
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63565b58edd6336545dbe131-Pasta chipotle.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68493255b9b1c59f93d88ad2",
+  "name": "Tacos de ternera con aguacate y totopos caseros",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4014,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 959,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 59.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 20.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 82.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 10.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 38.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.83,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 7,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 526,
+  "slug": "tacos-de-ternera-marinada-y-pico-de-gallo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nRalla la piel de la lima y córtala en gajos.\nEn un bol, añade la pulpa de aguacate y adereza con zumo de lima al gusto, un chorrito de aceite, sal y pimienta. Mezcla, tapa con papel de aluminio y reserva en la nevera hasta el emplatado.\nEn otro bol, mezcla la crème fraîche con la ralladura de lima, sal y pimienta al gusto.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Ralla la piel de la <strong>lima</strong> y córtala en gajos.</li>\n<li>En un bol, añade la <strong>pulpa de aguacate</strong> y adereza con zumo de <strong>lima</strong> al gusto, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Mezcla, tapa con papel de aluminio y reserva en la nevera hasta el emplatado.</li>\n<li>En otro bol, mezcla la <strong>crème fraîche</strong> con la ralladura de <strong>lima</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Ralla la piel de la <strong>lima</strong> y córtala en gajos.</li>\n<li>En un bol, añade la <strong>pulpa de aguacate</strong> y adereza con zumo de <strong>lima</strong> al gusto, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Mezcla, tapa con papel de aluminio y reserva en la nevera hasta el emplatado.</li>\n<li>En otro bol, mezcla la <strong>crème fraîche</strong> con la ralladura de <strong>lima</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493255b9b1c59f93d88ad2/step-b5e77b00.jpg",
+          "path": "/68493255b9b1c59f93d88ad2/step-b5e77b00.jpg",
+          "caption": "Prepara los ingredientes ",
+          "localImage": "/images/recipes/68493255b9b1c59f93d88ad2-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nDeshoja y pica el cilantro.\nCorta el tomate en cubos pequeños.\nEn un bol, agrega el tomate, la mitad del cilantro, zumo la lima al gusto y un chorrito de aceite. Salpimienta y remueve.\n",
+      "instructionsHTML": "<ul>\n<li>Deshoja y pica el <strong>cilantro</strong>.</li>\n<li>Corta el <strong>tomate</strong> en cubos pequeños.</li>\n<li>En un bol, agrega el <strong>tomate</strong>, la mitad del <strong>cilantro</strong>, zumo la <strong>lima</strong> al gusto y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y remueve.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Deshoja y pica el <strong>cilantro</strong>.</li>\n<li>Corta el <strong>tomate</strong> en cubos pequeños.</li>\n<li>En un bol, agrega el <strong>tomate</strong>, la mitad del <strong>cilantro</strong>, zumo la <strong>lima</strong> al gusto y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y remueve.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493255b9b1c59f93d88ad2/step-ae64b410.jpg",
+          "path": "/68493255b9b1c59f93d88ad2/step-ae64b410.jpg",
+          "caption": "Prepara el pico de gallo",
+          "localImage": "/images/recipes/68493255b9b1c59f93d88ad2-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn un bol grande, mezcla la mitad de las especias mexicanas y un chorrito generoso de aceite.\nCorta las tortillas de maíz en triángulos y agrégalos al bol con las especias. Salpimienta y mezcla.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol grande, mezcla la mitad de las <strong>especias mexicanas</strong> y un chorrito generoso de <strong>aceite</strong>.</li>\n<li>Corta las<strong> tortillas de maíz</strong> en triángulos y agrégalos al bol con las <strong>especias</strong>. <strong>Salpimienta</strong> y mezcla.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol grande, mezcla la mitad de las <strong>especias mexicanas</strong> y un chorrito generoso de <strong>aceite</strong>.</li>\n<li>Corta las<strong> tortillas de maíz</strong> en triángulos y agrégalos al bol con las <strong>especias</strong>. <strong>Salpimienta</strong> y mezcla.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493255b9b1c59f93d88ad2/step-3dacf820.jpg",
+          "path": "/68493255b9b1c59f93d88ad2/step-3dacf820.jpg",
+          "caption": "Adereza los totopos",
+          "localImage": "/images/recipes/68493255b9b1c59f93d88ad2-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nReparte las tortillas de maíz aderezadas en una sola capa una bandeja de horno con papel de horno y hornea 3 min.\nMientras tanto, envuelve las tortillas de trigo en papel de aluminio.\nPasados los 3 min, da la vuelta a los totopos.\nAñade las tortillas de trigo y hornea todo 3 min más, hasta que los totopos queden crujientes y las tortillas de trigo estén calientes.\n",
+      "instructionsHTML": "<ul>\n<li>Reparte las <strong>tortillas de maíz</strong> aderezadas en una sola capa una bandeja de horno con papel de horno y hornea 3 min.</li>\n<li>Mientras tanto, envuelve las <strong>tortillas de trigo</strong> en papel de aluminio.</li>\n<li>Pasados los 3 min, da la vuelta a los <strong>totopos.</strong></li>\n<li>Añade las <strong>tortillas de trigo</strong> y hornea todo 3 min más, hasta que los <strong>totopos</strong> queden crujientes y las <strong>tortillas de trigo</strong> estén calientes.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Reparte las <strong>tortillas de maíz</strong> aderezadas en una sola capa una bandeja de horno con papel de horno y hornea 3 min.</li>\n<li>Mientras tanto, envuelve las <strong>tortillas de trigo</strong> en papel de aluminio.</li>\n<li>Pasados los 3 min, da la vuelta a los <strong>totopos.</strong></li>\n<li>Añade las <strong>tortillas de trigo</strong> y hornea todo 3 min más, hasta que los <strong>totopos</strong> queden crujientes y las <strong>tortillas de trigo</strong> estén calientes.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b305366"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493255b9b1c59f93d88ad2/step-40769e30.jpg",
+          "path": "/68493255b9b1c59f93d88ad2/step-40769e30.jpg",
+          "caption": "Hornea las tortillas",
+          "localImage": "/images/recipes/68493255b9b1c59f93d88ad2-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nPela y ralla el ajo.\nSeca la ternera y córtala en tiras finas.\nEn una sartén, calienta un chorrito de aceite a fuego alto. Añade la ternera, el ajo rallado y las especias mexicanas restantes y cocina 1-2 min, hasta que se dore.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Seca la <strong>ternera</strong> y córtala en tiras finas.</li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego alto. Añade la <strong>ternera,</strong> el <strong>ajo</strong> rallado y las <strong>especias mexicanas</strong> restantes y cocina 1-2 min, hasta que se dore.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Seca la <strong>ternera</strong> y córtala en tiras finas.</li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego alto. Añade la <strong>ternera,</strong> el <strong>ajo</strong> rallado y las <strong>especias mexicanas</strong> restantes y cocina 1-2 min, hasta que se dore.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493255b9b1c59f93d88ad2/step-93a48f40.jpg",
+          "path": "/68493255b9b1c59f93d88ad2/step-93a48f40.jpg",
+          "caption": "Cocina la carne",
+          "localImage": "/images/recipes/68493255b9b1c59f93d88ad2-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nCubre las tortillas de trigo con pasta chipotle al gusto, la ternera con sus jugos y pico de gallo.\nAñade sobre cada taco la salsa cítrica, el cilantro restante y la pulpa de aguacate.\nAcompaña con los totopos caseros y el pico de gallo restante.\n",
+      "instructionsHTML": "<ul>\n<li>Cubre las <strong>tortillas de trigo</strong> con <strong>pasta chipotle</strong> al gusto, la <strong>ternera</strong> con sus jugos y <strong>pico de gallo</strong>.</li>\n<li>Añade sobre cada <strong>taco</strong> la<strong> salsa cítrica</strong>, el <strong>cilantro</strong> restante y la <strong>pulpa de aguacate.</strong></li>\n<li>Acompaña con los <strong>totopos</strong> caseros y el <strong>pico de gallo</strong> restante.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cubre las <strong>tortillas de trigo</strong> con <strong>pasta chipotle</strong> al gusto, la <strong>ternera</strong> con sus jugos y <strong>pico de gallo</strong>.</li>\n<li>Añade sobre cada <strong>taco</strong> la<strong> salsa cítrica</strong>, el <strong>cilantro</strong> restante y la <strong>pulpa de aguacate.</strong></li>\n<li>Acompaña con los <strong>totopos</strong> caseros y el <strong>pico de gallo</strong> restante.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68493255b9b1c59f93d88ad2/step-04e88550.jpg",
+          "path": "/68493255b9b1c59f93d88ad2/step-04e88550.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/68493255b9b1c59f93d88ad2-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESSGSFB20875-3",
+  "updatedAt": "2026-02-03T14:10:38+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305366",
+      "type": "aluminumfoil",
+      "name": "Papel de aluminio"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "cd57597c-af3d-4685-af09-bf141613b060",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/tacos-de-ternera-marinada-y-pico-de-gallo-68493255b9b1c59f93d88ad2",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "65cb85095d025093059467eb",
+          "amount": 8,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63565b58edd6336545dbe131",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "65cb85095d025093059467eb",
+          "amount": 16,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63565b58edd6336545dbe131",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "65cb85095d025093059467eb",
+          "amount": 24,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 18,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63565b58edd6336545dbe131",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68493255b9b1c59f93d88ad2-Tacos de ternera con aguacate y totopos caseros.jpg",
+  "localCard": "/pdf/68493255b9b1c59f93d88ad2-Tacos de ternera con aguacate y totopos caseros.pdf"
+}

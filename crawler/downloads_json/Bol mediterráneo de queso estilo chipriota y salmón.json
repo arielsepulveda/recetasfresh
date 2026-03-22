@@ -1,0 +1,973 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "638a20d516676f814583bbe1",
+  "canonicalLink": "https://www.hellofresh.es/recipes/boniato-asado-con-queso-estilo-chipriota-638a20d516676f814583bbe1",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "6899a776cc90c7911daff29f",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-13T10:18:41+00:00",
+  "cuisines": [
+    {
+      "id": "67ebf900b2ffe612cd83e51b",
+      "type": "",
+      "name": "Middle Eastern",
+      "slug": ""
+    }
+  ],
+  "description": "Si quieres disfrutar de un plato diferente, sano y sabroso, no dejes de escoger esta receta para que llegue en tu próxima caja. Cada capa de este plato agrega un matiz de sabor y texturas que no te decepcionará, empezando por el boniato asado y acabando por la fresca salsa de yogur a la menta.",
+  "descriptionHTML": "<p>Si quieres disfrutar de un plato diferente, sano y sabroso, no dejes de escoger esta receta para que llegue en tu próxima caja. Cada capa de este plato agrega un matiz de sabor y texturas que no te decepcionará, empezando por el boniato asado y acabando por la fresca salsa de yogur a la menta.</p>",
+  "descriptionMarkdown": "Si quieres disfrutar de un plato diferente, sano y sabroso, no dejes de escoger esta receta para que llegue en tu próxima caja. Cada capa de este plato agrega un matiz de sabor y texturas que no te decepcionará, empezando por el boniato asado y acabando por la fresca salsa de yogur a la menta.",
+  "difficulty": 2,
+  "favoritesCount": 9,
+  "headline": "con boniato asado, yogur a la menta y cebolla encurtida",
+  "id": "689c66811597ca633109abf6",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R08_W08_ES_ESVCLV0027-2_Main_high-a63be5e6.jpg",
+  "imagePath": "/image/HF_Y23_R08_W08_ES_ESVCLV0027-2_Main_high-a63be5e6.jpg",
+  "ingredients": [
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340437941033266d7be9531",
+      "uuid": "61a2604a-ad14-5a3c-b00f-f81d58cb0c90",
+      "name": "Boniato",
+      "type": "sweet-potato",
+      "slug": "boniato",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "imagePath": "/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9531-Boniato.png"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "634043732268bc1bff0d3cb9",
+      "uuid": "bf396f23-64e6-52fb-9c2a-f3ea6e6a53f3",
+      "name": "Menta",
+      "type": "mint",
+      "slug": "menta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043732268bc1bff0d3cb9-1c90d3e8.png",
+      "imagePath": "/ingredient/634043732268bc1bff0d3cb9-1c90d3e8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043732268bc1bff0d3cb9-Menta.png"
+    },
+    {
+      "id": "6340437641033266d7be9528",
+      "uuid": "2904fadb-88de-569e-9c92-a87c61848fdb",
+      "name": "Chile",
+      "type": "red-chilli",
+      "slug": "chile",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9528-12333c56.png",
+      "imagePath": "/ingredient/6340437641033266d7be9528-12333c56.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9528-Chile.png"
+    },
+    {
+      "id": "634976b3e9568549b784980e",
+      "uuid": "29eb59dd-a095-51ac-b053-e2b300368bde",
+      "name": "Yogur griego",
+      "type": "greek-yogurt",
+      "slug": "yogur-griego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "imagePath": "/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634976b3e9568549b784980e-Yogur griego.png"
+    },
+    {
+      "id": "6340437841033266d7be952c",
+      "uuid": "827bd110-c089-50ac-9b7a-346ec7b98257",
+      "name": "Mezclum",
+      "type": "salad-mix",
+      "slug": "mezclum",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "imagePath": "/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437841033266d7be952c-Mezclum.png"
+    },
+    {
+      "id": "636b7f74371ed3efb1da61cd",
+      "uuid": "de1c411e-d847-53a1-916a-23d030518916",
+      "name": "Semillas de sésamo blancas",
+      "type": "white-sesame-seeds",
+      "slug": "semillas-de-sesamo-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "imagePath": "/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636b7f74371ed3efb1da61cd-Semillas de sésamo blancas.png"
+    },
+    {
+      "id": "635f88bb5ebcac2718d2fee9",
+      "uuid": "a69c7668-a546-418e-a0af-ec9b23156b6b",
+      "name": "Salmón noruego",
+      "type": "salmon",
+      "slug": "salmon-noruego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635f88bb5ebcac2718d2fee9-2c8d6e62.png",
+      "imagePath": "/ingredient/635f88bb5ebcac2718d2fee9-2c8d6e62.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635f88bb5ebcac2718d2fee9-Salmón noruego.png"
+    },
+    {
+      "id": "6340437141033266d7be9519",
+      "uuid": "d2e5fa55-596e-4c1c-9284-209ef34a844b",
+      "name": "Queso estilo chipriota",
+      "type": "grill-cheese",
+      "slug": "queso-estilo-chipriota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be9519-79039dfb.png",
+      "imagePath": "/ingredient/6340437141033266d7be9519-79039dfb.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be9519-Queso estilo chipriota.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "645bbdb422de2d12dae0e3ec",
+      "uuid": "a219293e-88f4-436d-a66e-6e9bc27c36d9",
+      "name": "Sal para encurtir",
+      "type": "salt-to-pickle",
+      "slug": "sal-para-encurtir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "imagePath": "/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/645bbdb422de2d12dae0e3ec-Sal para encurtir.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/689c66811597ca633109abf6",
+  "name": "Bol mediterráneo de queso estilo chipriota y salmón",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4163,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 995,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 70.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 26.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 63.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 18.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 46.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 5.4,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 622,
+  "slug": "bol-mediterraneo-de-verduras-y-salmon",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nPela y pica el ajo.\nPela la cebolla y córtala en tiras finas.\nCorta el boniato en bastones de 1 cm de grosor y 3-4 cm de longitud.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Corta el <strong>boniato</strong> en bastones de 1 cm de grosor y 3-4 cm de longitud.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Corta el <strong>boniato</strong> en bastones de 1 cm de grosor y 3-4 cm de longitud.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c66811597ca633109abf6/step-9c344500.jpg",
+          "path": "/689c66811597ca633109abf6/step-9c344500.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/689c66811597ca633109abf6-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nColoca el boniato en una bandeja de horno con papel de horno y agrega la mitad del ajo, un chorrito de aceite, sal y pimienta. \nRemueve y hornea a media altura 20-25 min o hasta que esté dorado. Da la vuelta a mitad de cocción.\n",
+      "instructionsHTML": "<ul>\n<li>Coloca el <strong>boniato</strong> en una bandeja de horno con papel de horno y agrega la mitad del <strong>ajo</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong><strong>. </strong></li>\n<li>Remueve y hornea a media altura 20-25 min o hasta que esté dorado. Da la vuelta a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca el <strong>boniato</strong> en una bandeja de horno con papel de horno y agrega la mitad del <strong>ajo</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong><strong>. </strong></li>\n<li>Remueve y hornea a media altura 20-25 min o hasta que esté dorado. Da la vuelta a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c66811597ca633109abf6/step-e97c2110.jpg",
+          "path": "/689c66811597ca633109abf6/step-e97c2110.jpg",
+          "caption": "Hornea el boniato",
+          "localImage": "/images/recipes/689c66811597ca633109abf6-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nColoca el salmón con la piel hacia abajo en la bandeja de horno con papel de horno.\nAdereza con sal y pimienta y hornea a media altura 12-15 min o hasta que quede bien cocinado..\n",
+      "instructionsHTML": "<ul>\n<li>Coloca el <strong>salmón </strong>con la piel hacia abajo en la bandeja de horno con papel de horno.</li>\n<li>Adereza con <strong>sal </strong>y <strong>pimienta </strong>y hornea a media altura 12-15 min o hasta que quede bien cocinado.<br>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca el <strong>salmón </strong>con la piel hacia abajo en la bandeja de horno con papel de horno.</li>\n<li>Adereza con <strong>sal </strong>y <strong>pimienta </strong>y hornea a media altura 12-15 min o hasta que quede bien cocinado.<br>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305397",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c66811597ca633109abf6/step-02aa2120.jpg",
+          "path": "/689c66811597ca633109abf6/step-02aa2120.jpg",
+          "caption": "Cocina el queso",
+          "localImage": "/images/recipes/689c66811597ca633109abf6-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nMientras tanto, ralla la piel del limón.\nEn un bol, exprime el zumo de la mitad del limón, luego, agrega la cebolla y la sal para encurtir. Mezcla y deja reposar.\nDeshoja y pica la menta.\nPica el chile rojo.\n\nRECUERDA: Utiliza guantes para manipular el chile y lávate las manos y los utensilios después.",
+      "instructionsHTML": "<ul>\n<li>Mientras tanto, ralla la piel del <strong>limón</strong>.</li>\n<li>En un bol, exprime el zumo de la mitad del <strong>limón</strong>, luego, agrega la <strong>cebolla</strong> y la <strong>sal para encurtir</strong>. Mezcla y deja reposar.</li>\n<li>Deshoja y pica la <strong>menta</strong>.</li>\n<li>Pica el <strong>chile rojo</strong>.</li>\n</ul>\n<p>RECUERDA: Utiliza guantes para manipular el chile y lávate las manos y los utensilios después.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Mientras tanto, ralla la piel del <strong>limón</strong>.</li>\n<li>En un bol, exprime el zumo de la mitad del <strong>limón</strong>, luego, agrega la <strong>cebolla</strong> y la <strong>sal para encurtir</strong>. Mezcla y deja reposar.</li>\n<li>Deshoja y pica la <strong>menta</strong>.</li>\n<li>Pica el <strong>chile rojo</strong>.</li>\n</ul>\n<p>RECUERDA: Utiliza guantes para manipular el chile y lávate las manos y los utensilios después.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c66811597ca633109abf6/step-f6f15930.jpg",
+          "path": "/689c66811597ca633109abf6/step-f6f15930.jpg",
+          "caption": "Encurte la cebolla",
+          "localImage": "/images/recipes/689c66811597ca633109abf6-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn un bol pequeño, mezcla el yogur griego, el ajo restante, chile rojo al gusto, la mitad de la menta picada, ralladura de limón al gusto, un chorrito de aceite, sal y pimienta.\nEn una ensaladera, mezcla un chorrito de aceite y el vinagre. Justo antes de servir, agrega el mezclum y remueve.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol pequeño, mezcla el <strong>yogur</strong> <strong>griego</strong>, el <strong>ajo</strong> restante, <strong>chile rojo</strong> al gusto, la mitad de la <strong>menta</strong> picada, <strong>ralladura de</strong> <strong>limón</strong> al gusto, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>En una ensaladera, mezcla un chorrito de <strong>aceite</strong> y el <strong>vinagre</strong>. Justo antes de servir, agrega el <strong>mezclum</strong> y remueve.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol pequeño, mezcla el <strong>yogur</strong> <strong>griego</strong>, el <strong>ajo</strong> restante, <strong>chile rojo</strong> al gusto, la mitad de la <strong>menta</strong> picada, <strong>ralladura de</strong> <strong>limón</strong> al gusto, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>En una ensaladera, mezcla un chorrito de <strong>aceite</strong> y el <strong>vinagre</strong>. Justo antes de servir, agrega el <strong>mezclum</strong> y remueve.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c66811597ca633109abf6/step-04117240.jpg",
+          "path": "/689c66811597ca633109abf6/step-04117240.jpg",
+          "caption": "Prepara la salsa y la ensalada",
+          "localImage": "/images/recipes/689c66811597ca633109abf6-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la ensalada en platos y cubre con el boniato, semillas de sésamo al gusto y la salsa de yogur.\nColoca encima el salmón y la cebolla encurtida escurrida.\nAcaba con menta picada y zumo de limón al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve la <strong>ensalada</strong> en platos y cubre con el <strong>boniato</strong>, <strong>semillas de sésamo</strong> al gusto y la <strong>salsa de yogur</strong>.</li>\n<li>Coloca encima el <strong>salmón</strong> y la <strong>cebolla encurtida</strong> escurrida.</li>\n<li>Acaba con <strong>menta</strong> picada y <strong>zumo de</strong> <strong>limón</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve la <strong>ensalada</strong> en platos y cubre con el <strong>boniato</strong>, <strong>semillas de sésamo</strong> al gusto y la <strong>salsa de yogur</strong>.</li>\n<li>Coloca encima el <strong>salmón</strong> y la <strong>cebolla encurtida</strong> escurrida.</li>\n<li>Acaba con <strong>menta</strong> picada y <strong>zumo de</strong> <strong>limón</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c66811597ca633109abf6/step-79efdc50.jpg",
+          "path": "/689c66811597ca633109abf6/step-79efdc50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/689c66811597ca633109abf6-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESVCLV0027-AP-1-2",
+  "updatedAt": "2026-01-23T15:19:38+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "6f04ed25-a6c4-4113-9a65-f9cd58d855e1",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/bol-mediterraneo-de-verduras-y-salmon-689c66811597ca633109abf6",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 7.995,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be9519",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be9519",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 23.985,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be9519",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/689c66811597ca633109abf6-Bol mediterráneo de queso estilo chipriota y salmón.jpg"
+}

@@ -1,0 +1,809 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f4",
+      "name": "Crustáceos",
+      "type": "crustaceans",
+      "slug": "crustaceos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 4,
+  "canonical": "682448fab511ee4a266bd526",
+  "canonicalLink": "https://www.hellofresh.es/recipes/timbal-de-quinoa-tres-colores-con-burrata-pulpa-de-aguacate-y-manzana-a-la-curcuma-682448fab511ee4a266bd526",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "6883ad2ab6ffa7a20c3b6810",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-07-30T14:33:35+00:00",
+  "cuisines": [
+    {
+      "id": "67ebf900b2ffe612cd83e51b",
+      "type": "",
+      "name": "Middle Eastern",
+      "slug": ""
+    }
+  ],
+  "description": "¿Quién dijo que el emplatado no importa? Los timbales nacen en la cocina francesa como un guiño a la elegancia: capas ordenadas de ingredientes, montadas con mimo en moldes cilíndricos. Más que una técnica, es una manera sencilla de subir tus platos de nivel.",
+  "descriptionHTML": "<p>¿Quién dijo que el emplatado no importa? Los timbales nacen en la cocina francesa como un guiño a la elegancia: capas ordenadas de ingredientes, montadas con mimo en moldes cilíndricos. Más que una técnica, es una manera sencilla de subir tus platos de nivel.</p>",
+  "descriptionMarkdown": "¿Quién dijo que el emplatado no importa? Los timbales nacen en la cocina francesa como un guiño a la elegancia: capas ordenadas de ingredientes, montadas con mimo en moldes cilíndricos. Más que una técnica, es una manera sencilla de subir tus platos de nivel.",
+  "difficulty": 1,
+  "favoritesCount": 7,
+  "headline": "con manzana a la cúrcuma, pulpa de aguacate y tomate",
+  "id": "688a2d3e1cc5cea71280b5e8",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R13_W36_ES_ESCQVCLV44727-2_Main_high-12842a86.jpg",
+  "imagePath": "/image/HF_Y25_R13_W36_ES_ESCQVCLV44727-2_Main_high-12842a86.jpg",
+  "ingredients": [
+    {
+      "id": "660c47363f0f2e6d306d88d8",
+      "uuid": "0e397890-0271-5886-930f-388b82971540",
+      "name": "Quinoa tricolor",
+      "type": "tri-colour-quinoa",
+      "slug": "quinoa-tricolor",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/660c47363f0f2e6d306d88d8-19905dba.png",
+      "imagePath": "/ingredient/660c47363f0f2e6d306d88d8-19905dba.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/660c47363f0f2e6d306d88d8-Quinoa tricolor.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca0",
+      "uuid": "e2769482-364e-53c8-97cc-79b0d2b33e8a",
+      "name": "Manzana",
+      "type": "apple",
+      "slug": "manzana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca0-Manzana.png"
+    },
+    {
+      "id": "6671a06877d4ed4ef24a239a",
+      "uuid": "04e5d056-bb09-43d9-b7ef-94a027495381",
+      "name": "Pulpa de aguacate",
+      "type": "avocado-spread",
+      "slug": "pulpa-de-aguacate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6671a06877d4ed4ef24a239a-c5137cc5.png",
+      "imagePath": "/ingredient/6671a06877d4ed4ef24a239a-c5137cc5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6671a06877d4ed4ef24a239a-Pulpa de aguacate.png"
+    },
+    {
+      "id": "634043712268bc1bff0d3cb0",
+      "uuid": "7f47267d-fc48-5b48-bab5-e0930fdfd296",
+      "name": "Cúrcuma en polvo",
+      "type": "ground-turmeric",
+      "slug": "curcuma-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043712268bc1bff0d3cb0-13710268.png",
+      "imagePath": "/ingredient/634043712268bc1bff0d3cb0-13710268.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043712268bc1bff0d3cb0-Cúrcuma en polvo.png"
+    },
+    {
+      "id": "6451269fe915ac78ee7c67ec",
+      "uuid": "859a77cd-1f8a-5303-ab71-50625ff579c6",
+      "name": "Burrata italiana",
+      "type": "burrata",
+      "slug": "burrata-italiana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6451269fe915ac78ee7c67ec-844c68ff.png",
+      "imagePath": "/ingredient/6451269fe915ac78ee7c67ec-844c68ff.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6451269fe915ac78ee7c67ec-Burrata italiana.png"
+    },
+    {
+      "id": "6340436e41033266d7be950e",
+      "uuid": "b443c50a-b3b3-510c-93ac-01d6610777a3",
+      "name": "Cebollino",
+      "type": "chives",
+      "slug": "cebollino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "imagePath": "/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be950e-Cebollino.png"
+    },
+    {
+      "id": "63724760422e0b6ac4f85686",
+      "uuid": "0b18a29e-c9df-5b77-903e-c2e60206b65a",
+      "name": "Langostinos",
+      "type": "shrimps",
+      "slug": "langostinos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "imagePath": "/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f4"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63724760422e0b6ac4f85686-Langostinos.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "65b9f37ed1da3988cdd8ea2e",
+      "uuid": "2172102e-c765-43f0-a8ee-369a17e6ad6f",
+      "name": "Vinagre",
+      "type": "vinegar-in-tbsp",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "imagePath": "/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65b9f37ed1da3988cdd8ea2e-Vinagre.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/688a2d3e1cc5cea71280b5e8",
+  "name": "Timbal de quinoa tricolor con langostinos y burrata",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3206,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 766,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 47.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 67.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 29.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.68,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 1,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 453,
+  "slug": "timbal-de-quinoa-tricolor-con-langostinos-y-burrata",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nEn un cazo, agrega el agua, sal y la quinoa.\nLleva a ebullición, luego, cocina tapado a fuego medio-bajo 12 min.\nUna vez listo, remueve y deja reposar con la tapa puesta un par de minutos.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En un cazo, agrega el <strong>agua, sal</strong> y la <strong>quinoa.</strong></li>\n<li>Lleva a ebullición, luego, cocina tapado a fuego medio-bajo 12 min.</li>\n<li>Una vez listo, remueve y deja reposar con la tapa puesta un par de minutos.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En un cazo, agrega el <strong>agua, sal</strong> y la <strong>quinoa.</strong></li>\n<li>Lleva a ebullición, luego, cocina tapado a fuego medio-bajo 12 min.</li>\n<li>Una vez listo, remueve y deja reposar con la tapa puesta un par de minutos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a2d3e1cc5cea71280b5e8/step-fd65eb00.jpg",
+          "path": "/688a2d3e1cc5cea71280b5e8/step-fd65eb00.jpg",
+          "caption": "Cuece la quinoa",
+          "localImage": "/images/recipes/688a2d3e1cc5cea71280b5e8-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCorta el tomate en cubos pequeños.\nEn un bol, agrega el tomate, el vinagre, un chorrito de aceite, sal y pimienta.\nCorta la manzana en cubos pequeños.\nColoca la pulpa de aguacate en un bol y adereza con un chorrito de aceite, sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>Corta el <strong>tomate</strong> en cubos pequeños.</li>\n<li>En un bol, agrega el <strong>tomate,</strong> el <strong>vinagre,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Corta la <strong>manzana</strong> en cubos pequeños.</li>\n<li>Coloca la <strong>pulpa de aguacate</strong> en un bol y adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta el <strong>tomate</strong> en cubos pequeños.</li>\n<li>En un bol, agrega el <strong>tomate,</strong> el <strong>vinagre,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Corta la <strong>manzana</strong> en cubos pequeños.</li>\n<li>Coloca la <strong>pulpa de aguacate</strong> en un bol y adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a2d3e1cc5cea71280b5e8/step-089ada10.jpg",
+          "path": "/688a2d3e1cc5cea71280b5e8/step-089ada10.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/688a2d3e1cc5cea71280b5e8-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCuando esté lista, adereza la quinoa con un chorrito de aceite, sal y pimienta.\nLuego, colócala en un molde circular, y sirve la quinoa en platos, presionando dentro del molde para que quede lisa y mantenga la forma.\nEn el cazo, agrega el agua para la salsa, la cúrcuma y el azúcar y lleva a ebullición durante 2 min, hasta que el azúcar se disuelva, removiendo.\nAñade la manzana y cocina 3 min más, cubriendo con la mezcla.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando esté lista, adereza la <strong>quinoa</strong> con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li dir=\"ltr\">Luego, colócala en un molde circular, y sirve la <strong>quinoa</strong> en platos, presionando dentro del molde para que quede lisa y mantenga la forma.</li>\n<li dir=\"ltr\">En el cazo, agrega el <strong>agua para la salsa, </strong>la<strong> cúrcuma </strong>y el <strong>azúcar</strong> y lleva a ebullición durante 2 min, hasta que el <strong>azúcar</strong> se disuelva, removiendo.</li>\n<li dir=\"ltr\">Añade la <strong>manzana</strong> y cocina 3 min más, cubriendo con la mezcla.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando esté lista, adereza la <strong>quinoa</strong> con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li dir=\"ltr\">Luego, colócala en un molde circular, y sirve la <strong>quinoa</strong> en platos, presionando dentro del molde para que quede lisa y mantenga la forma.</li>\n<li dir=\"ltr\">En el cazo, agrega el <strong>agua para la salsa, </strong>la<strong> cúrcuma </strong>y el <strong>azúcar</strong> y lleva a ebullición durante 2 min, hasta que el <strong>azúcar</strong> se disuelva, removiendo.</li>\n<li dir=\"ltr\">Añade la <strong>manzana</strong> y cocina 3 min más, cubriendo con la mezcla.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a2d3e1cc5cea71280b5e8/step-1f5fe520.jpg",
+          "path": "/688a2d3e1cc5cea71280b5e8/step-1f5fe520.jpg",
+          "caption": "Prepara la manzana",
+          "localImage": "/images/recipes/688a2d3e1cc5cea71280b5e8-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEscurre la manzana.\nDesmenuza la burrata.\nPica el cebollino.\nSeca los langostinos, salpimienta y cocina en el cazo a fuego medio-alto con un chorrito de aceite 1-2 min.\nCubre la base de quinoa, siguiendo este orden y haciendo capas con ayuda del molde circular, con la manzana, el tomate, la pulpa de aguacate y la burrata desmenuzada.\nAcaba con un chorrito de aceite, pimienta y el cebollino al gusto.\nAñade los langostinos al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Escurre la <strong>manzana.</strong></li>\n<li>Desmenuza la <strong>burrata.</strong></li>\n<li>Pica el<strong> cebollino.</strong></li>\n<li>Seca los <strong>langostinos, salpimienta</strong> y cocina en el cazo a fuego medio-alto con un chorrito de aceite 1-2 min.</li>\n<li>Cubre la base de <strong>quinoa,</strong> siguiendo este orden y haciendo capas con ayuda del molde circular, con la <strong>manzana,</strong> el <strong>tomate,</strong> la <strong>pulpa de aguacate</strong> y la <strong>burrata</strong> desmenuzada.</li>\n<li>Acaba con un chorrito de <strong>aceite, pimienta</strong> y el <strong>cebollino </strong>al gusto.</li>\n<li>Añade los <strong>langostinos</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Escurre la <strong>manzana.</strong></li>\n<li>Desmenuza la <strong>burrata.</strong></li>\n<li>Pica el<strong> cebollino.</strong></li>\n<li>Seca los <strong>langostinos, salpimienta</strong> y cocina en el cazo a fuego medio-alto con un chorrito de aceite 1-2 min.</li>\n<li>Cubre la base de <strong>quinoa,</strong> siguiendo este orden y haciendo capas con ayuda del molde circular, con la <strong>manzana,</strong> el <strong>tomate,</strong> la <strong>pulpa de aguacate</strong> y la <strong>burrata</strong> desmenuzada.</li>\n<li>Acaba con un chorrito de <strong>aceite, pimienta</strong> y el <strong>cebollino </strong>al gusto.</li>\n<li>Añade los <strong>langostinos</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a2d3e1cc5cea71280b5e8/step-27f0c330.jpg",
+          "path": "/688a2d3e1cc5cea71280b5e8/step-27f0c330.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/688a2d3e1cc5cea71280b5e8-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCQVCLV44727-AP-1-2",
+  "updatedAt": "2026-01-20T20:19:21+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    }
+  ],
+  "uuid": "e5362bf2-8410-4242-a495-8130167577e8",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/timbal-de-quinoa-tricolor-con-langostinos-y-burrata-688a2d3e1cc5cea71280b5e8",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "660c47363f0f2e6d306d88d8",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043712268bc1bff0d3cb0",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6451269fe915ac78ee7c67ec",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "660c47363f0f2e6d306d88d8",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043712268bc1bff0d3cb0",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6451269fe915ac78ee7c67ec",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "660c47363f0f2e6d306d88d8",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043712268bc1bff0d3cb0",
+          "amount": 1.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6451269fe915ac78ee7c67ec",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 900,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/688a2d3e1cc5cea71280b5e8-Timbal de quinoa tricolor con langostinos y burrata.jpg"
+}

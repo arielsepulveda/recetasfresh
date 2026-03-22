@@ -1,0 +1,628 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 2.4,
+  "canonical": "650afe1653d80a0362117409",
+  "canonicalLink": "https://www.hellofresh.es/recipes/heura-al-ajillo-con-champinones-salteados-650afe1653d80a0362117409",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/heura-ajillo-pure-patatas-638a21114af6d17490441206-a198a495.pdf",
+  "category": null,
+  "clonedFrom": "634979e3971d5eddb3ff71af",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-02T16:00:17+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "En nuestra gastronomía, el pollo o conejo al ajillo es muy reconocible, pero en HelloFresh nos hemos propuesto que todos los paladares puedan disfrutar de los platos de aquí y allá. Por ello, te ofrecemos que pruebes esta receta de Heura al ajillo, en el que inundamos este sustitutivo de la carne a base de soja con la popular salsa y lo acompañamos con un cremoso puré de patata.",
+  "descriptionHTML": "<p>En nuestra gastronomía, el pollo o conejo al ajillo es muy reconocible, pero en HelloFresh nos hemos propuesto que todos los paladares puedan disfrutar de los platos de aquí y allá. Por ello, te ofrecemos que pruebes esta receta de Heura al ajillo, en el que inundamos este sustitutivo de la carne a base de soja con la popular salsa y lo acompañamos con un cremoso puré de patata.</p>",
+  "descriptionMarkdown": "En nuestra gastronomía, el pollo o conejo al ajillo es muy reconocible, pero en HelloFresh nos hemos propuesto que todos los paladares puedan disfrutar de los platos de aquí y allá. Por ello, te ofrecemos que pruebes esta receta de Heura al ajillo, en el que inundamos este sustitutivo de la carne a base de soja con la popular salsa y lo acompañamos con un cremoso puré de patata.",
+  "difficulty": 1,
+  "favoritesCount": 17,
+  "headline": "con puré de patatas y perejil fresco",
+  "id": "638a21114af6d17490441206",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R08_W09_ES_ESVV0199-113383-2_Main_high-284dcdfc.jpg",
+  "imagePath": "/image/HF_Y23_R08_W09_ES_ESVV0199-113383-2_Main_high-284dcdfc.jpg",
+  "ingredients": [
+    {
+      "id": "6364ec6550d7477cd4c1cbbf",
+      "uuid": "8fb19217-d717-417c-b34b-0cbf15d7e5ea",
+      "name": "Heura",
+      "type": "plant-based-meat-heura",
+      "slug": "heura",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ec6550d7477cd4c1cbbf-5c38d234.png",
+      "imagePath": "/ingredient/6364ec6550d7477cd4c1cbbf-5c38d234.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ec6550d7477cd4c1cbbf-Heura.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492a38ebf08332f1bff158",
+      "uuid": "f3edd1e7-4508-4709-aa78-41efa824db4d",
+      "name": "Harina",
+      "type": "flour",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a38ebf08332f1bff158-ff411a48.png",
+      "imagePath": "/ingredient/63492a38ebf08332f1bff158-ff411a48.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a38ebf08332f1bff158-Harina.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/638a21114af6d17490441206",
+  "name": "Heura al ajillo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 458,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1917,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 5.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 0.82,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 45.87,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 4.25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 5.24,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 20.14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.94,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 20,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 362,
+  "slug": "heura-al-ajillo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Pela las patatas y córtalas en dados de 2 cm. En una olla, agrega las patatas, cúbrelas con abundante agua y añade una pizca de sal. Cocina por 12-15 min o hasta que estén blandas. Pela la cebolla y corta una mitad (doble para 4p) en cubitos pequeños. Pela los ajos (ver cantidad en ingredientes) y aplástalos con la hoja de un cuchillo. Pica finamente la mitad del perejil (doble para 4p).",
+      "instructionsHTML": "<p>Pela las <strong>patatas</strong> y córtalas en dados de 2 cm. En una olla, agrega las <strong>patatas</strong>, cúbrelas con abundante <strong>agua</strong> y añade una pizca de <strong>sal</strong>. Cocina por 12-15 min o hasta que estén blandas. Pela la <strong>cebolla</strong> y corta una mitad (doble para 4p) en cubitos pequeños. Pela los <strong>ajos</strong> (ver cantidad en ingredientes) y aplástalos con la hoja de un cuchillo. Pica finamente la mitad del <strong>perejil</strong> (doble para 4p).</p>",
+      "instructionsMarkdown": "<p>Pela las <strong>patatas</strong> y córtalas en dados de 2 cm. En una olla, agrega las <strong>patatas</strong>, cúbrelas con abundante <strong>agua</strong> y añade una pizca de <strong>sal</strong>. Cocina por 12-15 min o hasta que estén blandas. Pela la <strong>cebolla</strong> y corta una mitad (doble para 4p) en cubitos pequeños. Pela los <strong>ajos</strong> (ver cantidad en ingredientes) y aplástalos con la hoja de un cuchillo. Pica finamente la mitad del <strong>perejil</strong> (doble para 4p).</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e8671"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21114af6d17490441206/step-bdda3400.jpg",
+          "path": "/638a21114af6d17490441206/step-bdda3400.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/638a21114af6d17490441206-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Mientras, pon a calentar una sartén a fuego medio con un chorrito de aceite. Una vez caliente, agrega la heura y saltea durante 4 min, hasta que empiece a dorarse. Retira y reserva.",
+      "instructionsHTML": "<p>Mientras, pon a calentar una sartén a fuego medio con un chorrito de <strong>aceite</strong>. Una vez caliente, agrega la <strong>heura</strong> y saltea durante 4 min, hasta que empiece a dorarse. Retira y reserva.</p>",
+      "instructionsMarkdown": "<p>Mientras, pon a calentar una sartén a fuego medio con un chorrito de <strong>aceite</strong>. Una vez caliente, agrega la <strong>heura</strong> y saltea durante 4 min, hasta que empiece a dorarse. Retira y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21114af6d17490441206/step-d40a6210.jpg",
+          "path": "/638a21114af6d17490441206/step-d40a6210.jpg",
+          "caption": "Saltea la heura",
+          "localImage": "/images/recipes/638a21114af6d17490441206-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la misma sartén, pon a calentar el aceite de oliva (ver cantidad en ingredientes) y los ajos. Cocina a fuego medio 1-2 min, hasta que empiecen a dorarse. Añade la cebolla y cocina 4-5 min. Añade la harina (ver cantidad en ingredientes) y cocina 1-2 min removiendo. Luego, agrega el agua (ver cantidad en ingredientes) y el caldo vegetal en polvo y cocina 4-5 min, hasta que la salsa se espese un poco, salpimienta. Retira los ajos machacados.",
+      "instructionsHTML": "<p>En la misma sartén, pon a calentar el <strong>aceite</strong> <strong>de oliva</strong> (ver cantidad en ingredientes) y los <strong>ajos</strong>. Cocina a fuego medio 1-2 min, hasta que empiecen a dorarse. Añade la <strong>cebolla</strong> y cocina 4-5 min. Añade la <strong>harina</strong> (ver cantidad en ingredientes) y cocina 1-2 min removiendo. Luego, agrega el <strong>agua</strong> (ver cantidad en ingredientes) y el <strong>caldo vegetal</strong> en polvo y cocina 4-5 min, hasta que la salsa se espese un poco, <strong>salpimienta</strong>. Retira los <strong>ajos</strong> machacados.</p>",
+      "instructionsMarkdown": "<p>En la misma sartén, pon a calentar el <strong>aceite</strong> <strong>de oliva</strong> (ver cantidad en ingredientes) y los <strong>ajos</strong>. Cocina a fuego medio 1-2 min, hasta que empiecen a dorarse. Añade la <strong>cebolla</strong> y cocina 4-5 min. Añade la <strong>harina</strong> (ver cantidad en ingredientes) y cocina 1-2 min removiendo. Luego, agrega el <strong>agua</strong> (ver cantidad en ingredientes) y el <strong>caldo vegetal</strong> en polvo y cocina 4-5 min, hasta que la salsa se espese un poco, <strong>salpimienta</strong>. Retira los <strong>ajos</strong> machacados.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21114af6d17490441206/step-ef6da720.jpg",
+          "path": "/638a21114af6d17490441206/step-ef6da720.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/638a21114af6d17490441206-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Agrega a la sartén la heura salteada y la mitad del perejil picado. Cocina durante 1-2 min más, mezclando todo bien. Salpimienta al gusto.",
+      "instructionsHTML": "<p>Agrega a la sartén la <strong>heura</strong> salteada y la mitad del <strong>perejil</strong> picado. Cocina durante 1-2 min más, mezclando todo bien. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Agrega a la sartén la <strong>heura</strong> salteada y la mitad del <strong>perejil</strong> picado. Cocina durante 1-2 min más, mezclando todo bien. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21114af6d17490441206/step-f7cbaf30.jpg",
+          "path": "/638a21114af6d17490441206/step-f7cbaf30.jpg",
+          "caption": "Agrega la heura",
+          "localImage": "/images/recipes/638a21114af6d17490441206-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando las patatas estén cocinadas, escúrrelas con ayuda de un colador. Devuelve las patatas a la misma olla y añade un chorrito de aceite, y sal y pimienta al gusto. Con la ayuda de un pasapurés o un tenedor, machaca las patatas hasta que quede un puré fino. ",
+      "instructionsHTML": "<p><strong>Cuando</strong> las patatas estén cocinadas, escúrrelas con ayuda de un colador. Devuelve las patatas a la misma olla y añade un chorrito de <strong>aceite,</strong> y <strong>sal</strong> y <strong>pimienta</strong> al gusto. Con la ayuda de un pasapurés o un tenedor, machaca las <strong>patatas</strong> hasta que quede un puré fino. </p>",
+      "instructionsMarkdown": "<p><strong>Cuando</strong> las patatas estén cocinadas, escúrrelas con ayuda de un colador. Devuelve las patatas a la misma olla y añade un chorrito de <strong>aceite,</strong> y <strong>sal</strong> y <strong>pimienta</strong> al gusto. Con la ayuda de un pasapurés o un tenedor, machaca las <strong>patatas</strong> hasta que quede un puré fino. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305393",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21114af6d17490441206/step-f8f14140.jpg",
+          "path": "/638a21114af6d17490441206/step-f8f14140.jpg",
+          "caption": "Prepara el puré",
+          "localImage": "/images/recipes/638a21114af6d17490441206-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve la heura al ajillo y, a un lado, coloca el puré de patatas. Decora con el perejil restante al gusto.",
+      "instructionsHTML": "<p>Sirve la <strong>heura</strong> <strong>al ajillo</strong> y, a un lado, coloca el <strong>puré de patatas</strong>. Decora con el <strong>perejil</strong> restante al gusto.</p>",
+      "instructionsMarkdown": "<p>Sirve la <strong>heura</strong> <strong>al ajillo</strong> y, a un lado, coloca el <strong>puré de patatas</strong>. Decora con el <strong>perejil</strong> restante al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21114af6d17490441206/step-c929cb50.jpg",
+          "path": "/638a21114af6d17490441206/step-c929cb50.jpg",
+          "caption": "Emplata",
+          "localImage": "/images/recipes/638a21114af6d17490441206-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegano",
+      "slug": "vegano",
+      "colorHandle": "vegan",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESVV0199-113383-2",
+  "updatedAt": "2026-01-21T13:59:41+00:00",
+  "utensils": [
+    {
+      "id": "59d49a9319279f8fe60e8671",
+      "type": "medium-pot",
+      "name": "Olla mediana"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305393",
+      "type": "potato-masher",
+      "name": "Pasapurés"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "8fd45d6e-de87-4215-9c97-955cd012f35f",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/heura-al-ajillo-638a21114af6d17490441206",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6364ec6550d7477cd4c1cbbf",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 10,
+          "unit": "gramo(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6364ec6550d7477cd4c1cbbf",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 20,
+          "unit": "gramo(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/638a21114af6d17490441206-Heura al ajillo.jpg",
+  "localCard": "/pdf/638a21114af6d17490441206-Heura al ajillo.pdf"
+}

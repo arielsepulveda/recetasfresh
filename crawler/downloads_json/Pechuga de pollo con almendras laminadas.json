@@ -1,0 +1,826 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/pollo-almendras-guiso-verduras-638a209516676f814583bbd9-0692a181.pdf",
+  "category": null,
+  "clonedFrom": "6347ef45bb36093c54997926",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-02T15:58:13+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a3",
+      "type": "african",
+      "name": "Africana",
+      "slug": "africana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a3-3f3a3d24.jpg"
+    }
+  ],
+  "description": "Déjate enamorar por este plato de sabores y especias de inspiración norteafricana con un guiso de verduras en la base y una pechuga de pollo acompañada de crujientes almendras tostadas.",
+  "descriptionHTML": "<p>Déjate enamorar por este plato de sabores y especias de inspiración norteafricana con un guiso de verduras en la base y una pechuga de pollo acompañada de crujientes almendras tostadas.</p>",
+  "descriptionMarkdown": "Déjate enamorar por este plato de sabores y especias de inspiración norteafricana con un guiso de verduras en la base y una pechuga de pollo acompañada de crujientes almendras tostadas.",
+  "difficulty": 2,
+  "favoritesCount": 28,
+  "headline": "y guiso de verduras al estilo marroquí",
+  "id": "638a209516676f814583bbd9",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221222_R13_W06_ES_ESFCLC0040-2_KB_Main_high-81fd9f64.jpg",
+  "imagePath": "/image/HF221222_R13_W06_ES_ESFCLC0040-2_KB_Main_high-81fd9f64.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "63da221bdb1fd0bc84bb9736",
+      "uuid": "ba743c71-aa0e-56f6-9a65-1dc7cd42dbb5",
+      "name": "Almendras laminadas",
+      "type": "flaked-almonds",
+      "slug": "almendras-laminadas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da221bdb1fd0bc84bb9736-bc41fdd0.png",
+      "imagePath": "/ingredient/63da221bdb1fd0bc84bb9736-bc41fdd0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da221bdb1fd0bc84bb9736-Almendras laminadas.png"
+    },
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340437641033266d7be9527",
+      "uuid": "24b9e5cf-a1b3-5d7b-893f-d19ca596f060",
+      "name": "Ras-el-Hanout",
+      "type": "ras-el-hanout-spice-mix",
+      "slug": "ras-el-hanout",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9527-0c7e7985.png",
+      "imagePath": "/ingredient/6340437641033266d7be9527-0c7e7985.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9527-Ras-el-Hanout.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "6340437a41033266d7be9534",
+      "uuid": "c7440604-41b7-5ef5-b2b3-8f83c31bccf9",
+      "name": "Tomate concentrado",
+      "type": "tomato-puree",
+      "slug": "tomate-concentrado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "imagePath": "/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9534-Tomate concentrado.jpg"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/638a209516676f814583bbd9",
+  "name": "Pechuga de pollo con almendras laminadas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 479,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2005,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 5.53,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 0.54,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 59.41,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 16.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 34.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.44,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 48,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 569,
+  "slug": "pechuga-de-pollo-con-almendras-laminadas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Pela la cebolla y corta una mitad (doble para 4p) en cubitos pequeños. Pela las patatas y trocéalas en dados grandes. Pela la zanahoria con ayuda de un pelador y córtala en cubos de 1 cm. En una olla, calienta un chorrito de aceite y agrega la cebolla y una pizca de sal. Saltea 1 min a fuego medio.",
+      "instructionsHTML": "<p dir=\"ltr\">Pela la <strong>cebolla </strong>y corta una mitad (doble para 4p) en cubitos pequeños. Pela las <strong>patatas</strong> y trocéalas en dados grandes. Pela la <strong>zanahoria</strong> con ayuda de un pelador y córtala en cubos de 1 cm. En una olla, calienta un chorrito de <strong>aceite</strong> y agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong>. Saltea 1 min a fuego medio.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pela la <strong>cebolla </strong>y corta una mitad (doble para 4p) en cubitos pequeños. Pela las <strong>patatas</strong> y trocéalas en dados grandes. Pela la <strong>zanahoria</strong> con ayuda de un pelador y córtala en cubos de 1 cm. En una olla, calienta un chorrito de <strong>aceite</strong> y agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong>. Saltea 1 min a fuego medio.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a209516676f814583bbd9/step-bf4e0800.jpg",
+          "path": "/638a209516676f814583bbd9/step-bf4e0800.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/638a209516676f814583bbd9-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Agrega las patatas, la zanahoria y el Ras-el-Hanout a la olla y saltea durante 1 min más. Vierte en la olla el agua (ver cantidad en ingredientes) y agrega el caldo vegetal en polvo. Lleva a ebullición y cocina a fuego lento, tapado, durante 20-25 min. Remueve regularmente.",
+      "instructionsHTML": "<p>Agrega las <strong>patatas</strong>, la <strong>zanahoria</strong> y el <strong>Ras-el-Hanout</strong> a la olla y saltea durante 1 min más. Vierte en la olla el <strong>agua </strong>(ver cantidad en ingredientes) y agrega el <strong>caldo vegetal</strong> en polvo. Lleva a ebullición y cocina a fuego lento, tapado, durante 20-25 min. Remueve regularmente.</p>",
+      "instructionsMarkdown": "<p>Agrega las <strong>patatas</strong>, la <strong>zanahoria</strong> y el <strong>Ras-el-Hanout</strong> a la olla y saltea durante 1 min más. Vierte en la olla el <strong>agua </strong>(ver cantidad en ingredientes) y agrega el <strong>caldo vegetal</strong> en polvo. Lleva a ebullición y cocina a fuego lento, tapado, durante 20-25 min. Remueve regularmente.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a209516676f814583bbd9/step-19090710.jpg",
+          "path": "/638a209516676f814583bbd9/step-19090710.jpg",
+          "caption": "Cocina las verduras y agrega el caldo",
+          "localImage": "/images/recipes/638a209516676f814583bbd9-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Mientras tanto, pica en trozos grandes la mitad del perejil (doble para 4p). Corta el tomate en gajos. Agrega el tomate concentrado a la olla cuando queden 5 min para que termine de cocinarse. Deja cocinar, sin tapa, estos últimos 5 min. Añade el tomate en gajos y la miel en el último momento. Salpimienta y remueve para que todo se integre.",
+      "instructionsHTML": "<p dir=\"ltr\">Mientras tanto, pica en trozos grandes la mitad del <strong>perejil</strong> (doble para 4p). Corta el <strong>tomate</strong> en gajos. Agrega el <strong>tomate concentrado</strong> a la olla cuando queden 5 min para que termine de cocinarse. Deja cocinar, sin tapa, estos últimos 5 min. Añade el <strong>tomate en gajos</strong> y la <strong>miel</strong> en el último momento. <strong>Salpimienta</strong> y remueve para que todo se integre.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Mientras tanto, pica en trozos grandes la mitad del <strong>perejil</strong> (doble para 4p). Corta el <strong>tomate</strong> en gajos. Agrega el <strong>tomate concentrado</strong> a la olla cuando queden 5 min para que termine de cocinarse. Deja cocinar, sin tapa, estos últimos 5 min. Añade el <strong>tomate en gajos</strong> y la <strong>miel</strong> en el último momento. <strong>Salpimienta</strong> y remueve para que todo se integre.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a209516676f814583bbd9/step-98ae3a20.jpg",
+          "path": "/638a209516676f814583bbd9/step-98ae3a20.jpg",
+          "caption": "Cocina el guiso",
+          "localImage": "/images/recipes/638a209516676f814583bbd9-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Calienta un chorrito de aceite en una sartén a fuego medio. Salpimenta la pechuga de pollo al gusto. Cocina la pechuga de pollo 2-3 min por lado. Reduce el fuego y cocina la pechuga de pollo 4-5 min más o hasta que esté bien cocida. Retira de la sartén y reserva.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">Calienta un chorrito de <strong>aceite</strong> en una sartén a fuego medio. <strong>Salpimenta</strong> la <strong>pechuga de pollo</strong> al gusto. Cocina la <strong>pechuga de pollo</strong> 2-3 min por lado. Reduce el fuego y cocina la <strong>pechuga de pollo</strong> 4-5 min más o hasta que esté bien cocida. Retira de la sartén y reserva.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Calienta un chorrito de <strong>aceite</strong> en una sartén a fuego medio. <strong>Salpimenta</strong> la <strong>pechuga de pollo</strong> al gusto. Cocina la <strong>pechuga de pollo</strong> 2-3 min por lado. Reduce el fuego y cocina la <strong>pechuga de pollo</strong> 4-5 min más o hasta que esté bien cocida. Retira de la sartén y reserva.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a209516676f814583bbd9/step-889f8430.jpg",
+          "path": "/638a209516676f814583bbd9/step-889f8430.jpg",
+          "caption": "Cocina la pechuga",
+          "localImage": "/images/recipes/638a209516676f814583bbd9-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la misma sartén, calienta un chorrito de aceite. Agrega las almendras laminadas y cocina 2 min, hasta que se doren. Reduce el fuego a bajo y agrega las pechugas de pollo de nuevo a la sartén. Cocina todo junto 1 min más.",
+      "instructionsHTML": "<p dir=\"ltr\">En la misma sartén, calienta un chorrito de <strong>aceite</strong>. Agrega las <strong>almendras laminadas</strong> y cocina 2 min, hasta que se doren. Reduce el fuego a bajo y agrega las <strong>pechugas de pollo</strong> de nuevo a la sartén. Cocina todo junto 1 min más.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En la misma sartén, calienta un chorrito de <strong>aceite</strong>. Agrega las <strong>almendras laminadas</strong> y cocina 2 min, hasta que se doren. Reduce el fuego a bajo y agrega las <strong>pechugas de pollo</strong> de nuevo a la sartén. Cocina todo junto 1 min más.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a209516676f814583bbd9/step-6e5d5f40.jpg",
+          "path": "/638a209516676f814583bbd9/step-6e5d5f40.jpg",
+          "caption": "Combina el pollo y las almendras",
+          "localImage": "/images/recipes/638a209516676f814583bbd9-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Reparte el guiso de verduras entre platos y sirve la pechuga de pollo con almendras al lado. Espolvorea el perejil por todo el plato.",
+      "instructionsHTML": "<p>Reparte el <strong>guiso de verduras</strong> entre platos y sirve la <strong>pechuga de pollo</strong> con <strong>almendras</strong> al lado. Espolvorea el <strong>perejil</strong> por todo el plato.</p>",
+      "instructionsMarkdown": "<p>Reparte el <strong>guiso de verduras</strong> entre platos y sirve la <strong>pechuga de pollo</strong> con <strong>almendras</strong> al lado. Espolvorea el <strong>perejil</strong> por todo el plato.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a209516676f814583bbd9/step-f98f5450.jpg",
+          "path": "/638a209516676f814583bbd9/step-f98f5450.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/638a209516676f814583bbd9-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESFCLC0040-2",
+  "updatedAt": "2026-01-21T17:18:10+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    }
+  ],
+  "uuid": "2bbeb923-b3e9-47e6-a38c-fa7195ab0933",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pechuga-de-pollo-con-almendras-laminadas-638a209516676f814583bbd9",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63da221bdb1fd0bc84bb9736",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9527",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 350,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63da221bdb1fd0bc84bb9736",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9527",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 700,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/638a209516676f814583bbd9-Pechuga de pollo con almendras laminadas.jpg",
+  "localCard": "/pdf/638a209516676f814583bbd9-Pechuga de pollo con almendras laminadas.pdf"
+}

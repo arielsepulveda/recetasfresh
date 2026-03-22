@@ -1,0 +1,814 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": "63aaf3da7409f63ef1b32fc4",
+  "canonicalLink": "https://www.hellofresh.es/recipes/coliflor-y-brocoli-con-bechamel-al-horno-63aaf3da7409f63ef1b32fc4",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/650192dd53d80a036210c06e.pdf",
+  "category": null,
+  "clonedFrom": "6390926f5633f552b2af2452",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-10-13T12:22:05+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Si estabas buscando una opción divertida de comer verduras y alubias, escoge esta receta en la que combinamos brócoli y coliflor con judías rojas y lo cubrimos de una cremosa bechamel en una fuente de horno. Al gratinar la fuente con una capa de queso y otra de orégano y panko, el resultado es un plato vegetariano rico en sabores y texturas.",
+  "descriptionHTML": "<p>Si estabas buscando una opción divertida de comer verduras y alubias, escoge esta receta en la que combinamos brócoli y coliflor con judías rojas y lo cubrimos de una cremosa bechamel en una fuente de horno. Al gratinar la fuente con una capa de queso y otra de orégano y panko, el resultado es un plato vegetariano rico en sabores y texturas.</p>",
+  "descriptionMarkdown": "Si estabas buscando una opción divertida de comer verduras y alubias, escoge esta receta en la que combinamos brócoli y coliflor con judías rojas y lo cubrimos de una cremosa bechamel en una fuente de horno. Al gratinar la fuente con una capa de queso y otra de orégano y panko, el resultado es un plato vegetariano rico en sabores y texturas.",
+  "difficulty": 1,
+  "favoritesCount": 23,
+  "headline": "con judías rojas y queso gratinado",
+  "id": "650192dd53d80a036210c06e",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF230203_R04_W13_ES_ESFCVV13927-3_Main_6_oregano_edit_high-cbfd1701.jpg",
+  "imagePath": "/image/HF230203_R04_W13_ES_ESFCVV13927-3_Main_6_oregano_edit_high-cbfd1701.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be950b",
+      "uuid": "9c185787-b4f8-5457-863b-da9d361fcd22",
+      "name": "Brócoli",
+      "type": "broccoli",
+      "slug": "brocoli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "imagePath": "/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be950b-Brócoli.png"
+    },
+    {
+      "id": "63bbfe06bc019e6ee3f1ab84",
+      "uuid": "c4ac6805-11a7-55c4-be5e-68aaa3c0f835",
+      "name": "Floretes de coliflor",
+      "type": "cauliflower-florets",
+      "slug": "floretes-de-coliflor",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bbfe06bc019e6ee3f1ab84-22b9bb05.png",
+      "imagePath": "/ingredient/63bbfe06bc019e6ee3f1ab84-22b9bb05.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bbfe06bc019e6ee3f1ab84-Floretes de coliflor.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "634043742268bc1bff0d3cbc",
+      "uuid": "a6e1c36d-10e9-50a3-9b14-b914bda64151",
+      "name": "Nuez moscada",
+      "type": "nutmeg",
+      "slug": "nuez-moscada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043742268bc1bff0d3cbc-6042777e.png",
+      "imagePath": "/ingredient/634043742268bc1bff0d3cbc-6042777e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043742268bc1bff0d3cbc-Nuez moscada.png"
+    },
+    {
+      "id": "6340437641033266d7be9529",
+      "uuid": "385f8e87-917f-5c02-88d9-33bcfc3a3d73",
+      "name": "Judías rojas",
+      "type": "red-kidney-beans",
+      "slug": "judias-rojas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9529-60c44c18.jpg",
+      "imagePath": "/ingredient/6340437641033266d7be9529-60c44c18.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9529-Judías rojas.jpg"
+    },
+    {
+      "id": "6369182b27b0db08e0fb84ac",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6369182b27b0db08e0fb84ac-6854f2b5.png",
+      "imagePath": "/ingredient/6369182b27b0db08e0fb84ac-6854f2b5.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6369182b27b0db08e0fb84ac-Panko.png"
+    },
+    {
+      "id": "63493a08ebf08332f1bff15d",
+      "uuid": "bd338898-c991-4bcf-ac07-74fe7e736c4f",
+      "name": "Queso rallado",
+      "type": "grated-cheese-mix",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "imagePath": "/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63493a08ebf08332f1bff15d-Queso rallado.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    },
+    {
+      "id": "6401c00b62bd092a213120b4",
+      "uuid": "72c3cf55-faca-413f-8642-cb185c54528d",
+      "name": "Harina",
+      "type": "flour-in-tsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401c00b62bd092a213120b4-632ba9f0.png",
+      "imagePath": "/ingredient/6401c00b62bd092a213120b4-632ba9f0.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401c00b62bd092a213120b4-Harina.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "64258aff6153ff0f6d9ded07",
+      "uuid": "f37766d1-399d-4f63-ae11-68ff799c5ea2",
+      "name": "Orégano para el aderezo",
+      "type": "oregano-for-dressing",
+      "slug": "oregano-para-el-aderezo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64258aff6153ff0f6d9ded07-6fef5722.png",
+      "imagePath": "/ingredient/64258aff6153ff0f6d9ded07-6fef5722.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64258aff6153ff0f6d9ded07-Orégano para el aderezo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Especial para táper",
+    "handle": "takeaway-classic",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/650192dd53d80a036210c06e",
+  "name": "Coliflor y brócoli con bechamel al horno",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2591,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 619,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 25.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 15.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 54.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 32.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.54,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 16,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 674,
+  "slug": "coliflor-brocoli-bechamel-judias-queso",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220º con la opción de gratinar. En una olla, agrega abundante agua y una pizca de sal. Corta el tronco del brócoli y, luego, corta una mitad (doble para 4p) en floretes medianos. Una vez el agua hierva, agrega los floretes de coliflor y brócoli y cocina durante 8-10 min, hasta que estén blandos.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220º con la opción de gratinar. En una olla, agrega abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Corta el tronco del <strong>brócoli</strong> y, luego, corta una mitad (doble para 4p) en floretes medianos. Una vez el <strong>agua</strong> hierva, agrega los <strong>floretes de coliflor</strong> y <strong>brócoli</strong> y cocina durante 8-10 min, hasta que estén blandos.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220º con la opción de gratinar. En una olla, agrega abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Corta el tronco del <strong>brócoli</strong> y, luego, corta una mitad (doble para 4p) en floretes medianos. Una vez el <strong>agua</strong> hierva, agrega los <strong>floretes de coliflor</strong> y <strong>brócoli</strong> y cocina durante 8-10 min, hasta que estén blandos.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192dd53d80a036210c06e/step-54244000.jpg",
+          "path": "/650192dd53d80a036210c06e/step-54244000.jpg",
+          "caption": "Hierve las verduras",
+          "localImage": "/images/recipes/650192dd53d80a036210c06e-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén, calienta a fuego medio la mantequilla (ver cantidad en ingredientes) y deja que se derrita. Luego, agrega la harina (ver cantidad en ingredientes) y cocina 2-3 min, removiendo con varillas. Añade la nata líquida y la nuez moscada y cocina 1-2 min, hasta que espese y quede una masa lisa. Salpimienta al gusto.",
+      "instructionsHTML": "<p>En una sartén, calienta a fuego medio la <strong>mantequilla</strong> (ver cantidad en ingredientes) y deja que se derrita. Luego, agrega la <strong>harina</strong> (ver cantidad en ingredientes) y cocina 2-3 min, removiendo con varillas. Añade la <strong>nata líquida</strong> y la <strong>nuez moscada</strong> y cocina 1-2 min, hasta que espese y quede una masa lisa. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta a fuego medio la <strong>mantequilla</strong> (ver cantidad en ingredientes) y deja que se derrita. Luego, agrega la <strong>harina</strong> (ver cantidad en ingredientes) y cocina 2-3 min, removiendo con varillas. Añade la <strong>nata líquida</strong> y la <strong>nuez moscada</strong> y cocina 1-2 min, hasta que espese y quede una masa lisa. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384",
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192dd53d80a036210c06e/step-bb836710.jpg",
+          "path": "/650192dd53d80a036210c06e/step-bb836710.jpg",
+          "caption": "Prepara la bechamel",
+          "localImage": "/images/recipes/650192dd53d80a036210c06e-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Con ayuda de un colador, escurre las judías rojas, luego, agrégalas en una fuente para el horno. En un bol, mezcla el panko, el orégano (ver cantidad en ingredientes) y un chorrito de aceite.",
+      "instructionsHTML": "<p>Con ayuda de un colador, escurre las <strong>judías rojas</strong>, luego, agrégalas en una fuente para el horno. En un bol, mezcla el <strong>panko</strong>, el <strong>orégano</strong> (ver cantidad en ingredientes) y un chorrito de <strong>aceite</strong>.</p>",
+      "instructionsMarkdown": "<p>Con ayuda de un colador, escurre las <strong>judías rojas</strong>, luego, agrégalas en una fuente para el horno. En un bol, mezcla el <strong>panko</strong>, el <strong>orégano</strong> (ver cantidad en ingredientes) y un chorrito de <strong>aceite</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305386",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192dd53d80a036210c06e/step-f0fabd20.jpg",
+          "path": "/650192dd53d80a036210c06e/step-f0fabd20.jpg",
+          "caption": "Prepara las judías",
+          "localImage": "/images/recipes/650192dd53d80a036210c06e-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando las verduras estén listas, escúrrelas. Luego, agrégalas a la fuente del horno junto a las judías rojas, salpimienta y remueve, de forma que todos los ingredientes se repartan por la fuente. Agrega la bechamel sobre las verduras y judías rojas.",
+      "instructionsHTML": "<p>Cuando las <strong>verduras</strong> estén listas, escúrrelas. Luego, agrégalas a la fuente del horno junto a las <strong>judías rojas</strong>, <strong>salpimienta</strong> y remueve, de forma que todos los ingredientes se repartan por la fuente. Agrega la <strong>bechamel</strong> sobre las <strong>verduras</strong> y <strong>judías rojas</strong>.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>verduras</strong> estén listas, escúrrelas. Luego, agrégalas a la fuente del horno junto a las <strong>judías rojas</strong>, <strong>salpimienta</strong> y remueve, de forma que todos los ingredientes se repartan por la fuente. Agrega la <strong>bechamel</strong> sobre las <strong>verduras</strong> y <strong>judías rojas</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192dd53d80a036210c06e/step-3f9f9f30.jpg",
+          "path": "/650192dd53d80a036210c06e/step-3f9f9f30.jpg",
+          "caption": "Combina los ingredientes",
+          "localImage": "/images/recipes/650192dd53d80a036210c06e-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Sobre la bechamel, agrega el queso rallado y la mezcla de panko y orégano. Hornea en el estante superior del horno durante 8-10 min, hasta que el queso se gratine y el panko se dore.",
+      "instructionsHTML": "<p>Sobre la <strong>bechamel</strong>, agrega el <strong>queso rallado</strong> y la mezcla de <strong>panko</strong> y <strong>orégano</strong>. Hornea en el estante superior del horno durante 8-10 min, hasta que el <strong>queso</strong> se gratine y el <strong>panko</strong> se dore.</p>",
+      "instructionsMarkdown": "<p>Sobre la <strong>bechamel</strong>, agrega el <strong>queso rallado</strong> y la mezcla de <strong>panko</strong> y <strong>orégano</strong>. Hornea en el estante superior del horno durante 8-10 min, hasta que el <strong>queso</strong> se gratine y el <strong>panko</strong> se dore.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192dd53d80a036210c06e/step-30080640.jpg",
+          "path": "/650192dd53d80a036210c06e/step-30080640.jpg",
+          "caption": "Agrega el queso y hornea",
+          "localImage": "/images/recipes/650192dd53d80a036210c06e-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Cuando esté listo, retira la fuente del horno y sírvela en la mesa. Sirve la coliflor y brócoli con queso gratinado en platos y espolvorea con el orégano para el aderezo (ver cantidad en ingredientes) al gusto.",
+      "instructionsHTML": "<p>Cuando esté listo, retira la fuente del horno y sírvela en la mesa. Sirve la <strong>coliflor</strong> y <strong>brócoli</strong> con <strong>queso gratinado</strong> en platos y espolvorea con el <strong>orégano para el aderezo</strong> (ver cantidad en ingredientes) al gusto.</p>",
+      "instructionsMarkdown": "<p>Cuando esté listo, retira la fuente del horno y sírvela en la mesa. Sirve la <strong>coliflor</strong> y <strong>brócoli</strong> con <strong>queso gratinado</strong> en platos y espolvorea con el <strong>orégano para el aderezo</strong> (ver cantidad en ingredientes) al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192dd53d80a036210c06e/step-4567f950.jpg",
+          "path": "/650192dd53d80a036210c06e/step-4567f950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/650192dd53d80a036210c06e-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESFCVV13927-4",
+  "updatedAt": "2026-01-26T13:46:29+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305386",
+      "type": "ovendish",
+      "name": "Plato para horno"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "ed1e5c0a-280a-4aef-a3de-c60f7fdcf665",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/coliflor-brocoli-bechamel-judias-queso-650192dd53d80a036210c06e",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63bbfe06bc019e6ee3f1ab84",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437641033266d7be9529",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6369182b27b0db08e0fb84ac",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1000,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401c00b62bd092a213120b4",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "64258aff6153ff0f6d9ded07",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63bbfe06bc019e6ee3f1ab84",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437641033266d7be9529",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6369182b27b0db08e0fb84ac",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 2000,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401c00b62bd092a213120b4",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "64258aff6153ff0f6d9ded07",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/650192dd53d80a036210c06e-Coliflor y brócoli con bechamel al horno.jpg",
+  "localCard": "/pdf/650192dd53d80a036210c06e-Coliflor y brócoli con bechamel al horno.pdf"
+}

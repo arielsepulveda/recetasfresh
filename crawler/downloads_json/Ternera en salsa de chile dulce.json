@@ -1,0 +1,782 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": "638a20d816676f814583bbe3",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ternera-con-salsa-de-chile-dulce-638a20d816676f814583bbe3",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/682c9b2397a36a9824b47be1-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6358144c9e333959a2bec48c",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-05-20T15:09:24+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Con este plato, queremos demostrarte que cocinar nuestras recetas te ayudará a disfrutar, pero también a cuidar de tu salud. Esta ternera con cogollos a la plancha y tomates cherry salteados aportará equilibrio a tu dieta sin dejar de lado el descubrimiento de nuevos sabores y combinaciones.",
+  "descriptionHTML": "<p>Con este plato, queremos demostrarte que cocinar nuestras recetas te ayudará a disfrutar, pero también a cuidar de tu salud. Esta ternera con cogollos a la plancha y tomates cherry salteados aportará equilibrio a tu dieta sin dejar de lado el descubrimiento de nuevos sabores y combinaciones.</p>",
+  "descriptionMarkdown": "Con este plato, queremos demostrarte que cocinar nuestras recetas te ayudará a disfrutar, pero también a cuidar de tu salud. Esta ternera con cogollos a la plancha y tomates cherry salteados aportará equilibrio a tu dieta sin dejar de lado el descubrimiento de nuevos sabores y combinaciones.",
+  "difficulty": 1,
+  "favoritesCount": 6,
+  "headline": "con cogollos a la plancha en aderezo de soja y cherrys saltedos",
+  "id": "682c9b2397a36a9824b47be1",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R13_W08_ES_ESCQB13489-2_Main_high-438774db.jpg",
+  "imagePath": "/image/HF_Y23_R13_W08_ES_ESCQB13489-2_Main_high-438774db.jpg",
+  "ingredients": [
+    {
+      "id": "6340437741033266d7be952b",
+      "uuid": "26c839a7-90d5-5ab1-808a-7f16c7526471",
+      "name": "Filete de ternera",
+      "type": "rump-steak",
+      "slug": "filete-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "imagePath": "/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437741033266d7be952b-Filete de ternera.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "6340436b41033266d7be9505",
+      "uuid": "9a94a307-a64d-5b85-962a-663dff0b143e",
+      "name": "Cogollos de lechuga",
+      "type": "baby-gem-lettuce",
+      "slug": "cogollos-de-lechuga",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9505-Cogollos de lechuga.png"
+    },
+    {
+      "id": "6340437941033266d7be952e",
+      "uuid": "5039a7c1-5de6-5cc1-995f-aebbb994e544",
+      "name": "Ajo tierno",
+      "type": "spring-onion",
+      "slug": "ajo-tierno",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "imagePath": "/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be952e-Ajo tierno.png"
+    },
+    {
+      "id": "6340437941033266d7be9532",
+      "uuid": "e4b1a01a-6e1c-55ff-b4a6-59bdd48c4989",
+      "name": "Salsa de chile dulce",
+      "type": "sweet-chili-sauce",
+      "slug": "salsa-de-chile-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9532-b0077af3.jpg",
+      "imagePath": "/ingredient/6340437941033266d7be9532-b0077af3.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9532-Salsa de chile dulce.jpg"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63d23eabf3cad3f4f35bf04d",
+      "uuid": "bffd8d0f-80c6-4b62-8258-3fcd017bc9a6",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-in-ml",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63d23eabf3cad3f4f35bf04d-f39d14e8.png",
+      "imagePath": "/ingredient/63d23eabf3cad3f4f35bf04d-f39d14e8.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63d23eabf3cad3f4f35bf04d-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/682c9b2397a36a9824b47be1",
+  "name": "Ternera en salsa de chile dulce",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2355,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 563,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 7.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 2.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 49.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 12.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 30.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.02,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 18,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 377,
+  "slug": "ternera-en-salsa-de-chile-dulce",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nSeca la ternera y córtala en tiras de 1-2 cm.\nPela y ralla el ajo y el jengibre.\nEn un bol, mezcla la ternera, el ajo, el jengibre, la mitad de la salsa de soja y un chorrito de aceite. Salpimienta y reserva.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Seca la<strong> ternera</strong> y córtala en tiras de 1-2 cm.</li>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong> y el <strong>jengibre</strong>.</li>\n<li dir=\"ltr\">En un bol, mezcla la <strong>ternera</strong>, el <strong>ajo</strong>, el <strong>jengibre</strong>, la mitad de la <strong>salsa de soja</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y reserva.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Seca la<strong> ternera</strong> y córtala en tiras de 1-2 cm.</li>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong> y el <strong>jengibre</strong>.</li>\n<li dir=\"ltr\">En un bol, mezcla la <strong>ternera</strong>, el <strong>ajo</strong>, el <strong>jengibre</strong>, la mitad de la <strong>salsa de soja</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y reserva.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "59d49a9319279f8fe60e866f",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b2397a36a9824b47be1/step-bc6c3700.jpg",
+          "path": "/682c9b2397a36a9824b47be1/step-bc6c3700.jpg",
+          "caption": "Marina la carne",
+          "localImage": "/images/recipes/682c9b2397a36a9824b47be1-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCorta los tomates cherry por la mitad.\nEn una sartén, calienta un chorrito de aceite a fuego medio-alto. Añade los tomates cherry, el orégano y salpimienta. Saltea 2-3 min y retira de la sartén.\nCorta los cogollos de lechuga por la mitad a lo largo.\nCorta el ajo tierno a láminas finas.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Corta los <strong>tomates cherry</strong> por la mitad.</li>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Añade los <strong>tomates cherry</strong>, el <strong>orégano</strong> y <strong>salpimienta</strong>. Saltea 2-3 min y retira de la sartén.</li>\n<li dir=\"ltr\">Corta los <strong>cogollos de lechuga</strong> por la mitad a lo largo.</li>\n<li dir=\"ltr\">Corta el <strong>ajo tierno</strong> a láminas finas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Corta los <strong>tomates cherry</strong> por la mitad.</li>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Añade los <strong>tomates cherry</strong>, el <strong>orégano</strong> y <strong>salpimienta</strong>. Saltea 2-3 min y retira de la sartén.</li>\n<li dir=\"ltr\">Corta los <strong>cogollos de lechuga</strong> por la mitad a lo largo.</li>\n<li dir=\"ltr\">Corta el <strong>ajo tierno</strong> a láminas finas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b2397a36a9824b47be1/step-734ab110.jpg",
+          "path": "/682c9b2397a36a9824b47be1/step-734ab110.jpg",
+          "caption": "Saltea los tomates cherry",
+          "localImage": "/images/recipes/682c9b2397a36a9824b47be1-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Salpimienta los cogollos y cocina 2 min por lado. Reserva fuera de la sartén.\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto y sofríe el ajo tierno 1 min.\nAñade la ternera y saltea 1-2 min.\nAgrega la salsa de chile dulce y remueve. Salpimienta.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. <strong>Salpimienta</strong> los <strong>cogollos</strong> y cocina 2 min por lado. Reserva fuera de la sartén.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite </strong>a fuego medio-alto y sofríe el <strong>ajo tierno</strong> 1 min.</li>\n<li>Añade la <strong>ternera</strong> y saltea 1-2 min.</li>\n<li>Agrega la <strong>salsa de chile dulce</strong> y remueve. <strong>Salpimienta</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. <strong>Salpimienta</strong> los <strong>cogollos</strong> y cocina 2 min por lado. Reserva fuera de la sartén.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite </strong>a fuego medio-alto y sofríe el <strong>ajo tierno</strong> 1 min.</li>\n<li>Añade la <strong>ternera</strong> y saltea 1-2 min.</li>\n<li>Agrega la <strong>salsa de chile dulce</strong> y remueve. <strong>Salpimienta</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b2397a36a9824b47be1/step-14b0a820.jpg",
+          "path": "/682c9b2397a36a9824b47be1/step-14b0a820.jpg",
+          "caption": "Cocina la ternera y los cogollos",
+          "localImage": "/images/recipes/682c9b2397a36a9824b47be1-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn un bol, mezcla con varillas un chorrito de aceite y la salsa de soja restante.\nSirve la ternera con salsa de chile dulce y acompaña con los tomates cherry y los cogollos.\nCubre los cogollos con la mezcla de soja y aceite.\n\nSABÍAS QUE: Si colocas los tomates cherry entre dos platos y los presionas, puedes cortarlos a la vez deslizando un cuchillo entre ambos platos.",
+      "instructionsHTML": "<ul>\n<li>En un bol, mezcla con varillas un chorrito de <strong>aceite</strong> y la <strong>salsa de soja</strong> restante.</li>\n<li>Sirve la <strong>ternera</strong> con <strong>salsa de chile dulce </strong>y acompaña con los <strong>tomates cherry</strong> y los <strong>cogollos</strong>.</li>\n<li>Cubre los <strong>cogollos</strong> con la mezcla de <strong>soja</strong> y <strong>aceite</strong>.</li>\n</ul>\n<p>SABÍAS QUE: Si colocas los tomates cherry entre dos platos y los presionas, puedes cortarlos a la vez deslizando un cuchillo entre ambos platos.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol, mezcla con varillas un chorrito de <strong>aceite</strong> y la <strong>salsa de soja</strong> restante.</li>\n<li>Sirve la <strong>ternera</strong> con <strong>salsa de chile dulce </strong>y acompaña con los <strong>tomates cherry</strong> y los <strong>cogollos</strong>.</li>\n<li>Cubre los <strong>cogollos</strong> con la mezcla de <strong>soja</strong> y <strong>aceite</strong>.</li>\n</ul>\n<p>SABÍAS QUE: Si colocas los tomates cherry entre dos platos y los presionas, puedes cortarlos a la vez deslizando un cuchillo entre ambos platos.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b2397a36a9824b47be1/step-69402330.jpg",
+          "path": "/682c9b2397a36a9824b47be1/step-69402330.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/682c9b2397a36a9824b47be1-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305321",
+      "type": "high-protein",
+      "name": "Proteico",
+      "slug": "proteico",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305316",
+      "type": "low-carb",
+      "name": "<50g carbohidratos",
+      "slug": "50g-carbohidratos",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCQB13489-26",
+  "updatedAt": "2025-11-13T22:42:24+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "cc31f957-5c9c-40d9-ae99-ac5a262c3eac",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ternera-en-salsa-de-chile-dulce-682c9b2397a36a9824b47be1",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be9532",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d23eabf3cad3f4f35bf04d",
+          "amount": 75,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 440,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be9532",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d23eabf3cad3f4f35bf04d",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 375,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 660,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be9532",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d23eabf3cad3f4f35bf04d",
+          "amount": 225,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/682c9b2397a36a9824b47be1-Ternera en salsa de chile dulce.jpg",
+  "localCard": "/pdf/682c9b2397a36a9824b47be1-Ternera en salsa de chile dulce.pdf"
+}

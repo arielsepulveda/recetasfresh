@@ -1,0 +1,750 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "6347ef444eacd7e8b5e77bfb",
+  "canonicalLink": "https://www.hellofresh.es/recipes/polpeta-albondigas-italianas-6347ef444eacd7e8b5e77bfb",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/688a787f1cc5cea71280bca8-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347ef444eacd7e8b5e77bfb",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-07-30T19:54:39+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Estas albóndigas italianas nacen en los hogares humildes del sur de Italia como una forma de aprovechar sobras de carne o pan, entre los siglos XVII y XVIII. Su nombre proviene del diminutivo de \"polpa\" (pulpa o carne picada) y en esta ocasión las preparamos con una clásica salsa de tomate con espinacas y las horneamos con mozzarella.",
+  "descriptionHTML": "<p>Estas albóndigas italianas nacen en los hogares humildes del sur de Italia como una forma de aprovechar sobras de carne o pan, entre los siglos XVII y XVIII. Su nombre proviene del diminutivo de &quot;polpa&quot; (pulpa o carne picada) y en esta ocasión las preparamos con una clásica salsa de tomate con espinacas y las horneamos con mozzarella.</p>",
+  "descriptionMarkdown": "Estas albóndigas italianas nacen en los hogares humildes del sur de Italia como una forma de aprovechar sobras de carne o pan, entre los siglos XVII y XVIII. Su nombre proviene del diminutivo de \"polpa\" (pulpa o carne picada) y en esta ocasión las preparamos con una clásica salsa de tomate con espinacas y las horneamos con mozzarella.",
+  "difficulty": 1,
+  "favoritesCount": 24,
+  "headline": "con patatas al horno",
+  "id": "688a787f1cc5cea71280bca8",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R06_W24_ES_ESCFM0050-2_edit_Main_high-e35484b3.jpg",
+  "imagePath": "/image/HF_Y25_R06_W24_ES_ESCFM0050-2_edit_Main_high-e35484b3.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63497d88971d5eddb3ff71b3",
+      "uuid": "1f16402c-d087-4303-9cb9-ce2dbbb436f6",
+      "name": "Mozzarella italiana",
+      "type": "mozzarella-cheese",
+      "slug": "mozzarella-italiana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b3-85a8c761.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b3-85a8c761.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b3-Mozzarella italiana.png"
+    },
+    {
+      "id": "636ee2296875fac468eeb9ce",
+      "uuid": "b2d33c6c-dcf6-5212-8de8-f75bd59d77c0",
+      "name": "Carne de ternera y cerdo picada",
+      "type": "mixed-mince-pork-beef",
+      "slug": "carne-de-ternera-y-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636ee2296875fac468eeb9ce-f949fe5e.png",
+      "imagePath": "/ingredient/636ee2296875fac468eeb9ce-f949fe5e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636ee2296875fac468eeb9ce-Carne de ternera y cerdo picada.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "6340436f41033266d7be9512",
+      "uuid": "ecae5103-44da-5d53-a901-8a34d154b23d",
+      "name": "Tomate triturado",
+      "type": "crushed-tomatoes",
+      "slug": "tomate-triturado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9512-Tomate triturado.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/688a787f1cc5cea71280bca8",
+  "name": "¡Polpette! Albóndigas italianas con tomate y mozzarella",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2916,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 697,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 43.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 18.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 43.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 41.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.09,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 47,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 570,
+  "slug": "polpette-albondigas-italianas-con-tomate-y-mozzarella",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nCorta las patatas en gajos de 1-2 cm de grosor.\nColócalos en una bandeja de horno con papel de horno y agrega un chorrito de aceite, sal y pimienta.\nMezcla y hornea a media altura 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor.</li>\n<li>Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y hornea a media altura 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor.</li>\n<li>Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y hornea a media altura 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a787f1cc5cea71280bca8/step-28cd0400.jpg",
+          "path": "/688a787f1cc5cea71280bca8/step-28cd0400.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/688a787f1cc5cea71280bca8-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nTrocea la mozzarella y colócala en un colador.\nEn un bol, agrega la carne picada, la harina, la mostaza, sal y pimienta.\nMezcla y forma 5-6 albóndigas por persona.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Trocea la <strong>mozzarella</strong> y colócala en un colador.</li>\n<li>En un bol, agrega la <strong>carne picada</strong>, la <strong>harina</strong>, la <strong>mostaza</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Mezcla y forma 5-6 <strong>albóndigas</strong> por persona.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Trocea la <strong>mozzarella</strong> y colócala en un colador.</li>\n<li>En un bol, agrega la <strong>carne picada</strong>, la <strong>harina</strong>, la <strong>mostaza</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Mezcla y forma 5-6 <strong>albóndigas</strong> por persona.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a787f1cc5cea71280bca8/step-667be810.jpg",
+          "path": "/688a787f1cc5cea71280bca8/step-667be810.jpg",
+          "caption": "Forma las albóndigas",
+          "localImage": "/images/recipes/688a787f1cc5cea71280bca8-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nColoca las albóndigas en una fuente para horno, separadas las unas de las otras.\nHornea a media altura 15 min, removiendo a mitad de cocción, hasta que se doren y queden cocinadas en el interior.\n",
+      "instructionsHTML": "<ul>\n<li>Coloca las <strong>albóndigas</strong> en una fuente para horno, separadas las unas de las otras.</li>\n<li>Hornea a media altura 15 min, removiendo a mitad de cocción, hasta que se doren y queden cocinadas en el interior.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca las <strong>albóndigas</strong> en una fuente para horno, separadas las unas de las otras.</li>\n<li>Hornea a media altura 15 min, removiendo a mitad de cocción, hasta que se doren y queden cocinadas en el interior.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a787f1cc5cea71280bca8/step-31474820.jpg",
+          "path": "/688a787f1cc5cea71280bca8/step-31474820.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/688a787f1cc5cea71280bca8-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nPela y pica el ajo.\nEn una sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAñade el tomate triturado, el orégano, sal y pimienta y cocina 3-4 min tapado hasta que el tomate se reduzca.\nAgrega las espinacas y cocina 1-2 min más.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade el <strong>tomate triturado</strong>, el <strong>orégano</strong>, <strong>sal</strong> y <strong>pimienta</strong> y cocina 3-4 min tapado hasta que el <strong>tomate</strong> se reduzca.</li>\n<li>Agrega las <strong>espinacas</strong> y cocina 1-2 min más.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade el <strong>tomate triturado</strong>, el <strong>orégano</strong>, <strong>sal</strong> y <strong>pimienta</strong> y cocina 3-4 min tapado hasta que el <strong>tomate</strong> se reduzca.</li>\n<li>Agrega las <strong>espinacas</strong> y cocina 1-2 min más.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a787f1cc5cea71280bca8/step-8bd3c130.jpg",
+          "path": "/688a787f1cc5cea71280bca8/step-8bd3c130.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/688a787f1cc5cea71280bca8-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando las albóngidas se hayan horneado 15 min, agrega encima, en la fuente de horno, la salsa de tomate y la mozzarella troceada.\nHornea 4-5 min más, hasta que el queso se derrita.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando las <strong>albóngidas</strong> se hayan horneado 15 min, agrega encima, en la fuente de horno, la <strong>salsa</strong> de <strong>tomate</strong> y la <strong>mozzarella</strong> troceada.</li>\n<li>Hornea 4-5 min más, hasta que el <strong>queso</strong> se derrita.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando las <strong>albóngidas</strong> se hayan horneado 15 min, agrega encima, en la fuente de horno, la <strong>salsa</strong> de <strong>tomate</strong> y la <strong>mozzarella</strong> troceada.</li>\n<li>Hornea 4-5 min más, hasta que el <strong>queso</strong> se derrita.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a787f1cc5cea71280bca8/step-346d2440.jpg",
+          "path": "/688a787f1cc5cea71280bca8/step-346d2440.jpg",
+          "caption": "Que funda ese queso",
+          "localImage": "/images/recipes/688a787f1cc5cea71280bca8-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nCuando las patatas estén listas, sírvelas en platos.\nColoca la fuente con las polpette en salsa de tomate en la mesa y sírvete al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando las <strong>patatas</strong> estén listas, sírvelas en platos.</li>\n<li>Coloca la fuente con las <strong>polpette</strong> en <strong>salsa</strong> de <strong>tomate</strong> en la mesa y sírvete al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando las <strong>patatas</strong> estén listas, sírvelas en platos.</li>\n<li>Coloca la fuente con las <strong>polpette</strong> en <strong>salsa</strong> de <strong>tomate</strong> en la mesa y sírvete al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a787f1cc5cea71280bca8/step-87fe3750.jpg",
+          "path": "/688a787f1cc5cea71280bca8/step-87fe3750.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/688a787f1cc5cea71280bca8-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCFM0050-7",
+  "updatedAt": "2026-01-21T14:01:09+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    }
+  ],
+  "uuid": "720cdcbc-2dfd-4738-98de-bd102a2479ec",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/polpette-albondigas-italianas-con-tomate-y-mozzarella-688a787f1cc5cea71280bca8",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b3",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b3",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b3",
+          "amount": 375,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/688a787f1cc5cea71280bca8-¡Polpette! Albóndigas italianas con tomate y mozzarella.jpg",
+  "localCard": "/pdf/688a787f1cc5cea71280bca8-¡Polpette! Albóndigas italianas con tomate y mozzarella.pdf"
+}

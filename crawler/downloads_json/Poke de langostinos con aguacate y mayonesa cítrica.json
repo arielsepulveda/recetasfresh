@@ -1,0 +1,874 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f4",
+      "name": "Crustáceos",
+      "type": "crustaceans",
+      "slug": "crustaceos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.5,
+  "canonical": "660d64ea1f3d24d03a718513",
+  "canonicalLink": "https://www.hellofresh.es/recipes/poke-bowl-de-gambas-con-arroz-jazmin-a-la-soja-aguacate-y-zanahoria-encurtida-660d64ea1f3d24d03a718513",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/684932449f34f686e2db8735-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "660d64ea1f3d24d03a718513",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-18T00:32:52+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "¿15 minutos libres y un hambre voraz? Te entendemos mejor que nadie, así que hemos desarrollado este poke con langostinos, una ensalada fresca, aguacate aderezado y una salsa cítrica de mayonesa y zumo de lima, para que disfrutes como nunca en tiempo récord.",
+  "descriptionHTML": "<p>¿15 minutos libres y un hambre voraz? Te entendemos mejor que nadie, así que hemos desarrollado este poke con langostinos, una ensalada fresca, aguacate aderezado y una salsa cítrica de mayonesa y zumo de lima, para que disfrutes como nunca en tiempo récord.</p>",
+  "descriptionMarkdown": "¿15 minutos libres y un hambre voraz? Te entendemos mejor que nadie, así que hemos desarrollado este poke con langostinos, una ensalada fresca, aguacate aderezado y una salsa cítrica de mayonesa y zumo de lima, para que disfrutes como nunca en tiempo récord.",
+  "difficulty": 1,
+  "favoritesCount": 3,
+  "headline": "con ensalada fresca de zanahoria y pepino",
+  "id": "684932449f34f686e2db8735",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R27_W37_ES_ESCQPS24891-2_edit_Main_high-0aefcd6b.jpg",
+  "imagePath": "/image/HF_Y25_R27_W37_ES_ESCQPS24891-2_edit_Main_high-0aefcd6b.jpg",
+  "ingredients": [
+    {
+      "id": "6340437241033266d7be951d",
+      "uuid": "ff045bdb-fe2c-58b4-bd0c-c0ccbddd8a2d",
+      "name": "Arroz jazmín",
+      "type": "jasmine-rice",
+      "slug": "arroz-jazmin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "imagePath": "/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437241033266d7be951d-Arroz jazmín.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "6340436f41033266d7be9513",
+      "uuid": "822e0f6e-0b50-54d0-9774-fee0a98b0271",
+      "name": "Pepino",
+      "type": "cucumber",
+      "slug": "pepino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9513-Pepino.png"
+    },
+    {
+      "id": "6671a06877d4ed4ef24a239a",
+      "uuid": "04e5d056-bb09-43d9-b7ef-94a027495381",
+      "name": "Pulpa de aguacate",
+      "type": "avocado-spread",
+      "slug": "pulpa-de-aguacate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6671a06877d4ed4ef24a239a-c5137cc5.png",
+      "imagePath": "/ingredient/6671a06877d4ed4ef24a239a-c5137cc5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6671a06877d4ed4ef24a239a-Pulpa de aguacate.png"
+    },
+    {
+      "id": "63724760422e0b6ac4f85686",
+      "uuid": "0b18a29e-c9df-5b77-903e-c2e60206b65a",
+      "name": "Langostinos",
+      "type": "shrimps",
+      "slug": "langostinos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "imagePath": "/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f4"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63724760422e0b6ac4f85686-Langostinos.png"
+    },
+    {
+      "id": "63480b79e9568549b78497c9",
+      "uuid": "24b03259-ca4b-5338-bf7a-132e30d306ba",
+      "name": "Salsa de soja dulce",
+      "type": "ketjap-manis",
+      "slug": "salsa-de-soja-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63480b79e9568549b78497c9-7b8bba56.png",
+      "imagePath": "/ingredient/63480b79e9568549b78497c9-7b8bba56.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63480b79e9568549b78497c9-Salsa de soja dulce.png"
+    },
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "660c9e473f0f2e6d306d9c5e",
+      "uuid": "b2650fbb-77ee-5228-a70d-a2f8d7a9b5d5",
+      "name": "Semillas de sésamo negras",
+      "type": "black-sesame-seeds",
+      "slug": "semillas-de-sesamo-negras",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/660c9e473f0f2e6d306d9c5e-17818691.png",
+      "imagePath": "/ingredient/660c9e473f0f2e6d306d9c5e-17818691.png",
+      "shipped": true,
+      "allergens": [
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/660c9e473f0f2e6d306d9c5e-Semillas de sésamo negras.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Exprés",
+    "handle": "super-quick",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/684932449f34f686e2db8735",
+  "name": "Poke de langostinos con aguacate y mayonesa cítrica",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3282,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 784,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 40.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 6.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 85.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 24.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.96,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT15M",
+  "promotion": null,
+  "ratingsCount": 12,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 475,
+  "slug": "poke-bowl-de-gambas-con-arroz-jazmin-a-la-soja-aguacate-y-zanahoria",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nLlena un cazo con el agua y sal. Tápalo y llévalo a ebullición.\nCuando hierva, añade el arroz, baja el fuego a medio-bajo y tápalo de nuevo. Cocina 12 min y remueve de vez en cuando.\nUna vez cocinado, remueve y déjalo reposar con la tapa.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua</strong> y <strong>sal.</strong> Tápalo y llévalo a ebullición.</li>\n<li>Cuando hierva, añade el <strong>arroz,</strong> baja el fuego a medio-bajo y tápalo de nuevo. Cocina 12 min y remueve de vez en cuando.</li>\n<li><span>Una vez cocinado, remueve y déjalo reposar con la tapa.</span></li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua</strong> y <strong>sal.</strong> Tápalo y llévalo a ebullición.</li>\n<li>Cuando hierva, añade el <strong>arroz,</strong> baja el fuego a medio-bajo y tápalo de nuevo. Cocina 12 min y remueve de vez en cuando.</li>\n<li><span>Una vez cocinado, remueve y déjalo reposar con la tapa.</span></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/684932449f34f686e2db8735/step-58f21400.jpg",
+          "path": "/684932449f34f686e2db8735/step-58f21400.jpg",
+          "caption": "Cuece el arroz",
+          "localImage": "/images/recipes/684932449f34f686e2db8735-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela la zanahoria y, con el pelador, haz cintas a lo largo.\nRalla la piel de la lima.\nRetira los extremos del pepino y córtalo por la mitad a lo largo. Corta en medias lunas finas.\nEn un bol, exprime el zumo de la mitad de la lima y agrega la zanahoria, el pepino y un chorrito de aceite, sal y pimienta. Mezcla.\nEn un bol pequeño, adereza la pulpa de aguacate con zumo de lima al gusto, un chorrito de aceite, sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>Pela la <strong>zanahoria</strong> y, con el pelador, haz cintas a lo largo.</li>\n<li>Ralla la piel de la <strong>lima</strong>.</li>\n<li>Retira los extremos del <strong>pepino</strong> y córtalo por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>En un bol, exprime el zumo de la mitad de la <strong>lima</strong> y agrega la <strong>zanahoria,</strong> el <strong>pepino</strong> y un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong>. Mezcla.</li>\n<li>En un bol pequeño, adereza la <strong>pulpa de aguacate</strong> con zumo de <strong>lima</strong> al gusto, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela la <strong>zanahoria</strong> y, con el pelador, haz cintas a lo largo.</li>\n<li>Ralla la piel de la <strong>lima</strong>.</li>\n<li>Retira los extremos del <strong>pepino</strong> y córtalo por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>En un bol, exprime el zumo de la mitad de la <strong>lima</strong> y agrega la <strong>zanahoria,</strong> el <strong>pepino</strong> y un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong>. Mezcla.</li>\n<li>En un bol pequeño, adereza la <strong>pulpa de aguacate</strong> con zumo de <strong>lima</strong> al gusto, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305385",
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/684932449f34f686e2db8735/step-e2bb8910.jpg",
+          "path": "/684932449f34f686e2db8735/step-e2bb8910.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/684932449f34f686e2db8735-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nSeca los langostinos y salpimienta.\nEn una sartén, calienta un chorrito de aceite a fuego medio-alto. Cocina los langostinos 1-2 min, moviendo, hasta que se doren.\nAgrega la mitad de la salsa de soja dulce, mezcla y reserva fuera de la sartén.\nEn un bol, mezcla la mayonesa con zumo de lima al gusto.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.",
+      "instructionsHTML": "<ul>\n<li>Seca los <strong>langostinos</strong> y <strong>salpimienta.</strong></li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina los <strong>langostinos</strong> 1-2 min, moviendo, hasta que se doren.</li>\n<li>Agrega la mitad de la <strong>salsa de soja dulce</strong>, mezcla y reserva fuera de la sartén.</li>\n<li>En un bol, mezcla la <strong>mayonesa</strong> con zumo de <strong>lima</strong> al gusto.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Seca los <strong>langostinos</strong> y <strong>salpimienta.</strong></li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina los <strong>langostinos</strong> 1-2 min, moviendo, hasta que se doren.</li>\n<li>Agrega la mitad de la <strong>salsa de soja dulce</strong>, mezcla y reserva fuera de la sartén.</li>\n<li>En un bol, mezcla la <strong>mayonesa</strong> con zumo de <strong>lima</strong> al gusto.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/684932449f34f686e2db8735/step-2dcb4020.jpg",
+          "path": "/684932449f34f686e2db8735/step-2dcb4020.jpg",
+          "caption": "Cocina los langostinos",
+          "localImage": "/images/recipes/684932449f34f686e2db8735-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nColoca el arroz cocido en la sartén y añade las semillas de sésamo y la salsa de soja dulce restante. Saltea a fuego medio-alto 1-2 min, removiendo.\nSirve el arroz en platos y cubre con los langostinos, el guacamole y la zanahoria encurtida escurrida, por separado.\nAcaba con la mayonesa cítrica y ralladura de lima al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Coloca el <strong>arroz</strong> cocido en la sartén y añade las <strong>semillas de sésamo</strong> y la <strong>salsa de soja</strong> dulce restante. Saltea a fuego medio-alto 1-2 min, removiendo.</li>\n<li>Sirve el <strong>arroz</strong> en platos y cubre con los <strong>langostinos,</strong> el <strong>guacamole</strong> y la <strong>zanahoria </strong>encurtida escurrida, por separado.</li>\n<li>Acaba con la <strong>mayonesa</strong> cítrica y ralladura de <strong>lima</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca el <strong>arroz</strong> cocido en la sartén y añade las <strong>semillas de sésamo</strong> y la <strong>salsa de soja</strong> dulce restante. Saltea a fuego medio-alto 1-2 min, removiendo.</li>\n<li>Sirve el <strong>arroz</strong> en platos y cubre con los <strong>langostinos,</strong> el <strong>guacamole</strong> y la <strong>zanahoria </strong>encurtida escurrida, por separado.</li>\n<li>Acaba con la <strong>mayonesa</strong> cítrica y ralladura de <strong>lima</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/684932449f34f686e2db8735/step-9d14bf30.jpg",
+          "path": "/684932449f34f686e2db8735/step-9d14bf30.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/684932449f34f686e2db8735-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "62163c70143a35226e03d85e",
+      "type": "super-quick",
+      "name": "Exprés",
+      "slug": "expres",
+      "colorHandle": "quickPrep",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCQPS24891-2",
+  "updatedAt": "2026-01-21T17:19:09+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    }
+  ],
+  "uuid": "6628b724-ba88-4e10-a078-7d5670e35708",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/poke-bowl-de-gambas-con-arroz-jazmin-a-la-soja-aguacate-y-zanahoria-684932449f34f686e2db8735",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63480b79e9568549b78497c9",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63480b79e9568549b78497c9",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 8,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63480b79e9568549b78497c9",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 12,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 900,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/684932449f34f686e2db8735-Poke de langostinos con aguacate y mayonesa cítrica.jpg",
+  "localCard": "/pdf/684932449f34f686e2db8735-Poke de langostinos con aguacate y mayonesa cítrica.pdf"
+}

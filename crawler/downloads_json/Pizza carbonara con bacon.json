@@ -1,0 +1,610 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": "64788ae66eb29dbe8bbed5e1",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pizza-carbonara-con-bacon-64788ae66eb29dbe8bbed5e1",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/65b1397a3ebf28940b2fe5c7.pdf",
+  "category": null,
+  "clonedFrom": "63d2901d9ef03d3cc4532b3a",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-03-25T13:47:43+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "La reconocida salsa carbonara, presente en pastas y pizzas como esta, tiene un origen que genera debate pues, aunque históricamente se ha atribuido a los romanos, un polémico historiador ha teorizado que su creación debería atribuirse a unos estadounidenses que vivían en Roma tras la II Guerra Mundial. De esta manera, esta aclamada receta, tendría menos de 100 años, pero ha hecho historia como ninguna otra.",
+  "descriptionHTML": "<p>La reconocida salsa carbonara, presente en pastas y pizzas como esta, tiene un origen que genera debate pues, aunque históricamente se ha atribuido a los romanos, un polémico historiador ha teorizado que su creación debería atribuirse a unos estadounidenses que vivían en Roma tras la II Guerra Mundial. De esta manera, esta aclamada receta, tendría menos de 100 años, pero ha hecho historia como ninguna otra.</p>",
+  "descriptionMarkdown": "La reconocida salsa carbonara, presente en pastas y pizzas como esta, tiene un origen que genera debate pues, aunque históricamente se ha atribuido a los romanos, un polémico historiador ha teorizado que su creación debería atribuirse a unos estadounidenses que vivían en Roma tras la II Guerra Mundial. De esta manera, esta aclamada receta, tendría menos de 100 años, pero ha hecho historia como ninguna otra.",
+  "difficulty": 1,
+  "favoritesCount": 24,
+  "headline": "con champiñones y cebolla",
+  "id": "65b1397a3ebf28940b2fe5c7",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R02_W36_ES_ESCFP14556-2_Main_high-34f04bb3.jpg",
+  "imagePath": "/image/HF_Y23_R02_W36_ES_ESCFP14556-2_Main_high-34f04bb3.jpg",
+  "ingredients": [
+    {
+      "id": "63497d88971d5eddb3ff71b2",
+      "uuid": "ca2eb932-2be6-58fe-9c2b-05bd27036489",
+      "name": "Base de pizza",
+      "type": "pizza-bases",
+      "slug": "base-de-pizza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b2-Base de pizza.png"
+    },
+    {
+      "id": "6437b676b11f6c1474a8a014",
+      "uuid": "02a11a36-e514-5fc6-9647-3567c5aae492",
+      "name": "Bacon",
+      "type": "bacon-lardons",
+      "slug": "bacon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6437b676b11f6c1474a8a014-9702ce9f.png",
+      "imagePath": "/ingredient/6437b676b11f6c1474a8a014-9702ce9f.png",
+      "shipped": true,
+      "allergens": [
+        "5b0532aaae08b52eb9420552",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6437b676b11f6c1474a8a014-Bacon.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f7",
+      "uuid": "0c719142-be77-4ddd-94a0-b6219698b827",
+      "name": "Champiñones",
+      "type": "champignon-mushrooms",
+      "slug": "champinones",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f7-Champiñones.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "659c8d3fc7596f421e5449b1",
+      "uuid": "7a4c3ae4-ca74-4022-aa86-32db0c83d59f",
+      "name": "Queso rallado",
+      "type": "grated-cheese",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/659c8d3fc7596f421e5449b1-d8f6d2b4.png",
+      "imagePath": "/ingredient/659c8d3fc7596f421e5449b1-d8f6d2b4.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/659c8d3fc7596f421e5449b1-Queso rallado.png"
+    },
+    {
+      "id": "634928fd971d5eddb3ff7177",
+      "uuid": "c63c07ea-c24b-4755-9b18-2f50b921b048",
+      "name": "Sal",
+      "type": "salt",
+      "slug": "sal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634928fd971d5eddb3ff7177-ae56d76e.png",
+      "imagePath": "/ingredient/634928fd971d5eddb3ff7177-ae56d76e.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634928fd971d5eddb3ff7177-Sal.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/65b1397a3ebf28940b2fe5c7",
+  "name": "Pizza carbonara con bacon",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3558,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 850,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 38.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 18.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 85,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 34.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.86,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 21,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 430,
+  "slug": "pizza-carbonara-bacon-setas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Limpia los champiñones con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los champiñones. Luego, córtalos por la mitad y haz láminas finas.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Limpia los <strong>champiñones</strong> con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los <strong>champiñones</strong>. Luego, córtalos por la mitad y haz láminas finas.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Limpia los <strong>champiñones</strong> con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los <strong>champiñones</strong>. Luego, córtalos por la mitad y haz láminas finas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b1397a3ebf28940b2fe5c7/step-af63d000.jpg",
+          "path": "/65b1397a3ebf28940b2fe5c7/step-af63d000.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/65b1397a3ebf28940b2fe5c7-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Coloca las bases de pizza en una bandeja de horno con papel de horno y agrega encima el queso crema, dejando un 1 cm del borde sin cubrir. Luego, añade la cebolla, los champiñones y el bacon. Agrega una pizca de sal.",
+      "instructionsHTML": "<p>Coloca las <strong>bases de pizza</strong> en una bandeja de horno con papel de horno y agrega encima el <strong>queso crema</strong>, dejando un 1 cm del borde sin cubrir. Luego, añade la <strong>cebolla</strong>, los <strong>champiñones</strong> y el <strong>bacon</strong>. Agrega una pizca de <strong>sal</strong>.</p>",
+      "instructionsMarkdown": "<p>Coloca las <strong>bases de pizza</strong> en una bandeja de horno con papel de horno y agrega encima el <strong>queso crema</strong>, dejando un 1 cm del borde sin cubrir. Luego, añade la <strong>cebolla</strong>, los <strong>champiñones</strong> y el <strong>bacon</strong>. Agrega una pizca de <strong>sal</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b1397a3ebf28940b2fe5c7/step-8e787410.jpg",
+          "path": "/65b1397a3ebf28940b2fe5c7/step-8e787410.jpg",
+          "caption": "Cubre con los ingredientes",
+          "localImage": "/images/recipes/65b1397a3ebf28940b2fe5c7-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Cubre las pizzas con el queso rallado y con el orégano (ver cantidad en ingredientes). Agrega un chorrito de aceite sobre cada pizza y, luego, hornea a media altura durante 15-20 min o hasta que estén doradas y el queso esté fundido.",
+      "instructionsHTML": "<p>Cubre las <strong>pizzas</strong> con el <strong>queso rallado</strong> y con el <strong>orégano</strong> (ver cantidad en ingredientes). Agrega un chorrito de <strong>aceite</strong> sobre cada <strong>pizza</strong> y, luego, hornea a media altura durante 15-20 min o hasta que estén doradas y el <strong>queso</strong> esté fundido.</p>",
+      "instructionsMarkdown": "<p>Cubre las <strong>pizzas</strong> con el <strong>queso rallado</strong> y con el <strong>orégano</strong> (ver cantidad en ingredientes). Agrega un chorrito de <strong>aceite</strong> sobre cada <strong>pizza</strong> y, luego, hornea a media altura durante 15-20 min o hasta que estén doradas y el <strong>queso</strong> esté fundido.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b1397a3ebf28940b2fe5c7/step-0e3de720.jpg",
+          "path": "/65b1397a3ebf28940b2fe5c7/step-0e3de720.jpg",
+          "caption": "Agrega el queso y hornea",
+          "localImage": "/images/recipes/65b1397a3ebf28940b2fe5c7-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando estén listas, sirve las pizzas carbonara con bacon y champiñones en platos.",
+      "instructionsHTML": "<p>Cuando estén listas, sirve las <strong>pizzas carbonara</strong> con <strong>bacon</strong> y <strong>champiñones</strong> en platos.</p>",
+      "instructionsMarkdown": "<p>Cuando estén listas, sirve las <strong>pizzas carbonara</strong> con <strong>bacon</strong> y <strong>champiñones</strong> en platos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b1397a3ebf28940b2fe5c7/step-e259ed30.jpg",
+          "path": "/65b1397a3ebf28940b2fe5c7/step-e259ed30.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/65b1397a3ebf28940b2fe5c7-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT10M",
+  "uniqueRecipeCode": "ESCFP14556-8",
+  "updatedAt": "2025-07-28T11:06:11+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    }
+  ],
+  "uuid": "0cf61669-b828-463b-91bf-eca34a6eaa71",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pizza-carbonara-bacon-setas-65b1397a3ebf28940b2fe5c7",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6437b676b11f6c1474a8a014",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "659c8d3fc7596f421e5449b1",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634928fd971d5eddb3ff7177",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6437b676b11f6c1474a8a014",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 6,
+          "unit": "paquete"
+        },
+        {
+          "id": "659c8d3fc7596f421e5449b1",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634928fd971d5eddb3ff7177",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/65b1397a3ebf28940b2fe5c7-Pizza carbonara con bacon.jpg",
+  "localCard": "/pdf/65b1397a3ebf28940b2fe5c7-Pizza carbonara con bacon.pdf"
+}

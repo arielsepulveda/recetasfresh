@@ -1,0 +1,912 @@
+{
+  "active": true,
+  "allergens": [],
+  "averageRating": 3.1,
+  "canonical": "6847df866329c8e5b723cc4d",
+  "canonicalLink": "https://www.hellofresh.es/recipes/magret-de-pato-con-chimichurri-de-menta-maiz-y-cremoso-de-chirivia-6847df866329c8e5b723cc4d",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/688a78461cc5cea71280bb47-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6847df866329c8e5b723cc4d",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-07T13:28:05+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "¿Te imaginas un magret de pato jugoso bañado en chimichurri? Este aderezo nació en Argentina como acompañante de carnes a la parrilla, combinando ajo, perejil, vinagre y un toque de ají que despierta cualquier bocado. Su frescura y acidez equilibran la grasa del pato, logrando un contraste explosivo que convierte cada corte en pura tentación.",
+  "descriptionHTML": "<p>¿Te imaginas un magret de pato jugoso bañado en chimichurri? Este aderezo nació en Argentina como acompañante de carnes a la parrilla, combinando ajo, perejil, vinagre y un toque de ají que despierta cualquier bocado. Su frescura y acidez equilibran la grasa del pato, logrando un contraste explosivo que convierte cada corte en pura tentación.</p>",
+  "descriptionMarkdown": "¿Te imaginas un magret de pato jugoso bañado en chimichurri? Este aderezo nació en Argentina como acompañante de carnes a la parrilla, combinando ajo, perejil, vinagre y un toque de ají que despierta cualquier bocado. Su frescura y acidez equilibran la grasa del pato, logrando un contraste explosivo que convierte cada corte en pura tentación.",
+  "difficulty": 2,
+  "favoritesCount": 7,
+  "headline": "con parmentier de patata y chirivía y maíz asado con cebolla",
+  "id": "688a78461cc5cea71280bb47",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R22_W42_ES_ESSGD46000-5_Main_F1_remove_two_pieces_duck_edit_high-87136515.jpg",
+  "imagePath": "/image/HF_Y25_R22_W42_ES_ESSGD46000-5_Main_F1_remove_two_pieces_duck_edit_high-87136515.jpg",
+  "ingredients": [
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f3",
+      "uuid": "7e69f80c-67d4-45b1-a3bd-d76e5d9e539b",
+      "name": "Maíz dulce",
+      "type": "canned-corn",
+      "slug": "maiz-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f3-Maíz dulce.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "64be8436a1aa6db20ea1183b",
+      "uuid": "f591cc12-e408-52ec-9321-c73329bc2aa2",
+      "name": "Chirivía",
+      "type": "parsnip",
+      "slug": "chirivia",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64be8436a1aa6db20ea1183b-ef163ab3.png",
+      "imagePath": "/ingredient/64be8436a1aa6db20ea1183b-ef163ab3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64be8436a1aa6db20ea1183b-Chirivía.png"
+    },
+    {
+      "id": "64a7e18748c7b9302c331400",
+      "uuid": "46cca08f-f498-4c34-a420-52b8866fd658",
+      "name": "Magret de pato",
+      "type": "duck-fillet",
+      "slug": "magret-de-pato",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64a7e18748c7b9302c331400-2643c2d0.jpeg",
+      "imagePath": "/ingredient/64a7e18748c7b9302c331400-2643c2d0.jpeg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64a7e18748c7b9302c331400-Magret de pato.jpeg"
+    },
+    {
+      "id": "634043732268bc1bff0d3cb9",
+      "uuid": "bf396f23-64e6-52fb-9c2a-f3ea6e6a53f3",
+      "name": "Menta",
+      "type": "mint",
+      "slug": "menta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043732268bc1bff0d3cb9-1c90d3e8.png",
+      "imagePath": "/ingredient/634043732268bc1bff0d3cb9-1c90d3e8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043732268bc1bff0d3cb9-Menta.png"
+    },
+    {
+      "id": "63404373233160a36674ba0e",
+      "uuid": "acaf37ce-a5ff-5a2d-bf8b-c1bd51eb83ba",
+      "name": "Especias mediterráneas",
+      "type": "mediterranean-spice-mix",
+      "slug": "especias-mediterraneas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0e-3aaa1fde.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0e-3aaa1fde.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0e-Especias mediterráneas.png"
+    },
+    {
+      "id": "688c9b871cc5cea71281245a",
+      "uuid": "ec2276be-64f8-485c-a464-8da34d88aa6c",
+      "name": "Chili seco en escamas",
+      "type": "chilli-flakes-dried",
+      "slug": "chili-seco-en-escamas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "imagePath": "/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/688c9b871cc5cea71281245a-Chili seco en escamas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "6450b971a7de25dd4f194163",
+      "uuid": "e8b4474a-caeb-43ea-870a-2b5963671f04",
+      "name": "Aceite para la salsa",
+      "type": "oil-for-the-sauce-tbsp",
+      "slug": "aceite-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6450b971a7de25dd4f194163-c451ce6e.png",
+      "imagePath": "/ingredient/6450b971a7de25dd4f194163-c451ce6e.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6450b971a7de25dd4f194163-Aceite para la salsa.png"
+    },
+    {
+      "id": "65b9f37ed1da3988cdd8ea2e",
+      "uuid": "2172102e-c765-43f0-a8ee-369a17e6ad6f",
+      "name": "Vinagre",
+      "type": "vinegar-in-tbsp",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "imagePath": "/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65b9f37ed1da3988cdd8ea2e-Vinagre.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Premium",
+    "handle": "premium",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/688a78461cc5cea71280bb47",
+  "name": "Magret de pato con chimichurri casero de menta",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3974,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 950,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 33.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 6.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 95.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 17.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 37.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.32,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 9,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 629,
+  "slug": "magret-de-pito-con-chimichurri-casero-de-menta",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nPela la cebolla y corta casi toda en tiras finas. Pica el resto.\nEscurre el maíz y extiéndelo junto a la cebolla en tiras en una bandeja de horno con papel de horno.\nAdereza con un chorrito de aceite, sal y pimienta.\nHornea a media altura 25 min, removiendo a mitad de cocción.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>cebolla</strong> y corta casi toda en tiras finas. Pica el resto.</li>\n<li>Escurre el <strong>maíz</strong> y extiéndelo junto a la <strong>cebolla</strong> en tiras en una bandeja de horno con papel de horno.</li>\n<li>Adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Hornea a media altura 25 min, removiendo a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>cebolla</strong> y corta casi toda en tiras finas. Pica el resto.</li>\n<li>Escurre el <strong>maíz</strong> y extiéndelo junto a la <strong>cebolla</strong> en tiras en una bandeja de horno con papel de horno.</li>\n<li>Adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Hornea a media altura 25 min, removiendo a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78461cc5cea71280bb47/step-6e651500.jpg",
+          "path": "/688a78461cc5cea71280bb47/step-6e651500.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/688a78461cc5cea71280bb47-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y corta las patatas y la chirivía en dados de 1-2 cm. \nEn una olla, agrega las patatas y la chirivía, cúbrelas con agua y añade una pizca de sal.\nLleva a ebullición, cocina a fuego medio 15-18 min o hasta que estén blandas.\nMientras tanto, haz cortes a diagonales en ambas direcciones sobre la piel del magret de pato, sin llegar a la carne.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Pela y corta las <strong>patatas</strong> y la <strong>chirivía</strong> en dados de 1-2 cm. </li>\n<li>En una olla, agrega las <strong>patatas</strong> y la <strong>chirivía,</strong> cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal.</strong></li>\n<li>Lleva a ebullición, cocina a fuego medio 15-18 min o hasta que estén blandas.</li>\n<li>Mientras tanto, haz cortes a diagonales en ambas direcciones sobre la piel del <strong>magret de pato</strong>, sin llegar a la carne.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y corta las <strong>patatas</strong> y la <strong>chirivía</strong> en dados de 1-2 cm. </li>\n<li>En una olla, agrega las <strong>patatas</strong> y la <strong>chirivía,</strong> cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal.</strong></li>\n<li>Lleva a ebullición, cocina a fuego medio 15-18 min o hasta que estén blandas.</li>\n<li>Mientras tanto, haz cortes a diagonales en ambas direcciones sobre la piel del <strong>magret de pato</strong>, sin llegar a la carne.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78461cc5cea71280bb47/step-987fa910.jpg",
+          "path": "/688a78461cc5cea71280bb47/step-987fa910.jpg",
+          "caption": "Tubérculos al agua",
+          "localImage": "/images/recipes/688a78461cc5cea71280bb47-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCalienta una sartén a fuego medio-alto sin aceite. Cuando esté caliente, cocina el pato 2-3 min por la parte de la piel y 1 min más por la otra parte, hasta que quede bien dorado.\nLuego, coloca el pato con la piel hacia arriba en una fuente para horno y salpimienta.\nHornea el pato a media altura 10-12 min.\n",
+      "instructionsHTML": "<ul>\n<li>Calienta una sartén a fuego medio-alto sin aceite. Cuando esté caliente, cocina el <strong>pato</strong> 2-3 min por la parte de la piel y 1 min más por la otra parte, hasta que quede bien dorado.</li>\n<li>Luego, coloca el <strong>pato</strong> con la piel hacia arriba en una fuente para horno y salpimienta.</li>\n<li>Hornea el pato a media altura 10-12 min.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Calienta una sartén a fuego medio-alto sin aceite. Cuando esté caliente, cocina el <strong>pato</strong> 2-3 min por la parte de la piel y 1 min más por la otra parte, hasta que quede bien dorado.</li>\n<li>Luego, coloca el <strong>pato</strong> con la piel hacia arriba en una fuente para horno y salpimienta.</li>\n<li>Hornea el pato a media altura 10-12 min.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375",
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78461cc5cea71280bb47/step-5dd23720.jpg",
+          "path": "/688a78461cc5cea71280bb47/step-5dd23720.jpg",
+          "caption": "Cocina el magret",
+          "localImage": "/images/recipes/688a78461cc5cea71280bb47-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nDeshoja y pica finamente la menta.\nPela y ralla el ajo.\nEn un bol, mezcla la menta, la cebolla picada, las especias mediterráneas, chili en escamas al gusto, el ajo, el aceite para la salsa, el vinagre y el orégano.\n",
+      "instructionsHTML": "<ul>\n<li>Deshoja y pica finamente la <strong>menta</strong>.</li>\n<li>Pela y ralla el <strong>ajo.</strong></li>\n<li>En un bol, mezcla la <strong>menta,</strong> la <strong>cebolla</strong> picada, las <strong>especias mediterráneas, chili en escamas</strong> al gusto, el <strong>ajo,</strong> el <strong>aceite para la salsa,</strong> el <strong>vinagre</strong> y el <strong>orégano.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Deshoja y pica finamente la <strong>menta</strong>.</li>\n<li>Pela y ralla el <strong>ajo.</strong></li>\n<li>En un bol, mezcla la <strong>menta,</strong> la <strong>cebolla</strong> picada, las <strong>especias mediterráneas, chili en escamas</strong> al gusto, el <strong>ajo,</strong> el <strong>aceite para la salsa,</strong> el <strong>vinagre</strong> y el <strong>orégano.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78461cc5cea71280bb47/step-7b8a7430.jpg",
+          "path": "/688a78461cc5cea71280bb47/step-7b8a7430.jpg",
+          "caption": "Dale vida al chimichurri",
+          "localImage": "/images/recipes/688a78461cc5cea71280bb47-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando la patata y chirivía estén listas, escúrrelas y colócalas en la jarra medidora.\nAgrega un chorrito de aceite, la mantequilla, sal y pimienta al gusto.\nCon un túrmix, tritura hasta conseguir un parmentier cremoso.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando la <strong>patata</strong> y <strong>chirivía</strong> estén listas, escúrrelas y colócalas en la jarra medidora.</li>\n<li>Agrega un chorrito de <strong>aceite,</strong> la <strong>mantequilla, sal</strong> y <strong>pimienta</strong> al gusto.</li>\n<li>Con un túrmix, tritura hasta conseguir un <strong>parmentier</strong> cremoso.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando la <strong>patata</strong> y <strong>chirivía</strong> estén listas, escúrrelas y colócalas en la jarra medidora.</li>\n<li>Agrega un chorrito de <strong>aceite,</strong> la <strong>mantequilla, sal</strong> y <strong>pimienta</strong> al gusto.</li>\n<li>Con un túrmix, tritura hasta conseguir un <strong>parmentier</strong> cremoso.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78461cc5cea71280bb47/step-be739240.jpg",
+          "path": "/688a78461cc5cea71280bb47/step-be739240.jpg",
+          "caption": "Tritura el parmentier",
+          "localImage": "/images/recipes/688a78461cc5cea71280bb47-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nCorta el magret de pato en rodajas de 1 cm.\nSirve el parmentier de patata y chirivía en un lado de los platos y coloca encima el pato.\nCubre el pato con el chimichurri al gusto.\nSirve el maíz y la cebolla al otro lado del plato.\n",
+      "instructionsHTML": "<ul>\n<li>Corta el <strong>magret de pato</strong> en rodajas de 1 cm.</li>\n<li>Sirve el <strong>parmentier</strong> de <strong>patata</strong> y <strong>chirivía</strong> en un lado de los platos y coloca encima el <strong>pato</strong>.</li>\n<li>Cubre el <strong>pato</strong> con el <strong>chimichurri</strong> al gusto.</li>\n<li>Sirve el <strong>maíz </strong>y la <strong>cebolla</strong> al otro lado del plato.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta el <strong>magret de pato</strong> en rodajas de 1 cm.</li>\n<li>Sirve el <strong>parmentier</strong> de <strong>patata</strong> y <strong>chirivía</strong> en un lado de los platos y coloca encima el <strong>pato</strong>.</li>\n<li>Cubre el <strong>pato</strong> con el <strong>chimichurri</strong> al gusto.</li>\n<li>Sirve el <strong>maíz </strong>y la <strong>cebolla</strong> al otro lado del plato.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78461cc5cea71280bb47/step-63546450.jpg",
+          "path": "/688a78461cc5cea71280bb47/step-63546450.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/688a78461cc5cea71280bb47-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESSGD46000-5",
+  "updatedAt": "2026-01-21T14:01:05+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "9e26c212-a9a7-4b61-a5dc-e385d23cab47",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/magret-de-pito-con-chimichurri-casero-de-menta-688a78461cc5cea71280bb47",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8436a1aa6db20ea1183b",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64a7e18748c7b9302c331400",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8436a1aa6db20ea1183b",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64a7e18748c7b9302c331400",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 420,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8436a1aa6db20ea1183b",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64a7e18748c7b9302c331400",
+          "amount": 900,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 1.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/688a78461cc5cea71280bb47-Magret de pato con chimichurri casero de menta.jpg",
+  "localCard": "/pdf/688a78461cc5cea71280bb47-Magret de pato con chimichurri casero de menta.pdf"
+}

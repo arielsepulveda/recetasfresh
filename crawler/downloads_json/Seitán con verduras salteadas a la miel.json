@@ -1,0 +1,741 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5de91d27f4c17e42c17aef94",
+      "name": "Mostaza",
+      "type": "traces-of-mustard",
+      "slug": "traces-of-mostaza",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 2.7,
+  "canonical": "64788ae5904daffe76f26a32",
+  "canonicalLink": "https://www.hellofresh.es/recipes/seitan-con-verduras-salteadas-a-la-miel-64788ae5904daffe76f26a32",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/669fcb5644e4fbb9d21320e9-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "641344c16b23cefedf01c8dd",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-02T09:41:26+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "El seitán es un producto muy popular en China que se obtiene a partir del gluten del trigo. Aunque no sea apto para celiacos, sí es muy utilizado en la cocina vegetariana y macrobiótica como sustitutivo de la carne, debido a su aspecto y su textura al ser cocinado. Descúbrelo en esta receta que se prepara en tan solo 15 minutos.",
+  "descriptionHTML": "<p>El seitán es un producto muy popular en China que se obtiene a partir del gluten del trigo. Aunque no sea apto para celiacos, sí es muy utilizado en la cocina vegetariana y macrobiótica como sustitutivo de la carne, debido a su aspecto y su textura al ser cocinado. Descúbrelo en esta receta que se prepara en tan solo 15 minutos.</p>",
+  "descriptionMarkdown": "El seitán es un producto muy popular en China que se obtiene a partir del gluten del trigo. Aunque no sea apto para celiacos, sí es muy utilizado en la cocina vegetariana y macrobiótica como sustitutivo de la carne, debido a su aspecto y su textura al ser cocinado. Descúbrelo en esta receta que se prepara en tan solo 15 minutos.",
+  "difficulty": 1,
+  "favoritesCount": 13,
+  "headline": "con garbanzos especiados y semillas de sésamo negras",
+  "id": "669fcb5644e4fbb9d21320e9",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R15_W26_ES_ESVV15430-2_Main__sesame_edit_high-5d559c32.jpg",
+  "imagePath": "/image/HF_Y23_R15_W26_ES_ESVV15430-2_Main__sesame_edit_high-5d559c32.jpg",
+  "ingredients": [
+    {
+      "id": "646d53e58c393b044d7449a8",
+      "uuid": "e4bb6934-3223-48ca-815f-a683ebc8b394",
+      "name": "Seitán",
+      "type": "seitan",
+      "slug": "seitan",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/646d53e58c393b044d7449a8-1871c603.png",
+      "imagePath": "/ingredient/646d53e58c393b044d7449a8-1871c603.png",
+      "shipped": true,
+      "allergens": [
+        "5de91d27f4c17e42c17aef94",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/646d53e58c393b044d7449a8-Seitán.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "63404379233160a36674ba27",
+      "uuid": "62332e06-1bd9-5362-a8bd-eb869fce3bea",
+      "name": "Mix de especias tailandesas",
+      "type": "thai-style-spice-blend",
+      "slug": "mix-de-especias-tailandesas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "imagePath": "/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba27-Mix de especias tailandesas.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "63404376233160a36674ba1b",
+      "uuid": "6b9b5891-6a0f-43b7-abac-f1d515dd2d91",
+      "name": "Pimiento rojo",
+      "type": "red-bell-pepper",
+      "slug": "pimiento-rojo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1b-Pimiento rojo.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "660c9e473f0f2e6d306d9c5e",
+      "uuid": "b2650fbb-77ee-5228-a70d-a2f8d7a9b5d5",
+      "name": "Semillas de sésamo negras",
+      "type": "black-sesame-seeds",
+      "slug": "semillas-de-sesamo-negras",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/660c9e473f0f2e6d306d9c5e-17818691.png",
+      "imagePath": "/ingredient/660c9e473f0f2e6d306d9c5e-17818691.png",
+      "shipped": true,
+      "allergens": [
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/660c9e473f0f2e6d306d9c5e-Semillas de sésamo negras.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/669fcb5644e4fbb9d21320e9",
+  "name": "Seitán con verduras salteadas a la miel",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3190,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 762,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 35.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 6.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 65.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 19.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 21.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 54.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.63,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 26,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 761,
+  "slug": "seitan-verduras-miel-garbanzos",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Escurre los garbanzos con ayuda de un colador y sécalos bien con papel de cocina. Coloca los garbanzos en una bandeja de horno con papel de horno. Espolvorea sobre los garbanzos el mix de especias tailandesas y agrega un chorrito de aceite.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Escurre los <strong>garbanzos</strong> con ayuda de un colador y sécalos bien con papel de cocina. Coloca los <strong>garbanzos</strong> en una bandeja de horno con papel de horno. Espolvorea sobre los <strong>garbanzos</strong> el <strong>mix de especias tailandesas</strong> y agrega un chorrito de <strong>aceite</strong>.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Escurre los <strong>garbanzos</strong> con ayuda de un colador y sécalos bien con papel de cocina. Coloca los <strong>garbanzos</strong> en una bandeja de horno con papel de horno. Espolvorea sobre los <strong>garbanzos</strong> el <strong>mix de especias tailandesas</strong> y agrega un chorrito de <strong>aceite</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb5644e4fbb9d21320e9/step-7cc9fd00.jpg",
+          "path": "/669fcb5644e4fbb9d21320e9/step-7cc9fd00.jpg",
+          "caption": "Prepara los garbanzos",
+          "localImage": "/images/recipes/669fcb5644e4fbb9d21320e9-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Salpimienta y remueve para que queden bien aderezados. Hornea los garbanzos a media altura durante 20-25 min, hasta que estén dorados. Remueve a mitad de cocción.",
+      "instructionsHTML": "<p><strong>Salpimienta</strong> y remueve para que queden bien aderezados. Hornea los <strong>garbanzos</strong> a media altura durante <span>20-25 min</span>, hasta que estén dorados. Remueve a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p><strong>Salpimienta</strong> y remueve para que queden bien aderezados. Hornea los <strong>garbanzos</strong> a media altura durante <span>20-25 min</span>, hasta que estén dorados. Remueve a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb5644e4fbb9d21320e9/step-adbfb010.jpg",
+          "path": "/669fcb5644e4fbb9d21320e9/step-adbfb010.jpg",
+          "caption": "Hornea los garbanzos",
+          "localImage": "/images/recipes/669fcb5644e4fbb9d21320e9-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Corta el pimiento por la mitad y quítale las semillas. Córtalo en tiras finas de 0,5-1 cm de grosor. Pela y corta la zanahoria por la mitad a lo largo. Luego, corta en bastones de 1 cm de grosor. Corta el seitán en bastones de 0,5 cm.",
+      "instructionsHTML": "<p>Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en tiras finas de 0,5-1 cm de grosor. Pela y corta la <strong>zanahoria</strong> por la mitad a lo largo. Luego, corta en bastones de 1 cm de grosor. Corta el <strong>seitán</strong> en bastones de 0,5 cm.</p>",
+      "instructionsMarkdown": "<p>Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en tiras finas de 0,5-1 cm de grosor. Pela y corta la <strong>zanahoria</strong> por la mitad a lo largo. Luego, corta en bastones de 1 cm de grosor. Corta el <strong>seitán</strong> en bastones de 0,5 cm.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb5644e4fbb9d21320e9/step-59d22320.jpg",
+          "path": "/669fcb5644e4fbb9d21320e9/step-59d22320.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/669fcb5644e4fbb9d21320e9-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En una sartén, calienta un chorrito de aceite a fuego medio-alto. Una vez caliente, agrega el seitán y cocina 4-5 min, girando ocasionalmente, hasta que se dore por todas partes. Luego, retira del fuego y reserva.",
+      "instructionsHTML": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega el <strong>seitán</strong> y cocina 4-5 min, girando ocasionalmente, hasta que se dore por todas partes. Luego, retira del fuego y reserva.</p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega el <strong>seitán</strong> y cocina 4-5 min, girando ocasionalmente, hasta que se dore por todas partes. Luego, retira del fuego y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb5644e4fbb9d21320e9/step-0d567430.jpg",
+          "path": "/669fcb5644e4fbb9d21320e9/step-0d567430.jpg",
+          "caption": "Saltea el seitán",
+          "localImage": "/images/recipes/669fcb5644e4fbb9d21320e9-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la sartén, calienta un chorrito de aceite a fuego medio-alto. Una vez caliente, agrega la cebolla, el pimiento y la zanahoria y cocina 7-8 min, removiendo frecuentemente, hasta que se ablanden. Agrega el seitán a la sartén junto a la miel. Salpimienta, remueve y cocina todo junto 2 min más.",
+      "instructionsHTML": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega la <strong>cebolla</strong>, el <strong>pimiento</strong> y la <strong>zanahoria</strong> y cocina 7-8 min, removiendo frecuentemente, hasta que se ablanden. Agrega el <strong>seitán</strong> a la sartén junto a la <strong>miel</strong>. <strong>Salpimienta</strong>, remueve y cocina todo junto 2 min más.</p>",
+      "instructionsMarkdown": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega la <strong>cebolla</strong>, el <strong>pimiento</strong> y la <strong>zanahoria</strong> y cocina 7-8 min, removiendo frecuentemente, hasta que se ablanden. Agrega el <strong>seitán</strong> a la sartén junto a la <strong>miel</strong>. <strong>Salpimienta</strong>, remueve y cocina todo junto 2 min más.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb5644e4fbb9d21320e9/step-f3cb3340.jpg",
+          "path": "/669fcb5644e4fbb9d21320e9/step-f3cb3340.jpg",
+          "caption": "Combina el seitán y las verduras",
+          "localImage": "/images/recipes/669fcb5644e4fbb9d21320e9-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el seitán con verduras salteadas en platos y cubre con los garbanzos asados. Espolvorea semillas de sésamo negras al gusto sobre el plato.\nSABÍAS QUE: Si retiras la parte blanca del interior de los pimientos, evitarás que tengan un sabor amargo, dado que contiene capsaicina.",
+      "instructionsHTML": "<p>Sirve el <strong>seitán</strong> con <strong>verduras</strong> salteadas en platos y cubre con los <strong>garbanzos</strong> asados. Espolvorea <strong>semillas de sésamo negras</strong> al gusto sobre el plato.</p>\n<p>SABÍAS QUE: Si retiras la parte blanca del interior de los pimientos, evitarás que tengan un sabor amargo, dado que contiene capsaicina.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>seitán</strong> con <strong>verduras</strong> salteadas en platos y cubre con los <strong>garbanzos</strong> asados. Espolvorea <strong>semillas de sésamo negras</strong> al gusto sobre el plato.</p>\n<p>SABÍAS QUE: Si retiras la parte blanca del interior de los pimientos, evitarás que tengan un sabor amargo, dado que contiene capsaicina.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb5644e4fbb9d21320e9/step-3d060350.jpg",
+          "path": "/669fcb5644e4fbb9d21320e9/step-3d060350.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/669fcb5644e4fbb9d21320e9-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305321",
+      "type": "high-protein",
+      "name": "Proteico",
+      "slug": "proteico",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESVV15430-4",
+  "updatedAt": "2026-01-21T17:18:40+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "c4bc0203-00db-47b6-9672-54983383d825",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/seitan-verduras-miel-garbanzos-669fcb5644e4fbb9d21320e9",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "646d53e58c393b044d7449a8",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "646d53e58c393b044d7449a8",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 1560,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/669fcb5644e4fbb9d21320e9-Seitán con verduras salteadas a la miel.jpg",
+  "localCard": "/pdf/669fcb5644e4fbb9d21320e9-Seitán con verduras salteadas a la miel.pdf"
+}

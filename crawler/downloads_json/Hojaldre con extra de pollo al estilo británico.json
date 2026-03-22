@@ -1,0 +1,693 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "68d64555d232ff05cfc44e30",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pie-de-pollo-y-puerro-estilo-britanico-68d64555d232ff05cfc44e30",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "694927075c42f1f3135f2d27",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-22T15:46:29+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bd",
+      "type": "british",
+      "name": "British",
+      "slug": "british",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bd-8abb14dd.jpg"
+    }
+  ],
+  "description": "El pie británico es un clásico de la cocina del Reino Unido: pasteles rellenos de carne, pollo o verduras, cocidos al horno hasta dorar la masa. En esta receta, un hojaldre de pollo con crema y puerro mantiene ese espíritu reconfortante, convirtiendo cada porción en un bocado casero y lleno de sabor.",
+  "descriptionHTML": "<p>El pie británico es un clásico de la cocina del Reino Unido: pasteles rellenos de carne, pollo o verduras, cocidos al horno hasta dorar la masa. En esta receta, un hojaldre de pollo con crema y puerro mantiene ese espíritu reconfortante, convirtiendo cada porción en un bocado casero y lleno de sabor.</p>",
+  "descriptionMarkdown": "El pie británico es un clásico de la cocina del Reino Unido: pasteles rellenos de carne, pollo o verduras, cocidos al horno hasta dorar la masa. En esta receta, un hojaldre de pollo con crema y puerro mantiene ese espíritu reconfortante, convirtiendo cada porción en un bocado casero y lleno de sabor.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con puerro a la crema",
+  "id": "694967d43e57376810f98868",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R29_W06_ES_ESCFC51232-4_Main_high-ed27e10e.jpg",
+  "imagePath": "/image/HF_Y26_R29_W06_ES_ESCFC51232-4_Main_high-ed27e10e.jpg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "6340436e233160a36674b9f9",
+      "uuid": "43cf496e-b81e-45b7-977d-ba85227fed76",
+      "name": "Muslos de pollo deshuesados",
+      "type": "chicken-thighs",
+      "slug": "muslos-de-pollo-deshuesados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9f9-Muslos de pollo deshuesados.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "68da497a1d20e752a6dbcdd3",
+      "uuid": "48036233-a4c5-54a9-ad53-015d57907c7a",
+      "name": "Hojaldre",
+      "type": "puff-pastry",
+      "slug": "hojaldre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/68da497a1d20e752a6dbcdd3-aa6d51fb.png",
+      "imagePath": "/ingredient/68da497a1d20e752a6dbcdd3-aa6d51fb.png",
+      "shipped": true,
+      "allergens": [
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68da497a1d20e752a6dbcdd3-Hojaldre.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Clásicos ingleses",
+    "handle": "british-classics",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#CE4500",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/694967d43e57376810f98868",
+  "name": "Hojaldre con extra de pollo al estilo británico",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 5456,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1304,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 82,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 32.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 85.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 20.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 72.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.69,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 837,
+  "slug": "hojaldre-con-extra-de-pollo-al-estilo-britanico",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nPela la cebolla y córtala en daditos.\nRetira las raíces y el extremo verde del puerro y córtalo por la mitad a lo largo. Corta en medias lunas finas.\nCorta el muslo de pollo en trozos de 1-2 cm.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos.</li>\n<li>Retira las raíces y el extremo verde del <strong>puerro</strong> y córtalo por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>Corta el <strong>muslo de pollo</strong> en trozos de 1-2 cm.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos.</li>\n<li>Retira las raíces y el extremo verde del <strong>puerro</strong> y córtalo por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>Corta el <strong>muslo de pollo</strong> en trozos de 1-2 cm.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/694967d43e57376810f98868/step-b7280900.jpg",
+          "path": "/694967d43e57376810f98868/step-b7280900.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/694967d43e57376810f98868-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una sartén grande, calienta un chorrito de aceite a fuego medio-alto. Agrega el pollo, salpimienta y cocina 5-6 min o hasta que se dore.\nRetira de la sartén.\nEn la sartén, calienta un chorrito de aceite a fuego medio. Agrega la cebolla y el puerro, salpimienta y cocina 5-7 min o hasta que queden tiernas.\n",
+      "instructionsHTML": "<ul>\n<li>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>pollo, salpimienta</strong> y cocina 5-6 min o hasta que se dore.</li>\n<li>Retira de la sartén.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> y el <strong>puerro, salpimienta</strong> y cocina 5-7 min o hasta que queden tiernas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>pollo, salpimienta</strong> y cocina 5-6 min o hasta que se dore.</li>\n<li>Retira de la sartén.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> y el <strong>puerro, salpimienta</strong> y cocina 5-7 min o hasta que queden tiernas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/694967d43e57376810f98868/step-c0fb9310.jpg",
+          "path": "/694967d43e57376810f98868/step-c0fb9310.jpg",
+          "caption": "Pollo al fuego",
+          "localImage": "/images/recipes/694967d43e57376810f98868-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, agrega el pollo, la nata líquida, el tomillo seco y el caldo de pollo. Remueve y cocina 2-3 min, hasta que la salsa se haya reducido.\nPrueba y rectifica de sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, agrega el <strong>pollo,</strong> la <strong>nata líquida,</strong> el <strong>tomillo seco</strong> y el <strong>caldo de pollo.</strong> Remueve y cocina 2-3 min, hasta que la <strong>salsa</strong> se haya reducido.</li>\n<li>Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, agrega el <strong>pollo,</strong> la <strong>nata líquida,</strong> el <strong>tomillo seco</strong> y el <strong>caldo de pollo.</strong> Remueve y cocina 2-3 min, hasta que la <strong>salsa</strong> se haya reducido.</li>\n<li>Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/694967d43e57376810f98868/step-bca84320.jpg",
+          "path": "/694967d43e57376810f98868/step-bca84320.jpg",
+          "caption": "Combina todo",
+          "localImage": "/images/recipes/694967d43e57376810f98868-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCon un tenedor, pincha el hojaldre para evitar que se infle al hornearlo.\nEn una fuente de horno, de tamaño similar al hojaldre, agrega el relleno de pollo y puerro en salsa.\nCubre con el hojaldre.\n",
+      "instructionsHTML": "<ul>\n<li>Con un tenedor, pincha el <strong>hojaldre</strong> para evitar que se infle al hornearlo.</li>\n<li>En una fuente de horno, de tamaño similar al <strong>hojaldre,</strong> agrega el relleno de <strong>pollo</strong> y <strong>puerro</strong> en <strong>salsa.</strong></li>\n<li>Cubre con el <strong>hojaldre.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Con un tenedor, pincha el <strong>hojaldre</strong> para evitar que se infle al hornearlo.</li>\n<li>En una fuente de horno, de tamaño similar al <strong>hojaldre,</strong> agrega el relleno de <strong>pollo</strong> y <strong>puerro</strong> en <strong>salsa.</strong></li>\n<li>Cubre con el <strong>hojaldre.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/694967d43e57376810f98868/step-e6cbe630.jpg",
+          "path": "/694967d43e57376810f98868/step-e6cbe630.jpg",
+          "caption": "Empieza a montar el pastel",
+          "localImage": "/images/recipes/694967d43e57376810f98868-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCon el hojaldre que sobre, puedes hacer las formas que prefieras y colocárlas sobre el hojaldre en la fuente de horno.\nCon un pincel de silicona, pinta la superficie del hojaldre con aceite.\nHornea a media altura 10-12 o hasta que el hojaldre esté dorado.\n",
+      "instructionsHTML": "<ul>\n<li>Con el <strong>hojaldre</strong> que sobre, puedes hacer las formas que prefieras y colocárlas sobre el <strong>hojaldre</strong> en la fuente de horno.</li>\n<li>Con un pincel de silicona, pinta la superficie del <strong>hojaldre</strong> con <strong>aceite.</strong></li>\n<li>Hornea a media altura 10-12 o hasta que el <strong>hojaldre</strong> esté dorado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Con el <strong>hojaldre</strong> que sobre, puedes hacer las formas que prefieras y colocárlas sobre el <strong>hojaldre</strong> en la fuente de horno.</li>\n<li>Con un pincel de silicona, pinta la superficie del <strong>hojaldre</strong> con <strong>aceite.</strong></li>\n<li>Hornea a media altura 10-12 o hasta que el <strong>hojaldre</strong> esté dorado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e8670"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/694967d43e57376810f98868/step-c6a8fb40.jpg",
+          "path": "/694967d43e57376810f98868/step-c6a8fb40.jpg",
+          "caption": "Que no falte la decoración",
+          "localImage": "/images/recipes/694967d43e57376810f98868-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la fuente con el pastel de pollo en la mesa.\nCorta porciones y sírvelas en los platos al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve la fuente con el <strong>pastel</strong> de <strong>pollo</strong> en la mesa.</li>\n<li>Corta porciones y sírvelas en los platos al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve la fuente con el <strong>pastel</strong> de <strong>pollo</strong> en la mesa.</li>\n<li>Corta porciones y sírvelas en los platos al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/694967d43e57376810f98868/step-f7b3e250.jpg",
+          "path": "/694967d43e57376810f98868/step-f7b3e250.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/694967d43e57376810f98868-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "67efb4b9fb316d4edf08966f",
+      "type": "cuisine-spotlight",
+      "name": "cuisine-spotlight",
+      "slug": "cuisine-spotlight",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCFC51232-DP-1-2",
+  "updatedAt": "2026-01-12T11:57:04+00:00",
+  "utensils": [
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "59d49a9319279f8fe60e8670",
+      "type": "silicone-brush",
+      "name": "Pincel de silicona"
+    }
+  ],
+  "uuid": "3523bd60-c70a-486b-9e46-8194516f92fc",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/hojaldre-con-extra-de-pollo-al-estilo-britanico-694967d43e57376810f98868",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 660,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "68da497a1d20e752a6dbcdd3",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 1320,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "68da497a1d20e752a6dbcdd3",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 1980,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "68da497a1d20e752a6dbcdd3",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/694967d43e57376810f98868-Hojaldre con extra de pollo al estilo británico.jpg"
+}

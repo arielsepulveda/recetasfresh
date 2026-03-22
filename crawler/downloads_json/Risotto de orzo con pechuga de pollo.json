@@ -1,0 +1,862 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5de91d27f4c17e42c17aef94",
+      "name": "Mostaza",
+      "type": "traces-of-mustard",
+      "slug": "traces-of-mostaza",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": "64c0fa6da1aa6db20ea12a34",
+  "canonicalLink": "https://www.hellofresh.es/recipes/risotto-de-orzo-con-pechuga-de-pollo-64c0fa6da1aa6db20ea12a34",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/682c9b1dc4a648afcad036c0-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "647f69623232ce748829246b",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-05-20T15:09:18+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Atrévete a probar este plato en el que preparamos un risotto de orzo con puerro y queso pecorino y lo acompañamos con una tierna pechuga de pollo que cubrimos con salsa de mantequilla. Finalmente, agregamos sobre el plato unas rodajas de chalota salteadas que darán profundidad al plato y harán que tu disfrute se multiplique.",
+  "descriptionHTML": "<p>Atrévete a probar este plato en el que preparamos un risotto de orzo con puerro y queso pecorino y lo acompañamos con una tierna pechuga de pollo que cubrimos con salsa de mantequilla. Finalmente, agregamos sobre el plato unas rodajas de chalota salteadas que darán profundidad al plato y harán que tu disfrute se multiplique.</p>",
+  "descriptionMarkdown": "Atrévete a probar este plato en el que preparamos un risotto de orzo con puerro y queso pecorino y lo acompañamos con una tierna pechuga de pollo que cubrimos con salsa de mantequilla. Finalmente, agregamos sobre el plato unas rodajas de chalota salteadas que darán profundidad al plato y harán que tu disfrute se multiplique.",
+  "difficulty": 1,
+  "favoritesCount": 18,
+  "headline": "con pecorino y chalota salteada",
+  "id": "682c9b1dc4a648afcad036c0",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R03_W17_ES_ESFQCC16971-6_Main_high-860a32af.jpg",
+  "imagePath": "/image/HF_Y24_R03_W17_ES_ESFQCC16971-6_Main_high-860a32af.jpg",
+  "ingredients": [
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "687994697299475a5b0573eb",
+      "uuid": "a60633dc-e736-5ba7-af65-c2ad6efa5fc0",
+      "name": "Orzo",
+      "type": "orzo",
+      "slug": "orzo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/687994697299475a5b0573eb-ab9196a5.png",
+      "imagePath": "/ingredient/687994697299475a5b0573eb-ab9196a5.png",
+      "shipped": true,
+      "allergens": [
+        "5b0532aaae08b52eb9420552",
+        "5de91d27f4c17e42c17aef94",
+        "57962a07b7e8697d4b3052f3",
+        "60368d89cdbdf450236ad8cd",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/687994697299475a5b0573eb-Orzo.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "65a5166d70cc438cf4f7d21a",
+      "uuid": "ba765ed8-7344-4b46-bd37-25eddb1421de",
+      "name": "Pecorino italiano",
+      "type": "pecorino-vegetariano",
+      "slug": "pecorino-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65a5166d70cc438cf4f7d21a-88693f84.png",
+      "imagePath": "/ingredient/65a5166d70cc438cf4f7d21a-88693f84.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65a5166d70cc438cf4f7d21a-Pecorino italiano.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "64887dee343321ec36639897",
+      "uuid": "f2be8154-077b-4c4d-a7c0-ddcb313ce8da",
+      "name": "Mantequilla para la salsa",
+      "type": "butter-for-the-sauce",
+      "slug": "mantequilla-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64887dee343321ec36639897-ba10f7f2.png",
+      "imagePath": "/ingredient/64887dee343321ec36639897-ba10f7f2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64887dee343321ec36639897-Mantequilla para la salsa.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/682c9b1dc4a648afcad036c0",
+  "name": "Risotto de orzo con pechuga de pollo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3718,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 889,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 50.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 84.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 46.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.87,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 24,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 414,
+  "slug": "risotto-de-orzo-con-pechuga-de-pollo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela y pica el ajo.\nRetira las raíces y el extremo verde del puerro y deséchalos. Córtalo en medias lunas finas.\nPela la chalota y córtala en rodajas de 0,5 cm.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. Córtalo en medias lunas finas.</li>\n<li dir=\"ltr\">Pela la <strong>chalota</strong> y córtala en rodajas de 0,5 cm.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. Córtalo en medias lunas finas.</li>\n<li dir=\"ltr\">Pela la <strong>chalota</strong> y córtala en rodajas de 0,5 cm.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b1dc4a648afcad036c0/step-af23c600.jpg",
+          "path": "/682c9b1dc4a648afcad036c0/step-af23c600.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/682c9b1dc4a648afcad036c0-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una olla, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAñade el puerro y sal y rehógalo a fuego medio 4-5 min, removiendo.\nAgrega el orzo y remueve.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una olla, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Añade el <strong>puerro</strong> y <strong>sal</strong> y rehógalo a fuego medio 4-5 min, removiendo.</li>\n<li dir=\"ltr\">Agrega el <strong>orzo</strong> y remueve.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una olla, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Añade el <strong>puerro</strong> y <strong>sal</strong> y rehógalo a fuego medio 4-5 min, removiendo.</li>\n<li dir=\"ltr\">Agrega el <strong>orzo</strong> y remueve.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b1dc4a648afcad036c0/step-c22be410.jpg",
+          "path": "/682c9b1dc4a648afcad036c0/step-c22be410.jpg",
+          "caption": "Sofríe el puerro",
+          "localImage": "/images/recipes/682c9b1dc4a648afcad036c0-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la olla, agrega el agua y el caldo vegetal en polvo y cocina el orzo a fuego medio 10-12 min, removiendo, hasta que quede cocido.\nMientras tanto, en una sartén, calienta un chorrito de aceite a fuego medio-alto. Cocina la chalota 1 min por lado, hasta que se dore.\nSalpimienta, retira y reserva.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la olla, agrega el <strong>agua</strong> y el <strong>caldo vegetal</strong> en polvo y cocina el <strong>orzo</strong> a fuego medio 10-12 min, removiendo, hasta que quede cocido.</li>\n<li dir=\"ltr\">Mientras tanto, en una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina la <strong>chalota</strong> 1 min por lado, hasta que se dore.</li>\n<li dir=\"ltr\"><strong>Salpimienta</strong>, retira y reserva.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la olla, agrega el <strong>agua</strong> y el <strong>caldo vegetal</strong> en polvo y cocina el <strong>orzo</strong> a fuego medio 10-12 min, removiendo, hasta que quede cocido.</li>\n<li dir=\"ltr\">Mientras tanto, en una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina la <strong>chalota</strong> 1 min por lado, hasta que se dore.</li>\n<li dir=\"ltr\"><strong>Salpimienta</strong>, retira y reserva.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b1dc4a648afcad036c0/step-07941620.jpg",
+          "path": "/682c9b1dc4a648afcad036c0/step-07941620.jpg",
+          "caption": "Prepara el risotto de orzo",
+          "localImage": "/images/recipes/682c9b1dc4a648afcad036c0-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio. Agrega el pollo, salpimienta y cocina 3-4 min por lado, hasta que esté dorado.\nAgrega un chorrito de aceite, la mantequilla para la salsa y el orégano.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el<strong> pollo</strong>, <strong>salpimienta</strong> y cocina 3-4 min por lado, hasta que esté dorado.</li>\n<li dir=\"ltr\">Agrega un chorrito de <strong>aceite</strong>, la <strong>mantequilla para la salsa</strong> y el <strong>orégano</strong>.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el<strong> pollo</strong>, <strong>salpimienta</strong> y cocina 3-4 min por lado, hasta que esté dorado.</li>\n<li dir=\"ltr\">Agrega un chorrito de <strong>aceite</strong>, la <strong>mantequilla para la salsa</strong> y el <strong>orégano</strong>.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b1dc4a648afcad036c0/step-32978030.jpg",
+          "path": "/682c9b1dc4a648afcad036c0/step-32978030.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/682c9b1dc4a648afcad036c0-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando la mantequilla se funda, cubre el pollo con una cuchara y repite el proceso 1 min, de manera que quede dorado.\nCuando el orzo esté listo, añade el queso pecorino y la mantequilla.\nRetira la olla del fuego, mezcla y rectifica de sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Cuando la <strong>mantequilla</strong> se funda, cubre el <strong>pollo</strong> con una cuchara y repite el proceso 1 min, de manera que quede dorado.</li>\n<li dir=\"ltr\">Cuando el <strong>orzo</strong> esté listo, añade el <strong>queso pecorino</strong> y la <strong>mantequilla</strong>.</li>\n<li dir=\"ltr\">Retira la olla del fuego, mezcla y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Cuando la <strong>mantequilla</strong> se funda, cubre el <strong>pollo</strong> con una cuchara y repite el proceso 1 min, de manera que quede dorado.</li>\n<li dir=\"ltr\">Cuando el <strong>orzo</strong> esté listo, añade el <strong>queso pecorino</strong> y la <strong>mantequilla</strong>.</li>\n<li dir=\"ltr\">Retira la olla del fuego, mezcla y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b1dc4a648afcad036c0/step-01edd440.jpg",
+          "path": "/682c9b1dc4a648afcad036c0/step-01edd440.jpg",
+          "caption": "Añade la salsa",
+          "localImage": "/images/recipes/682c9b1dc4a648afcad036c0-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nCorta las pechugas de pollo en tiras a lo ancho.\nSirve el risotto de orzo en la base de los platos y coloca encima la pechuga de pollo.\nAñade la salsa de mantequilla sobrante sobre el pollo.\nTermina el plato agregando la chalota salteada.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Corta las <strong>pechugas de pollo</strong> en tiras a lo ancho.</li>\n<li dir=\"ltr\">Sirve el <strong>risotto de orzo</strong> en la base de los platos y coloca encima la <strong>pechuga de pollo</strong>.</li>\n<li dir=\"ltr\">Añade la <strong>salsa de mantequilla</strong> sobrante sobre el <strong>pollo</strong>.</li>\n<li dir=\"ltr\">Termina el plato agregando la <strong>chalota</strong> salteada.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Corta las <strong>pechugas de pollo</strong> en tiras a lo ancho.</li>\n<li dir=\"ltr\">Sirve el <strong>risotto de orzo</strong> en la base de los platos y coloca encima la <strong>pechuga de pollo</strong>.</li>\n<li dir=\"ltr\">Añade la <strong>salsa de mantequilla</strong> sobrante sobre el <strong>pollo</strong>.</li>\n<li dir=\"ltr\">Termina el plato agregando la <strong>chalota</strong> salteada.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b1dc4a648afcad036c0/step-33474950.jpg",
+          "path": "/682c9b1dc4a648afcad036c0/step-33474950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/682c9b1dc4a648afcad036c0-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESFQCC16971-20",
+  "updatedAt": "2026-02-17T02:24:32+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "3a648552-71eb-4510-81e4-bdda38ad796a",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/risotto-de-orzo-con-pechuga-de-pollo-682c9b1dc4a648afcad036c0",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "687994697299475a5b0573eb",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65a5166d70cc438cf4f7d21a",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "64887dee343321ec36639897",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "687994697299475a5b0573eb",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65a5166d70cc438cf4f7d21a",
+          "amount": 80,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 800,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "64887dee343321ec36639897",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 9,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "687994697299475a5b0573eb",
+          "amount": 540,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65a5166d70cc438cf4f7d21a",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "64887dee343321ec36639897",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/682c9b1dc4a648afcad036c0-Risotto de orzo con pechuga de pollo.jpg",
+  "localCard": "/pdf/682c9b1dc4a648afcad036c0-Risotto de orzo con pechuga de pollo.pdf"
+}

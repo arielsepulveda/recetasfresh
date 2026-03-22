@@ -1,0 +1,647 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "640f514b7bee82308d551296",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-a-la-crema-con-puerro-640f514b7bee82308d551296",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/677656231d65e30dd0891320-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347ef92bb36093c54997951",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-01-02T09:02:28+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "¿Estás buscando una receta sabrosa que puedas disfrutar con toda la familia y preparar rápidamente? Prueba estos dados de pollo cubiertos por una salsa cremosa con puerro y queso italiano y verás como la familia lo devora... ¡a toda velocidad! No esperes más y pruébalo tú también.",
+  "descriptionHTML": "<p>¿Estás buscando una receta sabrosa que puedas disfrutar con toda la familia y preparar rápidamente? Prueba estos dados de pollo cubiertos por una salsa cremosa con puerro y queso italiano y verás como la familia lo devora... ¡a toda velocidad! No esperes más y pruébalo tú también.</p>",
+  "descriptionMarkdown": "¿Estás buscando una receta sabrosa que puedas disfrutar con toda la familia y preparar rápidamente? Prueba estos dados de pollo cubiertos por una salsa cremosa con puerro y queso italiano y verás como la familia lo devora... ¡a toda velocidad! No esperes más y pruébalo tú también.",
+  "difficulty": 1,
+  "favoritesCount": 26,
+  "headline": "acompañado de arroz y queso italiano curado",
+  "id": "677656231d65e30dd0891320",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_ES_Sonic_R1_Chicken_on_creamy_leek_sauce_with_rice_Main__4high-931914f1.jpg",
+  "imagePath": "/image/HF_Y25_ES_Sonic_R1_Chicken_on_creamy_leek_sauce_with_rice_Main__4high-931914f1.jpg",
+  "ingredients": [
+    {
+      "id": "6340437b2268bc1bff0d3cd1",
+      "uuid": "9838d4d1-5c2e-4e68-a073-54d514ccfdb0",
+      "name": "Pechuga de pollo troceada",
+      "type": "chicken-breast-diced",
+      "slug": "pechuga-de-pollo-troceada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd1-Pechuga de pollo troceada.jpg"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "634043742268bc1bff0d3cbc",
+      "uuid": "a6e1c36d-10e9-50a3-9b14-b914bda64151",
+      "name": "Nuez moscada",
+      "type": "nutmeg",
+      "slug": "nuez-moscada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043742268bc1bff0d3cbc-6042777e.png",
+      "imagePath": "/ingredient/634043742268bc1bff0d3cbc-6042777e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043742268bc1bff0d3cbc-Nuez moscada.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Super Sonic ™",
+    "handle": "super-sonic",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/677656231d65e30dd0891320",
+  "name": "Dados de pollo supersónicos a la crema",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3939,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 941,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 42.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 17.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 82.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 8.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 74.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.01,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 28,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 560,
+  "slug": "dados-de-pollo-a-la-crema-con-puerro",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el agua (ver cantidad en ingredientes), añade el arroz y sal y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo. Una vez cocinado, remueve el arroz y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo. Una vez cocinado, remueve el <strong>arroz</strong> y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo. Una vez cocinado, remueve el <strong>arroz</strong> y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677656231d65e30dd0891320/step-462b3400.jpg",
+          "path": "/677656231d65e30dd0891320/step-462b3400.jpg",
+          "caption": "Cuece el arroz",
+          "localImage": "/images/recipes/677656231d65e30dd0891320-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén, calienta un chorrito de aceite a fuego medio. Agrega el pollo, salpimienta y cocina 5-6 min o hasta que esté dorado y bien cocinado. Retira de la sartén y reserva. Retira las raíces y el extremo verde del puerro y deséchalos. Córtalo por la mitad a lo largo, luego, corta en medias lunas. Pela y pica el ajo (ver cantidad en ingredientes).\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>pollo, salpimienta</strong> y cocina 5-6 min <span><span>o</span> </span>hasta que esté dorado y bien cocinado. Retira de la sartén y reserva. Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. Córtalo por la mitad a lo largo, luego, corta en medias lunas. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>pollo, salpimienta</strong> y cocina 5-6 min <span><span>o</span> </span>hasta que esté dorado y bien cocinado. Retira de la sartén y reserva. Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. Córtalo por la mitad a lo largo, luego, corta en medias lunas. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677656231d65e30dd0891320/step-60115a10.jpg",
+          "path": "/677656231d65e30dd0891320/step-60115a10.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/677656231d65e30dd0891320-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min. Luego, añade el puerro, salpimienta y cocina 4 min, con la sartén tapada. Luego, cocina 4 min más sin la tapa, hasta que el puerro esté tierno. Agrega la nata líquida, la mitad del queso rallado y nuez moscada al gusto. Mezcla y lleva a ebullición, luego, cocina a fuego medio-alto 3-4 min o hasta que la salsa espese, removiendo.",
+      "instructionsHTML": "<p dir=\"ltr\">En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Luego, añade el <strong>puerro</strong>, <strong>sal</strong><strong>pimienta</strong> y cocina 4 min, con la sartén tapada. Luego, cocina 4 min más sin la tapa, hasta que el <strong>puerro</strong> esté tierno. Agrega la <strong>nata líquida,</strong> la mitad del <strong>queso rallado</strong> y <strong>nuez moscada</strong> al gusto. Mezcla y lleva a ebullición, luego, cocina a fuego medio-alto 3-4 min o hasta que la <strong>salsa</strong> espese, removiendo.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Luego, añade el <strong>puerro</strong>, <strong>sal</strong><strong>pimienta</strong> y cocina 4 min, con la sartén tapada. Luego, cocina 4 min más sin la tapa, hasta que el <strong>puerro</strong> esté tierno. Agrega la <strong>nata líquida,</strong> la mitad del <strong>queso rallado</strong> y <strong>nuez moscada</strong> al gusto. Mezcla y lleva a ebullición, luego, cocina a fuego medio-alto 3-4 min o hasta que la <strong>salsa</strong> espese, removiendo.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677656231d65e30dd0891320/step-17b4d520.jpg",
+          "path": "/677656231d65e30dd0891320/step-17b4d520.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/677656231d65e30dd0891320-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Añade el pollo de nuevo a al sartén y cocina todo junto 1-2 min, removiendo para integrar. Prueba y rectifica de sal y pimienta. Sirve el arroz en platos y vierte encima el pollo a la crema con puerro. Agrega encima el queso rallado restante y el orégano (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p dir=\"ltr\"><span>Añade el <strong>pollo</strong> de nuevo a al sartén y cocina todo junto 1-2 min, removiendo para integrar. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong> Sirve el <strong>arroz</strong> en platos y vierte encima el <strong>pollo a la crema con puerro</strong>. Agrega encima el <strong>queso rallado</strong> restante y el <strong>orégano</strong> (ver cantidad en ingredientes).</span></p>",
+      "instructionsMarkdown": "<p dir=\"ltr\"><span>Añade el <strong>pollo</strong> de nuevo a al sartén y cocina todo junto 1-2 min, removiendo para integrar. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong> Sirve el <strong>arroz</strong> en platos y vierte encima el <strong>pollo a la crema con puerro</strong>. Agrega encima el <strong>queso rallado</strong> restante y el <strong>orégano</strong> (ver cantidad en ingredientes).</span></p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677656231d65e30dd0891320/step-3ceb6030.jpg",
+          "path": "/677656231d65e30dd0891320/step-3ceb6030.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/677656231d65e30dd0891320-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESFQC0112-16",
+  "updatedAt": "2025-06-12T13:34:01+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    }
+  ],
+  "uuid": "f4d04169-c56b-42bf-9f26-de8e13509195",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/dados-de-pollo-a-la-crema-con-puerro-677656231d65e30dd0891320",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 80,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/677656231d65e30dd0891320-Dados de pollo supersónicos a la crema.jpg",
+  "localCard": "/pdf/677656231d65e30dd0891320-Dados de pollo supersónicos a la crema.pdf"
+}

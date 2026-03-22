@@ -1,0 +1,903 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.7,
+  "canonical": "64a7fa72adf12186bf9ae889",
+  "canonicalLink": "https://www.hellofresh.es/recipes/entrecot-con-pure-de-ajo-salsa-de-ciruela-64a7fa72adf12186bf9ae889",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/688a785d1cc5cea71280bbfd-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "64a7fa72adf12186bf9ae889",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-12T06:09:38+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "¿Puede haber algo más seductor que un entrecot de ternera en su punto perfecto? A su lado, zanahorias asadas con miel que aportan dulzor y brocolini que suma frescura y crujiente. Acompañamos con un parmentier de patata al ajo asado, sedoso y aromático, que abraza el conjunto con una elegancia digna de un banquete.",
+  "descriptionHTML": "<p>¿Puede haber algo más seductor que un entrecot de ternera en su punto perfecto? A su lado, zanahorias asadas con miel que aportan dulzor y brocolini que suma frescura y crujiente. Acompañamos con un parmentier de patata al ajo asado, sedoso y aromático, que abraza el conjunto con una elegancia digna de un banquete.</p>",
+  "descriptionMarkdown": "¿Puede haber algo más seductor que un entrecot de ternera en su punto perfecto? A su lado, zanahorias asadas con miel que aportan dulzor y brocolini que suma frescura y crujiente. Acompañamos con un parmentier de patata al ajo asado, sedoso y aromático, que abraza el conjunto con una elegancia digna de un banquete.",
+  "difficulty": 1,
+  "favoritesCount": 11,
+  "headline": "con zanahoria a la miel, brocolini y parmentier al ajo asado",
+  "id": "688a785d1cc5cea71280bbfd",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R22_W43_ES_ESSGB17599-4_Main_high-88e56235.jpg",
+  "imagePath": "/image/HF_Y25_R22_W43_ES_ESSGB17599-4_Main_high-88e56235.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "64be80dcd4684302b8757fb6",
+      "uuid": "cfa42e44-0daf-57a5-a1fc-b67d1eb3ecea",
+      "name": "Brocolini",
+      "type": "broccolini",
+      "slug": "brocolini",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64be80dcd4684302b8757fb6-dbecd2be.png",
+      "imagePath": "/ingredient/64be80dcd4684302b8757fb6-dbecd2be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64be80dcd4684302b8757fb6-Brocolini.png"
+    },
+    {
+      "id": "64d2495a2a63efcc605eb56f",
+      "uuid": "4aac0598-076a-5652-89fd-5076ac921db4",
+      "name": "Entrecot de ternera",
+      "type": "steak",
+      "slug": "entrecot-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64d2495a2a63efcc605eb56f-086d2066.jpg",
+      "imagePath": "/ingredient/64d2495a2a63efcc605eb56f-086d2066.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64d2495a2a63efcc605eb56f-Entrecot de ternera.jpg"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "64be8436a1aa6db20ea1183b",
+      "uuid": "f591cc12-e408-52ec-9321-c73329bc2aa2",
+      "name": "Chirivía",
+      "type": "parsnip",
+      "slug": "chirivia",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64be8436a1aa6db20ea1183b-ef163ab3.png",
+      "imagePath": "/ingredient/64be8436a1aa6db20ea1183b-ef163ab3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64be8436a1aa6db20ea1183b-Chirivía.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "650c0994270f68660e1b230c",
+      "uuid": "8086ec46-486e-5bee-95de-1d685da0a16a",
+      "name": "Confitura de ciruela",
+      "type": "plum-jam",
+      "slug": "confitura-de-ciruela",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/650c0994270f68660e1b230c-aa32fe08.png",
+      "imagePath": "/ingredient/650c0994270f68660e1b230c-aa32fe08.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/650c0994270f68660e1b230c-Confitura de ciruela.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Premium",
+    "handle": "premium",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/688a785d1cc5cea71280bbfd",
+  "name": "Entrecot de ternera con salsa casera de ciruela",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3344,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 799,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 41.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 13.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 79.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 35.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 9.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 44.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.61,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 9,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 670,
+  "slug": "entrecot-de-ternera-con-salsa-casera-de-ciruela",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nPela el ajo y colócalo en un papel de aluminio. Adereza con un chorrito de aceite y sal y envuelve cerrando el papel.\nPela la zanahoria y córtalas en bastones de 0.5-1 cm de grosor y 3-4 cm de longitud.\nColoca la zanahoria y el brocolini en una bandeja de horno con papel de horno y adereza con un chorrito de aceite, sal y pimienta. Remueve.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 220ºC.</li>\n<li dir=\"ltr\">Pela el <strong>ajo</strong> y colócalo en un papel de aluminio. Adereza con un chorrito de <strong>aceite</strong> y <strong>sal</strong> y envuelve cerrando el papel.</li>\n<li dir=\"ltr\">Pela la <strong>zanahoria</strong> y córtalas en bastones de 0.5-1 cm de grosor y 3-4 cm de longitud.</li>\n<li dir=\"ltr\">Coloca la <strong>zanahoria</strong> y el <strong>brocolini</strong> en una bandeja de horno con papel de horno y adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Remueve.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 220ºC.</li>\n<li dir=\"ltr\">Pela el <strong>ajo</strong> y colócalo en un papel de aluminio. Adereza con un chorrito de <strong>aceite</strong> y <strong>sal</strong> y envuelve cerrando el papel.</li>\n<li dir=\"ltr\">Pela la <strong>zanahoria</strong> y córtalas en bastones de 0.5-1 cm de grosor y 3-4 cm de longitud.</li>\n<li dir=\"ltr\">Coloca la <strong>zanahoria</strong> y el <strong>brocolini</strong> en una bandeja de horno con papel de horno y adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Remueve.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b305366"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a785d1cc5cea71280bbfd/step-ff2da800.jpg",
+          "path": "/688a785d1cc5cea71280bbfd/step-ff2da800.jpg",
+          "caption": "Hornea las verduras",
+          "localImage": "/images/recipes/688a785d1cc5cea71280bbfd-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nAñade el ajo envuelto en aluminio a la bandeja de horno y hornea todo junto en el estante medio-alto 14-16 min, hasta que las verduras estén tiernas. Remueve a mitad de cocción.\nSaca los entrecots de la nevera.\nPela la patata y la chirivía y córtalas en trozos de 2 cm.\nEn una olla, agrega la patata y la chirivia, cúbrelas con agua y añade una pizca de sal. Lleva a ebullición y cocina, a fuego medio, 15-18 min o hasta que estén blandas.\n",
+      "instructionsHTML": "<ul>\n<li>Añade el <strong>ajo</strong> envuelto en aluminio a la bandeja de horno y hornea todo junto en el estante medio-alto 14-16 min, hasta que las <strong>verduras</strong> estén tiernas. Remueve a mitad de cocción.</li>\n<li>Saca los <strong>entrecots</strong> de la nevera.</li>\n<li dir=\"ltr\">Pela la <strong>patata</strong> y la <strong>chirivía</strong> y córtalas en trozos de 2 cm.</li>\n<li dir=\"ltr\">En una olla, agrega la <strong>patata </strong>y la chirivia, cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal.</strong> Lleva a ebullición y cocina, a fuego medio, 15-18 min o hasta que estén blandas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Añade el <strong>ajo</strong> envuelto en aluminio a la bandeja de horno y hornea todo junto en el estante medio-alto 14-16 min, hasta que las <strong>verduras</strong> estén tiernas. Remueve a mitad de cocción.</li>\n<li>Saca los <strong>entrecots</strong> de la nevera.</li>\n<li dir=\"ltr\">Pela la <strong>patata</strong> y la <strong>chirivía</strong> y córtalas en trozos de 2 cm.</li>\n<li dir=\"ltr\">En una olla, agrega la <strong>patata </strong>y la chirivia, cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal.</strong> Lleva a ebullición y cocina, a fuego medio, 15-18 min o hasta que estén blandas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a785d1cc5cea71280bbfd/step-a5115c10.jpg",
+          "path": "/688a785d1cc5cea71280bbfd/step-a5115c10.jpg",
+          "caption": "Cuece los tubérculos",
+          "localImage": "/images/recipes/688a785d1cc5cea71280bbfd-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCorta la chalota en tiras finas.\nEn una sartén, calienta un chorrito de aceite a fuego medio-bajo. Cocina la chalota 2-3 min.\nAñade el vinagre balsámico, el caldo de ternera y el agua. Lleva a ebullición, luego, cocina a fuego medio 2-3 min, hasta que la salsa espese ligeramente, removiendo con varillas.\nAgrega la confitura de ciruela y cocina a fuego medio-alto 1-2 min más, removiendo.\nRetira y reserva en un bol pequeño. \n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Corta la <strong>chalota</strong> en tiras finas.</li>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-bajo. Cocina la <strong>chalota</strong> 2-3 min.</li>\n<li dir=\"ltr\">Añade el <strong>vinagre balsámico,</strong> el <strong>caldo de ternera</strong> y el <strong>agua</strong>. Lleva a ebullición, luego, cocina a fuego medio 2-3 min, hasta que la <strong>salsa</strong> espese ligeramente, removiendo con varillas.</li>\n<li dir=\"ltr\">Agrega la <strong>confitura de ciruela</strong> y cocina a fuego medio-alto 1-2 min más, removiendo.</li>\n<li dir=\"ltr\">Retira y reserva en un bol pequeño. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Corta la <strong>chalota</strong> en tiras finas.</li>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-bajo. Cocina la <strong>chalota</strong> 2-3 min.</li>\n<li dir=\"ltr\">Añade el <strong>vinagre balsámico,</strong> el <strong>caldo de ternera</strong> y el <strong>agua</strong>. Lleva a ebullición, luego, cocina a fuego medio 2-3 min, hasta que la <strong>salsa</strong> espese ligeramente, removiendo con varillas.</li>\n<li dir=\"ltr\">Agrega la <strong>confitura de ciruela</strong> y cocina a fuego medio-alto 1-2 min más, removiendo.</li>\n<li dir=\"ltr\">Retira y reserva en un bol pequeño. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a785d1cc5cea71280bbfd/step-ebada420.jpg",
+          "path": "/688a785d1cc5cea71280bbfd/step-ebada420.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/688a785d1cc5cea71280bbfd-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCuando las zanahorias estén listas, sácalas del horno y añade encima la miel.\nCuando la patata y la chirivía estén listas, escúrrelas y vuelve a colocarlas en la olla.\nAñade un el ajo asado pelado, la mantequilla, chorrito de aceite, sal y pimienta.\nCon un túrmix, tritura hasta conseguir un parmentier homogéneo.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando las <strong>zanahorias</strong> estén listas, sácalas del horno y añade encima la <strong>miel.</strong></li>\n<li>Cuando la <strong>patata</strong> y la <strong>chirivía</strong> estén listas, escúrrelas y vuelve a colocarlas en la olla.</li>\n<li>Añade un el <strong>ajo</strong> asado pelado, la <strong>mantequilla,</strong> chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Con un túrmix, tritura hasta conseguir un <strong>parmentier</strong> homogéneo.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando las <strong>zanahorias</strong> estén listas, sácalas del horno y añade encima la <strong>miel.</strong></li>\n<li>Cuando la <strong>patata</strong> y la <strong>chirivía</strong> estén listas, escúrrelas y vuelve a colocarlas en la olla.</li>\n<li>Añade un el <strong>ajo</strong> asado pelado, la <strong>mantequilla,</strong> chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Con un túrmix, tritura hasta conseguir un <strong>parmentier</strong> homogéneo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a785d1cc5cea71280bbfd/step-d178cc30.jpg",
+          "path": "/688a785d1cc5cea71280bbfd/step-d178cc30.jpg",
+          "caption": "Tritura el parmentier",
+          "localImage": "/images/recipes/688a785d1cc5cea71280bbfd-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Agrega los entrecots de ternera, salpimienta y cocina 1 min por lado, hasta que se doren.\nRetira de la sartén y reserva hasta el emplatado.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega los <strong>entrecots </strong><strong>de ternera</strong>, <strong>salpimienta</strong> y cocina 1 min por lado, hasta que se doren.</li>\n<li>Retira de la sartén y reserva hasta el emplatado.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega los <strong>entrecots </strong><strong>de ternera</strong>, <strong>salpimienta</strong> y cocina 1 min por lado, hasta que se doren.</li>\n<li>Retira de la sartén y reserva hasta el emplatado.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a785d1cc5cea71280bbfd/step-56ea2d40.jpg",
+          "path": "/688a785d1cc5cea71280bbfd/step-56ea2d40.jpg",
+          "caption": "Cocina la carne",
+          "localImage": "/images/recipes/688a785d1cc5cea71280bbfd-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\n Cuando la ternera esté lista, corta en tiras a lo ancho.\nSirve el entrecot, las verduras asadas y el parmentier en platos, por separado.\nCubre el entrecot de ternera con la salsa de ciruela.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\"> Cuando la <strong>ternera</strong> esté lista, corta en tiras a lo ancho.</li>\n<li dir=\"ltr\">Sirve el <strong>entrecot,</strong> las <strong>verduras</strong> asadas y el <strong>parmentier</strong> en platos, por separado.</li>\n<li dir=\"ltr\">Cubre el entrecot de <strong>ternera</strong> con la <strong>salsa</strong> de <strong>ciruela.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\"> Cuando la <strong>ternera</strong> esté lista, corta en tiras a lo ancho.</li>\n<li dir=\"ltr\">Sirve el <strong>entrecot,</strong> las <strong>verduras</strong> asadas y el <strong>parmentier</strong> en platos, por separado.</li>\n<li dir=\"ltr\">Cubre el entrecot de <strong>ternera</strong> con la <strong>salsa</strong> de <strong>ciruela.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a785d1cc5cea71280bbfd/step-26a81e50.jpg",
+          "path": "/688a785d1cc5cea71280bbfd/step-26a81e50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/688a785d1cc5cea71280bbfd-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESSGB17599-4",
+  "updatedAt": "2026-01-21T17:19:22+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305366",
+      "type": "aluminumfoil",
+      "name": "Papel de aluminio"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "2b29a69f-80cf-4e6b-998b-b56e90313477",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/entrecot-de-ternera-con-salsa-casera-de-ciruela-688a785d1cc5cea71280bbfd",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64be80dcd4684302b8757fb6",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 340,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8436a1aa6db20ea1183b",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "650c0994270f68660e1b230c",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 75,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64be80dcd4684302b8757fb6",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 680,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8436a1aa6db20ea1183b",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "650c0994270f68660e1b230c",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64be80dcd4684302b8757fb6",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 1020,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8436a1aa6db20ea1183b",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "650c0994270f68660e1b230c",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 225,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/688a785d1cc5cea71280bbfd-Entrecot de ternera con salsa casera de ciruela.jpg",
+  "localCard": "/pdf/688a785d1cc5cea71280bbfd-Entrecot de ternera con salsa casera de ciruela.pdf"
+}

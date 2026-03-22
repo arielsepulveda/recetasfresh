@@ -1,0 +1,842 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "63ca9c4d812a821893bf0504",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-a-la-parmigiana-63ca9c4d812a821893bf0504",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "68dd445490f853057639c7da",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-08T14:30:54+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Partiendo de la receta clásica de berenjenas a la parmigiana, los italoamericanos crearon una versión en la que sustituyeron la berenjena por “cottoleta” o, lo que es lo mismo, filete de pollo empanado. Su cobertura de salsa de tomate y queso italiano curado lo convierte en un plato irresistible.",
+  "descriptionHTML": "<p>Partiendo de la receta clásica de berenjenas a la parmigiana, los italoamericanos crearon una versión en la que sustituyeron la berenjena por “cottoleta” o, lo que es lo mismo, filete de pollo empanado. Su cobertura de salsa de tomate y queso italiano curado lo convierte en un plato irresistible.</p>",
+  "descriptionMarkdown": "Partiendo de la receta clásica de berenjenas a la parmigiana, los italoamericanos crearon una versión en la que sustituyeron la berenjena por “cottoleta” o, lo que es lo mismo, filete de pollo empanado. Su cobertura de salsa de tomate y queso italiano curado lo convierte en un plato irresistible.",
+  "difficulty": 1,
+  "favoritesCount": 11,
+  "headline": "con patatas al horno y ensalada de rúcula",
+  "id": "68e6759d908d7cf716b7ee95",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R01_W42_ES_ESCFC0141-9_Main_high-d4ba31d7.jpg",
+  "imagePath": "/image/HF_Y23_R01_W42_ES_ESCFC0141-9_Main_high-d4ba31d7.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "638dd72e9657f9d918dfd2d1",
+      "uuid": "67ea6126-49e3-5b03-b722-5fc0efcb1e68",
+      "name": "Tomate frito",
+      "type": "tomato-sauce",
+      "slug": "tomate-frito",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638dd72e9657f9d918dfd2d1-7f73ebd6.png",
+      "imagePath": "/ingredient/638dd72e9657f9d918dfd2d1-7f73ebd6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638dd72e9657f9d918dfd2d1-Tomate frito.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "6874cb2f5a587f17f4588c97",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "imagePath": "/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6874cb2f5a587f17f4588c97-Panko.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68e6759d908d7cf716b7ee95",
+  "name": "Parmigiana de extra de pollo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3986,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 953,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 46.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 70.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 20.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 82.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.27,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 4,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 848,
+  "slug": "parmigiana-de-extra-de-pollo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nCorta las patatas en gajos de 1-2 cm de grosor.\nColócalos en un lado de una bandeja de horno con papel de horno.\nAgrega un chorrito de aceite, salpimienta y mezcla.\nHornea a media altura durante 11-13 min.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 220ºC.</li>\n<li dir=\"ltr\">Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor.</li>\n<li dir=\"ltr\">Colócalos en un lado de una bandeja de horno con papel de horno.</li>\n<li dir=\"ltr\">Agrega un chorrito de <strong>aceite</strong>, <strong>sal</strong><strong>pimienta</strong> y mezcla.</li>\n<li dir=\"ltr\">Hornea a media altura durante 11-13 min.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 220ºC.</li>\n<li dir=\"ltr\">Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor.</li>\n<li dir=\"ltr\">Colócalos en un lado de una bandeja de horno con papel de horno.</li>\n<li dir=\"ltr\">Agrega un chorrito de <strong>aceite</strong>, <strong>sal</strong><strong>pimienta</strong> y mezcla.</li>\n<li dir=\"ltr\">Hornea a media altura durante 11-13 min.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68e6759d908d7cf716b7ee95/step-3d0c5700.jpg",
+          "path": "/68e6759d908d7cf716b7ee95/step-3d0c5700.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68e6759d908d7cf716b7ee95-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela la cebolla y corta en daditos.\nPela y pica el ajo.\nEn una sartén, añade un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAgrega la cebolla y una pizca de sal y cocina 4-5 min, removiendo, hasta que quede transparente.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y corta en daditos.</li>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">En una sartén, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo, hasta que quede transparente.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y corta en daditos.</li>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">En una sartén, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo, hasta que quede transparente.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68e6759d908d7cf716b7ee95/step-b2dd9910.jpg",
+          "path": "/68e6759d908d7cf716b7ee95/step-b2dd9910.jpg",
+          "caption": "Cebolla al fuego",
+          "localImage": "/images/recipes/68e6759d908d7cf716b7ee95-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nAgrega en la sartén el tomate frito, la mitad del vinagre balsámico y el orégano.\nLleva a ebullición, luego, cocina a fuego medio-bajo y con la sartén tapada 8-10 min, removiendo, hasta que la salsa espese.\nPrueba y rectifica de sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Agrega en la sartén el <strong>tomate frito</strong>, la mitad del <strong>vinagre balsámico</strong> y el <strong>orégano.</strong></li>\n<li dir=\"ltr\">Lleva a ebullición, luego, cocina a fuego medio-bajo y con la sartén tapada 8-10 min, removiendo, hasta que la <strong>salsa</strong> espese.</li>\n<li dir=\"ltr\">Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Agrega en la sartén el <strong>tomate frito</strong>, la mitad del <strong>vinagre balsámico</strong> y el <strong>orégano.</strong></li>\n<li dir=\"ltr\">Lleva a ebullición, luego, cocina a fuego medio-bajo y con la sartén tapada 8-10 min, removiendo, hasta que la <strong>salsa</strong> espese.</li>\n<li dir=\"ltr\">Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68e6759d908d7cf716b7ee95/step-9c992420.jpg",
+          "path": "/68e6759d908d7cf716b7ee95/step-9c992420.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/68e6759d908d7cf716b7ee95-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nMientras tanto, seca el pollo y salpimienta.\nEn un plato hondo, bate el huevo. En otro plato, agrega el panko.\nColoca el pollo en el plato con el huevo batido y cúbrelo.\nA continuación, rebózalo en panko. Presiona ligeramente para que el panko quede bien adherido.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Mientras tanto, seca el <strong>pollo</strong> y <strong>salpimienta.</strong></li>\n<li dir=\"ltr\">En un plato hondo, bate el <strong>huevo</strong>. En otro plato, agrega el <strong>panko.</strong></li>\n<li dir=\"ltr\">Coloca el <strong>pollo</strong> en el plato con el <strong>huevo</strong> batido y cúbrelo.</li>\n<li dir=\"ltr\">A continuación, rebózalo en <strong>panko.</strong> Presiona ligeramente para que el <strong>panko</strong> quede bien adherido.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Mientras tanto, seca el <strong>pollo</strong> y <strong>salpimienta.</strong></li>\n<li dir=\"ltr\">En un plato hondo, bate el <strong>huevo</strong>. En otro plato, agrega el <strong>panko.</strong></li>\n<li dir=\"ltr\">Coloca el <strong>pollo</strong> en el plato con el <strong>huevo</strong> batido y cúbrelo.</li>\n<li dir=\"ltr\">A continuación, rebózalo en <strong>panko.</strong> Presiona ligeramente para que el <strong>panko</strong> quede bien adherido.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff525",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68e6759d908d7cf716b7ee95/step-b6797b30.jpg",
+          "path": "/68e6759d908d7cf716b7ee95/step-b6797b30.jpg",
+          "caption": "Reboza el pollo",
+          "localImage": "/images/recipes/68e6759d908d7cf716b7ee95-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn una sartén, calienta a fuego medio un chorrito de aceite. Cocina el pollo 2-3 min por lado, hasta que se dore.\nColoca el pollo en una fuente para el horno y cubre con la salsa de tomate y la mitad del queso italiano.\nCuando las patatas se hayan horneado 11-13 min, dales la vuelta.\nAgrega la fuente con el pollo y hornea 10-12 min más, hasta que el pollo quede bien hecho y las patatas queden doradas y tiernas.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Cocina el <strong>pollo</strong> 2-3 min por lado, hasta que se dore.</li>\n<li dir=\"ltr\">Coloca el <strong>pollo</strong> en una fuente para el horno y cubre con la <strong>salsa de</strong> <strong>tomate</strong> y la mitad del <strong>queso italiano</strong>.</li>\n<li dir=\"ltr\">Cuando las <strong>patatas</strong> se hayan horneado 11-13 min, dales la vuelta.</li>\n<li dir=\"ltr\">Agrega la fuente con el <strong>pollo</strong> y hornea 10-12 min más, hasta que el <strong>pollo</strong> quede bien hecho y las <strong>patatas</strong> queden doradas y tiernas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Cocina el <strong>pollo</strong> 2-3 min por lado, hasta que se dore.</li>\n<li dir=\"ltr\">Coloca el <strong>pollo</strong> en una fuente para el horno y cubre con la <strong>salsa de</strong> <strong>tomate</strong> y la mitad del <strong>queso italiano</strong>.</li>\n<li dir=\"ltr\">Cuando las <strong>patatas</strong> se hayan horneado 11-13 min, dales la vuelta.</li>\n<li dir=\"ltr\">Agrega la fuente con el <strong>pollo</strong> y hornea 10-12 min más, hasta que el <strong>pollo</strong> quede bien hecho y las <strong>patatas</strong> queden doradas y tiernas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68e6759d908d7cf716b7ee95/step-c215ab40.jpg",
+          "path": "/68e6759d908d7cf716b7ee95/step-c215ab40.jpg",
+          "caption": "¡A la rica fritura!",
+          "localImage": "/images/recipes/68e6759d908d7cf716b7ee95-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nEn una ensaladera, mezcla el vinagre balsámico restante, un chorrito de aceite, sal y pimienta.\nAgrega la rúcula y remueve.\nSirve el pollo a la parmigiana a un lado de los platos y espolvorea encima el queso rallado restante.\nAñade la rúcula y las patatas asadas al otro lado como acompañamiento.\n",
+      "instructionsHTML": "<ul>\n<li>En una ensaladera, mezcla el <strong>vinagre balsámico</strong> restante, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Agrega la <strong>rúcula</strong> y remueve.</li>\n<li>Sirve el <strong>pollo</strong> <strong>a la parmigiana</strong> a un lado de los platos y espolvorea encima el <strong>queso rallado</strong> restante.</li>\n<li>Añade la <strong>rúcula</strong> y las <strong>patatas</strong> asadas al otro lado como acompañamiento.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una ensaladera, mezcla el <strong>vinagre balsámico</strong> restante, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Agrega la <strong>rúcula</strong> y remueve.</li>\n<li>Sirve el <strong>pollo</strong> <strong>a la parmigiana</strong> a un lado de los platos y espolvorea encima el <strong>queso rallado</strong> restante.</li>\n<li>Añade la <strong>rúcula</strong> y las <strong>patatas</strong> asadas al otro lado como acompañamiento.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68e6759d908d7cf716b7ee95/step-1dbd2750.jpg",
+          "path": "/68e6759d908d7cf716b7ee95/step-1dbd2750.jpg",
+          "caption": "Prepara la ensalada y disfruta",
+          "localImage": "/images/recipes/68e6759d908d7cf716b7ee95-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCFC0141-DP-1-2",
+  "updatedAt": "2026-01-21T14:01:23+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff525",
+      "type": null,
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "a47f17e1-1666-46bb-9417-115279872da6",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/parmigiana-de-extra-de-pollo-68e6759d908d7cf716b7ee95",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "638dd72e9657f9d918dfd2d1",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "638dd72e9657f9d918dfd2d1",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 8,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "638dd72e9657f9d918dfd2d1",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 75,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 3,
+          "unit": "unit"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68e6759d908d7cf716b7ee95-Parmigiana de extra de pollo.jpg"
+}

@@ -1,0 +1,674 @@
+{
+  "active": true,
+  "allergens": [],
+  "averageRating": 0,
+  "canonical": "6745f98d989edba91be2f1be",
+  "canonicalLink": "https://www.hellofresh.es/recipes/guiso-de-jamoncitos-de-pollo-con-setas-portobello-y-pan-chapata-6745f98d989edba91be2f1be",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "694518e83e57376810f940ae",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-22T13:50:24+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Los guisos forman parte del ADN de la cocina española, platos que se hacen con paciencia y recuerdos. Estos jamoncitos de pollo se cocinan lentamente con verduras, setas y lentejas, como se ha hecho siempre, dejando que los sabores se mezclen sin prisas. Es una receta que huele a hogar, a cuchara y a esa nostalgia que reconforta desde el primer bocado.",
+  "descriptionHTML": "<p>Los guisos forman parte del ADN de la cocina española, platos que se hacen con paciencia y recuerdos. Estos jamoncitos de pollo se cocinan lentamente con verduras, setas y lentejas, como se ha hecho siempre, dejando que los sabores se mezclen sin prisas. Es una receta que huele a hogar, a cuchara y a esa nostalgia que reconforta desde el primer bocado.</p>",
+  "descriptionMarkdown": "Los guisos forman parte del ADN de la cocina española, platos que se hacen con paciencia y recuerdos. Estos jamoncitos de pollo se cocinan lentamente con verduras, setas y lentejas, como se ha hecho siempre, dejando que los sabores se mezclen sin prisas. Es una receta que huele a hogar, a cuchara y a esa nostalgia que reconforta desde el primer bocado.",
+  "difficulty": 1,
+  "favoritesCount": 2,
+  "headline": "con lentejas, puerro y zanahoria",
+  "id": "69494c9f3e57376810f983d6",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R10_W05_ES_ESCCLFC36354-6_Main_2_high-48878193.jpg",
+  "imagePath": "/image/HF_Y26_R10_W05_ES_ESCCLFC36354-6_Main_2_high-48878193.jpg",
+  "ingredients": [
+    {
+      "id": "66e847bc07f7f5443341aec6",
+      "uuid": "378d6c8c-e6c8-5052-ad80-48d797974153",
+      "name": "Jamoncitos de pollo",
+      "type": "chicken-drumstick",
+      "slug": "jamoncitos-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/66e847bc07f7f5443341aec6-a4c48e0a.png",
+      "imagePath": "/ingredient/66e847bc07f7f5443341aec6-a4c48e0a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/66e847bc07f7f5443341aec6-Jamoncitos de pollo.png"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f7",
+      "uuid": "0c719142-be77-4ddd-94a0-b6219698b827",
+      "name": "Champiñones",
+      "type": "champignon-mushrooms",
+      "slug": "champinones",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f7-Champiñones.png"
+    },
+    {
+      "id": "63404373233160a36674ba0e",
+      "uuid": "acaf37ce-a5ff-5a2d-bf8b-c1bd51eb83ba",
+      "name": "Especias mediterráneas",
+      "type": "mediterranean-spice-mix",
+      "slug": "especias-mediterraneas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0e-3aaa1fde.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0e-3aaa1fde.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0e-Especias mediterráneas.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f0",
+      "uuid": "49d1ae88-5dea-5aa5-be78-86a06abe0582",
+      "name": "Lentejas",
+      "type": "brown-lentils",
+      "slug": "lentejas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f0-Lentejas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/69494c9f3e57376810f983d6",
+  "name": "¡Una olla! Guiso de extra de jamoncitos de pollo con setas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4476,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1070,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 12.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 50.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 13.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 124.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 170.54,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 1074,
+  "slug": "una-olla-guiso-de-extra-de-jamoncitos-de-pollo-con-setas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nEn una olla, calienta un chorrito de aceite a fuego medio. Agrega los jamoncitos de pollo, salpimienta y cocina 4-5, girando para que se doren uniformemente.\nRetira de la olla.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega los <strong>jamoncitos de pollo</strong>, <strong>salpimienta</strong> y cocina 4-5, girando para que se doren uniformemente.</li>\n<li>Retira de la olla.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega los <strong>jamoncitos de pollo</strong>, <strong>salpimienta</strong> y cocina 4-5, girando para que se doren uniformemente.</li>\n<li>Retira de la olla.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69494c9f3e57376810f983d6/step-5fbaa700.jpg",
+          "path": "/69494c9f3e57376810f983d6/step-5fbaa700.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/69494c9f3e57376810f983d6-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y pica el ajo.\nRetira las raíces y el extremo verde del puerro y córtalo por la mitad a lo largo. Corta en medias lunas finas.\nPela la zanahoria y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.\nLimpia los champiñones y retira el extremo del pie. Luego, córtalos en cuartos.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Retira las raíces y el extremo verde del <strong>puerro</strong> y córtalo por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Limpia los <strong>champiñones</strong> y retira el extremo del pie. Luego, córtalos en cuartos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Retira las raíces y el extremo verde del <strong>puerro</strong> y córtalo por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Limpia los <strong>champiñones</strong> y retira el extremo del pie. Luego, córtalos en cuartos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69494c9f3e57376810f983d6/step-de3e6b10.jpg",
+          "path": "/69494c9f3e57376810f983d6/step-de3e6b10.jpg",
+          "caption": "Mise en place",
+          "localImage": "/images/recipes/69494c9f3e57376810f983d6-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la olla, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAgrega el puerro y la zanahoria, salpimienta y cocina 4-5 min.\nAñade los champiñones y rehoga a fuego medio-alto 3 min.\nAgrega el pollo, las especias mediterráneas, el agua y el caldo de pollo. Remueve y cocina 12-14 min.\n",
+      "instructionsHTML": "<ul>\n<li>En la olla, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega el <strong>puerro</strong> y la <strong>zanahoria</strong>, <strong>salpimienta</strong> y cocina 4-5 min.</li>\n<li>Añade los <strong>champiñones</strong> y rehoga a fuego medio-alto 3 min.</li>\n<li>Agrega el <strong>pollo,</strong> las <strong>especias mediterráneas</strong>, el <strong>agua</strong> y el <strong>caldo de pollo</strong>. Remueve y cocina 12-14 min.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la olla, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega el <strong>puerro</strong> y la <strong>zanahoria</strong>, <strong>salpimienta</strong> y cocina 4-5 min.</li>\n<li>Añade los <strong>champiñones</strong> y rehoga a fuego medio-alto 3 min.</li>\n<li>Agrega el <strong>pollo,</strong> las <strong>especias mediterráneas</strong>, el <strong>agua</strong> y el <strong>caldo de pollo</strong>. Remueve y cocina 12-14 min.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69494c9f3e57376810f983d6/step-b5a1fc20.jpg",
+          "path": "/69494c9f3e57376810f983d6/step-b5a1fc20.jpg",
+          "caption": "Da forma al guiso",
+          "localImage": "/images/recipes/69494c9f3e57376810f983d6-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEscurre las lentejas y añádelas a la olla.\nCocina 5-7 min más y rectifica de sal y pimienta.\nSirve el guiso de jamoncitos de pollo y lentejas en platos.\n",
+      "instructionsHTML": "<ul>\n<li>Escurre las <strong>lentejas</strong> y añádelas a la olla.</li>\n<li>Cocina 5-7 min más y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Sirve el <strong>guiso</strong> de <strong>jamoncitos</strong> de <strong>pollo</strong> y <strong>lentejas</strong> en platos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Escurre las <strong>lentejas</strong> y añádelas a la olla.</li>\n<li>Cocina 5-7 min más y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Sirve el <strong>guiso</strong> de <strong>jamoncitos</strong> de <strong>pollo</strong> y <strong>lentejas</strong> en platos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69494c9f3e57376810f983d6/step-5a4ee930.jpg",
+          "path": "/69494c9f3e57376810f983d6/step-5a4ee930.jpg",
+          "caption": "Añade las lentejas y disfruta",
+          "localImage": "/images/recipes/69494c9f3e57376810f983d6-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCCLFC36354-DP-1-2",
+  "updatedAt": "2026-01-21T17:19:55+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "008925a2-183b-49a3-8bca-cda59889e475",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/una-olla-guiso-de-extra-de-jamoncitos-de-pollo-con-setas-69494c9f3e57376810f983d6",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "66e847bc07f7f5443341aec6",
+          "amount": 8,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 450,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "66e847bc07f7f5443341aec6",
+          "amount": 16,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 900,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "66e847bc07f7f5443341aec6",
+          "amount": 24,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 1170,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1350,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/69494c9f3e57376810f983d6-¡Una olla! Guiso de extra de jamoncitos de pollo con setas.jpg"
+}

@@ -1,0 +1,707 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/estofado-lentejas-chorizo-patatas-63ca9c0f812a821893bf04ee-306479e0.pdf",
+  "category": null,
+  "clonedFrom": "6347ef92e9568549b78497ad",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-01-20T13:50:07+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Deja de depender de algún familiar que parezca tener la clave para cocinar un estofado de lentejas sabroso y con el inconfundible carácter de la comida casera porque, con esta receta, podrás hacerlo en tu propia cocina y saborear el chorizo salteado, las tiernas patatas y la base de lentejas cuando tú lo prefieras.",
+  "descriptionHTML": "<p>Deja de depender de algún familiar que parezca tener la clave para cocinar un estofado de lentejas sabroso y con el inconfundible carácter de la comida casera porque, con esta receta, podrás hacerlo en tu propia cocina y saborear el chorizo salteado, las tiernas patatas y la base de lentejas cuando tú lo prefieras.</p>",
+  "descriptionMarkdown": "Deja de depender de algún familiar que parezca tener la clave para cocinar un estofado de lentejas sabroso y con el inconfundible carácter de la comida casera porque, con esta receta, podrás hacerlo en tu propia cocina y saborear el chorizo salteado, las tiernas patatas y la base de lentejas cuando tú lo prefieras.",
+  "difficulty": 1,
+  "favoritesCount": 33,
+  "headline": "con chorizo salteado, patatas y pimentón",
+  "id": "63ca9c0f812a821893bf04ee",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R01_W14_ES_ESCCL0000-2_Main_19_R_high-ca85252b.jpg",
+  "imagePath": "/image/HF_Y23_R01_W14_ES_ESCCL0000-2_Main_19_R_high-ca85252b.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f0",
+      "uuid": "49d1ae88-5dea-5aa5-be78-86a06abe0582",
+      "name": "Lentejas",
+      "type": "brown-lentils",
+      "slug": "lentejas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f0-Lentejas.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "63bd9bcb6cc380016be793b8",
+      "uuid": "f1a7c3f3-6783-46af-87b2-df2fd87c6820",
+      "name": "Pimentón ahumado",
+      "type": "smoked-paprika",
+      "slug": "pimenton-ahumado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bd9bcb6cc380016be793b8-a175456b.png",
+      "imagePath": "/ingredient/63bd9bcb6cc380016be793b8-a175456b.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bd9bcb6cc380016be793b8-Pimentón ahumado.png"
+    },
+    {
+      "id": "6340437a41033266d7be9538",
+      "uuid": "017ac3c8-4d38-465e-b403-183db3270831",
+      "name": "Patatas baby",
+      "type": "baby-potatoes",
+      "slug": "patatas-baby",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9538-692b9950.jpg",
+      "imagePath": "/ingredient/6340437a41033266d7be9538-692b9950.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9538-Patatas baby.jpg"
+    },
+    {
+      "id": "636a367127b0db08e0fb84e1",
+      "uuid": "9bcd0897-d822-4f07-8474-e4c19bff7776",
+      "name": "Chorizo troceado",
+      "type": "chorizo-diced",
+      "slug": "chorizo-troceado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636a367127b0db08e0fb84e1-23bc4ef6.png",
+      "imagePath": "/ingredient/636a367127b0db08e0fb84e1-23bc4ef6.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636a367127b0db08e0fb84e1-Chorizo troceado.png"
+    },
+    {
+      "id": "6340437a41033266d7be9534",
+      "uuid": "c7440604-41b7-5ef5-b2b3-8f83c31bccf9",
+      "name": "Tomate concentrado",
+      "type": "tomato-puree",
+      "slug": "tomate-concentrado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "imagePath": "/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9534-Tomate concentrado.jpg"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "De La Abuela",
+    "handle": "grandma-style",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#b980d0",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/63ca9c0f812a821893bf04ee",
+  "name": "Estofado casero de lentejas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 535,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2240,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 71.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 8.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 26.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.87,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 40,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 549,
+  "slug": "estofado-casero-de-lentejas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Pela y pica finamente el ajo (ver cantidad en ingredientes). Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. Corta las patatas en dados de 2-3 cm.",
+      "instructionsHTML": "<p>Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. Corta las <strong>patatas</strong> en dados de 2-3 cm.</p>",
+      "instructionsMarkdown": "<p>Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. Corta las <strong>patatas</strong> en dados de 2-3 cm.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c0f812a821893bf04ee/step-50195400.jpg",
+          "path": "/63ca9c0f812a821893bf04ee/step-50195400.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/63ca9c0f812a821893bf04ee-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una olla grande, calienta un chorrito de aceite a fuego medio-alto. Cuando esté caliente, añade el chorizo troceado y saltea 1 min, hasta que se dore. Retira de la olla y reserva en un bol. En la misma olla, agrega el ajo y cocina 1-2 min, hasta que se dore.",
+      "instructionsHTML": "<p dir=\"ltr\">En una olla grande, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cuando esté caliente, añade el <strong>chorizo troceado</strong> y saltea 1 min, hasta que se dore. Retira de la olla y reserva en un bol. En la misma olla, agrega el <strong>ajo</strong> y cocina 1-2 min, hasta que se dore.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una olla grande, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cuando esté caliente, añade el <strong>chorizo troceado</strong> y saltea 1 min, hasta que se dore. Retira de la olla y reserva en un bol. En la misma olla, agrega el <strong>ajo</strong> y cocina 1-2 min, hasta que se dore.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c0f812a821893bf04ee/step-4491d810.jpg",
+          "path": "/63ca9c0f812a821893bf04ee/step-4491d810.jpg",
+          "caption": "Saltea el chorizo",
+          "localImage": "/images/recipes/63ca9c0f812a821893bf04ee-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Cuando el ajo esté dorado, agrega la cebolla y una pizca de sal y cocina 4-5 min, hasta que quede transparente. Mientras tanto, retira la parte verde del puerro. Luego, corta la parte blanca en rodajas finas. Agrega el puerro a la olla y cocina 3-4 min, hasta que se ablande.",
+      "instructionsHTML": "<p dir=\"ltr\">Cuando el <strong>ajo</strong> esté dorado, agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, hasta que quede transparente. Mientras tanto, retira la parte verde del <strong>puerro</strong>. Luego, corta la parte blanca en rodajas finas. Agrega el <strong>puerro</strong> a la olla y cocina 3-4 min, hasta que se ablande.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Cuando el <strong>ajo</strong> esté dorado, agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, hasta que quede transparente. Mientras tanto, retira la parte verde del <strong>puerro</strong>. Luego, corta la parte blanca en rodajas finas. Agrega el <strong>puerro</strong> a la olla y cocina 3-4 min, hasta que se ablande.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c0f812a821893bf04ee/step-84c10b20.jpg",
+          "path": "/63ca9c0f812a821893bf04ee/step-84c10b20.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/63ca9c0f812a821893bf04ee-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Agrega el pimentón a la olla y remueve por un momento. Luego, agrega el tomate concentrado, cocina 1 min y agrega la patata. Mezcla todo bien para que se integren los ingredientes. Agrega el agua (ver cantidad en ingredientes) y el caldo vegetal en polvo. Remueve bien y lleva a ebullición.",
+      "instructionsHTML": "<p>Agrega el <strong>pimentón</strong> a la olla y remueve por un momento. Luego, agrega el <strong>tomate concentrado</strong>, cocina 1 min y agrega la <strong>patata</strong>. Mezcla todo bien para que se integren los ingredientes. Agrega el <strong>agua</strong> (ver cantidad en ingredientes) y el <strong>caldo vegetal</strong> en polvo. Remueve bien y lleva a ebullición.</p>",
+      "instructionsMarkdown": "<p>Agrega el <strong>pimentón</strong> a la olla y remueve por un momento. Luego, agrega el <strong>tomate concentrado</strong>, cocina 1 min y agrega la <strong>patata</strong>. Mezcla todo bien para que se integren los ingredientes. Agrega el <strong>agua</strong> (ver cantidad en ingredientes) y el <strong>caldo vegetal</strong> en polvo. Remueve bien y lleva a ebullición.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c0f812a821893bf04ee/step-19f8dc30.jpg",
+          "path": "/63ca9c0f812a821893bf04ee/step-19f8dc30.jpg",
+          "caption": "Prepara el estofado",
+          "localImage": "/images/recipes/63ca9c0f812a821893bf04ee-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Una vez hierva, baja el fuego y cocina 18-20 min, hasta que las patatas estén tiernas. Mientras tanto, escurre las lentejas con ayuda de un colador. Cuando queden 5 min para que las patatas estén listas, agrega las lentejas y el chorizo a la olla y cocina durante el tiempo restante.",
+      "instructionsHTML": "<p>Una vez hierva, baja el fuego y cocina 18-20 min, hasta que las <strong>patatas</strong> estén tiernas. Mientras tanto, escurre las <strong>lentejas</strong> con ayuda de un colador. Cuando queden 5 min para que las <strong>patatas</strong> estén listas, agrega las <strong>lentejas</strong> y el <strong>chorizo</strong> a la olla y cocina durante el tiempo restante.</p>",
+      "instructionsMarkdown": "<p>Una vez hierva, baja el fuego y cocina 18-20 min, hasta que las <strong>patatas</strong> estén tiernas. Mientras tanto, escurre las <strong>lentejas</strong> con ayuda de un colador. Cuando queden 5 min para que las <strong>patatas</strong> estén listas, agrega las <strong>lentejas</strong> y el <strong>chorizo</strong> a la olla y cocina durante el tiempo restante.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c0f812a821893bf04ee/step-112b1440.jpg",
+          "path": "/63ca9c0f812a821893bf04ee/step-112b1440.jpg",
+          "caption": "Agrega las patatas y lentejas",
+          "localImage": "/images/recipes/63ca9c0f812a821893bf04ee-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el estofado de lentejas, chorizo y patatas entre los platos hondos.",
+      "instructionsHTML": "<p>Sirve el <strong>estofado de lentejas, chorizo y patatas</strong> entre los platos hondos.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>estofado de lentejas, chorizo y patatas</strong> entre los platos hondos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c0f812a821893bf04ee/step-06e3d550.jpg",
+          "path": "/63ca9c0f812a821893bf04ee/step-06e3d550.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63ca9c0f812a821893bf04ee-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCCL0000-2",
+  "updatedAt": "2025-09-10T14:13:36+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "2cdd949d-b269-48b5-86d8-814ab864faf1",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/estofado-casero-de-lentejas-63ca9c0f812a821893bf04ee",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 340,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63bd9bcb6cc380016be793b8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9538",
+          "amount": 320,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636a367127b0db08e0fb84e1",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 30.09,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 680,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63bd9bcb6cc380016be793b8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9538",
+          "amount": 640,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636a367127b0db08e0fb84e1",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 60.35,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 800,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63ca9c0f812a821893bf04ee-Estofado casero de lentejas.jpg",
+  "localCard": "/pdf/63ca9c0f812a821893bf04ee-Estofado casero de lentejas.pdf"
+}

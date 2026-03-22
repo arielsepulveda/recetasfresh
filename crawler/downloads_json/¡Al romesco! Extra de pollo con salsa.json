@@ -1,0 +1,883 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "630d1b7dcee9d269c9017102",
+      "name": "Avellanas",
+      "type": "hazelnuts",
+      "slug": "avellanas",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "66ea7ef8e4af12f9ca267bd9",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-con-salsa-de-romesco-ligera-66ea7ef8e4af12f9ca267bd9",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "68efc36506894ecf191613fe",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-22T13:31:58+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "La salsa romesco, de origen catalán y disfrute internacional, adquiere su nombre del verbo latino \"remesculare\", que significa \"mezclar\" o \"remover\". Ingredientes regionales como los frutos secos, los tomates y el aceite de oliva se mezclan para obtener esta salsa perfecta para acompañar carnes, pescados y verduras.",
+  "descriptionHTML": "<p>La salsa romesco, de origen catalán y disfrute internacional, adquiere su nombre del verbo latino &quot;remesculare&quot;, que significa &quot;mezclar&quot; o &quot;remover&quot;. Ingredientes regionales como los frutos secos, los tomates y el aceite de oliva se mezclan para obtener esta salsa perfecta para acompañar carnes, pescados y verduras.</p>",
+  "descriptionMarkdown": "La salsa romesco, de origen catalán y disfrute internacional, adquiere su nombre del verbo latino \"remesculare\", que significa \"mezclar\" o \"remover\". Ingredientes regionales como los frutos secos, los tomates y el aceite de oliva se mezclan para obtener esta salsa perfecta para acompañar carnes, pescados y verduras.",
+  "difficulty": 1,
+  "favoritesCount": 1,
+  "headline": "acompañado de arroz con verduras asadas",
+  "id": "68f8dccd5578b4976ca226a1",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R05_W48_ES_ESCLCC33027-6_Main_high-cd30e764.jpg",
+  "imagePath": "/image/HF_Y25_R05_W48_ES_ESCLCC33027-6_Main_high-cd30e764.jpg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3c9f",
+      "uuid": "1fa6c253-440c-5c98-9e4b-65a57a89f8b1",
+      "name": "Berenjena",
+      "type": "aubergine",
+      "slug": "berenjena",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3c9f-Berenjena.png"
+    },
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "68bf70f7f655999316001eaa",
+      "uuid": "eece3be8-5fc5-569f-9907-7644c9f41b9b",
+      "name": "Avellanas enteras crudas",
+      "type": "hazelnuts",
+      "slug": "avellanas-enteras-crudas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bd8b8447216d30617cbe34-30e80cfc.png",
+      "imagePath": "/ingredient/63bd8b8447216d30617cbe34-30e80cfc.png",
+      "shipped": true,
+      "allergens": [
+        "5acf972fae08b54d333ac322",
+        "5a9614ab30006c2c026cf562",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b3052f3",
+        "630d1b7dcee9d269c9017102",
+        "57962a07b7e8697d4b3052fb"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68bf70f7f655999316001eaa-Avellanas enteras crudas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    },
+    {
+      "id": "6450b971a7de25dd4f194163",
+      "uuid": "e8b4474a-caeb-43ea-870a-2b5963671f04",
+      "name": "Aceite para la salsa",
+      "type": "oil-for-the-sauce-tbsp",
+      "slug": "aceite-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6450b971a7de25dd4f194163-c451ce6e.png",
+      "imagePath": "/ingredient/6450b971a7de25dd4f194163-c451ce6e.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6450b971a7de25dd4f194163-Aceite para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68f8dccd5578b4976ca226a1",
+  "name": "¡Al romesco! Extra de pollo con salsa",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3720,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 889,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 31.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 3.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 90.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 77.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.13,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 733,
+  "slug": "al-romesco-extra-de-pollo-con-salsa",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220°C.\nPela la cebolla y corta cada mitad en tiras de 2 cm.\nRetira el tallo de la berenjena y córtala en dados de 1-2 cm.\nCorta el pimiento en cuadrados de 2 cm.\nCorta el tomate a cuartos.\nPela el ajo.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220°C.</li>\n<li>Pela la <strong>cebolla</strong> y corta cada mitad en tiras de 2 cm.</li>\n<li>Retira el tallo de la <strong>berenjena</strong> y córtala en dados de 1-2 cm.</li>\n<li>Corta el <strong>pimiento</strong> en cuadrados de 2 cm.</li>\n<li>Corta el <strong>tomate</strong> a cuartos.</li>\n<li>Pela el <strong>ajo</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220°C.</li>\n<li>Pela la <strong>cebolla</strong> y corta cada mitad en tiras de 2 cm.</li>\n<li>Retira el tallo de la <strong>berenjena</strong> y córtala en dados de 1-2 cm.</li>\n<li>Corta el <strong>pimiento</strong> en cuadrados de 2 cm.</li>\n<li>Corta el <strong>tomate</strong> a cuartos.</li>\n<li>Pela el <strong>ajo</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f8dccd5578b4976ca226a1/step-f4edb100.jpg",
+          "path": "/68f8dccd5578b4976ca226a1/step-f4edb100.jpg",
+          "caption": "Cuchillo en mano",
+          "localImage": "/images/recipes/68f8dccd5578b4976ca226a1-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nColoca el pimiento, el tomate y el ajo en una mitad de una bandeja de horno con papel de horno.\nAdereza con aceite, sal y pimienta y remueve.\nAl otro lado de la bandeja, coloca la berenjena y la cebolla.\nAdereza con el tomillo, un chorrito de aceite, sal y pimienta.\nMezcla y hornea en el estante alto 25 min, removiendo a mitad de cocción.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Coloca el <strong>pimiento,</strong> el <strong>tomate</strong> y el <strong>ajo</strong> en una mitad de una bandeja de horno con papel de horno.</li>\n<li>Adereza con <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y remueve.</li>\n<li>Al otro lado de la bandeja, coloca la <strong>berenjena</strong> y la <strong>cebolla</strong>.</li>\n<li>Adereza con el <strong>tomillo,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y hornea en el estante alto 25 min, removiendo a mitad de cocción.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca el <strong>pimiento,</strong> el <strong>tomate</strong> y el <strong>ajo</strong> en una mitad de una bandeja de horno con papel de horno.</li>\n<li>Adereza con <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y remueve.</li>\n<li>Al otro lado de la bandeja, coloca la <strong>berenjena</strong> y la <strong>cebolla</strong>.</li>\n<li>Adereza con el <strong>tomillo,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y hornea en el estante alto 25 min, removiendo a mitad de cocción.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f8dccd5578b4976ca226a1/step-ab5a1a10.jpg",
+          "path": "/68f8dccd5578b4976ca226a1/step-ab5a1a10.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/68f8dccd5578b4976ca226a1-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una fuente para horno, agrega el arroz, el agua y salpimienta. Hornea a media altura 20-25 min o hasta que quede tierno y sin agua.\nEn una sartén, calienta un chorrito de aceite a fuego medio. Una vez caliente, agrega el pollo, salpimienta y cocina 3-4 min por lado, hasta que estén doradas y bien cocinadas en el interior.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En una fuente para horno, agrega el <strong>arroz,</strong> el <strong>agua</strong> y <strong>salpimienta.</strong> Hornea a media altura 20-25 min o hasta que quede tierno y sin agua.</li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega el <strong>pollo, salpimienta</strong> y cocina 3-4 min por lado, hasta que estén doradas y bien cocinadas en el interior.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En una fuente para horno, agrega el <strong>arroz,</strong> el <strong>agua</strong> y <strong>salpimienta.</strong> Hornea a media altura 20-25 min o hasta que quede tierno y sin agua.</li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega el <strong>pollo, salpimienta</strong> y cocina 3-4 min por lado, hasta que estén doradas y bien cocinadas en el interior.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b305375",
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f8dccd5578b4976ca226a1/step-5276ab20.jpg",
+          "path": "/68f8dccd5578b4976ca226a1/step-5276ab20.jpg",
+          "caption": "Pollo al fuego",
+          "localImage": "/images/recipes/68f8dccd5578b4976ca226a1-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCuando esté listo, coloca el tomate, el pimiento y el ajo asado en la jarra medidora.\nAgrega las avellanas, el vinagre, el aceite para la salsa, sal y pimienta.\nTritura con un túrmix hasta conseguir una salsa romesco lisa y homogénea.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando esté listo, coloca el <strong>tomate,</strong> el <strong>pimiento</strong> y el <strong>ajo</strong> asado en la jarra medidora.</li>\n<li>Agrega las <strong>avellanas,</strong> el <strong>vinagre</strong>, el <strong>aceite para la salsa</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Tritura con un túrmix hasta conseguir una <strong>salsa romesco</strong> lisa y homogénea.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando esté listo, coloca el <strong>tomate,</strong> el <strong>pimiento</strong> y el <strong>ajo</strong> asado en la jarra medidora.</li>\n<li>Agrega las <strong>avellanas,</strong> el <strong>vinagre</strong>, el <strong>aceite para la salsa</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Tritura con un túrmix hasta conseguir una <strong>salsa romesco</strong> lisa y homogénea.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f8dccd5578b4976ca226a1/step-3fdd3530.jpg",
+          "path": "/68f8dccd5578b4976ca226a1/step-3fdd3530.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/68f8dccd5578b4976ca226a1-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando la berenjena y la cebolla estén listas, añádelas al cazo del arroz y remueve.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando la <strong>berenjena</strong> y la <strong>cebolla</strong> estén listas, añádelas al cazo del <strong>arroz</strong> y remueve.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando la <strong>berenjena</strong> y la <strong>cebolla</strong> estén listas, añádelas al cazo del <strong>arroz</strong> y remueve.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f8dccd5578b4976ca226a1/step-393e1340.jpg",
+          "path": "/68f8dccd5578b4976ca226a1/step-393e1340.jpg",
+          "caption": "Dale color al arroz",
+          "localImage": "/images/recipes/68f8dccd5578b4976ca226a1-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el arroz con verduras en un lado de los platos y coloca al otro lado el pollo.\nSirve la salsa romesco junto al pollo.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>arroz</strong> con <strong>verduras</strong> en un lado de los platos y coloca al otro lado el <strong>pollo</strong>.</li>\n<li>Sirve la <strong>salsa romesco</strong> junto al <strong>pollo.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>arroz</strong> con <strong>verduras</strong> en un lado de los platos y coloca al otro lado el <strong>pollo</strong>.</li>\n<li>Sirve la <strong>salsa romesco</strong> junto al <strong>pollo.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f8dccd5578b4976ca226a1/step-4e640250.jpg",
+          "path": "/68f8dccd5578b4976ca226a1/step-4e640250.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/68f8dccd5578b4976ca226a1-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCLCC33027-DP-1-3",
+  "updatedAt": "2025-11-19T18:00:00+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "73aefb4b-2fcf-48da-804f-d472e6353d07",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/al-romesco-extra-de-pollo-con-salsa-68f8dccd5578b4976ca226a1",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68bf70f7f655999316001eaa",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 8,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68bf70f7f655999316001eaa",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68bf70f7f655999316001eaa",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 6,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68f8dccd5578b4976ca226a1-¡Al romesco! Extra de pollo con salsa.jpg"
+}

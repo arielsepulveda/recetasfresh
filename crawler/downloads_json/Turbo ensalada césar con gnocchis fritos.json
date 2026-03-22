@@ -1,0 +1,810 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": "669fcb55180815c793277d16",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ensalada-cesar-gnocchi-queso-669fcb55180815c793277d16",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6776561e1d65e30dd0891310-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "63e66fe711d6aa361e490724",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-01-02T09:02:23+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Seguro que has oído hablar de la ensalada césar, ¡pero estamos convencidos de que nunca la habías probado con gnocchis! Damos la vuelta a esta sencilla ensalada para combinar su sabrosa salsa con unos gnocchis crujientes que aportarán otra dimensión a este plato exprés.",
+  "descriptionHTML": "<p>Seguro que has oído hablar de la ensalada césar, ¡pero estamos convencidos de que nunca la habías probado con gnocchis! Damos la vuelta a esta sencilla ensalada para combinar su sabrosa salsa con unos gnocchis crujientes que aportarán otra dimensión a este plato exprés.</p>",
+  "descriptionMarkdown": "Seguro que has oído hablar de la ensalada césar, ¡pero estamos convencidos de que nunca la habías probado con gnocchis! Damos la vuelta a esta sencilla ensalada para combinar su sabrosa salsa con unos gnocchis crujientes que aportarán otra dimensión a este plato exprés.",
+  "difficulty": 1,
+  "favoritesCount": 49,
+  "headline": "con tomates cherry salteados y queso italiano",
+  "id": "6776561e1d65e30dd0891310",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_ES_Sonic_R1_Caesar_salad_with_fried_gnocchi_cherry_tomatoes_and_cheese_Main__4high-edcae502.jpg",
+  "imagePath": "/image/HF_Y25_ES_Sonic_R1_Caesar_salad_with_fried_gnocchi_cherry_tomatoes_and_cheese_Main__4high-edcae502.jpg",
+  "ingredients": [
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "634976b3e9568549b784980e",
+      "uuid": "29eb59dd-a095-51ac-b053-e2b300368bde",
+      "name": "Yogur griego",
+      "type": "greek-yogurt",
+      "slug": "yogur-griego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "imagePath": "/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634976b3e9568549b784980e-Yogur griego.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "63eb9aca49bd0d0a6b225fa9",
+      "uuid": "1caec975-6da0-5803-bca6-6e86b575541d",
+      "name": "Gnocchi",
+      "type": "gnocchi",
+      "slug": "gnocchi",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63eb9aca49bd0d0a6b225fa9-088e2832.png",
+      "imagePath": "/ingredient/63eb9aca49bd0d0a6b225fa9-088e2832.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63eb9aca49bd0d0a6b225fa9-Gnocchi.png"
+    },
+    {
+      "id": "6340436e41033266d7be950e",
+      "uuid": "b443c50a-b3b3-510c-93ac-01d6610777a3",
+      "name": "Cebollino",
+      "type": "chives",
+      "slug": "cebollino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "imagePath": "/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be950e-Cebollino.png"
+    },
+    {
+      "id": "6340436b41033266d7be9505",
+      "uuid": "9a94a307-a64d-5b85-962a-663dff0b143e",
+      "name": "Cogollos de lechuga",
+      "type": "baby-gem-lettuce",
+      "slug": "cogollos-de-lechuga",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9505-Cogollos de lechuga.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Super Sonic ™",
+    "handle": "super-sonic",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/6776561e1d65e30dd0891310",
+  "name": "Turbo ensalada césar con gnocchis fritos",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2537,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 606,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 45.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 14.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 49.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 6.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 14.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.59,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT15M",
+  "promotion": null,
+  "ratingsCount": 100,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 430,
+  "slug": "ensalada-cesar-con-gnocchis-fritos",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! \n\nPela y pica el ajo (ver cantidad en ingredientes).\nEn una jarra medidora, agrega la mitad del ajo, la mayonesa, el yogur griego, la mostaza, la mitad del queso rallado, el vinagre de vino tinto (ver cantidad en ingredientes), un chorrito de aceite, sal y pimienta.\nTritura con un túrmix hasta que obtener una salsa homogénea.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! </p>\n<ul>\n<li>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</li>\n<li>En una jarra medidora, agrega la mitad del <strong>ajo</strong>, la <strong>mayonesa,</strong> el <strong>yogur griego</strong>, la <strong>mostaza,</strong> la mitad del <strong>queso rallado</strong>, el <strong>vinagre de vino tinto</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong><strong>.</strong></li>\n<li>Tritura con un túrmix hasta que obtener una <strong>salsa</strong> homogénea.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! </p>\n<ul>\n<li>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</li>\n<li>En una jarra medidora, agrega la mitad del <strong>ajo</strong>, la <strong>mayonesa,</strong> el <strong>yogur griego</strong>, la <strong>mostaza,</strong> la mitad del <strong>queso rallado</strong>, el <strong>vinagre de vino tinto</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong><strong>.</strong></li>\n<li>Tritura con un túrmix hasta que obtener una <strong>salsa</strong> homogénea.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6776561e1d65e30dd0891310/step-d072fb00.jpg",
+          "path": "/6776561e1d65e30dd0891310/step-d072fb00.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/6776561e1d65e30dd0891310-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite y la mantequilla (ver cantidad en ingredientes) a fuego medio.\nAgrega los gnocchis y cocina 4-5 min, removiendo, hasta que se doren. Retira de la sartén y reserva.\nCorta los tomates cherry por la mitad.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> y la <strong>mantequilla</strong> (ver cantidad en ingredientes) a fuego medio.</li>\n<li dir=\"ltr\">Agrega los <strong>gnocchis</strong> y cocina 4-5 min, removiendo, hasta que se doren. Retira de la sartén y reserva.</li>\n<li dir=\"ltr\">Corta los <strong>tomates cherry</strong> por la mitad.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> y la <strong>mantequilla</strong> (ver cantidad en ingredientes) a fuego medio.</li>\n<li dir=\"ltr\">Agrega los <strong>gnocchis</strong> y cocina 4-5 min, removiendo, hasta que se doren. Retira de la sartén y reserva.</li>\n<li dir=\"ltr\">Corta los <strong>tomates cherry</strong> por la mitad.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6776561e1d65e30dd0891310/step-b8279710.jpg",
+          "path": "/6776561e1d65e30dd0891310/step-b8279710.jpg",
+          "caption": "Saltea los gnocchis",
+          "localImage": "/images/recipes/6776561e1d65e30dd0891310-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1 min.\nAñade los tomates cherry, cocina 2-3 min y salpimienta.\nCorta los cogollos de lechuga en tiras finas.\nPica la mitad del cebollino (doble para 4p).\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1 min.</li>\n<li>Añade los <strong>tomates cherry</strong>, cocina 2-3 min y <strong>salpimienta</strong>.</li>\n<li>Corta los <strong>cogollos de lechuga</strong> en tiras finas.</li>\n<li>Pica la mitad del <strong>cebollino</strong> (doble para 4p).</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1 min.</li>\n<li>Añade los <strong>tomates cherry</strong>, cocina 2-3 min y <strong>salpimienta</strong>.</li>\n<li>Corta los <strong>cogollos de lechuga</strong> en tiras finas.</li>\n<li>Pica la mitad del <strong>cebollino</strong> (doble para 4p).</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6776561e1d65e30dd0891310/step-8f0b5120.jpg",
+          "path": "/6776561e1d65e30dd0891310/step-8f0b5120.jpg",
+          "caption": "Cocina los tomates cherry",
+          "localImage": "/images/recipes/6776561e1d65e30dd0891310-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn una ensaladera, agrega la lechuga, los gnocchis, los tomates cherry, casi todo el cebollino picado y la salsa que has preparado. Mezcla y salpimienta.\nSirve la ensalada en platos y cubre con el queso italiano restante y cebollino al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>En una ensaladera, agrega la <strong>lechuga,</strong> los <strong>gnocchis</strong>, los <strong>tomates cherry</strong>, casi todo el <strong>cebollino</strong> picado y la <strong>salsa</strong> que has preparado. Mezcla y <strong>sal</strong><strong>pimienta.</strong></li>\n<li>Sirve la <strong>ensalada</strong> en platos y cubre con el <strong>queso italiano</strong> restante y <strong>cebollino</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una ensaladera, agrega la <strong>lechuga,</strong> los <strong>gnocchis</strong>, los <strong>tomates cherry</strong>, casi todo el <strong>cebollino</strong> picado y la <strong>salsa</strong> que has preparado. Mezcla y <strong>sal</strong><strong>pimienta.</strong></li>\n<li>Sirve la <strong>ensalada</strong> en platos y cubre con el <strong>queso italiano</strong> restante y <strong>cebollino</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6776561e1d65e30dd0891310/step-1176c530.jpg",
+          "path": "/6776561e1d65e30dd0891310/step-1176c530.jpg",
+          "caption": "Combina y emplata",
+          "localImage": "/images/recipes/6776561e1d65e30dd0891310-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "62163c70143a35226e03d85e",
+      "type": "super-quick",
+      "name": "Exprés",
+      "slug": "expres",
+      "colorHandle": "quickPrep",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCFVV14805-5",
+  "updatedAt": "2025-06-12T10:09:16+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "a1822a84-ffc9-44dc-856d-de54123b85b5",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ensalada-cesar-con-gnocchis-fritos-6776561e1d65e30dd0891310",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63eb9aca49bd0d0a6b225fa9",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63eb9aca49bd0d0a6b225fa9",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 440,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 80,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6776561e1d65e30dd0891310-Turbo ensalada césar con gnocchis fritos.jpg",
+  "localCard": "/pdf/6776561e1d65e30dd0891310-Turbo ensalada césar con gnocchis fritos.pdf"
+}

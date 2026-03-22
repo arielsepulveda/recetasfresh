@@ -1,0 +1,825 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.5,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/65d8b0d1af9837570334777d.pdf",
+  "category": null,
+  "clonedFrom": "656f34d381cf2ace2bf76546",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-04-03T07:27:27+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "La gastronomía mexicana ha sido versionada exhaustivamente debido a su gran originalidad y sus excitantes sabores, pero quizá no sabías que las tortillas que se utilizan tradicionalmente en Mexico para hacer tacos o tostadas se hacen con maíz y no con trigo, aunque estemos más acostumbrados a las últimas. Para que conozcas este producto un poco más, podrás preparar totopos con las tortillas de trigo y utilizar las tortillas de maíz como base para tus tacos, como se hace tradicionalmente.",
+  "descriptionHTML": "<p>La gastronomía mexicana ha sido versionada exhaustivamente debido a su gran originalidad y sus excitantes sabores, pero quizá no sabías que las tortillas que se utilizan tradicionalmente en Mexico para hacer tacos o tostadas se hacen con maíz y no con trigo, aunque estemos más acostumbrados a las últimas. Para que conozcas este producto un poco más, podrás preparar totopos con las tortillas de trigo y utilizar las tortillas de maíz como base para tus tacos, como se hace tradicionalmente.</p>",
+  "descriptionMarkdown": "La gastronomía mexicana ha sido versionada exhaustivamente debido a su gran originalidad y sus excitantes sabores, pero quizá no sabías que las tortillas que se utilizan tradicionalmente en Mexico para hacer tacos o tostadas se hacen con maíz y no con trigo, aunque estemos más acostumbrados a las últimas. Para que conozcas este producto un poco más, podrás preparar totopos con las tortillas de trigo y utilizar las tortillas de maíz como base para tus tacos, como se hace tradicionalmente.",
+  "difficulty": 1,
+  "favoritesCount": 24,
+  "headline": "con cebolla caramelizada y salsa cremosa de chipotle",
+  "id": "65d8b0d1af9837570334777d",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R21_W18_ES_ESSGSTC21129-2_Main_high-98f01373.jpg",
+  "imagePath": "/image/HF_Y24_R21_W18_ES_ESSGSTC21129-2_Main_high-98f01373.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "6348219ebb36093c54997964",
+      "uuid": "1f59d4e9-83f7-5dac-abec-916f5f2c6d99",
+      "name": "Tortillas de trigo",
+      "type": "6-pack-tortilla",
+      "slug": "tortillas-de-trigo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6348219ebb36093c54997964-209def95.png",
+      "imagePath": "/ingredient/6348219ebb36093c54997964-209def95.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6348219ebb36093c54997964-Tortillas de trigo.png"
+    },
+    {
+      "id": "6613b3e6c415e87791187312",
+      "uuid": "7c57d79d-7783-5d04-ba1d-359705692440",
+      "name": "Tortillas de maíz",
+      "type": "corn-tortilla",
+      "slug": "tortillas-de-maiz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6613b3e6c415e87791187312-793a2b0d.png",
+      "imagePath": "/ingredient/6613b3e6c415e87791187312-793a2b0d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6613b3e6c415e87791187312-Tortillas de maíz.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "63565b58edd6336545dbe131",
+      "uuid": "04d854ae-33e4-599b-b3bc-3e9c0acb3298",
+      "name": "Pasta chipotle",
+      "type": "chipotle-paste",
+      "slug": "pasta-chipotle",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63565b58edd6336545dbe131-250b7f4b.png",
+      "imagePath": "/ingredient/63565b58edd6336545dbe131-250b7f4b.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff",
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63565b58edd6336545dbe131-Pasta chipotle.png"
+    },
+    {
+      "id": "635bf32c715b05ed6af180bd",
+      "uuid": "92d67c8f-7ca6-5e50-b1ea-12d85a78d150",
+      "name": "Crème Fraîche",
+      "type": "creme-fraiche",
+      "slug": "creme-fraiche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "imagePath": "/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635bf32c715b05ed6af180bd-Crème Fraîche.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "63404373233160a36674ba0f",
+      "uuid": "a9702fdb-e742-5fe0-b221-974c1ea5db87",
+      "name": "Mix de especias mexicanas",
+      "type": "mexican-spice",
+      "slug": "mix-de-especias-mexicanas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0f-Mix de especias mexicanas.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63d23eabf3cad3f4f35bf04d",
+      "uuid": "bffd8d0f-80c6-4b62-8258-3fcd017bc9a6",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-in-ml",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63d23eabf3cad3f4f35bf04d-f39d14e8.png",
+      "imagePath": "/ingredient/63d23eabf3cad3f4f35bf04d-f39d14e8.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63d23eabf3cad3f4f35bf04d-Aceite de oliva.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/65d8b0d1af9837570334777d",
+  "name": "Tacos de pollo sazonado con totopos de maíz caseros",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 5202,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1243,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 50.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 29,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 92.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 14.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 43.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.07,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 13,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 551,
+  "slug": "tacos-pollo-totopos-cebolla-salsa",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta el tomate en cubos pequeños y colócalo en un bol. Adereza con un chorrito de aceite, salpimienta y mezcla bien. Ralla la piel de la lima y corta la lima en gajos. Deshoja y pica la mitad del cilantro (doble para 4p). En un bol, mezcla el queso crema, el zumo de 1 gajo de lima (doble para 4p), el cilantro, sal y pimienta.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta el <strong>tomate</strong> en cubos pequeños y colócalo en un bol. Adereza con un chorrito de <strong>aceite</strong>, <strong>salpimienta</strong> y mezcla bien. Ralla la piel de la <strong>lima</strong> y corta la <strong>lima</strong> en gajos. Deshoja y pica la mitad del <strong>cilantro</strong> (doble para 4p). En un bol, mezcla el <strong>queso crema</strong>, el zumo de 1 gajo de <strong>lima</strong> (doble para 4p), el <strong>cilantro</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta el <strong>tomate</strong> en cubos pequeños y colócalo en un bol. Adereza con un chorrito de <strong>aceite</strong>, <strong>salpimienta</strong> y mezcla bien. Ralla la piel de la <strong>lima</strong> y corta la <strong>lima</strong> en gajos. Deshoja y pica la mitad del <strong>cilantro</strong> (doble para 4p). En un bol, mezcla el <strong>queso crema</strong>, el zumo de 1 gajo de <strong>lima</strong> (doble para 4p), el <strong>cilantro</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d1af9837570334777d/step-f3d53500.jpg",
+          "path": "/65d8b0d1af9837570334777d/step-f3d53500.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/65d8b0d1af9837570334777d-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta el pollo en dados de 1 cm, luego, colócalo en un bol. Agrega las especias mexicanas, la mitad de la ralladura de lima, el zumo de media lima (doble para 4p) y un chorrito de aceite. Salpimienta y mezcla bien. En un bol pequeño, mezcla la crème fraîche con la mitad de la pasta chipotle, un chorrito de aceite, la ralladura de lima restante, sal y pimienta.",
+      "instructionsHTML": "<p>Corta el <strong>pollo</strong> en dados de <span><span>1 cm, luego, colócalo en un bol. Agrega las <strong>especias mexicanas</strong>, la mitad de la <strong>ralladura de lima</strong>, el zumo de media <strong>lima</strong> (doble para 4p) y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y mezcla bien. En un bol pequeño, mezcla la <strong>crème fraîche</strong> con la mitad de la <strong>pasta chipotle</strong>, un chorrito de <strong>aceite</strong>, la <strong>ralladura de lima</strong> restante, <strong>sal</strong> y <strong>pimienta</strong>.</span></span></p>",
+      "instructionsMarkdown": "<p>Corta el <strong>pollo</strong> en dados de <span><span>1 cm, luego, colócalo en un bol. Agrega las <strong>especias mexicanas</strong>, la mitad de la <strong>ralladura de lima</strong>, el zumo de media <strong>lima</strong> (doble para 4p) y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y mezcla bien. En un bol pequeño, mezcla la <strong>crème fraîche</strong> con la mitad de la <strong>pasta chipotle</strong>, un chorrito de <strong>aceite</strong>, la <strong>ralladura de lima</strong> restante, <strong>sal</strong> y <strong>pimienta</strong>.</span></span></p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d1af9837570334777d/step-00560010.jpg",
+          "path": "/65d8b0d1af9837570334777d/step-00560010.jpg",
+          "caption": "Marina el pollo",
+          "localImage": "/images/recipes/65d8b0d1af9837570334777d-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Pela la cebolla, divídela en dos y córtala en tiras finas. En una sartén, calienta un chorrito de aceite a fuego medio-alto. Una vez caliente, agrega la cebolla y una pizca de sal y cocina 2-3 min. Luego, añade el azúcar (ver cantidad en ingredientes) y cocina a fuego medio-bajo 5-6 min más, removiendo frecuentemente, hasta que quede caramelizada. Retira de la sartén cuando esté lista.",
+      "instructionsHTML": "<p>Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 2-3 min. Luego, añade el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina a fuego medio-bajo 5-6 min más, removiendo frecuentemente, hasta que quede caramelizada. Retira de la sartén cuando esté lista.</p>",
+      "instructionsMarkdown": "<p>Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 2-3 min. Luego, añade el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina a fuego medio-bajo 5-6 min más, removiendo frecuentemente, hasta que quede caramelizada. Retira de la sartén cuando esté lista.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d1af9837570334777d/step-adeb3320.jpg",
+          "path": "/65d8b0d1af9837570334777d/step-adeb3320.jpg",
+          "caption": "Carameliza la cebolla",
+          "localImage": "/images/recipes/65d8b0d1af9837570334777d-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Corta las tortillas de trigo en triángulos y repártelos en una bandeja de horno con papel de horno, separados para que no se toquen. Agrega un chorrito de aceite y salpimienta, luego, hornea a media altura 2 min. Mientras tanto, envuelve las tortillas de maíz en papel de aluminio. Pasados estos 2 min, mete las tortillas de maíz en el horno y hornea todo 3 min más, hasta que los totopos queden crujientes.",
+      "instructionsHTML": "<p>Corta las <strong>tortillas de trigo</strong> en triángulos y repártelos en una bandeja de horno con papel de horno, separados para que no se toquen. Agrega un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong>, luego, hornea a media altura 2 min. Mientras tanto, envuelve las <strong>tortillas de maíz</strong> en papel de aluminio. Pasados estos 2 min, mete las <strong>tortillas de maíz</strong> en el horno y hornea todo 3 min más, hasta que los <strong>totopos</strong> queden crujientes.</p>",
+      "instructionsMarkdown": "<p>Corta las <strong>tortillas de trigo</strong> en triángulos y repártelos en una bandeja de horno con papel de horno, separados para que no se toquen. Agrega un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong>, luego, hornea a media altura 2 min. Mientras tanto, envuelve las <strong>tortillas de maíz</strong> en papel de aluminio. Pasados estos 2 min, mete las <strong>tortillas de maíz</strong> en el horno y hornea todo 3 min más, hasta que los <strong>totopos</strong> queden crujientes.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b305366"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d1af9837570334777d/step-66b46730.jpg",
+          "path": "/65d8b0d1af9837570334777d/step-66b46730.jpg",
+          "caption": "Hornea las tortillas",
+          "localImage": "/images/recipes/65d8b0d1af9837570334777d-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la sartén, calienta un chorrito de aceite a fuego medio. Cocina el pollo marinado 5-6 min, hasta que esté dorado y bien cocinado en el interior. Luego, añade la pasta chipotle restante y cocina todo junto 1-2 min, removiendo para integrar los ingredientes.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>pollo marinado</strong><span> <span>5-6 min</span></span>, hasta que esté dorado y bien cocinado en el interior. <span>Luego, añade la <strong>pasta</strong> <strong>chipotle</strong><strong> </strong>restante<strong> </strong>y cocina todo junto 1-2 min, removiendo para integrar los ingredientes.</span></p>\n<p> </p>\n<p><span><span><span><span><span>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</span></span></span></span></span></p>",
+      "instructionsMarkdown": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>pollo marinado</strong><span> <span>5-6 min</span></span>, hasta que esté dorado y bien cocinado en el interior. <span>Luego, añade la <strong>pasta</strong> <strong>chipotle</strong><strong> </strong>restante<strong> </strong>y cocina todo junto 1-2 min, removiendo para integrar los ingredientes.</span></p>\n<p> </p>\n<p><span><span><span><span><span>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</span></span></span></span></span></p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d1af9837570334777d/step-c074eb40.jpg",
+          "path": "/65d8b0d1af9837570334777d/step-c074eb40.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/65d8b0d1af9837570334777d-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Cuando las tortillas de maíz estén calientes, reparte encima el pollo marinado, la cebolla caramelizada, el tomate aliñado y salsa de cilantro al gusto. Exprime zumo de lima al gusto sobre los tacos y sirve al lado los totopos caseros y la salsa cremosa de chipotle.",
+      "instructionsHTML": "<p><span>Cuando las <strong>tortillas de</strong> <strong>maíz</strong> estén calientes, reparte encima el <strong>pollo marinado</strong>, la <strong>cebolla caramelizada</strong>, el <strong>tomate </strong>aliñado y <strong>salsa de cilantro</strong> al gusto. Exprime <strong>zumo de lima</strong> al gusto sobre l</span>os <strong>tacos</strong> y sirve al lado los <strong>totopos</strong> caseros y la <strong>salsa cremosa de chipotle</strong>.</p>",
+      "instructionsMarkdown": "<p><span>Cuando las <strong>tortillas de</strong> <strong>maíz</strong> estén calientes, reparte encima el <strong>pollo marinado</strong>, la <strong>cebolla caramelizada</strong>, el <strong>tomate </strong>aliñado y <strong>salsa de cilantro</strong> al gusto. Exprime <strong>zumo de lima</strong> al gusto sobre l</span>os <strong>tacos</strong> y sirve al lado los <strong>totopos</strong> caseros y la <strong>salsa cremosa de chipotle</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0d1af9837570334777d/step-ee697a50.jpg",
+          "path": "/65d8b0d1af9837570334777d/step-ee697a50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/65d8b0d1af9837570334777d-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESSGSTC21129-2",
+  "updatedAt": "2026-02-03T14:10:39+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305366",
+      "type": "aluminumfoil",
+      "name": "Papel de aluminio"
+    }
+  ],
+  "uuid": "6c8a37c3-c484-4cdb-8054-a7d4cc1e8433",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/tacos-pollo-totopos-cebolla-salsa-65d8b0d1af9837570334777d",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6613b3e6c415e87791187312",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63565b58edd6336545dbe131",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d23eabf3cad3f4f35bf04d",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6613b3e6c415e87791187312",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63565b58edd6336545dbe131",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 6,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d23eabf3cad3f4f35bf04d",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/65d8b0d1af9837570334777d-Tacos de pollo sazonado con totopos de maíz caseros.jpg",
+  "localCard": "/pdf/65d8b0d1af9837570334777d-Tacos de pollo sazonado con totopos de maíz caseros.pdf"
+}

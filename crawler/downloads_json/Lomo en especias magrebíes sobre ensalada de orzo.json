@@ -1,0 +1,837 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3,
+  "canonical": "64788ada6eb29dbe8bbed5da",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ensalada-de-orzo-y-lomo-en-especias-magrebies-64788ada6eb29dbe8bbed5da",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6584baa2f9c7ff8689943e2c.pdf",
+  "category": null,
+  "clonedFrom": "64512762a7de25dd4f1941a4",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-02-21T07:21:49+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterránea ",
+      "slug": "mediterranea ",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg"
+    }
+  ],
+  "description": "Si estabas buscando una ensalada diferente y llena de color, con sabores estimulantes, la has encontrado. En esta ensalada, utilizamos como base la rúcula y el orzo y los acompañamos con lomo especiado y tomates cherry, pero no nos quedamos ahí. Además, preparamos una manzana caramelizada con especias y garapiñamos semillas de sésamo para aportar aún más contrastes a esta divertida receta.",
+  "descriptionHTML": "<p>Si estabas buscando una ensalada diferente y llena de color, con sabores estimulantes, la has encontrado. En esta ensalada, utilizamos como base la rúcula y el orzo y los acompañamos con lomo especiado y tomates cherry, pero no nos quedamos ahí. Además, preparamos una manzana caramelizada con especias y garapiñamos semillas de sésamo para aportar aún más contrastes a esta divertida receta.</p>",
+  "descriptionMarkdown": "Si estabas buscando una ensalada diferente y llena de color, con sabores estimulantes, la has encontrado. En esta ensalada, utilizamos como base la rúcula y el orzo y los acompañamos con lomo especiado y tomates cherry, pero no nos quedamos ahí. Además, preparamos una manzana caramelizada con especias y garapiñamos semillas de sésamo para aportar aún más contrastes a esta divertida receta.",
+  "difficulty": 1,
+  "favoritesCount": 25,
+  "headline": "con manzana caramelizada y sésamo garrapiñado",
+  "id": "6584baa2f9c7ff8689943e2c",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R14_W34_ES_ESQCV16342-2_Main_high-1e41fddf.jpg",
+  "imagePath": "/image/HF_Y23_R14_W34_ES_ESQCV16342-2_Main_high-1e41fddf.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba14",
+      "uuid": "b90fb973-7391-5db2-8d37-b49301e3ecf4",
+      "name": "Lomo de cerdo",
+      "type": "pork-loin-steak",
+      "slug": "lomo-de-cerdo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba14-5d1cb67a.png",
+      "imagePath": "/ingredient/63404376233160a36674ba14-5d1cb67a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba14-Lomo de cerdo.png"
+    },
+    {
+      "id": "634d1e6cebf08332f1bff1a0",
+      "uuid": "a60633dc-e736-5ba7-af65-c2ad6efa5fc0",
+      "name": "Orzo",
+      "type": "orzo",
+      "slug": "orzo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1e6cebf08332f1bff1a0-4e790a00.png",
+      "imagePath": "/ingredient/634d1e6cebf08332f1bff1a0-4e790a00.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1e6cebf08332f1bff1a0-Orzo.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca0",
+      "uuid": "e2769482-364e-53c8-97cc-79b0d2b33e8a",
+      "name": "Manzana",
+      "type": "apple",
+      "slug": "manzana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca0-Manzana.png"
+    },
+    {
+      "id": "636b7f74371ed3efb1da61cd",
+      "uuid": "de1c411e-d847-53a1-916a-23d030518916",
+      "name": "Semillas de sésamo blancas",
+      "type": "white-sesame-seeds",
+      "slug": "semillas-de-sesamo-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "imagePath": "/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636b7f74371ed3efb1da61cd-Semillas de sésamo blancas.png"
+    },
+    {
+      "id": "634043712268bc1bff0d3cb0",
+      "uuid": "7f47267d-fc48-5b48-bab5-e0930fdfd296",
+      "name": "Cúrcuma en polvo",
+      "type": "ground-turmeric",
+      "slug": "curcuma-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043712268bc1bff0d3cb0-13710268.png",
+      "imagePath": "/ingredient/634043712268bc1bff0d3cb0-13710268.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043712268bc1bff0d3cb0-Cúrcuma en polvo.png"
+    },
+    {
+      "id": "6340437641033266d7be9527",
+      "uuid": "24b9e5cf-a1b3-5d7b-893f-d19ca596f060",
+      "name": "Ras-el-Hanout",
+      "type": "ras-el-hanout-spice-mix",
+      "slug": "ras-el-hanout",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9527-0c7e7985.png",
+      "imagePath": "/ingredient/6340437641033266d7be9527-0c7e7985.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9527-Ras-el-Hanout.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "6475f87e22f7f34e1f95d236",
+      "uuid": "bd0e8e13-77aa-424e-86a2-d07fbd76a19d",
+      "name": "Azúcar para caramelizar",
+      "type": "sugar-to-caramelize",
+      "slug": "azucar-para-caramelizar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6475f87e22f7f34e1f95d236-6b2ea6ac.png",
+      "imagePath": "/ingredient/6475f87e22f7f34e1f95d236-6b2ea6ac.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6475f87e22f7f34e1f95d236-Azúcar para caramelizar.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "6475f5c76eb29dbe8bbed4f3",
+      "uuid": "aa20d7fa-c8e0-417c-b9f9-371fcffb107c",
+      "name": "Agua para el orzo",
+      "type": "water-for-orzo",
+      "slug": "agua-para-el-orzo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6475f5c76eb29dbe8bbed4f3-3fe2a5a4.jpg",
+      "imagePath": "/ingredient/6475f5c76eb29dbe8bbed4f3-3fe2a5a4.jpg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6475f5c76eb29dbe8bbed4f3-Agua para el orzo.jpg"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6584baa2f9c7ff8689943e2c",
+  "name": "Lomo en especias magrebíes sobre ensalada de orzo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3943,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 942,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 34.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 10.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 78.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 14.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 34.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.27,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 59,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 617,
+  "slug": "lomo-en-especias-magrebies-sobre-ensalada-de-orzo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Corta la manzana por la mitad y retira el corazón. Luego, corta cada mitad en láminas de 0,5 cm. En un cazo, agrega el agua y el azúcar para caramelizar (ver cantidad en ingredientes de ambos) y lleva a ebullición. Cuando hierva, agrega la mitad del Ras-el-Hanout, la mitad de la cúrcuma (doble para 4p) y la manzana y cocina a fuego medio 1-2 min, removiendo.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Corta la <strong>manzana</strong> por la mitad y retira el corazón. Luego, corta cada mitad en láminas de 0,5 cm. En un cazo, agrega el <strong>agua</strong> y el <strong>azúcar para caramelizar</strong> (ver cantidad en ingredientes de ambos) y lleva a ebullición. Cuando hierva, agrega la mitad del <strong>Ras-el-Hanout</strong>, la mitad de la <strong>cúrcuma</strong> (doble para 4p) y la <strong>manzana</strong> y cocina a fuego medio 1-2 min, removiendo.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Corta la <strong>manzana</strong> por la mitad y retira el corazón. Luego, corta cada mitad en láminas de 0,5 cm. En un cazo, agrega el <strong>agua</strong> y el <strong>azúcar para caramelizar</strong> (ver cantidad en ingredientes de ambos) y lleva a ebullición. Cuando hierva, agrega la mitad del <strong>Ras-el-Hanout</strong>, la mitad de la <strong>cúrcuma</strong> (doble para 4p) y la <strong>manzana</strong> y cocina a fuego medio 1-2 min, removiendo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b30538c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584baa2f9c7ff8689943e2c/step-cdeeac00.jpg",
+          "path": "/6584baa2f9c7ff8689943e2c/step-cdeeac00.jpg",
+          "caption": "Carameliza la manzana",
+          "localImage": "/images/recipes/6584baa2f9c7ff8689943e2c-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Cuando esté lista, reserva la manzana y los jugos que hayan quedado en el cazo en un bol. En el cazo, agrega un chorrito de aceite y el orzo y cocina a fuego medio durante 1 min. Luego, añade el agua para el orzo (ver cantidad en ingredientes) y cocina 10-15 min, removiendo frecuentemente, hasta que quede tierno. Una vez listo, agrégalo a un colador y enfría con agua. Luego, escurre bien, agrega un chorrito de aceite y remueve.",
+      "instructionsHTML": "<p dir=\"ltr\">Cuando esté lista, reserva la <strong>manzana</strong> y los jugos que hayan quedado en el cazo en un bol. En el cazo, agrega un chorrito de <strong>aceite</strong> y el <strong>orzo</strong> y cocina a fuego medio durante 1 min. Luego, añade el <strong>agua para el orzo</strong> (ver cantidad en ingredientes) y cocina 10-15 min, removiendo frecuentemente, hasta que quede tierno. Una vez listo, agrégalo a un colador y enfría con agua. Luego, escurre bien, agrega un chorrito de <strong>aceite</strong> y remueve.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Cuando esté lista, reserva la <strong>manzana</strong> y los jugos que hayan quedado en el cazo en un bol. En el cazo, agrega un chorrito de <strong>aceite</strong> y el <strong>orzo</strong> y cocina a fuego medio durante 1 min. Luego, añade el <strong>agua para el orzo</strong> (ver cantidad en ingredientes) y cocina 10-15 min, removiendo frecuentemente, hasta que quede tierno. Una vez listo, agrégalo a un colador y enfría con agua. Luego, escurre bien, agrega un chorrito de <strong>aceite</strong> y remueve.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584baa2f9c7ff8689943e2c/step-e3ba1610.jpg",
+          "path": "/6584baa2f9c7ff8689943e2c/step-e3ba1610.jpg",
+          "caption": "Cocina el orzo",
+          "localImage": "/images/recipes/6584baa2f9c7ff8689943e2c-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Corta el lomo de cerdo en tiras de 1 cm de grosor y colócalo en un bol grande. Agrega el Ras-el-Hanout restante, un chorrito de aceite, sal y pimienta y remueve para que quede bien aderezado. Reserva hasta el paso 5.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>Corta el <strong>lomo de cerdo</strong> en tiras de 1 cm de grosor y colócalo en un bol grande. Agrega el <strong>Ras-el-Hanout</strong> restante, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y remueve para que quede bien aderezado. Reserva hasta el paso 5.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>Corta el <strong>lomo de cerdo</strong> en tiras de 1 cm de grosor y colócalo en un bol grande. Agrega el <strong>Ras-el-Hanout</strong> restante, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y remueve para que quede bien aderezado. Reserva hasta el paso 5.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584baa2f9c7ff8689943e2c/step-3af87d20.jpg",
+          "path": "/6584baa2f9c7ff8689943e2c/step-3af87d20.jpg",
+          "caption": "Marina el lomo",
+          "localImage": "/images/recipes/6584baa2f9c7ff8689943e2c-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En una sartén antiadherente, agrega el azúcar (ver cantidad en ingredientes) y un chorrito de agua y calienta a fuego medio-alto 1-2 min, sin remover, hasta que el azúcar tome un color tostado. En ese momento, agrega las semillas de sésamo y cocina a fuego medio 2-3 min, mientras remueves cuidadosamente, hasta que el sésamo quede garrapiñado. Cuando esté listo, retira y reserva separado sobre un papel de horno para que se enfríe.",
+      "instructionsHTML": "<p>En una sartén antiadherente, agrega el <strong>azúcar</strong> (ver cantidad en ingredientes) y un chorrito de <strong>agua</strong> y calienta a fuego medio-alto 1-2 min, sin remover, hasta que el <strong>azúcar</strong> tome un color tostado. En ese momento, agrega las <strong>semillas de sésamo</strong> y cocina a fuego medio 2-3 min, mientras remueves cuidadosamente, hasta que el <strong>sésamo</strong> quede garrapiñado. Cuando esté listo, retira y reserva separado sobre un papel de horno para que se enfríe.</p>",
+      "instructionsMarkdown": "<p>En una sartén antiadherente, agrega el <strong>azúcar</strong> (ver cantidad en ingredientes) y un chorrito de <strong>agua</strong> y calienta a fuego medio-alto 1-2 min, sin remover, hasta que el <strong>azúcar</strong> tome un color tostado. En ese momento, agrega las <strong>semillas de sésamo</strong> y cocina a fuego medio 2-3 min, mientras remueves cuidadosamente, hasta que el <strong>sésamo</strong> quede garrapiñado. Cuando esté listo, retira y reserva separado sobre un papel de horno para que se enfríe.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584baa2f9c7ff8689943e2c/step-99a9b230.jpg",
+          "path": "/6584baa2f9c7ff8689943e2c/step-99a9b230.jpg",
+          "caption": "Garrapiña el sésamo",
+          "localImage": "/images/recipes/6584baa2f9c7ff8689943e2c-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Limpia la sartén, luego, calienta un chorrito de aceite a fuego medio-alto. Agrega el lomo marinado, salpimienta y cocina 2-3 min, hasta que esté dorado. Retira y reserva. Mientras se cocina, corta los tomates cherry por la mitad.",
+      "instructionsHTML": "<p>Limpia la sartén, luego, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>lomo marinado</strong>, <strong>salpimienta</strong> y cocina 2-3 min, hasta que esté dorado. Retira y reserva. Mientras se cocina, corta los <strong>tomates cherry</strong> por la mitad.</p>",
+      "instructionsMarkdown": "<p>Limpia la sartén, luego, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>lomo marinado</strong>, <strong>salpimienta</strong> y cocina 2-3 min, hasta que esté dorado. Retira y reserva. Mientras se cocina, corta los <strong>tomates cherry</strong> por la mitad.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584baa2f9c7ff8689943e2c/step-e2899c40.jpg",
+          "path": "/6584baa2f9c7ff8689943e2c/step-e2899c40.jpg",
+          "caption": "Cocina el lomo",
+          "localImage": "/images/recipes/6584baa2f9c7ff8689943e2c-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "En una ensaladera, agrega los tomates cherry, la rúcula, el orzo y el lomo de cerdo marinado. Añade un chorrito de aceite, salpimienta y remueve bien para que la ensalada quede aderezada. Sírvela en platos y agrega encima la manzana caramelizada, previamente escurrida, y las semillas de sésamo garrapiñadas.",
+      "instructionsHTML": "<p>En una ensaladera, agrega los <strong>tomates cherry</strong>, la <strong>rúcula</strong>, el <strong>orzo</strong> y el <strong>lomo de cerdo</strong> marinado. Añade un chorrito de <strong>aceite</strong>, <strong>salpimienta</strong> y remueve bien para que la <strong>ensalada</strong> quede aderezada. Sírvela en platos y agrega encima la <strong>manzana </strong>caramelizada, previamente escurrida, y las <strong>semillas de sésamo</strong> garrapiñadas.</p>",
+      "instructionsMarkdown": "<p>En una ensaladera, agrega los <strong>tomates cherry</strong>, la <strong>rúcula</strong>, el <strong>orzo</strong> y el <strong>lomo de cerdo</strong> marinado. Añade un chorrito de <strong>aceite</strong>, <strong>salpimienta</strong> y remueve bien para que la <strong>ensalada</strong> quede aderezada. Sírvela en platos y agrega encima la <strong>manzana </strong>caramelizada, previamente escurrida, y las <strong>semillas de sésamo</strong> garrapiñadas.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584baa2f9c7ff8689943e2c/step-4e0df950.jpg",
+          "path": "/6584baa2f9c7ff8689943e2c/step-4e0df950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6584baa2f9c7ff8689943e2c-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESQCV16342-6",
+  "updatedAt": "2026-02-17T02:24:25+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538e",
+      "type": "mixingbowl",
+      "name": "Bol para mezclar"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "833630fb-3023-43be-8dad-c9338cfd6931",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/lomo-en-especias-magrebies-sobre-ensalada-de-orzo-6584baa2f9c7ff8689943e2c",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1e6cebf08332f1bff1a0",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043712268bc1bff0d3cb0",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437641033266d7be9527",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "6475f87e22f7f34e1f95d236",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6475f5c76eb29dbe8bbed4f3",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1e6cebf08332f1bff1a0",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043712268bc1bff0d3cb0",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437641033266d7be9527",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "6475f87e22f7f34e1f95d236",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6475f5c76eb29dbe8bbed4f3",
+          "amount": 800,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6584baa2f9c7ff8689943e2c-Lomo en especias magrebíes sobre ensalada de orzo.jpg",
+  "localCard": "/pdf/6584baa2f9c7ff8689943e2c-Lomo en especias magrebíes sobre ensalada de orzo.pdf"
+}

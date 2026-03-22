@@ -1,0 +1,863 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": "6347ef92e9568549b78497b7",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-rebozado-en-panko-crujiente-6347ef92e9568549b78497b7",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/688a786a9643892dc8fa15c0-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347ef92e9568549b78497b7",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-07-30T19:54:18+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "¿Buscando una manera de que los más pequeños consuman más verduras? En esta receta, acompañamos un escalope de pollo con brócoli horneado, que destaca por sus bordes crujientes y su atractivo color. Acompañamos todo con una salsa de ajo asado para hacer este plato redondo.",
+  "descriptionHTML": "<p>¿Buscando una manera de que los más pequeños consuman más verduras? En esta receta, acompañamos un escalope de pollo con brócoli horneado, que destaca por sus bordes crujientes y su atractivo color. Acompañamos todo con una salsa de ajo asado para hacer este plato redondo.</p>",
+  "descriptionMarkdown": "¿Buscando una manera de que los más pequeños consuman más verduras? En esta receta, acompañamos un escalope de pollo con brócoli horneado, que destaca por sus bordes crujientes y su atractivo color. Acompañamos todo con una salsa de ajo asado para hacer este plato redondo.",
+  "difficulty": 1,
+  "favoritesCount": 7,
+  "headline": "con brócoli al horno y arroz",
+  "id": "688a786a9643892dc8fa15c0",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R29_W44_ES_ESCVC0116-7_Main_high-77af8561.jpg",
+  "imagePath": "/image/HF_Y25_R29_W44_ES_ESCVC0116-7_Main_high-77af8561.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6340436c41033266d7be950b",
+      "uuid": "9c185787-b4f8-5457-863b-da9d361fcd22",
+      "name": "Brócoli",
+      "type": "broccoli",
+      "slug": "brocoli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "imagePath": "/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be950b-Brócoli.png"
+    },
+    {
+      "id": "6874cb2f5a587f17f4588c97",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "imagePath": "/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6874cb2f5a587f17f4588c97-Panko.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "635bf32c715b05ed6af180bd",
+      "uuid": "92d67c8f-7ca6-5e50-b1ea-12d85a78d150",
+      "name": "Crème Fraîche",
+      "type": "creme-fraiche",
+      "slug": "creme-fraiche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "imagePath": "/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635bf32c715b05ed6af180bd-Crème Fraîche.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "634928a2e9568549b78497e1",
+      "uuid": "f099a1c2-6d5f-42a2-a188-cad2ad1b6d5f",
+      "name": "Aceite para freír",
+      "type": "sunflower-oil",
+      "slug": "aceite-para-freir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "imagePath": "/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634928a2e9568549b78497e1-Aceite para freír.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/688a786a9643892dc8fa15c0",
+  "name": "Escalope crujiente de pollo con salsa de ajo asado",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4725,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1129,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 66.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 88.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 4.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 53.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0.1,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.55,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 17,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 497,
+  "slug": "pollo-crujiente-con-salsa-de-ajo-asado",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nLlena un cazo con el agua, añade el arroz, el caldo vegetal y sal y lleva a ebullición con el cazo tapado.\nCuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.\nLuego, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Llena un cazo con el <strong>agua,</strong> añade el <strong>arroz,</strong> el <strong>caldo vegetal</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Llena un cazo con el <strong>agua,</strong> añade el <strong>arroz,</strong> el <strong>caldo vegetal</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a786a9643892dc8fa15c0/step-b2763000.jpg",
+          "path": "/688a786a9643892dc8fa15c0/step-b2763000.jpg",
+          "caption": "Arroz en marcha",
+          "localImage": "/images/recipes/688a786a9643892dc8fa15c0-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCorta el brócoli por la mitad y retira el tallo. Corta en floretes pequeños.\nColoca el brócoli en una bandeja de horno con papel de horno y adereza un chorrito de aceite, sal y pimienta.\nEn la bandeja, agrega el ajo sin pelar.\nHornea a media altura 10-15 min, hasta que estén dorados. Remueve a mitad de cocción.\n",
+      "instructionsHTML": "<ul>\n<li>Corta el <strong>brócoli</strong> por la mitad y retira el tallo. Corta en floretes pequeños.</li>\n<li>Coloca el <strong>brócoli</strong> en una bandeja de horno con papel de horno y adereza un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>En la bandeja, agrega el <strong>ajo</strong> sin pelar.</li>\n<li>Hornea a media altura 10-15 min, hasta que estén dorados. Remueve a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta el <strong>brócoli</strong> por la mitad y retira el tallo. Corta en floretes pequeños.</li>\n<li>Coloca el <strong>brócoli</strong> en una bandeja de horno con papel de horno y adereza un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>En la bandeja, agrega el <strong>ajo</strong> sin pelar.</li>\n<li>Hornea a media altura 10-15 min, hasta que estén dorados. Remueve a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a786a9643892dc8fa15c0/step-626a5310.jpg",
+          "path": "/688a786a9643892dc8fa15c0/step-626a5310.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/688a786a9643892dc8fa15c0-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn un plato hondo, bate el huevo. En otro plato hondo, mezcla el panko, el orégano, sal y pimienta.\nColoca el pollo entre dos papeles de horno y aplasta con un cazo, hasta conseguir filetes de 0,5-1 cm de grosor.\nPon el pollo en el plato con el huevo batido y cúbrelo.\nLuego, cúbrelo con la mezcla de panko y orégano, de manera que el pollo quede bien rebozado.\n",
+      "instructionsHTML": "<ul>\n<li>En un plato hondo, bate el <strong>huevo</strong>. En otro plato hondo, mezcla el <strong>panko</strong>, el <strong>orégano</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Coloca el <strong>pollo</strong> entre dos papeles de horno y aplasta con un cazo, hasta conseguir filetes de 0,5-1 cm de grosor.</li>\n<li>Pon el <strong>pollo</strong> en el plato con el <strong>huevo</strong> batido y cúbrelo.</li>\n<li>Luego, cúbrelo con la mezcla de <strong>panko</strong> y <strong>orégano</strong>, de manera que el <strong>pollo</strong> quede bien rebozado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un plato hondo, bate el <strong>huevo</strong>. En otro plato hondo, mezcla el <strong>panko</strong>, el <strong>orégano</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Coloca el <strong>pollo</strong> entre dos papeles de horno y aplasta con un cazo, hasta conseguir filetes de 0,5-1 cm de grosor.</li>\n<li>Pon el <strong>pollo</strong> en el plato con el <strong>huevo</strong> batido y cúbrelo.</li>\n<li>Luego, cúbrelo con la mezcla de <strong>panko</strong> y <strong>orégano</strong>, de manera que el <strong>pollo</strong> quede bien rebozado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a786a9643892dc8fa15c0/step-55348520.jpg",
+          "path": "/688a786a9643892dc8fa15c0/step-55348520.jpg",
+          "caption": "Reboza el pollo",
+          "localImage": "/images/recipes/688a786a9643892dc8fa15c0-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn una sartén, calienta a fuego medio-alto el aceite para freír.\nCuando esté caliente, agrega el pollo y cocina 3-5 min por lado o hasta que quede dorado y bien cocinado.\nColoca el pollo en un plato con papel de cocina.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En una sartén, calienta a fuego medio-alto el <strong>aceite para freír</strong>.</li>\n<li>Cuando esté caliente, agrega el <strong>pollo</strong> y cocina 3-5 min por lado o hasta que quede dorado y bien cocinado.</li>\n<li>Coloca el <strong>pollo</strong> en un plato con papel de cocina.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, calienta a fuego medio-alto el <strong>aceite para freír</strong>.</li>\n<li>Cuando esté caliente, agrega el <strong>pollo</strong> y cocina 3-5 min por lado o hasta que quede dorado y bien cocinado.</li>\n<li>Coloca el <strong>pollo</strong> en un plato con papel de cocina.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a786a9643892dc8fa15c0/step-401d2330.jpg",
+          "path": "/688a786a9643892dc8fa15c0/step-401d2330.jpg",
+          "caption": "¡A la rica fritura!",
+          "localImage": "/images/recipes/688a786a9643892dc8fa15c0-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nRetira la piel del ajo asado y coloca la pulpa en un bol pequeño.\nAñade la crème fraîche, un chorrito de aceite, sal y pimienta y mezcla.\n",
+      "instructionsHTML": "<ul>\n<li>Retira la piel del <strong>ajo</strong> asado y coloca la pulpa en un bol pequeño.</li>\n<li>Añade la <strong>crème fraîche</strong>, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong> y mezcla.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Retira la piel del <strong>ajo</strong> asado y coloca la pulpa en un bol pequeño.</li>\n<li>Añade la <strong>crème fraîche</strong>, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong> y mezcla.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a786a9643892dc8fa15c0/step-d3d94540.jpg",
+          "path": "/688a786a9643892dc8fa15c0/step-d3d94540.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/688a786a9643892dc8fa15c0-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el brócoli asado, el pollo rebozado, el arroz en platos por separado.\nAñade la salsa de ajo asado en un lado.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>brócoli</strong> asado, el <strong>pollo</strong> rebozado, el <strong>arroz</strong> en platos por separado.</li>\n<li>Añade la <strong>salsa de ajo asado</strong> en un lado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>brócoli</strong> asado, el <strong>pollo</strong> rebozado, el <strong>arroz</strong> en platos por separado.</li>\n<li>Añade la <strong>salsa de ajo asado</strong> en un lado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a786a9643892dc8fa15c0/step-c0233c50.jpg",
+          "path": "/688a786a9643892dc8fa15c0/step-c0233c50.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/688a786a9643892dc8fa15c0-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCVC0116-7",
+  "updatedAt": "2025-11-19T19:19:57+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539f",
+      "type": "soupbowl",
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    }
+  ],
+  "uuid": "50986b9a-5e7f-4ab8-981a-04a07cd4bae0",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-crujiente-con-salsa-de-ajo-asado-688a786a9643892dc8fa15c0",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": null
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 3,
+          "unit": null
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 450,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/688a786a9643892dc8fa15c0-Escalope crujiente de pollo con salsa de ajo asado.jpg",
+  "localCard": "/pdf/688a786a9643892dc8fa15c0-Escalope crujiente de pollo con salsa de ajo asado.pdf"
+}

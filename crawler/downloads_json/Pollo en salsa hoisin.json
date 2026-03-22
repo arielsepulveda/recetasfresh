@@ -1,0 +1,855 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.5,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/pollo-hoisin-arroz-verduras-63aaf2b5d624bae7112f5a0c-b6ebf3a9.pdf",
+  "category": null,
+  "clonedFrom": "6347efe6e9568549b78497c2",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-27T13:27:17+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a6",
+      "type": "chinese",
+      "name": "China",
+      "slug": "china",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a6-846a76df.jpg"
+    }
+  ],
+  "description": "Trasládate a la provincia china de Guangzhou y prueba la gastronomía cantonesa sin moverte de tu cocina con este pollo en salsa hoisin. Lo acompaña un arroz basmati que aporta un balance al potente sabor de la salsa y unas verduras salteadas que no solo ofrecen otro perfil de sabor, sino que aportan el equilibrio necesario para una dieta variada.",
+  "descriptionHTML": "<p>Trasládate a la provincia china de Guangzhou y prueba la gastronomía cantonesa sin moverte de tu cocina con este pollo en salsa hoisin. Lo acompaña un arroz basmati que aporta un balance al potente sabor de la salsa y unas verduras salteadas que no solo ofrecen otro perfil de sabor, sino que aportan el equilibrio necesario para una dieta variada.</p>",
+  "descriptionMarkdown": "Trasládate a la provincia china de Guangzhou y prueba la gastronomía cantonesa sin moverte de tu cocina con este pollo en salsa hoisin. Lo acompaña un arroz basmati que aporta un balance al potente sabor de la salsa y unas verduras salteadas que no solo ofrecen otro perfil de sabor, sino que aportan el equilibrio necesario para una dieta variada.",
+  "difficulty": 1,
+  "favoritesCount": 47,
+  "headline": "con arroz basmati y verduras salteadas",
+  "id": "63aaf2b5d624bae7112f5a0c",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221010_R01_W46_ES_ESCQ0171-1_KB_Main_high-deaad805.jpg",
+  "imagePath": "/image/HF221010_R01_W46_ES_ESCQ0171-1_KB_Main_high-deaad805.jpg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436e233160a36674b9f9",
+      "uuid": "43cf496e-b81e-45b7-977d-ba85227fed76",
+      "name": "Muslos de pollo deshuesados",
+      "type": "chicken-thighs",
+      "slug": "muslos-de-pollo-deshuesados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9f9-Muslos de pollo deshuesados.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "63480b79e9568549b78497c8",
+      "uuid": "e27b110b-467b-50bb-90ba-de73cb061683",
+      "name": "Salsa hoisin",
+      "type": "hoisin-sauce",
+      "slug": "salsa-hoisin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63480b79e9568549b78497c8-bae23154.png",
+      "imagePath": "/ingredient/63480b79e9568549b78497c8-bae23154.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63480b79e9568549b78497c8-Salsa hoisin.png"
+    },
+    {
+      "id": "63be6f11bc0b80106b4671d1",
+      "uuid": "24b03259-ca4b-5338-bf7a-132e30d306ba",
+      "name": "Salsa de soja dulce",
+      "type": "ketjap-manis",
+      "slug": "salsa-de-soja-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63be6f11bc0b80106b4671d1-850a5056.png",
+      "imagePath": "/ingredient/63be6f11bc0b80106b4671d1-850a5056.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63be6f11bc0b80106b4671d1-Salsa de soja dulce.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63404376233160a36674ba1b",
+      "uuid": "6b9b5891-6a0f-43b7-abac-f1d515dd2d91",
+      "name": "Pimiento rojo",
+      "type": "red-bell-pepper",
+      "slug": "pimiento-rojo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1b-Pimiento rojo.png"
+    },
+    {
+      "id": "636b7f74371ed3efb1da61cd",
+      "uuid": "de1c411e-d847-53a1-916a-23d030518916",
+      "name": "Semillas de sésamo blancas",
+      "type": "white-sesame-seeds",
+      "slug": "semillas-de-sesamo-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "imagePath": "/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636b7f74371ed3efb1da61cd-Semillas de sésamo blancas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Recetas Estrella",
+    "handle": "bestseller",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#067A46",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/63aaf2b5d624bae7112f5a0c",
+  "name": "Pollo en salsa hoisin",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 602,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2519,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 7.85,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 1.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 95.87,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 33.85,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 35.45,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.06,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 68,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 432,
+  "slug": "pollo-en-salsa-hoisin",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Llena un cazo con el agua para el arroz (ver cantidad en ingredientes) y añade el arroz y sal al gusto. Cuando hierva, baja el fuego y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el arroz con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes) y añade el <strong>arroz</strong> y <strong>sal</strong> al gusto. Cuando hierva, baja el fuego y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes) y añade el <strong>arroz</strong> y <strong>sal</strong> al gusto. Cuando hierva, baja el fuego y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b5d624bae7112f5a0c/step-21221700.jpg",
+          "path": "/63aaf2b5d624bae7112f5a0c/step-21221700.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/63aaf2b5d624bae7112f5a0c-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Ralla la mitad del jengibre (doble para 4p). Pela y ralla el ajo (ver cantidad en ingredientes). Pela y corta la mitad de la cebolla (doble para 4p) en cuadrados grandes. Corta el pimiento por la mitad y quítale las semillas. Córtalo en tiras finas de 1 cm de grosor. Corta los muslos de pollo a tiras cortas, sazona con sal y pimienta y reserva.",
+      "instructionsHTML": "<p dir=\"ltr\">Ralla la mitad del <strong>jengibre</strong> (doble para 4p). Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Pela y corta la mitad de la <strong>cebolla</strong> (doble para 4p) en cuadrados grandes. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en tiras finas de 1 cm de grosor. Corta los <strong>muslos de pollo</strong> a tiras cortas, sazona con <strong>sal </strong>y <strong>pimienta</strong> y reserva.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Ralla la mitad del <strong>jengibre</strong> (doble para 4p). Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Pela y corta la mitad de la <strong>cebolla</strong> (doble para 4p) en cuadrados grandes. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en tiras finas de 1 cm de grosor. Corta los <strong>muslos de pollo</strong> a tiras cortas, sazona con <strong>sal </strong>y <strong>pimienta</strong> y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e",
+        "57e2674fb7e8697d4b305379",
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b5d624bae7112f5a0c/step-97cc6a10.jpg",
+          "path": "/63aaf2b5d624bae7112f5a0c/step-97cc6a10.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/63aaf2b5d624bae7112f5a0c-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén, a fuego medio, agrega un chorrito de aceite junto con el jengibre y el ajo y deja cocinar durante 1-2 min o hasta que empiezan a dorarse y a soltar el aroma. Agrega el pollo y cocínalo a fuego alto durante 1 min. Luego, reduce el fuego levemente y cocina 2 min más, hasta que quede bien hecho. Retira el pollo y resérvalo en un plato.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>En una sartén, a fuego medio, agrega un chorrito de <strong>aceite</strong> junto con el <strong>jengibre</strong> y el <strong>ajo</strong> y deja cocinar durante 1-2 min o hasta que empiezan a dorarse y a soltar el aroma. Agrega el <strong>pollo</strong> y cocínalo a fuego alto durante 1 min. Luego, reduce el fuego levemente y cocina 2 min más, hasta que quede bien hecho. Retira el <strong>pollo</strong> y resérvalo en un plato.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>En una sartén, a fuego medio, agrega un chorrito de <strong>aceite</strong> junto con el <strong>jengibre</strong> y el <strong>ajo</strong> y deja cocinar durante 1-2 min o hasta que empiezan a dorarse y a soltar el aroma. Agrega el <strong>pollo</strong> y cocínalo a fuego alto durante 1 min. Luego, reduce el fuego levemente y cocina 2 min más, hasta que quede bien hecho. Retira el <strong>pollo</strong> y resérvalo en un plato.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b5d624bae7112f5a0c/step-acfd5820.jpg",
+          "path": "/63aaf2b5d624bae7112f5a0c/step-acfd5820.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/63aaf2b5d624bae7112f5a0c-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Mientras, mezcla en un bol pequeño la salsa de soja dulce y la salsa hoisin. Remueve para que la salsa quede homogénea.",
+      "instructionsHTML": "<p>Mientras, mezcla en un bol pequeño la <strong>salsa de soja dulce</strong> y la <strong>salsa hoisin</strong>. Remueve para que la <strong>salsa</strong> quede homogénea.</p>",
+      "instructionsMarkdown": "<p>Mientras, mezcla en un bol pequeño la <strong>salsa de soja dulce</strong> y la <strong>salsa hoisin</strong>. Remueve para que la <strong>salsa</strong> quede homogénea.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b5d624bae7112f5a0c/step-e4329d30.jpg",
+          "path": "/63aaf2b5d624bae7112f5a0c/step-e4329d30.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/63aaf2b5d624bae7112f5a0c-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la misma sartén, agrega otro chorrito de aceite y saltea la cebolla durante 2 min. Agrega el pimiento y saltea por 2 min más. Incorpora el pollo y la salsa y remueve para que los ingredientes se integren. Agrega el agua para la salsa (ver cantidad en ingredientes) y cocina todo junto durante 3-4 min. Agrega 1/4 de las semillas de sésamo y reserva el resto para decorar el plato.",
+      "instructionsHTML": "<p dir=\"ltr\">En la misma sartén, agrega otro chorrito de <strong>aceite</strong> y saltea la <strong>cebolla</strong> durante 2 min. Agrega el <strong>pimiento</strong> y saltea por 2 min más. Incorpora el <strong>pollo</strong> y la <strong>salsa</strong> y remueve para que los ingredientes se integren. Agrega el <strong>agua para la salsa</strong> (ver cantidad en ingredientes) y cocina todo junto durante 3-4 min. Agrega 1/4 de las <strong>semillas de sésamo</strong> y reserva el resto para decorar el plato.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En la misma sartén, agrega otro chorrito de <strong>aceite</strong> y saltea la <strong>cebolla</strong> durante 2 min. Agrega el <strong>pimiento</strong> y saltea por 2 min más. Incorpora el <strong>pollo</strong> y la <strong>salsa</strong> y remueve para que los ingredientes se integren. Agrega el <strong>agua para la salsa</strong> (ver cantidad en ingredientes) y cocina todo junto durante 3-4 min. Agrega 1/4 de las <strong>semillas de sésamo</strong> y reserva el resto para decorar el plato.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b5d624bae7112f5a0c/step-c6523940.jpg",
+          "path": "/63aaf2b5d624bae7112f5a0c/step-c6523940.jpg",
+          "caption": "Mezcla los vegetales y el pollo",
+          "localImage": "/images/recipes/63aaf2b5d624bae7112f5a0c-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Una vez el pollo esté listo, divide el arroz en boles y dispón el pollo con la salsa encima, decora con las semillas de sésamo al gusto.",
+      "instructionsHTML": "<p>Una vez el <strong>pollo</strong> esté listo, divide el <strong>arroz</strong> en boles y dispón el <strong>pollo</strong> con la <strong>salsa</strong> encima, decora con las <strong>semillas de</strong> <strong>sésamo</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Una vez el <strong>pollo</strong> esté listo, divide el <strong>arroz</strong> en boles y dispón el <strong>pollo</strong> con la <strong>salsa</strong> encima, decora con las <strong>semillas de</strong> <strong>sésamo</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b5d624bae7112f5a0c/step-1edda350.jpg",
+          "path": "/63aaf2b5d624bae7112f5a0c/step-1edda350.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63aaf2b5d624bae7112f5a0c-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "58fdfc3899052d5451720d02",
+      "type": "hall-of-fame",
+      "name": "Recetas estrella",
+      "slug": "recetas-estrella",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCQ0171-5",
+  "updatedAt": "2025-11-13T22:42:03+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "fb090af0-7813-47ea-8b2c-3dc7dbbe451d",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-en-salsa-hoisin-63aaf2b5d624bae7112f5a0c",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63480b79e9568549b78497c8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63be6f11bc0b80106b4671d1",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 7.995,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 560,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63480b79e9568549b78497c8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63be6f11bc0b80106b4671d1",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63aaf2b5d624bae7112f5a0c-Pollo en salsa hoisin.jpg",
+  "localCard": "/pdf/63aaf2b5d624bae7112f5a0c-Pollo en salsa hoisin.pdf"
+}

@@ -1,0 +1,827 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": "6512d10d4dbea49298790157",
+  "canonicalLink": "https://www.hellofresh.es/recipes/entrecot-salsa-chalota-patatas-verduras-6512d10d4dbea49298790157",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64c8b9c32864fe111ef972df.pdf",
+  "category": null,
+  "clonedFrom": "64a7fa1dadf12186bf9ae879",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-08-01T07:52:35+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Siéntete como en un restaurante con este plato en el que el protagonista es un entrecot de ternera de calidad premium bañado en una salsa casera de chalota. Lo acompañan unas patatas al romero cocinadas al horno y zanahorias con brocolini asado, de forma que disfrutarás de una receta completa y, sobre todo, de gran sabor y calidad.",
+  "descriptionHTML": "<p>Siéntete como en un restaurante con este plato en el que el protagonista es un entrecot de ternera de calidad premium bañado en una salsa casera de chalota. Lo acompañan unas patatas al romero cocinadas al horno y zanahorias con brocolini asado, de forma que disfrutarás de una receta completa y, sobre todo, de gran sabor y calidad.</p>",
+  "descriptionMarkdown": "Siéntete como en un restaurante con este plato en el que el protagonista es un entrecot de ternera de calidad premium bañado en una salsa casera de chalota. Lo acompañan unas patatas al romero cocinadas al horno y zanahorias con brocolini asado, de forma que disfrutarás de una receta completa y, sobre todo, de gran sabor y calidad.",
+  "difficulty": 1,
+  "favoritesCount": 4,
+  "headline": "con patatas al romero, zanahoria y brocolini asado",
+  "id": "64c8b9c32864fe111ef972df",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R18_W25_SE_P10598-8_Main_high-f2b54a36.jpg",
+  "imagePath": "/image/HF_Y23_R18_W25_SE_P10598-8_Main_high-f2b54a36.jpg",
+  "ingredients": [
+    {
+      "id": "64d2495a2a63efcc605eb56f",
+      "uuid": "4aac0598-076a-5652-89fd-5076ac921db4",
+      "name": "Entrecot de ternera",
+      "type": "steak",
+      "slug": "entrecot-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64d2495a2a63efcc605eb56f-086d2066.jpg",
+      "imagePath": "/ingredient/64d2495a2a63efcc605eb56f-086d2066.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64d2495a2a63efcc605eb56f-Entrecot de ternera.jpg"
+    },
+    {
+      "id": "64be80dcd4684302b8757fb6",
+      "uuid": "cfa42e44-0daf-57a5-a1fc-b67d1eb3ecea",
+      "name": "Brocolini",
+      "type": "broccolini",
+      "slug": "brocolini",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64be80dcd4684302b8757fb6-dbecd2be.png",
+      "imagePath": "/ingredient/64be80dcd4684302b8757fb6-dbecd2be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64be80dcd4684302b8757fb6-Brocolini.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404377233160a36674ba20",
+      "uuid": "040eb90c-dd30-595f-9558-4c6ff3d179ea",
+      "name": "Romero",
+      "type": "rosemary",
+      "slug": "romero",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba20-88a98239.png",
+      "imagePath": "/ingredient/63404377233160a36674ba20-88a98239.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba20-Romero.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Gourmet",
+    "handle": "gourmet",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#3c454a",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/64c8b9c32864fe111ef972df",
+  "name": "Entrecot de ternera en salsa casera de chalota",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3096,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 740,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 17.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 58,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 46,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.11,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 23,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 633,
+  "slug": "entrecot-de-ternera-en-salsa-casera-de-chalota",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Deshoja y pica la mitad del romero (doble para 4p). Corta las patatas en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega el romero, un chorrito de aceite, sal y pimienta. Mezcla para que queden aderezadas. Hornea 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Deshoja y pica la mitad del <strong>romero</strong> (doble para 4p). Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega el <strong>romero</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Mezcla para que queden aderezadas. Hornea 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Deshoja y pica la mitad del <strong>romero</strong> (doble para 4p). Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega el <strong>romero</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Mezcla para que queden aderezadas. Hornea 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c8b9c32864fe111ef972df/step-06b3d200.jpg",
+          "path": "/64c8b9c32864fe111ef972df/step-06b3d200.jpg",
+          "caption": "Hornea las patatas al romero",
+          "localImage": "/images/recipes/64c8b9c32864fe111ef972df-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Saca los filetes de ternera de la nevera para que se atemperen. Pela y corta la zanahoria por la mitad a lo largo. Luego, corta en bastones de 0,5-1 cm de grosor. Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en tiras de 2 cm. Pela y pica finamente el ajo (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p>Saca los <strong>filetes de ternera</strong> de la nevera para que se atemperen. Pela y corta la <strong>zanahoria</strong> por la mitad a lo largo. Luego, corta en bastones de 0,5-1 cm de grosor. Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras de 2 cm. Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p>Saca los <strong>filetes de ternera</strong> de la nevera para que se atemperen. Pela y corta la <strong>zanahoria</strong> por la mitad a lo largo. Luego, corta en bastones de 0,5-1 cm de grosor. Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras de 2 cm. Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c8b9c32864fe111ef972df/step-e82d0910.jpg",
+          "path": "/64c8b9c32864fe111ef972df/step-e82d0910.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/64c8b9c32864fe111ef972df-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega el brocolini, la cebolla, la zanahoria y el agua (ver cantidad en ingredientes) y cocina 6-7 min, removiendo regularmente, hasta que las verduras se ablanden. Salpimienta, retira de la sartén y reserva.",
+      "instructionsHTML": "<p>En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega el <strong>brocolini</strong>, la <strong>cebolla</strong>, la <strong>zanahoria</strong> y el <strong>agua</strong> (ver cantidad en ingredientes) y cocina 6-7 min, removiendo regularmente, hasta que las <strong>verduras</strong> se ablanden. <strong>Salpimienta</strong>, retira de la sartén y reserva.</p>",
+      "instructionsMarkdown": "<p>En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega el <strong>brocolini</strong>, la <strong>cebolla</strong>, la <strong>zanahoria</strong> y el <strong>agua</strong> (ver cantidad en ingredientes) y cocina 6-7 min, removiendo regularmente, hasta que las <strong>verduras</strong> se ablanden. <strong>Salpimienta</strong>, retira de la sartén y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c8b9c32864fe111ef972df/step-aba41520.jpg",
+          "path": "/64c8b9c32864fe111ef972df/step-aba41520.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/64c8b9c32864fe111ef972df-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la sartén, calienta un chorrito de aceite a fuego medio-alto. Una vez caliente, añade los filetes de ternera, salpimienta y cocina 1 min por lado o hasta que esté cocinada. Retira y reserva.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, añade los <strong>filetes de ternera</strong>, <strong>salpimienta</strong> y cocina 1 min por lado o hasta que esté cocinada. Retira y reserva.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, añade los <strong>filetes de ternera</strong>, <strong>salpimienta</strong> y cocina 1 min por lado o hasta que esté cocinada. Retira y reserva.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c8b9c32864fe111ef972df/step-62b9ca30.jpg",
+          "path": "/64c8b9c32864fe111ef972df/step-62b9ca30.jpg",
+          "caption": "Cocina la carne",
+          "localImage": "/images/recipes/64c8b9c32864fe111ef972df-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Pela y pica la chalota. En la sartén, calienta un chorrito de aceite a fuego medio. Una vez caliente, agrega la chalota y el vinagre balsámico y cocina 2-3 min. Luego, agrega la mostaza, el queso crema, el caldo de ternera y el agua para la salsa (ver cantidad en ingredientes), mezcla con varillas. Lleva a ebullición y cocina 3-4 min, hasta que se reduzca ligeramente. Luego, añade la carne y cocina 1 min más.",
+      "instructionsHTML": "<p>Pela y pica la <strong>chalota</strong>. En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega la <strong>chalota</strong> y el <strong>vinagre balsámico</strong> y cocina 2-3 min. Luego, agrega la <strong>mostaza</strong>, el <strong>queso crema</strong>, el <strong>caldo de ternera</strong> y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes), mezcla con varillas. Lleva a ebullición y cocina 3-4 min, hasta que se reduzca ligeramente. Luego, añade la <strong>carne</strong> y cocina 1 min más.</p>",
+      "instructionsMarkdown": "<p>Pela y pica la <strong>chalota</strong>. En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega la <strong>chalota</strong> y el <strong>vinagre balsámico</strong> y cocina 2-3 min. Luego, agrega la <strong>mostaza</strong>, el <strong>queso crema</strong>, el <strong>caldo de ternera</strong> y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes), mezcla con varillas. Lleva a ebullición y cocina 3-4 min, hasta que se reduzca ligeramente. Luego, añade la <strong>carne</strong> y cocina 1 min más.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c8b9c32864fe111ef972df/step-ca185540.jpg",
+          "path": "/64c8b9c32864fe111ef972df/step-ca185540.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/64c8b9c32864fe111ef972df-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Corta los filetes en tiras finas a lo ancho y sírvelos en platos. Cubre la carne con la salsa reservada. Agrega a los platos las verduras salteadas y las patatas asadas al romero.",
+      "instructionsHTML": "<p>Corta los <strong>filetes</strong> en tiras finas a lo ancho y sírvelos en platos. Cubre la <strong>carne</strong> con la <strong>salsa</strong> reservada. Agrega a los platos las <strong>verduras</strong> salteadas y las <strong>patatas</strong> asadas al <strong>romero</strong>.</p>",
+      "instructionsMarkdown": "<p>Corta los <strong>filetes</strong> en tiras finas a lo ancho y sírvelos en platos. Cubre la <strong>carne</strong> con la <strong>salsa</strong> reservada. Agrega a los platos las <strong>verduras</strong> salteadas y las <strong>patatas</strong> asadas al <strong>romero</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c8b9c32864fe111ef972df/step-4343e550.jpg",
+          "path": "/64c8b9c32864fe111ef972df/step-4343e550.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/64c8b9c32864fe111ef972df-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESSGB17598-3",
+  "updatedAt": "2026-01-21T17:18:21+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    }
+  ],
+  "uuid": "d8ac6c20-881f-48b1-8256-723899c96a1c",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/entrecot-de-ternera-en-salsa-casera-de-chalota-64c8b9c32864fe111ef972df",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 340,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be80dcd4684302b8757fb6",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 75,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 680,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be80dcd4684302b8757fb6",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64c8b9c32864fe111ef972df-Entrecot de ternera en salsa casera de chalota.jpg",
+  "localCard": "/pdf/64c8b9c32864fe111ef972df-Entrecot de ternera en salsa casera de chalota.pdf"
+}

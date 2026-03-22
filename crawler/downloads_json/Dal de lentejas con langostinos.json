@@ -1,0 +1,772 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f4",
+      "name": "Crustáceos",
+      "type": "crustaceans",
+      "slug": "crustaceos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "63aaf3d992c25465fb350ce4",
+  "canonicalLink": "https://www.hellofresh.es/recipes/dal-de-lentejas-con-langostinos-63aaf3d992c25465fb350ce4",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6942e5611101204cae756840-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347efe5e9568549b78497bc",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-17T17:16:18+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "India",
+      "slug": "india",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg"
+    }
+  ],
+  "description": "En India, \"dal\" es el nombre a los platos indios que tienen como base este tipo las legumbres. En este caso, la legumbre utilizada son las lentejas rojas y las acompañamos de langostinos y boniato asado, además de las especias que harán que este plato te transporte a los pies del Taj Mahal.",
+  "descriptionHTML": "<p>En India, &quot;dal&quot; es el nombre a los platos indios que tienen como base este tipo las legumbres. En este caso, la legumbre utilizada son las lentejas rojas y las acompañamos de langostinos y boniato asado, además de las especias que harán que este plato te transporte a los pies del Taj Mahal.</p>",
+  "descriptionMarkdown": "En India, \"dal\" es el nombre a los platos indios que tienen como base este tipo las legumbres. En este caso, la legumbre utilizada son las lentejas rojas y las acompañamos de langostinos y boniato asado, además de las especias que harán que este plato te transporte a los pies del Taj Mahal.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con boniato asado y cilantro",
+  "id": "6942e5611101204cae756840",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R01_W42_ES_ESCCL0157-8_Main_high-ace3d4a6.jpg",
+  "imagePath": "/image/HF_Y25_R01_W42_ES_ESCCL0157-8_Main_high-ace3d4a6.jpg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340437941033266d7be9531",
+      "uuid": "61a2604a-ad14-5a3c-b00f-f81d58cb0c90",
+      "name": "Boniato",
+      "type": "sweet-potato",
+      "slug": "boniato",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "imagePath": "/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9531-Boniato.png"
+    },
+    {
+      "id": "63404373233160a36674ba0b",
+      "uuid": "427c79c7-8c5a-567a-aec0-980b9e2aca8d",
+      "name": "Pasta de curry korma",
+      "type": "korma-style-paste",
+      "slug": "pasta-de-curry-korma",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0b-0f9fba52.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0b-0f9fba52.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0b-Pasta de curry korma.png"
+    },
+    {
+      "id": "6340436e233160a36674b9fd",
+      "uuid": "4be57e09-204f-50f6-abf5-a91e4a8099db",
+      "name": "Leche de coco",
+      "type": "coconut-milk",
+      "slug": "leche-de-coco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9fd-Leche de coco.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "634043772268bc1bff0d3cc7",
+      "uuid": "a4a86936-3033-57ed-a22d-d0a2750b056b",
+      "name": "Lentejas rojas",
+      "type": "red-lentils",
+      "slug": "lentejas-rojas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043772268bc1bff0d3cc7-0d8d4d08.jpg",
+      "imagePath": "/ingredient/634043772268bc1bff0d3cc7-0d8d4d08.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043772268bc1bff0d3cc7-Lentejas rojas.jpg"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "63724760422e0b6ac4f85686",
+      "uuid": "0b18a29e-c9df-5b77-903e-c2e60206b65a",
+      "name": "Langostinos",
+      "type": "shrimps",
+      "slug": "langostinos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "imagePath": "/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f4"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63724760422e0b6ac4f85686-Langostinos.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6942e5611101204cae756840",
+  "name": "Dal de lentejas con langostinos",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2602,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 622,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 34.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 61,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 14.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 14.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 26.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.69,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 449,
+  "slug": "dal-de-lentejas-con-langostinos",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela la cebolla y córtala en tiras finas.\nCorta el boniato en dados de 1-2 cm.\nPela y pica el ajo.\nEn una olla, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAñade la cebolla y una pizca de sal y cocina 3-4 min, removiendo.\n",
+      "instructionsHTML": "<p><span style=\"color: rgb(0, 0, 0)\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</span></p>\n<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">Pela la <strong>cebolla</strong> y córtala en tiras finas.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Corta el <strong>boniato</strong> en dados de 1-2 cm.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Pela y pica el <strong>ajo</strong>.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">En una olla, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</span></li>\n<li>Añade la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 3-4 min, removiendo.</li>\n</ul>",
+      "instructionsMarkdown": "<p><span style=\"color: rgb(0, 0, 0)\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</span></p>\n<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">Pela la <strong>cebolla</strong> y córtala en tiras finas.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Corta el <strong>boniato</strong> en dados de 1-2 cm.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Pela y pica el <strong>ajo</strong>.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">En una olla, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</span></li>\n<li>Añade la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 3-4 min, removiendo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "64ba7d3d9d1f1314f17e6c06"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5611101204cae756840/step-e040ad00.jpg",
+          "path": "/6942e5611101204cae756840/step-e040ad00.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/6942e5611101204cae756840-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn la olla, añade el boniato y rehoga 1-2 min.\nAgrega un chorrito generoso de agua, tapa la olla y cocina a fuego medio 8-10 min, hasta que quede tierno. Salpimienta.\nAñade la pasta de curry korma y cocina 1 min más, removiendo.\nAgrega la leche de coco, el agua, el caldo vegetal y las lentejas rojas y lleva a ebullición.\nMientras tanto, ralla la piel de la lima y córtala en gajos.\n",
+      "instructionsHTML": "<ul>\n<li>En la <span style=\"color: rgb(0, 0, 0)\">olla</span>, añade el <strong>boniato</strong> y rehoga 1-2 min.</li>\n<li>Agrega un chorrito generoso de <strong>agua,</strong> tapa la olla y cocina a fuego medio 8-10 min, hasta que quede tierno. <strong>Salpimienta</strong>.</li>\n<li>Añade la <strong>pasta de curry korma</strong> y cocina 1 min más, removiendo.</li>\n<li>Agrega la <strong>leche de coco</strong>, el <strong>agua</strong>, el <strong>caldo vegeta</strong>l y las <strong>lentejas rojas</strong> y lleva a ebullición.</li>\n<li>Mientras tanto, ralla la piel de la <strong>lima</strong> y córtala en gajos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la <span style=\"color: rgb(0, 0, 0)\">olla</span>, añade el <strong>boniato</strong> y rehoga 1-2 min.</li>\n<li>Agrega un chorrito generoso de <strong>agua,</strong> tapa la olla y cocina a fuego medio 8-10 min, hasta que quede tierno. <strong>Salpimienta</strong>.</li>\n<li>Añade la <strong>pasta de curry korma</strong> y cocina 1 min más, removiendo.</li>\n<li>Agrega la <strong>leche de coco</strong>, el <strong>agua</strong>, el <strong>caldo vegeta</strong>l y las <strong>lentejas rojas</strong> y lleva a ebullición.</li>\n<li>Mientras tanto, ralla la piel de la <strong>lima</strong> y córtala en gajos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5611101204cae756840/step-61cc2210.jpg",
+          "path": "/6942e5611101204cae756840/step-61cc2210.jpg",
+          "caption": "Todo al curry",
+          "localImage": "/images/recipes/6942e5611101204cae756840-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCuando el curry hierva, cocina a fuego medio-bajo con la olla tapada 10-12 min, hasta que las lentejas queden tiernas.\nAgrega los langostinos y ralladura de lima al gusto y remueve. Tapa la olla y cocina 1-2 min, hasta que los langostinos estén cocinados.\nAgrega zumo de lima al gusto y remueve.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.",
+      "instructionsHTML": "<ul>\n<li>Cuando el <strong>curry</strong> hierva, cocina a fuego medio-bajo con la olla tapada 10-12 min, hasta que las <strong>lentejas</strong> queden tiernas.</li>\n<li>Agrega los <strong>langostinos</strong> y ralladura<strong> </strong>de<strong> lima</strong> al gusto y remueve. Tapa la olla y cocina 1-2 min, hasta que los <strong>langostinos</strong> estén cocinados.</li>\n<li>Agrega zumo de <strong>lima</strong> al gusto y remueve.</li>\n</ul>\n<div>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</div>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando el <strong>curry</strong> hierva, cocina a fuego medio-bajo con la olla tapada 10-12 min, hasta que las <strong>lentejas</strong> queden tiernas.</li>\n<li>Agrega los <strong>langostinos</strong> y ralladura<strong> </strong>de<strong> lima</strong> al gusto y remueve. Tapa la olla y cocina 1-2 min, hasta que los <strong>langostinos</strong> estén cocinados.</li>\n<li>Agrega zumo de <strong>lima</strong> al gusto y remueve.</li>\n</ul>\n<div>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</div>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5611101204cae756840/step-985bbc20.jpg",
+          "path": "/6942e5611101204cae756840/step-985bbc20.jpg",
+          "caption": "Añade los langostinos y combina",
+          "localImage": "/images/recipes/6942e5611101204cae756840-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\n\nDeshoja y pica el cilantro.\nSirve el dal de lentejas y langostinos en platos y cubre con ralladura de limón y cilantro al gusto.\nAñade más zumo de lima al gusto.\n\n",
+      "instructionsHTML": "<p><div>\n<ul>\n<li>Deshoja y pica el <strong>cilantro</strong>.</li>\n<li>Sirve el <strong>dal</strong> de <strong>lentejas</strong> y <strong>langostinos</strong> en platos y cubre con ralladura de <strong>limón</strong> y <strong>cilantro</strong> al gusto.</li>\n<li>Añade más zumo de <strong>lima</strong> al gusto.</li>\n</ul>\n</div></p>",
+      "instructionsMarkdown": "<div>\n<ul>\n<li>Deshoja y pica el <strong>cilantro</strong>.</li>\n<li>Sirve el <strong>dal</strong> de <strong>lentejas</strong> y <strong>langostinos</strong> en platos y cubre con ralladura de <strong>limón</strong> y <strong>cilantro</strong> al gusto.</li>\n<li>Añade más zumo de <strong>lima</strong> al gusto.</li>\n</ul>\n</div>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5611101204cae756840/step-22ab1430.jpg",
+          "path": "/6942e5611101204cae756840/step-22ab1430.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/6942e5611101204cae756840-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCCL0157-11",
+  "updatedAt": "2026-03-06T19:06:09+00:00",
+  "utensils": [
+    {
+      "id": "64ba7d3d9d1f1314f17e6c06",
+      "type": "pot-with-lid",
+      "name": "Olla con Tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    }
+  ],
+  "uuid": "5e27b613-8e6b-4aa1-b385-2722de2d16b6",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/dal-de-lentejas-con-langostinos-6942e5611101204cae756840",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0b",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 180,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043772268bc1bff0d3cc7",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0b",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 360,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043772268bc1bff0d3cc7",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0b",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 540,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043772268bc1bff0d3cc7",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6942e5611101204cae756840-Dal de lentejas con langostinos.jpg",
+  "localCard": "/pdf/6942e5611101204cae756840-Dal de lentejas con langostinos.pdf"
+}

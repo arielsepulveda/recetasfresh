@@ -1,0 +1,931 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "63aaf2b892c25465fb350cd0",
+  "canonicalLink": "https://www.hellofresh.es/recipes/tofu-al-estilo-tikka-masala-63aaf2b892c25465fb350cd0",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68d68a1d9ed4d679418a2067-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "634975a7e9568549b784980d",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-09-26T12:42:06+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "India",
+      "slug": "india",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg"
+    }
+  ],
+  "description": "Aunque este plato pueda parecer una adaptación del reconocido \"pollo estilo tikka masala\", lo cierto es que la gran mayoría de la población de la India es vegetariana. Por ello, su gastronomía rara vez cuenta con carnes o pescados, siendo más habitual encontrar platos con tofu o paneer.",
+  "descriptionHTML": "<p>Aunque este plato pueda parecer una adaptación del reconocido &quot;pollo estilo tikka masala&quot;, lo cierto es que la gran mayoría de la población de la India es vegetariana. Por ello, su gastronomía rara vez cuenta con carnes o pescados, siendo más habitual encontrar platos con tofu o paneer.</p>",
+  "descriptionMarkdown": "Aunque este plato pueda parecer una adaptación del reconocido \"pollo estilo tikka masala\", lo cierto es que la gran mayoría de la población de la India es vegetariana. Por ello, su gastronomía rara vez cuenta con carnes o pescados, siendo más habitual encontrar platos con tofu o paneer.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con arroz basmati y salsa de yogur al cilantro",
+  "id": "68d68a1d9ed4d679418a2067",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R04_W32_ES_ESVV0195-113379-6_Main_1_high-54946ce5.jpg",
+  "imagePath": "/image/HF_Y24_R04_W32_ES_ESVV0195-113379-6_Main_1_high-54946ce5.jpg",
+  "ingredients": [
+    {
+      "id": "663dd43a5e4dcee2f122a3d9",
+      "uuid": "5efbe02d-9aa7-530e-bbb6-d3f77a8d6e9d",
+      "name": "Tofu",
+      "type": "tofu",
+      "slug": "tofu",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/663dd43a5e4dcee2f122a3d9-60345e10.png",
+      "imagePath": "/ingredient/663dd43a5e4dcee2f122a3d9-60345e10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/663dd43a5e4dcee2f122a3d9-Tofu.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "6340437a233160a36674ba2b",
+      "uuid": "b72f0046-564d-412b-b75a-8810fe101790",
+      "name": "Mezcla de especias indias",
+      "type": "indian-spice-mix",
+      "slug": "mezcla-de-especias-indias",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a233160a36674ba2b-e1df08de.png",
+      "imagePath": "/ingredient/6340437a233160a36674ba2b-e1df08de.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a233160a36674ba2b-Mezcla de especias indias.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "6340437141033266d7be951a",
+      "uuid": "ae95225f-9805-5f92-afa8-0649e7e90122",
+      "name": "Comino en polvo",
+      "type": "ground-cumin",
+      "slug": "comino-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "imagePath": "/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be951a-Comino en polvo.png"
+    },
+    {
+      "id": "64afc5bc565e2133abaa58a3",
+      "uuid": "27bdf929-2223-5877-8919-3bd93eb85c24",
+      "name": "Passata de tomate",
+      "type": "tomato-passata",
+      "slug": "passata-de-tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "imagePath": "/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64afc5bc565e2133abaa58a3-Passata de tomate.png"
+    },
+    {
+      "id": "6340436e233160a36674b9fd",
+      "uuid": "4be57e09-204f-50f6-abf5-a91e4a8099db",
+      "name": "Leche de coco",
+      "type": "coconut-milk",
+      "slug": "leche-de-coco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9fd-Leche de coco.png"
+    },
+    {
+      "id": "634976b3e9568549b784980e",
+      "uuid": "29eb59dd-a095-51ac-b053-e2b300368bde",
+      "name": "Yogur griego",
+      "type": "greek-yogurt",
+      "slug": "yogur-griego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "imagePath": "/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634976b3e9568549b784980e-Yogur griego.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Especial para táper",
+    "handle": "takeaway-classic",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68d68a1d9ed4d679418a2067",
+  "name": "Tofu al estilo tikka masala",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2738,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 655,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 37.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 19.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 82.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 14.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.66,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 398,
+  "slug": "tofu-al-estilo-tikka-masala",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nSeca el tofu y córtalo en cubos de 2 cm.\nPela y ralla el ajo y el jengibre.\nEn un bol, mezcla el tofu, las especias indias, la mitad del jengibre y del ajo, un chorrito de aceite, sal y pimienta.\nCubre el bol y reserva en la nevera hasta el paso 5.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Seca el <strong>tofu</strong> y córtalo en cubos de 2 cm.</li>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong> y el <strong>jengibre</strong>.</li>\n<li dir=\"ltr\">En un bol, mezcla el <strong>tofu</strong>, las <strong>especias indias</strong>, la mitad del <strong>jengibre</strong> y del <strong>ajo</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li dir=\"ltr\">Cubre el bol y reserva en la nevera hasta el paso 5.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Seca el <strong>tofu</strong> y córtalo en cubos de 2 cm.</li>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong> y el <strong>jengibre</strong>.</li>\n<li dir=\"ltr\">En un bol, mezcla el <strong>tofu</strong>, las <strong>especias indias</strong>, la mitad del <strong>jengibre</strong> y del <strong>ajo</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li dir=\"ltr\">Cubre el bol y reserva en la nevera hasta el paso 5.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "57e2674fb7e8697d4b30538e",
+        "57e2674fb7e8697d4b30536a",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1d9ed4d679418a2067/step-4b6af900.jpg",
+          "path": "/68d68a1d9ed4d679418a2067/step-4b6af900.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68d68a1d9ed4d679418a2067-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nLlena un cazo con el agua, añade el arroz y sal y lleva a ebullición con el cazo tapado.\nCuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.\nLuego, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<ul>\n<li>Llena un cazo con el <strong>agua</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Llena un cazo con el <strong>agua</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1d9ed4d679418a2067/step-ab6f4310.jpg",
+          "path": "/68d68a1d9ed4d679418a2067/step-ab6f4310.jpg",
+          "caption": "Arroz en marcha",
+          "localImage": "/images/recipes/68d68a1d9ed4d679418a2067-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nPela la cebolla y córtala en daditos.\nEn una sartén, agrega un chorrito de aceite y el ajo y el jengibre restante. Calienta a fuego medio y cocina 1-2 min.\nAgrega la cebolla, salpimienta y cocina 4-5 min, removiendo.\nMientras tanto, deshoja y pica el cilantro.\n",
+      "instructionsHTML": "<ul>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos.</li>\n<li>En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong> y el <strong>jengibre</strong> restante. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega la <strong>cebolla</strong>, <strong>salpimienta</strong> y cocina 4-5 min, removiendo.</li>\n<li>Mientras tanto, deshoja y pica el <strong>cilantro</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos.</li>\n<li>En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong> y el <strong>jengibre</strong> restante. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega la <strong>cebolla</strong>, <strong>salpimienta</strong> y cocina 4-5 min, removiendo.</li>\n<li>Mientras tanto, deshoja y pica el <strong>cilantro</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1d9ed4d679418a2067/step-14733120.jpg",
+          "path": "/68d68a1d9ed4d679418a2067/step-14733120.jpg",
+          "caption": "Cebolla al fuego",
+          "localImage": "/images/recipes/68d68a1d9ed4d679418a2067-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nAgrega en la sartén el tofu y sofríe a fuego medio 2 min, removiendo, hasta que se dore.\nAñade el comino y la passata de tomate y cocina 1 min, removiendo.\n",
+      "instructionsHTML": "<ul>\n<li>Agrega en la sartén el <strong>tofu</strong> y sofríe a fuego medio 2 min, removiendo, hasta que se dore.</li>\n<li>Añade el <strong>comino</strong> y la <strong>passata</strong> <strong>de</strong> <strong>tomate</strong> y cocina 1 min, removiendo.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Agrega en la sartén el <strong>tofu</strong> y sofríe a fuego medio 2 min, removiendo, hasta que se dore.</li>\n<li>Añade el <strong>comino</strong> y la <strong>passata</strong> <strong>de</strong> <strong>tomate</strong> y cocina 1 min, removiendo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1d9ed4d679418a2067/step-efa88830.jpg",
+          "path": "/68d68a1d9ed4d679418a2067/step-efa88830.jpg",
+          "caption": "Turno del tofu",
+          "localImage": "/images/recipes/68d68a1d9ed4d679418a2067-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn la sartén, añade la leche de coco, remueve y cocina a fuego medio 3-4 min, hasta que la salsa se reduzca.\nEn el último momento, agrega la mitad del yogur y el azúcar y cocina 1 min más.\nPrueba y salpimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, añade la <strong>leche de <span style=\"color: rgb(0, 0, 0)\">coco</span></strong><span style=\"color: rgb(0, 0, 0)\">, r</span>emueve y cocina a fuego medio 3-4 min, hasta que la <strong>salsa</strong> se reduzca.</li>\n<li>En el último momento, agrega la mitad del <strong>yogur </strong>y el <strong>azúcar</strong> y cocina 1 min más.</li>\n<li>Prueba y <strong>salpimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, añade la <strong>leche de <span style=\"color: rgb(0, 0, 0)\">coco</span></strong><span style=\"color: rgb(0, 0, 0)\">, r</span>emueve y cocina a fuego medio 3-4 min, hasta que la <strong>salsa</strong> se reduzca.</li>\n<li>En el último momento, agrega la mitad del <strong>yogur </strong>y el <strong>azúcar</strong> y cocina 1 min más.</li>\n<li>Prueba y <strong>salpimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1d9ed4d679418a2067/step-2018a940.jpg",
+          "path": "/68d68a1d9ed4d679418a2067/step-2018a940.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/68d68a1d9ed4d679418a2067-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nEn un bol, mezcla el yogur restante con la mitad del cilantro picado.\nSirve el arroz en un lado de los platos y agrega el tofu estilo tikka masala al otro lado.\nAgrega la salsa de yogur al cilantro sobre el plato y espolvorea con el cilantro restante.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol, mezcla el <strong>yogur</strong> restante con la mitad del <strong>cilantro</strong> picado.</li>\n<li>Sirve el <strong>arroz</strong> en un lado de los platos y agrega el <strong>tofu estilo tikka masala</strong> al otro lado.</li>\n<li>Agrega la <strong>salsa</strong> de <strong>yogur al cilantro</strong> sobre el plato y espolvorea con el <strong>cilantro</strong> restante.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol, mezcla el <strong>yogur</strong> restante con la mitad del <strong>cilantro</strong> picado.</li>\n<li>Sirve el <strong>arroz</strong> en un lado de los platos y agrega el <strong>tofu estilo tikka masala</strong> al otro lado.</li>\n<li>Agrega la <strong>salsa</strong> de <strong>yogur al cilantro</strong> sobre el plato y espolvorea con el <strong>cilantro</strong> restante.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1d9ed4d679418a2067/step-992a5950.jpg",
+          "path": "/68d68a1d9ed4d679418a2067/step-992a5950.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68d68a1d9ed4d679418a2067-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESVV0195-113379-13",
+  "updatedAt": "2025-12-18T14:37:09+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538e",
+      "type": "mixingbowl",
+      "name": "Bol para mezclar"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536a",
+      "type": "plasticwrap",
+      "name": "Papel film"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    }
+  ],
+  "uuid": "765891bb-12ad-4fe5-95f3-cf334a3711b5",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/tofu-al-estilo-tikka-masala-68d68a1d9ed4d679418a2067",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a233160a36674ba2b",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 105,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 180,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a233160a36674ba2b",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 210,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 360,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 540,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a233160a36674ba2b",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 315,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 540,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68d68a1d9ed4d679418a2067-Tofu al estilo tikka masala.jpg",
+  "localCard": "/pdf/68d68a1d9ed4d679418a2067-Tofu al estilo tikka masala.pdf"
+}

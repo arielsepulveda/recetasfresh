@@ -1,0 +1,857 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5de91d27f4c17e42c17aef94",
+      "name": "Mostaza",
+      "type": "traces-of-mustard",
+      "slug": "traces-of-mostaza",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.5,
+  "canonical": "66f419f07dc0e71408742800",
+  "canonicalLink": "https://www.hellofresh.es/recipes/smash-burger-con-queso-camembert-y-salsa-ahumada-acompanado-de-chips-de-patatas-caseras-66f419f07dc0e71408742800",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/67af6cc042c52efcf9453fc6-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "66f419f07dc0e71408742800",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-02-14T16:18:09+00:00",
+  "cuisines": [
+    {
+      "id": "67ebf900b2ffe612cd83e51a",
+      "type": "",
+      "name": "American",
+      "slug": ""
+    }
+  ],
+  "description": "Las hamburguesas son versátiles y, aunque popularizadas en Estados Unidos, no se limitan a una versión tradicional y aceptan todo tipo de ingredientes. En esta ocasión, preparamos unas smash burgers, finas y crujientes, y las cubrimos con camembert, un queso caracterizado por su textura cremosa y su particular sabor.",
+  "descriptionHTML": "<p>Las hamburguesas son versátiles y, aunque popularizadas en Estados Unidos, no se limitan a una versión tradicional y aceptan todo tipo de ingredientes. En esta ocasión, preparamos unas smash burgers, finas y crujientes, y las cubrimos con camembert, un queso caracterizado por su textura cremosa y su particular sabor.</p>",
+  "descriptionMarkdown": "Las hamburguesas son versátiles y, aunque popularizadas en Estados Unidos, no se limitan a una versión tradicional y aceptan todo tipo de ingredientes. En esta ocasión, preparamos unas smash burgers, finas y crujientes, y las cubrimos con camembert, un queso caracterizado por su textura cremosa y su particular sabor.",
+  "difficulty": 1,
+  "favoritesCount": 13,
+  "headline": "con salsa ahumada y patatas deluxe",
+  "id": "67af6cc042c52efcf9453fc6",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R21_W07_ES_ESSSFP33345-2_Main_F1_R_high-5c686c62.jpg",
+  "imagePath": "/image/HF_Y25_R21_W07_ES_ESSSFP33345-2_Main_F1_R_high-5c686c62.jpg",
+  "ingredients": [
+    {
+      "id": "63fc92b0bbe06d8c7489ce76",
+      "uuid": "b7647ff1-cacb-5782-9678-8d04b94aba26",
+      "name": "Carne de cerdo picada",
+      "type": "pork-mince",
+      "slug": "carne-de-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "imagePath": "/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63fc92b0bbe06d8c7489ce76-Carne de cerdo picada.png"
+    },
+    {
+      "id": "65a86bd8cbafa858007ba2ac",
+      "uuid": "7bdab64c-3673-4baa-8113-8634d06ab008",
+      "name": "Pan de brioche con semillas",
+      "type": "brioche-buns-with-sesame",
+      "slug": "pan-de-brioche-con-semillas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65a86bd8cbafa858007ba2ac-d6534259.png",
+      "imagePath": "/ingredient/65a86bd8cbafa858007ba2ac-d6534259.png",
+      "shipped": true,
+      "allergens": [
+        "5de91d27f4c17e42c17aef94",
+        "5b0532aaae08b52eb9420552",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f6",
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65a86bd8cbafa858007ba2ac-Pan de brioche con semillas.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340436f41033266d7be9513",
+      "uuid": "822e0f6e-0b50-54d0-9774-fee0a98b0271",
+      "name": "Pepino",
+      "type": "cucumber",
+      "slug": "pepino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9513-Pepino.png"
+    },
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "6399e2044fc733684f4c6900",
+      "uuid": "f1a7c3f3-6783-46af-87b2-df2fd87c6820",
+      "name": "Pimentón ahumado",
+      "type": "smoked-paprika",
+      "slug": "pimenton-ahumado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "imagePath": "/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6399e2044fc733684f4c6900-Pimentón ahumado.png"
+    },
+    {
+      "id": "6785197834a8fc0a8c9652d5",
+      "uuid": "55265138-0866-4902-9053-2b712d4c03f4",
+      "name": "Camembert francés",
+      "type": "camembert",
+      "slug": "camembert-frances",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6785197834a8fc0a8c9652d5-f2e5187e.png",
+      "imagePath": "/ingredient/6785197834a8fc0a8c9652d5-f2e5187e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6785197834a8fc0a8c9652d5-Camembert francés.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "65b9f37ed1da3988cdd8ea2e",
+      "uuid": "2172102e-c765-43f0-a8ee-369a17e6ad6f",
+      "name": "Vinagre",
+      "type": "vinegar-in-tbsp",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "imagePath": "/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65b9f37ed1da3988cdd8ea2e-Vinagre.png"
+    },
+    {
+      "id": "645bbdb422de2d12dae0e3ec",
+      "uuid": "a219293e-88f4-436d-a66e-6e9bc27c36d9",
+      "name": "Sal para encurtir",
+      "type": "salt-to-pickle",
+      "slug": "sal-para-encurtir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "imagePath": "/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/645bbdb422de2d12dae0e3ec-Sal para encurtir.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/67af6cc042c52efcf9453fc6",
+  "name": "Smash burger con queso camembert",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4135,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 988,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 66.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 19.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 77.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 38.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.97,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 15,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 621,
+  "slug": "smash-burger-con-queso-camembert",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las patatas en gajos de 1-2 cm de grosor y aderézalas en un bol con 1/3 del pimentón ahumado, el orégano, la harina (ver cantidad en ingredientes de ambos), un chorrito de aceite, sal y pimienta. Coloca las patatas en una bandeja de horno con papel de horno y hornea a media altura 20-25 min. Da la vuelta a mitad de cocción.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor y aderézalas en un bol con 1/3 del <strong>pimentón ahumado</strong>, el <strong>orégano,</strong> la <strong>harina</strong> (ver cantidad en ingredientes de ambos), un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Coloca las <strong>patatas</strong> en una bandeja de horno con papel de horno y hornea a media altura 20-25 min. Da la vuelta a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor y aderézalas en un bol con 1/3 del <strong>pimentón ahumado</strong>, el <strong>orégano,</strong> la <strong>harina</strong> (ver cantidad en ingredientes de ambos), un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Coloca las <strong>patatas</strong> en una bandeja de horno con papel de horno y hornea a media altura 20-25 min. Da la vuelta a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372",
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af6cc042c52efcf9453fc6/step-3ccc0700.jpg",
+          "path": "/67af6cc042c52efcf9453fc6/step-3ccc0700.jpg",
+          "caption": "Hornea las patatas",
+          "localImage": "/images/recipes/67af6cc042c52efcf9453fc6-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta el pepino por la mitad a lo largo. Corta medio pepino en medias lunas y colócalo en un bol. Añade el vinagre de vino tinto y la sal para encurtir (ver cantidad en ingredientes de ambos) y mezcla bien. Reserva hasta el emplatado.",
+      "instructionsHTML": "<p>Corta el <strong>pepino</strong> por la mitad a lo largo. Corta medio <strong>pepino</strong> en medias lunas y colócalo en un bol. Añade el <strong>vinagre de vino tinto</strong> y la <strong>sal para encurtir</strong> (ver cantidad en ingredientes de ambos) y mezcla bien. Reserva hasta el emplatado.</p>",
+      "instructionsMarkdown": "<p>Corta el <strong>pepino</strong> por la mitad a lo largo. Corta medio <strong>pepino</strong> en medias lunas y colócalo en un bol. Añade el <strong>vinagre de vino tinto</strong> y la <strong>sal para encurtir</strong> (ver cantidad en ingredientes de ambos) y mezcla bien. Reserva hasta el emplatado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af6cc042c52efcf9453fc6/step-16829810.jpg",
+          "path": "/67af6cc042c52efcf9453fc6/step-16829810.jpg",
+          "caption": "Encurte el pepino",
+          "localImage": "/images/recipes/67af6cc042c52efcf9453fc6-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Corta el pepino restante en cubitos pequeños. En un bol, agrega el pepino en daditos, la mayonesa, el pimentón ahumado restante y la mostaza. Salpimienta y mezcla bien. Corta el queso camembert en láminas finas.",
+      "instructionsHTML": "<p>Corta el <strong>pepino</strong> restante en cubitos pequeños. En un bol, agrega el <strong>pepino</strong> en daditos, la <strong>mayonesa,</strong> el <strong>pimentón ahumado</strong> restante y la <strong>mostaza. Salpimienta</strong> y mezcla bien. Corta el <strong>queso camembert</strong> en láminas finas.</p>",
+      "instructionsMarkdown": "<p>Corta el <strong>pepino</strong> restante en cubitos pequeños. En un bol, agrega el <strong>pepino</strong> en daditos, la <strong>mayonesa,</strong> el <strong>pimentón ahumado</strong> restante y la <strong>mostaza. Salpimienta</strong> y mezcla bien. Corta el <strong>queso camembert</strong> en láminas finas.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af6cc042c52efcf9453fc6/step-b276d020.jpg",
+          "path": "/67af6cc042c52efcf9453fc6/step-b276d020.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/67af6cc042c52efcf9453fc6-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En un bol grande, agrega la carne picada de cerdo, sal y pimienta y mezcla bien. Con las manos, forma 2 bolas de carne por persona. En una sartén grande, calienta un chorrito de aceite a fuego medio-alto. Agrega las bolas de carne y cocina 20 segundos. Luego, aplástalas con una espátula, deben quedar muy finas. Cocina 1 min y gíralas.\n\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.\n\n",
+      "instructionsHTML": "<p>En un bol grande, agrega la <strong>carne picada de cerdo,</strong> <strong>sal </strong>y <strong>pimienta</strong> y mezcla bien. Con las manos, forma 2 bolas de <strong>carne</strong> por persona. En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega las bolas de <strong>carne</strong> y cocina 20 segundos. Luego, aplástalas con una espátula, deben quedar muy finas. Cocina 1 min y gíralas.</p>\n<div dir=\"ltr\">\n<div>\n<div id=\"waffle-rich-text-editor\" dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</div>\n</div>\n</div>",
+      "instructionsMarkdown": "<p>En un bol grande, agrega la <strong>carne picada de cerdo,</strong> <strong>sal </strong>y <strong>pimienta</strong> y mezcla bien. Con las manos, forma 2 bolas de <strong>carne</strong> por persona. En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega las bolas de <strong>carne</strong> y cocina 20 segundos. Luego, aplástalas con una espátula, deben quedar muy finas. Cocina 1 min y gíralas.</p>\n<div dir=\"ltr\">\n<div>\n<div id=\"waffle-rich-text-editor\" dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</div>\n</div>\n</div>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396",
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af6cc042c52efcf9453fc6/step-e4b32630.jpg",
+          "path": "/67af6cc042c52efcf9453fc6/step-e4b32630.jpg",
+          "caption": "Prepara las hamburguesas",
+          "localImage": "/images/recipes/67af6cc042c52efcf9453fc6-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Sobre cada hamburguesa, añade el queso camembert. Tapa la sartén y deja que el queso se funda durante 1-2 min. Cuando estén listas, coloca una hamburguesa encima de la otra y retira de la sartén. Abre el pan de brioche y colócalo hacia arriba en una bandeja de horno con papel de horno. Tuesta los panes 3-4 min, hasta que queden dorados.",
+      "instructionsHTML": "<p>Sobre cada <strong>hamburguesa,</strong> añade el <strong>queso camembert</strong>. Tapa la sartén y deja que el <strong>queso</strong> se funda durante 1-2 min. Cuando estén listas, coloca una <strong>hamburguesa</strong> encima de la otra y retira de la sartén. Abre el <strong>pan de brioche</strong> y colócalo hacia arriba en una bandeja de horno con papel de horno. Tuesta los <strong>panes</strong> 3-4 min, hasta que queden dorados.</p>",
+      "instructionsMarkdown": "<p>Sobre cada <strong>hamburguesa,</strong> añade el <strong>queso camembert</strong>. Tapa la sartén y deja que el <strong>queso</strong> se funda durante 1-2 min. Cuando estén listas, coloca una <strong>hamburguesa</strong> encima de la otra y retira de la sartén. Abre el <strong>pan de brioche</strong> y colócalo hacia arriba en una bandeja de horno con papel de horno. Tuesta los <strong>panes</strong> 3-4 min, hasta que queden dorados.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af6cc042c52efcf9453fc6/step-63aa4b40.jpg",
+          "path": "/67af6cc042c52efcf9453fc6/step-63aa4b40.jpg",
+          "caption": "Añade el queso",
+          "localImage": "/images/recipes/67af6cc042c52efcf9453fc6-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sobre la base de los panes de brioche, unta la salsa casera y coloca encima las hamburguesas con queso camembert. Acaba agregando pepino encurtido, previamente escurrido. Sirve las patatas como acompañamiento.",
+      "instructionsHTML": "<p>Sobre la base de los <strong>panes de brioche</strong>, unta la <strong>salsa</strong> casera y coloca encima las <strong>hamburguesas</strong> con <strong>queso camembert</strong>. Acaba agregando <strong>pepino</strong> encurtido, previamente escurrido. Sirve las <strong>patatas</strong> como acompañamiento.</p>",
+      "instructionsMarkdown": "<p>Sobre la base de los <strong>panes de brioche</strong>, unta la <strong>salsa</strong> casera y coloca encima las <strong>hamburguesas</strong> con <strong>queso camembert</strong>. Acaba agregando <strong>pepino</strong> encurtido, previamente escurrido. Sirve las <strong>patatas</strong> como acompañamiento.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af6cc042c52efcf9453fc6/step-d6833150.jpg",
+          "path": "/67af6cc042c52efcf9453fc6/step-d6833150.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/67af6cc042c52efcf9453fc6-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESSSFP33345-5",
+  "updatedAt": "2026-01-21T14:00:38+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    }
+  ],
+  "uuid": "cb834849-7b10-44a3-be25-286fc8111cc9",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/smash-burger-con-queso-camembert-67af6cc042c52efcf9453fc6",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "65a86bd8cbafa858007ba2ac",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6785197834a8fc0a8c9652d5",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "65a86bd8cbafa858007ba2ac",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6785197834a8fc0a8c9652d5",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/67af6cc042c52efcf9453fc6-Smash burger con queso camembert.jpg",
+  "localCard": "/pdf/67af6cc042c52efcf9453fc6-Smash burger con queso camembert.pdf"
+}

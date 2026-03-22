@@ -1,0 +1,748 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf97a2ae08b54dad34eb82",
+      "name": "Sulfitos",
+      "type": "traces-of-sulphites",
+      "slug": "traces-of-sulfitos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66b335ed1047ce9880458322-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6685000af5bcc18fabe94ede",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-10T14:20:03+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Las patatas a la riojana son un plato tradicional de La Rioja, cuyo origen se remonta a la cocina humilde y rural de los campesinos, que aprovechaban ingredientes locales y asequibles para preparar un plato nutritivo e ideal para los días fríos. Desde HelloFresh, queremos ofrecerte los productos más frescos para que intentes replicarlo de la mejor manera.",
+  "descriptionHTML": "<p>Las patatas a la riojana son un plato tradicional de La Rioja, cuyo origen se remonta a la cocina humilde y rural de los campesinos, que aprovechaban ingredientes locales y asequibles para preparar un plato nutritivo e ideal para los días fríos. Desde HelloFresh, queremos ofrecerte los productos más frescos para que intentes replicarlo de la mejor manera.</p>",
+  "descriptionMarkdown": "Las patatas a la riojana son un plato tradicional de La Rioja, cuyo origen se remonta a la cocina humilde y rural de los campesinos, que aprovechaban ingredientes locales y asequibles para preparar un plato nutritivo e ideal para los días fríos. Desde HelloFresh, queremos ofrecerte los productos más frescos para que intentes replicarlo de la mejor manera.",
+  "difficulty": 1,
+  "favoritesCount": 30,
+  "headline": "con espinacas",
+  "id": "66b335ed1047ce9880458322",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R05_W43_ES_ESFCP29285-2_edit_color_Main_high-ac004afa.jpg",
+  "imagePath": "/image/HF_Y24_R05_W43_ES_ESFCP29285-2_edit_color_Main_high-ac004afa.jpg",
+  "ingredients": [
+    {
+      "id": "6399e2044fc733684f4c6900",
+      "uuid": "f1a7c3f3-6783-46af-87b2-df2fd87c6820",
+      "name": "Pimentón ahumado",
+      "type": "smoked-paprika",
+      "slug": "pimenton-ahumado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "imagePath": "/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6399e2044fc733684f4c6900-Pimentón ahumado.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6449bb2cc14bb2bf7af4787f",
+      "uuid": "9bcd0897-d822-4f07-8474-e4c19bff7776",
+      "name": "Chorizo troceado",
+      "type": "chorizo-diced",
+      "slug": "chorizo-troceado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6449bb2cc14bb2bf7af4787f-843da8c3.png",
+      "imagePath": "/ingredient/6449bb2cc14bb2bf7af4787f-843da8c3.png",
+      "shipped": true,
+      "allergens": [
+        "5acf97a2ae08b54dad34eb82",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6449bb2cc14bb2bf7af4787f-Chorizo troceado.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340437b233160a36674ba30",
+      "uuid": "e20d37da-83ce-490d-aeae-12ac9d3aa296",
+      "name": "Pimiento verde italiano",
+      "type": "pointed-bell-pepper-green",
+      "slug": "pimiento-verde-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "imagePath": "/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b233160a36674ba30-Pimiento verde italiano.png"
+    },
+    {
+      "id": "6340437a41033266d7be9534",
+      "uuid": "c7440604-41b7-5ef5-b2b3-8f83c31bccf9",
+      "name": "Tomate concentrado",
+      "type": "tomato-puree",
+      "slug": "tomate-concentrado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "imagePath": "/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9534-Tomate concentrado.jpg"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Regional",
+    "handle": "regional",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#2c776a",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/66b335ed1047ce9880458322",
+  "name": "Patatas a la riojana con chorizo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2186,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 522,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 30.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 8.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 49.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 8.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 18.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.42,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 40,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 449,
+  "slug": "patatas-riojanas-chorizo-espinacas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la cebolla, divídela en dos y córtala en daditos pequeños. Corta el pimiento por la mitad y quítale las semillas. Luego, córtalo en cubitos pequeños. ",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la <strong>cebolla,</strong> divídela en dos y córtala en daditos pequeños. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en cubitos pequeños. </p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la <strong>cebolla,</strong> divídela en dos y córtala en daditos pequeños. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en cubitos pequeños. </p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335ed1047ce9880458322/step-3514c000.jpg",
+          "path": "/66b335ed1047ce9880458322/step-3514c000.jpg",
+          "caption": "Corta las verduras",
+          "localImage": "/images/recipes/66b335ed1047ce9880458322-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela las patatas, luego, clava parcialmente el filo del cuchillo y rompe la patata en trozos medianos e irregulares. Pela y pica el ajo (ver cantidad en ingredientes). En una olla, añade un chorrito de aceite junto con el ajo y calienta a fuego medio. Cocina durante 1-2 min o hasta que empiece a dorarse.\nSABÍAS QUE: Al chascar las patatas, el almidón que contienen se libera y hace que los guisos y salsas espesen.",
+      "instructionsHTML": "<p>Pela las <strong>patatas,</strong> luego, clava parcialmente el filo del cuchillo y rompe la patata en trozos medianos e irregulares. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En una olla, añade un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y calienta a fuego medio. Cocina durante 1-2 min o hasta que empiece a dorarse.</p>\n<p>SABÍAS QUE: Al chascar las patatas, el almidón que contienen se libera y hace que los guisos y salsas espesen.</p>",
+      "instructionsMarkdown": "<p>Pela las <strong>patatas,</strong> luego, clava parcialmente el filo del cuchillo y rompe la patata en trozos medianos e irregulares. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En una olla, añade un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y calienta a fuego medio. Cocina durante 1-2 min o hasta que empiece a dorarse.</p>\n<p>SABÍAS QUE: Al chascar las patatas, el almidón que contienen se libera y hace que los guisos y salsas espesen.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335ed1047ce9880458322/step-4e6f0910.jpg",
+          "path": "/66b335ed1047ce9880458322/step-4e6f0910.jpg",
+          "caption": "Chasca las patatas",
+          "localImage": "/images/recipes/66b335ed1047ce9880458322-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la olla, añade la cebolla y el pimiento verde, salpimienta y rehoga durante 6-8 min o hasta que las verduras empiecen a ablandarse. Remueve ocasionalmente.",
+      "instructionsHTML": "<p>En la olla, añade la <strong>cebolla</strong> y el <strong>pimiento verde, salpimienta</strong> y rehoga durante 6-8 min o hasta que las <strong>verduras</strong> empiecen a ablandarse. Remueve ocasionalmente.</p>",
+      "instructionsMarkdown": "<p>En la olla, añade la <strong>cebolla</strong> y el <strong>pimiento verde, salpimienta</strong> y rehoga durante 6-8 min o hasta que las <strong>verduras</strong> empiecen a ablandarse. Remueve ocasionalmente.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335ed1047ce9880458322/step-b2cbe420.jpg",
+          "path": "/66b335ed1047ce9880458322/step-b2cbe420.jpg",
+          "caption": "Rehoga las verduras",
+          "localImage": "/images/recipes/66b335ed1047ce9880458322-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Agrega en la olla el chorizo y la mitad del tomate concentrado (doble para 4p) y mezcla para integrar. Luego, cocina 3 min, removiendo, hasta que el chorizo se dore. Agrega el pimentón ahumado y remueve por unos segundos.",
+      "instructionsHTML": "<p>Agrega en la olla el <strong>chorizo</strong> y la mitad del <strong>tomate concentrado</strong> (doble para 4p) y mezcla para integrar. Luego, cocina 3 min, removiendo, hasta que el <strong>chorizo</strong> se dore. Agrega el <strong>pimentón ahumado</strong> y remueve por unos segundos.</p>",
+      "instructionsMarkdown": "<p>Agrega en la olla el <strong>chorizo</strong> y la mitad del <strong>tomate concentrado</strong> (doble para 4p) y mezcla para integrar. Luego, cocina 3 min, removiendo, hasta que el <strong>chorizo</strong> se dore. Agrega el <strong>pimentón ahumado</strong> y remueve por unos segundos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335ed1047ce9880458322/step-2748b230.jpg",
+          "path": "/66b335ed1047ce9880458322/step-2748b230.jpg",
+          "caption": "Agrega el chorizo",
+          "localImage": "/images/recipes/66b335ed1047ce9880458322-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Incorpora las patatas y el agua (ver cantidad en ingredientes), salpimienta y lleva a ebullición. Luego, cocina a fuego medio-bajo 15-20 min o hasta que las patatas estén tiernas. Cuando queden 2 min para que el guiso esté listo, agrega las espinacas y cocina los 2 min restantes, hasta que reduzcan su tamaño.",
+      "instructionsHTML": "<p>Incorpora las <strong>patatas</strong> y el <strong>agua</strong> (ver cantidad en ingredientes), <strong>salpimienta</strong> y lleva a ebullición. Luego, cocina a fuego medio-bajo 15-20 min o hasta que las <strong>patatas</strong> estén tiernas. Cuando queden 2 min para que el <strong>guiso</strong> esté listo, agrega las <strong>espinacas</strong> y cocina los 2 min restantes, hasta que reduzcan su tamaño.</p>",
+      "instructionsMarkdown": "<p>Incorpora las <strong>patatas</strong> y el <strong>agua</strong> (ver cantidad en ingredientes), <strong>salpimienta</strong> y lleva a ebullición. Luego, cocina a fuego medio-bajo 15-20 min o hasta que las <strong>patatas</strong> estén tiernas. Cuando queden 2 min para que el <strong>guiso</strong> esté listo, agrega las <strong>espinacas</strong> y cocina los 2 min restantes, hasta que reduzcan su tamaño.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335ed1047ce9880458322/step-3dc04840.jpg",
+          "path": "/66b335ed1047ce9880458322/step-3dc04840.jpg",
+          "caption": " Prepara el guiso",
+          "localImage": "/images/recipes/66b335ed1047ce9880458322-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Prueba el guiso y rectifica de sal y pimienta. Luego, sirve las patatas a la riojana en platos hondos.",
+      "instructionsHTML": "<p>Prueba el <strong>guiso</strong> y rectifica de <strong>sal</strong> y <strong>pimienta</strong>. Luego, sirve las <strong>patatas</strong> <strong>a la riojana</strong> en platos hondos.</p>",
+      "instructionsMarkdown": "<p>Prueba el <strong>guiso</strong> y rectifica de <strong>sal</strong> y <strong>pimienta</strong>. Luego, sirve las <strong>patatas</strong> <strong>a la riojana</strong> en platos hondos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335ed1047ce9880458322/step-6f743e50.jpg",
+          "path": "/66b335ed1047ce9880458322/step-6f743e50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/66b335ed1047ce9880458322-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305316",
+      "type": "low-carb",
+      "name": "<50g carbohidratos",
+      "slug": "50g-carbohidratos",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESFCP29285-2",
+  "updatedAt": "2026-01-21T14:00:20+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    }
+  ],
+  "uuid": "4db4f7fc-872d-4bc1-9153-17c499e6be72",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/patatas-riojanas-chorizo-espinacas-66b335ed1047ce9880458322",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6449bb2cc14bb2bf7af4787f",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 500,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6449bb2cc14bb2bf7af4787f",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1000,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66b335ed1047ce9880458322-Patatas a la riojana con chorizo.jpg",
+  "localCard": "/pdf/66b335ed1047ce9880458322-Patatas a la riojana con chorizo.pdf"
+}

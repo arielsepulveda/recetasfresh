@@ -1,0 +1,793 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.5,
+  "canonical": "638a20966f291b76a7d59165",
+  "canonicalLink": "https://www.hellofresh.es/recipes/chapata-rellena-de-espinacas-y-champinones-638a20966f291b76a7d59165",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64c0fa6ad4684302b8759287.pdf",
+  "category": null,
+  "clonedFrom": "6347ef924eacd7e8b5e77c06",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-07-26T10:50:18+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "Prepara esta chapata rellena de espinacas y champiñones para una cena sabrosa y vegetariana, que podrás disfrutar aunque no dispongas de tanto tiempo para cocinar por su rápida preparación. Acompáñala con una fresca ensalada de rúcula con nueces, que aportarán un toque crujiente e interesante.",
+  "descriptionHTML": "<p>Prepara esta chapata rellena de espinacas y champiñones para una cena sabrosa y vegetariana, que podrás disfrutar aunque no dispongas de tanto tiempo para cocinar por su rápida preparación. Acompáñala con una fresca ensalada de rúcula con nueces, que aportarán un toque crujiente e interesante.</p>",
+  "descriptionMarkdown": "Prepara esta chapata rellena de espinacas y champiñones para una cena sabrosa y vegetariana, que podrás disfrutar aunque no dispongas de tanto tiempo para cocinar por su rápida preparación. Acompáñala con una fresca ensalada de rúcula con nueces, que aportarán un toque crujiente e interesante.",
+  "difficulty": 1,
+  "favoritesCount": 19,
+  "headline": "acompañada de ensalada con nueces",
+  "id": "64c0fa6ad4684302b8759287",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R09_W44_ES_ESQV0114-3_MAIN_high-3b926200.jpg",
+  "imagePath": "/image/HF_Y23_R09_W44_ES_ESQV0114-3_MAIN_high-3b926200.jpg",
+  "ingredients": [
+    {
+      "id": "6352a87574b20ffb740efe5e",
+      "uuid": "529b21e5-df06-5f4b-be4f-d3d03cfd43ae",
+      "name": "Pan de chapata",
+      "type": "ciabatta",
+      "slug": "pan-de-chapata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352a87574b20ffb740efe5e-5a30d77e.png",
+      "imagePath": "/ingredient/6352a87574b20ffb740efe5e-5a30d77e.png",
+      "shipped": true,
+      "allergens": [
+        "5b0532aaae08b52eb9420552",
+        "5acf972fae08b54d333ac322",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b305303",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352a87574b20ffb740efe5e-Pan de chapata.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f7",
+      "uuid": "0c719142-be77-4ddd-94a0-b6219698b827",
+      "name": "Champiñones",
+      "type": "champignon-mushrooms",
+      "slug": "champinones",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f7-Champiñones.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "63493a08ebf08332f1bff15d",
+      "uuid": "bd338898-c991-4bcf-ac07-74fe7e736c4f",
+      "name": "Queso rallado",
+      "type": "grated-cheese-mix",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "imagePath": "/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63493a08ebf08332f1bff15d-Queso rallado.png"
+    },
+    {
+      "id": "6364e2c11c8a9adf8ea7f79d",
+      "uuid": "4b76e78b-72cc-5898-b33d-3ada326fa8ba",
+      "name": "Nueces peladas",
+      "type": "walnuts",
+      "slug": "nueces-peladas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "imagePath": "/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364e2c11c8a9adf8ea7f79d-Nueces peladas.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/64c0fa6ad4684302b8759287",
+  "name": "Chapata con espinacas y setas a la crema",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2086,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 499,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 15.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 50.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 5.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 20.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.55,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 36,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 356,
+  "slug": "chapata-con-espinacas-y-setas-a-la-crema",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela y pica el ajo (ver cantidad en ingredientes). Limpia los champiñones con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los champiñones. Luego, córtalos por la mitad y haz láminas finas. ",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Limpia los <strong>champiñones</strong> con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los <strong>champiñones</strong>. Luego, córtalos por la mitad y haz láminas finas. </p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Limpia los <strong>champiñones</strong> con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los <strong>champiñones</strong>. Luego, córtalos por la mitad y haz láminas finas. </p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa6ad4684302b8759287/step-39765200.jpg",
+          "path": "/64c0fa6ad4684302b8759287/step-39765200.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/64c0fa6ad4684302b8759287-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén, calienta un chorrito de aceite a fuego medio-alto. Agrega el ajo y los champiñones, salpimienta y saltea durante 3-4 min, removiendo ocasionalmente, hasta que se doren. ",
+      "instructionsHTML": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>ajo</strong> y los <strong>champiñones</strong>, <strong>salpimienta</strong> y saltea durante 3-4 min, removiendo ocasionalmente, hasta que se doren. </p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>ajo</strong> y los <strong>champiñones</strong>, <strong>salpimienta</strong> y saltea durante 3-4 min, removiendo ocasionalmente, hasta que se doren. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa6ad4684302b8759287/step-03234910.jpg",
+          "path": "/64c0fa6ad4684302b8759287/step-03234910.jpg",
+          "caption": "Saltea los champiñones",
+          "localImage": "/images/recipes/64c0fa6ad4684302b8759287-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la sartén con los champiñones, agrega las espinacas y cocina 2-3 min, hasta que se reduzan en tamaño. Añade el queso crema y cocina 2 min, removiendo para que los ingredientes se integren. Salpimienta.",
+      "instructionsHTML": "<p>En la sartén con los <strong>champiñones</strong>, agrega las <strong>espinacas</strong> y cocina 2-3 min, hasta que se reduzan en tamaño. Añade el <strong>queso crema</strong> y cocina 2 min, removiendo para que los ingredientes se integren. <strong>Salpimienta</strong>.</p>",
+      "instructionsMarkdown": "<p>En la sartén con los <strong>champiñones</strong>, agrega las <strong>espinacas</strong> y cocina 2-3 min, hasta que se reduzan en tamaño. Añade el <strong>queso crema</strong> y cocina 2 min, removiendo para que los ingredientes se integren. <strong>Salpimienta</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa6ad4684302b8759287/step-1d9e7020.jpg",
+          "path": "/64c0fa6ad4684302b8759287/step-1d9e7020.jpg",
+          "caption": "Agrega las espinacas",
+          "localImage": "/images/recipes/64c0fa6ad4684302b8759287-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Abre los panes de chapata. Extiende la mezcla de champiñones y espinacas sobre la base de los panes. Reparte la mitad del queso rallado (doble para 4p) sobre las verduras y tapa con la parte superior del pan de chapata. Coloca las chapatas rellenas en una bandeja de horno con papel de horno. Hornea durante 5-6 min en el estante superior del horno, hasta que el queso se derrita y el pan se tueste.",
+      "instructionsHTML": "<p>Abre los <strong>panes de chapata</strong>. Extiende la mezcla de <strong>champiñones</strong> y <strong>espinacas</strong> sobre la base de los <strong>panes</strong>. Reparte la mitad del <strong>queso rallado</strong> (doble para 4p) sobre las <strong>verduras</strong> y tapa con la parte superior del <strong>pan de chapata</strong>. Coloca las <strong>chapatas</strong> <strong>rellenas</strong> en una bandeja de horno con papel de horno. Hornea durante 5-6 min en el estante superior del horno, hasta que el <strong>queso</strong> se derrita y el <strong>pan</strong> se tueste.</p>",
+      "instructionsMarkdown": "<p>Abre los <strong>panes de chapata</strong>. Extiende la mezcla de <strong>champiñones</strong> y <strong>espinacas</strong> sobre la base de los <strong>panes</strong>. Reparte la mitad del <strong>queso rallado</strong> (doble para 4p) sobre las <strong>verduras</strong> y tapa con la parte superior del <strong>pan de chapata</strong>. Coloca las <strong>chapatas</strong> <strong>rellenas</strong> en una bandeja de horno con papel de horno. Hornea durante 5-6 min en el estante superior del horno, hasta que el <strong>queso</strong> se derrita y el <strong>pan</strong> se tueste.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa6ad4684302b8759287/step-bcf0bb30.jpg",
+          "path": "/64c0fa6ad4684302b8759287/step-bcf0bb30.jpg",
+          "caption": "Tuesta las chapatas rellenas",
+          "localImage": "/images/recipes/64c0fa6ad4684302b8759287-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Con la base de un cazo, aplasta las nueces en su propia bolsa para picarlas. En una ensaladera, agrega el vinagre balsámico y un chorrito de aceite. Salpimienta y mezcla. Antes de servir, agrega la mitad la rúcula y las nueces troceadas. Mezcla para que la ensalada quede bien aderezada.",
+      "instructionsHTML": "<p>Con la base de un cazo, aplasta las <strong>nueces</strong> en su propia bolsa para picarlas. En una ensaladera, agrega el <strong>vinagre balsámico</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y mezcla. Antes de servir, agrega la mitad la <strong>rúcula</strong> y las <strong>nueces </strong>troceadas. Mezcla para que la <strong>ensalada</strong> quede bien aderezada.</p>",
+      "instructionsMarkdown": "<p>Con la base de un cazo, aplasta las <strong>nueces</strong> en su propia bolsa para picarlas. En una ensaladera, agrega el <strong>vinagre balsámico</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y mezcla. Antes de servir, agrega la mitad la <strong>rúcula</strong> y las <strong>nueces </strong>troceadas. Mezcla para que la <strong>ensalada</strong> quede bien aderezada.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa6ad4684302b8759287/step-e8608c40.jpg",
+          "path": "/64c0fa6ad4684302b8759287/step-e8608c40.jpg",
+          "caption": "Prepara y adereza la ensalada",
+          "localImage": "/images/recipes/64c0fa6ad4684302b8759287-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Cuando las chapatas de espinacas y setas estén listas, sírvelas en platos. Sirve la ensalada de rúcula con nueces a un lado como acompañamiento.",
+      "instructionsHTML": "<p>Cuando las <strong>chapatas</strong> de <strong>espinacas</strong> y <strong>setas</strong> estén listas, sírvelas en platos. Sirve la <strong>ensalada </strong>de<strong> rúcula</strong> con <strong>nueces</strong> a un lado como acompañamiento.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>chapatas</strong> de <strong>espinacas</strong> y <strong>setas</strong> estén listas, sírvelas en platos. Sirve la <strong>ensalada </strong>de<strong> rúcula</strong> con <strong>nueces</strong> a un lado como acompañamiento.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa6ad4684302b8759287/step-7a4d1850.jpg",
+          "path": "/64c0fa6ad4684302b8759287/step-7a4d1850.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/64c0fa6ad4684302b8759287-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESQV0114-3",
+  "updatedAt": "2025-06-12T10:44:08+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "c93f9209-b4a5-432c-bf65-ca0a3a7eacfd",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/chapata-con-espinacas-y-setas-a-la-crema-64c0fa6ad4684302b8759287",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6352a87574b20ffb740efe5e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6352a87574b20ffb740efe5e",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 4,
+          "unit": "paquete"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64c0fa6ad4684302b8759287-Chapata con espinacas y setas a la crema.jpg",
+  "localCard": "/pdf/64c0fa6ad4684302b8759287-Chapata con espinacas y setas a la crema.pdf"
+}

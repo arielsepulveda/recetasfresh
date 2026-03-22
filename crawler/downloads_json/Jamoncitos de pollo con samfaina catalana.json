@@ -1,0 +1,686 @@
+{
+  "active": true,
+  "allergens": [],
+  "averageRating": 2.2,
+  "canonical": "65b139823ebf28940b2fe5f6",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-samfaina-verduras-arroz-65b139823ebf28940b2fe5f6",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66e1441da3dfaa8a349ab688-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "64ca6e5f317ec2bf51924ee0",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-24T13:57:33+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "La samfaina es un guiso de verduras originario de la cocina catalana que encarna la esencia de esta región mediterránea con ingredientes como berenjena, calabacín, tomate, cebolla y ajo. Servirá en este caso como acompañamiento para un sabroso jamoncito de pollo que hornearemos para conseguir una textura perfecta.",
+  "descriptionHTML": "<p>La samfaina es un guiso de verduras originario de la cocina catalana que encarna la esencia de esta región mediterránea con ingredientes como berenjena, calabacín, tomate, cebolla y ajo. Servirá en este caso como acompañamiento para un sabroso jamoncito de pollo que hornearemos para conseguir una textura perfecta.</p>",
+  "descriptionMarkdown": "La samfaina es un guiso de verduras originario de la cocina catalana que encarna la esencia de esta región mediterránea con ingredientes como berenjena, calabacín, tomate, cebolla y ajo. Servirá en este caso como acompañamiento para un sabroso jamoncito de pollo que hornearemos para conseguir una textura perfecta.",
+  "difficulty": 1,
+  "favoritesCount": 11,
+  "headline": "de verduras acompañado de arroz",
+  "id": "66e1441da3dfaa8a349ab688",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R20_W47_ES_ESCFC18086-5_Main__7high-ccb862d6.jpg",
+  "imagePath": "/image/HF_Y24_R20_W47_ES_ESCFC18086-5_Main__7high-ccb862d6.jpg",
+  "ingredients": [
+    {
+      "id": "66e847bc07f7f5443341aec6",
+      "uuid": "378d6c8c-e6c8-5052-ad80-48d797974153",
+      "name": "Jamoncitos de pollo",
+      "type": "chicken-drumstick",
+      "slug": "jamoncitos-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/66e847bc07f7f5443341aec6-a4c48e0a.png",
+      "imagePath": "/ingredient/66e847bc07f7f5443341aec6-a4c48e0a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/66e847bc07f7f5443341aec6-Jamoncitos de pollo.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3c9f",
+      "uuid": "1fa6c253-440c-5c98-9e4b-65a57a89f8b1",
+      "name": "Berenjena",
+      "type": "aubergine",
+      "slug": "berenjena",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3c9f-Berenjena.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436f41033266d7be9512",
+      "uuid": "ecae5103-44da-5d53-a901-8a34d154b23d",
+      "name": "Tomate triturado",
+      "type": "crushed-tomatoes",
+      "slug": "tomate-triturado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9512-Tomate triturado.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Regional",
+    "handle": "regional",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#2c776a",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/66e1441da3dfaa8a349ab688",
+  "name": "Jamoncitos de pollo con samfaina catalana",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2706,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 647,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 23.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 85.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 16.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 37.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.98,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 23,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 728,
+  "slug": "pollo-con-samfaina-catalana-de-verduras",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En una fuente para horno, agrega los jamoncitos de pollo y cubre con un chorrito de aceite, sal y pimienta. Hornea 25-30 min, hasta que estén dorados y cocinados por dentro.\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En una fuente para horno, agrega los <strong>jamoncitos de pollo</strong> y cubre con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> Hornea 25-30 min, hasta que estén dorados y cocinados por dentro.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En una fuente para horno, agrega los <strong>jamoncitos de pollo</strong> y cubre con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> Hornea 25-30 min, hasta que estén dorados y cocinados por dentro.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441da3dfaa8a349ab688/step-013d3000.jpg",
+          "path": "/66e1441da3dfaa8a349ab688/step-013d3000.jpg",
+          "caption": "Hornea el pollo",
+          "localImage": "/images/recipes/66e1441da3dfaa8a349ab688-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela la cebolla, divídela en dos y córtala en daditos pequeños. Retira los extremos del calabacín y córtalo por la mitad a lo largo. Luego, corta cada mitad en dados de 1-2 cm. Retira el tallo de la berenjena y córtala en dados de 1-2 cm. Pela y pica el ajo (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p>Pela la <strong>cebolla</strong>, divídela en dos y córtala en daditos pequeños. Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Luego, corta cada mitad en dados de 1-2 cm. Retira el tallo de la <strong>berenjena</strong> y córtala en dados de 1-2 cm. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p>Pela la <strong>cebolla</strong>, divídela en dos y córtala en daditos pequeños. Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Luego, corta cada mitad en dados de 1-2 cm. Retira el tallo de la <strong>berenjena</strong> y córtala en dados de 1-2 cm. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441da3dfaa8a349ab688/step-0829dd10.jpg",
+          "path": "/66e1441da3dfaa8a349ab688/step-0829dd10.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/66e1441da3dfaa8a349ab688-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una olla, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la cebolla, la berenjena y el calabacín, salpimienta y cocina a fuego medio 6-7 min, removiendo regularmente, hasta que las verduras se ablanden.",
+      "instructionsHTML": "<p>En una olla, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la <strong>cebolla</strong>, la <strong>berenjena</strong> y el <strong>calabacín</strong>, <strong>salpimienta</strong> y cocina a fuego medio 6-7 min, removiendo regularmente, hasta que las <strong>verduras</strong> se ablanden.</p>",
+      "instructionsMarkdown": "<p>En una olla, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la <strong>cebolla</strong>, la <strong>berenjena</strong> y el <strong>calabacín</strong>, <strong>salpimienta</strong> y cocina a fuego medio 6-7 min, removiendo regularmente, hasta que las <strong>verduras</strong> se ablanden.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441da3dfaa8a349ab688/step-7322d720.jpg",
+          "path": "/66e1441da3dfaa8a349ab688/step-7322d720.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/66e1441da3dfaa8a349ab688-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Mientras se cocinan las verduras, llena un cazo con el agua (ver cantidad en ingredientes), añade el arroz y sal al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el arroz para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>Mientras se cocinan las <strong>verduras</strong>, llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>Mientras se cocinan las <strong>verduras</strong>, llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441da3dfaa8a349ab688/step-efa1df30.jpg",
+          "path": "/66e1441da3dfaa8a349ab688/step-efa1df30.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/66e1441da3dfaa8a349ab688-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando las verduras estén blandas, agrega en la olla el tomate triturado y el tomillo seco. Remueve y cocina a fuego medio 8-9 min. Luego, agrega los jamoncitos horneados y cocina 1 min más, integrando el pollo con el sofrito de tomate y verduras. Prueba y rectifica de sal y pimienta.",
+      "instructionsHTML": "<p>Cuando las <strong>verduras</strong> estén blandas, agrega en la olla el <strong>tomate triturado</strong> y el <strong>tomillo seco</strong>. Remueve y cocina a fuego medio 8-9 min. Luego, agrega los<strong> jamoncitos</strong> horneados y cocina 1 min más, integrando el <strong>pollo</strong> con el <strong>sofrito de tomate y verduras</strong>. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>verduras</strong> estén blandas, agrega en la olla el <strong>tomate triturado</strong> y el <strong>tomillo seco</strong>. Remueve y cocina a fuego medio 8-9 min. Luego, agrega los<strong> jamoncitos</strong> horneados y cocina 1 min más, integrando el <strong>pollo</strong> con el <strong>sofrito de tomate y verduras</strong>. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441da3dfaa8a349ab688/step-c39fec40.jpg",
+          "path": "/66e1441da3dfaa8a349ab688/step-c39fec40.jpg",
+          "caption": "Prepara la samfaina",
+          "localImage": "/images/recipes/66e1441da3dfaa8a349ab688-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el arroz en un lado de los platos y coloca la samfaina de verduras al otro lado. Por último, sirve los jamoncitos de pollo sobre la samfaina.",
+      "instructionsHTML": "<p>Sirve el <strong>arroz</strong> en un lado de los platos y coloca la <strong>samfaina de verduras</strong> al otro lado. Por último, sirve los<strong> jamoncitos de pollo</strong> sobre la <strong>samfaina</strong>.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>arroz</strong> en un lado de los platos y coloca la <strong>samfaina de verduras</strong> al otro lado. Por último, sirve los<strong> jamoncitos de pollo</strong> sobre la <strong>samfaina</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441da3dfaa8a349ab688/step-c9803b50.jpg",
+          "path": "/66e1441da3dfaa8a349ab688/step-c9803b50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/66e1441da3dfaa8a349ab688-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "61bcc274f0aa2a6e79272a5a",
+      "type": "extra-vegetables",
+      "name": ">250g de vegetales",
+      "slug": "250g-de-vegetales",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305321",
+      "type": "high-protein",
+      "name": "Proteico",
+      "slug": "proteico",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCFC18086-5",
+  "updatedAt": "2025-07-28T11:06:35+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    }
+  ],
+  "uuid": "c95d7f7b-a1fe-43a6-be83-9c265597a0c5",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-con-samfaina-catalana-de-verduras-66e1441da3dfaa8a349ab688",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "66e847bc07f7f5443341aec6",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "66e847bc07f7f5443341aec6",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66e1441da3dfaa8a349ab688-Jamoncitos de pollo con samfaina catalana.jpg",
+  "localCard": "/pdf/66e1441da3dfaa8a349ab688-Jamoncitos de pollo con samfaina catalana.pdf"
+}

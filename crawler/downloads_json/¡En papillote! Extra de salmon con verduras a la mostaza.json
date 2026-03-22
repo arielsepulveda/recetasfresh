@@ -1,0 +1,704 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "6824482fb511ee4a266bd512",
+  "canonicalLink": "https://www.hellofresh.es/recipes/salmon-en-papillote-con-verduritas-y-arroz-integral-6824482fb511ee4a266bd512",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "68da9353d232ff05cfc501e4",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-01T14:26:06+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterránea ",
+      "slug": "mediterranea ",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg"
+    }
+  ],
+  "description": "¿Sabías que cocinar “en papillote” es como guardar un secreto culinario? Esta técnica francesa consiste en sellar ingredientes en papel para que se cocinen con su propio vapor, concentrando jugos y aromas. “Papillote” significa literalmente “envoltura” y garantiza platos tiernos y llenos de sabor.",
+  "descriptionHTML": "<p>¿Sabías que cocinar “en papillote” es como guardar un secreto culinario? Esta técnica francesa consiste en sellar ingredientes en papel para que se cocinen con su propio vapor, concentrando jugos y aromas. “Papillote” significa literalmente “envoltura” y garantiza platos tiernos y llenos de sabor.</p>",
+  "descriptionMarkdown": "¿Sabías que cocinar “en papillote” es como guardar un secreto culinario? Esta técnica francesa consiste en sellar ingredientes en papel para que se cocinen con su propio vapor, concentrando jugos y aromas. “Papillote” significa literalmente “envoltura” y garantiza platos tiernos y llenos de sabor.",
+  "difficulty": 1,
+  "favoritesCount": 8,
+  "headline": "con arroz sencillo al horno",
+  "id": "68dd39fe396adcc61a3ea36b",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R24_W45_ES_ESCCLF44726-6_Main_high-6477b368.jpg",
+  "imagePath": "/image/HF_Y25_R24_W45_ES_ESCCLF44726-6_Main_high-6477b368.jpg",
+  "ingredients": [
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "6900d709493c3115e3728ce8",
+      "uuid": "5038e977-bfc7-5be1-8557-6046aec8bd26",
+      "name": "Mostaza en grano",
+      "type": "wholegrain-mustard",
+      "slug": "mostaza-en-grano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65c24814600bb8e53d74ec11-943636f9.png",
+      "imagePath": "/ingredient/65c24814600bb8e53d74ec11-943636f9.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6900d709493c3115e3728ce8-Mostaza en grano.png"
+    },
+    {
+      "id": "635f88bb5ebcac2718d2fee9",
+      "uuid": "a69c7668-a546-418e-a0af-ec9b23156b6b",
+      "name": "Salmón noruego",
+      "type": "salmon",
+      "slug": "salmon-noruego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635f88bb5ebcac2718d2fee9-2c8d6e62.png",
+      "imagePath": "/ingredient/635f88bb5ebcac2718d2fee9-2c8d6e62.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635f88bb5ebcac2718d2fee9-Salmón noruego.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68dd39fe396adcc61a3ea36b",
+  "name": "¡En papillote! Extra de salmon con verduras a la mostaza",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3702,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 885,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 41.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 89.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 16.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 5.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 51.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.28,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 4,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 567,
+  "slug": "en-papillote-extra-de-salmon-con-verduras-a-la-mostaza",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nRetira los extremos del calabacín y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.\nPela la zanahoria y córtala por la mitad a lo largo. Corta en medias lunas finas.\nPela la cebolla y córtala en tiras finas.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68dd39fe396adcc61a3ea36b/step-5d68ac00.jpg",
+          "path": "/68dd39fe396adcc61a3ea36b/step-5d68ac00.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68dd39fe396adcc61a3ea36b-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nColoca las verduras en el centro de una bandeja de horno con papel de horno y adereza con la miel, la mostaza, unas gotas de agua, un chorrito de aceite, sal y pimienta. Remueve. \nAgrega sobre las verduras el salmón y salpimienta.\nCubre con otro papel de horno y ciérralos, juntando ambos papeles de horno con plieges para formar un paquete y que el vapor no se escape.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<ul>\n<li>Coloca las <strong>verduras</strong> en el centro de una bandeja de horno con papel de horno y adereza con la <strong>miel</strong>, la <strong>mostaza</strong>, unas gotas de <strong>agua</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Remueve. </li>\n<li>Agrega sobre las <strong>verduras</strong> el <strong>salmón</strong> y <strong>salpimienta.</strong></li>\n<li>Cubre con otro papel de horno y ciérralos, juntando ambos papeles de horno con plieges para formar un paquete y que el vapor no se escape.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca las <strong>verduras</strong> en el centro de una bandeja de horno con papel de horno y adereza con la <strong>miel</strong>, la <strong>mostaza</strong>, unas gotas de <strong>agua</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Remueve. </li>\n<li>Agrega sobre las <strong>verduras</strong> el <strong>salmón</strong> y <strong>salpimienta.</strong></li>\n<li>Cubre con otro papel de horno y ciérralos, juntando ambos papeles de horno con plieges para formar un paquete y que el vapor no se escape.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305377",
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68dd39fe396adcc61a3ea36b/step-d0126e10.jpg",
+          "path": "/68dd39fe396adcc61a3ea36b/step-d0126e10.jpg",
+          "caption": "Todo a la bandeja",
+          "localImage": "/images/recipes/68dd39fe396adcc61a3ea36b-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nColoca el paquete en un lado de la bandeja de horno y hornea en el estante medio-alto 25 min, hasta que las verduras estén tiernas y el salmón quede hecho.\nEn una fuente para horno, agrega el ajo pelado, el arroz, el agua, sal y pimienta. Remueve.\nColoca la fuente de horno en la bandeja junto al salmón y hornea 25-30 min, hasta que el arroz esté tierno y el agua se haya evaporado.\n",
+      "instructionsHTML": "<ul>\n<li>Coloca el paquete en un lado de la bandeja de horno y hornea en el estante medio-alto 25 min, hasta que las <strong>verduras</strong> estén tiernas y el <strong>salmón</strong> quede hecho.</li>\n<li>En una fuente para horno, agrega el <strong>ajo</strong> pelado, el <strong>arroz,</strong> el <strong>agua, sal</strong> y <strong>pimienta.</strong> Remueve.</li>\n<li>Coloca la fuente de horno en la bandeja junto al salmón y hornea 25-30 min, hasta que el <strong>arroz</strong> esté tierno y el <strong>agua</strong> se haya evaporado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca el paquete en un lado de la bandeja de horno y hornea en el estante medio-alto 25 min, hasta que las <strong>verduras</strong> estén tiernas y el <strong>salmón</strong> quede hecho.</li>\n<li>En una fuente para horno, agrega el <strong>ajo</strong> pelado, el <strong>arroz,</strong> el <strong>agua, sal</strong> y <strong>pimienta.</strong> Remueve.</li>\n<li>Coloca la fuente de horno en la bandeja junto al salmón y hornea 25-30 min, hasta que el <strong>arroz</strong> esté tierno y el <strong>agua</strong> se haya evaporado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68dd39fe396adcc61a3ea36b/step-3eec2b20.jpg",
+          "path": "/68dd39fe396adcc61a3ea36b/step-3eec2b20.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/68dd39fe396adcc61a3ea36b-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nSirve el arroz en la base de los platos y coloca el salmón en papillote con verduras encima.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>arroz</strong> en la base de los platos y coloca el <strong>salmón</strong> en papillote con <strong>verduras</strong> encima.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>arroz</strong> en la base de los platos y coloca el <strong>salmón</strong> en papillote con <strong>verduras</strong> encima.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68dd39fe396adcc61a3ea36b/step-55abd230.jpg",
+          "path": "/68dd39fe396adcc61a3ea36b/step-55abd230.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/68dd39fe396adcc61a3ea36b-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "672238b3b9eda7328f4d5c45",
+      "type": "oven-only",
+      "name": "Solo horno",
+      "slug": "solo-horno",
+      "colorHandle": null,
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCCLF44726-DP-1-2",
+  "updatedAt": "2026-01-21T17:19:38+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Papel de horno"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    }
+  ],
+  "uuid": "588bf62c-57d9-46b2-8b58-7f06a4689be5",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/en-papillote-extra-de-salmon-con-verduras-a-la-mostaza-68dd39fe396adcc61a3ea36b",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "6900d709493c3115e3728ce8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "6900d709493c3115e3728ce8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "6900d709493c3115e3728ce8",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 900,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68dd39fe396adcc61a3ea36b-¡En papillote! Extra de salmon con verduras a la mostaza.jpg"
+}

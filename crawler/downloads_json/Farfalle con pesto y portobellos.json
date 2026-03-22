@@ -1,0 +1,656 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": "640f514cb1bd442c3cd15e1b",
+  "canonicalLink": "https://www.hellofresh.es/recipes/farfalle-con-pesto-y-portobellos-640f514cb1bd442c3cd15e1b",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64c0fa5aa1aa6db20ea12a14.pdf",
+  "category": null,
+  "clonedFrom": "6347ef6ee9568549b78497a8",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-07-26T10:50:02+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Escoge esta receta y disfruta de unos farfalle con setas portobello y pesto servido junto a una ensalada de rúcula, que hará que este plato sea fresco y ligero. Además, podrás prepararlo en tan solo 20 minutos y podrás disfrutarlo en familia, incluso con aquellos que sean vegetarianos.",
+  "descriptionHTML": "<p>Escoge esta receta y disfruta de unos farfalle con setas portobello y pesto servido junto a una ensalada de rúcula, que hará que este plato sea fresco y ligero. Además, podrás prepararlo en tan solo 20 minutos y podrás disfrutarlo en familia, incluso con aquellos que sean vegetarianos.</p>",
+  "descriptionMarkdown": "Escoge esta receta y disfruta de unos farfalle con setas portobello y pesto servido junto a una ensalada de rúcula, que hará que este plato sea fresco y ligero. Además, podrás prepararlo en tan solo 20 minutos y podrás disfrutarlo en familia, incluso con aquellos que sean vegetarianos.",
+  "difficulty": 1,
+  "favoritesCount": 28,
+  "headline": "con queso italiano y ensalada de rúcula",
+  "id": "64c0fa5aa1aa6db20ea12a14",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R09_W23_ES_ESVFQV0101-2_Main_Remove_the_salad_edit_high-bb9cf0ff.jpg",
+  "imagePath": "/image/HF_Y23_R09_W23_ES_ESVFQV0101-2_Main_Remove_the_salad_edit_high-bb9cf0ff.jpg",
+  "ingredients": [
+    {
+      "id": "634fd2e834c59d5ef0faeb46",
+      "uuid": "829ae3c1-0e5b-5eed-a428-235f7e0b90e3",
+      "name": "Farfalle",
+      "type": "farfalle",
+      "slug": "farfalle",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634fd2e834c59d5ef0faeb46-2be6a40d.png",
+      "imagePath": "/ingredient/634fd2e834c59d5ef0faeb46-2be6a40d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634fd2e834c59d5ef0faeb46-Farfalle.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "6352ac0f0f0324d2cd53b1bc",
+      "uuid": "5da5c54f-a194-4ef9-b062-0cd73e7e009b",
+      "name": "Pesto de albahaca",
+      "type": "basil-pesto",
+      "slug": "pesto-de-albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352ac0f0f0324d2cd53b1bc-15a361fe.jpg",
+      "imagePath": "/ingredient/6352ac0f0f0324d2cd53b1bc-15a361fe.jpg",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fb",
+        "57962a07b7e8697d4b3052fa",
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352ac0f0f0324d2cd53b1bc-Pesto de albahaca.jpg"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "63404376233160a36674ba19",
+      "uuid": "87dc56ae-88e0-530d-bd62-be00baab053b",
+      "name": "Portobello",
+      "type": "portobello-mushroom",
+      "slug": "portobello",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba19-66c19148.png",
+      "imagePath": "/ingredient/63404376233160a36674ba19-66c19148.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba19-Portobello.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/64c0fa5aa1aa6db20ea12a14",
+  "name": "Farfalle con pesto y portobellos",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2431,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 581,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 14.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 73.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 8.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 19,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.81,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT20M",
+  "promotion": null,
+  "ratingsCount": 43,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 315,
+  "slug": "farfalle-con-pesto-y-portobellos",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, agrega abundante agua y una pizca de sal. Tapa y lleva a ebullición. Pela y pica la chalota. Limpia los portobellos con un paño húmedo. Retira y desecha el pie de los portobellos. Luego, córtalos en cuartos. Cuando el agua hierva, añade los farfalle a la olla y cocina 12-13 min o hasta que queden tiernos. Escurre un colador y reserva en la olla.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, agrega abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Tapa y lleva a ebullición. Pela y pica la <strong>chalota</strong>. Limpia los <strong>portobellos</strong> con un paño húmedo. Retira y desecha el pie de los <strong>portobellos</strong>. Luego, córtalos en cuartos. Cuando el agua hierva, añade los <strong>farfalle</strong> a la olla y cocina 12-13 min o hasta que queden tiernos. Escurre un colador y reserva en la olla.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, agrega abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Tapa y lleva a ebullición. Pela y pica la <strong>chalota</strong>. Limpia los <strong>portobellos</strong> con un paño húmedo. Retira y desecha el pie de los <strong>portobellos</strong>. Luego, córtalos en cuartos. Cuando el agua hierva, añade los <strong>farfalle</strong> a la olla y cocina 12-13 min o hasta que queden tiernos. Escurre un colador y reserva en la olla.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538",
+        "59d49a9319279f8fe60e8671"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa5aa1aa6db20ea12a14/step-c4f68b00.jpg",
+          "path": "/64c0fa5aa1aa6db20ea12a14/step-c4f68b00.jpg",
+          "caption": "Cuece la pasta y prepara las verduras",
+          "localImage": "/images/recipes/64c0fa5aa1aa6db20ea12a14-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela y pica el ajo (ver cantidad en ingredientes). En una sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la chalota y cocina 1-2 min. Añade los portobellos y cocina 5-7 min, removiendo ocasionalmente. Agrega a la sartén el pesto de albahaca y cocina 1 min, removiendo para que se integren los ingredientes.",
+      "instructionsHTML": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la <strong>chalota</strong> y cocina 1-2 min. Añade los <strong>portobellos</strong> y cocina 5-7 min, removiendo ocasionalmente. Agrega a la sartén el <strong>pesto de albahaca</strong> y cocina 1 min, removiendo para que se integren los ingredientes.</p>",
+      "instructionsMarkdown": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la <strong>chalota</strong> y cocina 1-2 min. Añade los <strong>portobellos</strong> y cocina 5-7 min, removiendo ocasionalmente. Agrega a la sartén el <strong>pesto de albahaca</strong> y cocina 1 min, removiendo para que se integren los ingredientes.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa5aa1aa6db20ea12a14/step-9fcd9f10.jpg",
+          "path": "/64c0fa5aa1aa6db20ea12a14/step-9fcd9f10.jpg",
+          "caption": "Saltea las verduras",
+          "localImage": "/images/recipes/64c0fa5aa1aa6db20ea12a14-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Agrega las verduras con pesto a la olla con los farfalle y remueve bien, de forma que la pasta quede bien cubierta por la salsa. Salpimienta al gusto. En una ensaladera, mezcla el vinagre de vino tinto (ver cantidad en ingredientes), un chorrito de aceite, sal y pimienta. Antes de servir, agrega la rúcula y remueve bien.",
+      "instructionsHTML": "<p>Agrega las <strong>verduras</strong> con <strong>pesto</strong> a la olla con los <strong>farfalle</strong> y remueve bien, de forma que la <strong>pasta</strong> quede bien cubierta por la <strong>salsa</strong>. <strong>Salpimienta</strong> al gusto. En una ensaladera, mezcla el <strong>vinagre de vino tinto</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite,</strong> <strong>sal</strong> y <strong>pimienta</strong>. Antes de servir, agrega la<span><strong> <span>rúcula</span> </strong></span>y remueve bien.</p>",
+      "instructionsMarkdown": "<p>Agrega las <strong>verduras</strong> con <strong>pesto</strong> a la olla con los <strong>farfalle</strong> y remueve bien, de forma que la <strong>pasta</strong> quede bien cubierta por la <strong>salsa</strong>. <strong>Salpimienta</strong> al gusto. En una ensaladera, mezcla el <strong>vinagre de vino tinto</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite,</strong> <strong>sal</strong> y <strong>pimienta</strong>. Antes de servir, agrega la<span><strong> <span>rúcula</span> </strong></span>y remueve bien.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa5aa1aa6db20ea12a14/step-92031720.jpg",
+          "path": "/64c0fa5aa1aa6db20ea12a14/step-92031720.jpg",
+          "caption": "Combina la pasta y la salsa",
+          "localImage": "/images/recipes/64c0fa5aa1aa6db20ea12a14-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Sirve los farfalle al pesto con portobellos en platos y espolvorea el queso italiano rallado. Sirve la rúcula aliñada en un bol junto a tu plato como acompañamiento.",
+      "instructionsHTML": "<p>Sirve los <strong>farfalle al pesto</strong> con <strong>portobellos</strong> en platos y espolvorea el <strong>queso italiano rallado</strong>. Sirve la <strong>rúcula</strong> aliñada en un bol junto a tu plato como acompañamiento.</p>",
+      "instructionsMarkdown": "<p>Sirve los <strong>farfalle al pesto</strong> con <strong>portobellos</strong> en platos y espolvorea el <strong>queso italiano rallado</strong>. Sirve la <strong>rúcula</strong> aliñada en un bol junto a tu plato como acompañamiento.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa5aa1aa6db20ea12a14/step-e0772730.jpg",
+          "path": "/64c0fa5aa1aa6db20ea12a14/step-e0772730.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/64c0fa5aa1aa6db20ea12a14-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESVFQV0101-3",
+  "updatedAt": "2025-07-28T12:32:26+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e8671",
+      "type": "medium-pot",
+      "name": "Olla mediana"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "7a92db02-3197-4185-886c-3114736b7229",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/farfalle-con-pesto-y-portobellos-64c0fa5aa1aa6db20ea12a14",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "634fd2e834c59d5ef0faeb46",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352ac0f0f0324d2cd53b1bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "634fd2e834c59d5ef0faeb46",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352ac0f0f0324d2cd53b1bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64c0fa5aa1aa6db20ea12a14-Farfalle con pesto y portobellos.jpg",
+  "localCard": "/pdf/64c0fa5aa1aa6db20ea12a14-Farfalle con pesto y portobellos.pdf"
+}

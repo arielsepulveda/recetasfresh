@@ -1,0 +1,608 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "691c62dfbc8059f9ea109900",
+  "canonicalLink": "https://www.hellofresh.es/recipes/chuleta-de-cerdo-con-pure-de-coliflor-caramelizado-y-ensalada-con-alcaparras-crujientes-691c62dfbc8059f9ea109900",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "6970e612384e652ce6a4d980",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2026-01-28T17:12:58+00:00",
+  "cuisines": [
+    {
+      "id": "69009956134b3822590df89f",
+      "type": "southern-european",
+      "name": "Southern European",
+      "slug": ""
+    }
+  ],
+  "description": "¿Te imaginas una chuleta de cerdo elevada a otro nivel sin excesos? Se sirve jugosa, con un puré de coliflor caramelizada que aporta cremosidad ligera, calabacín a la plancha y cebolla frita. Un plato sano, equilibrado y lleno de sabor, sorprendentemente ligero y con menos de 650 calorías.",
+  "descriptionHTML": "<p>¿Te imaginas una chuleta de cerdo elevada a otro nivel sin excesos? Se sirve jugosa, con un puré de coliflor caramelizada que aporta cremosidad ligera, calabacín a la plancha y cebolla frita. Un plato sano, equilibrado y lleno de sabor, sorprendentemente ligero y con menos de 650 calorías.</p>",
+  "descriptionMarkdown": "¿Te imaginas una chuleta de cerdo elevada a otro nivel sin excesos? Se sirve jugosa, con un puré de coliflor caramelizada que aporta cremosidad ligera, calabacín a la plancha y cebolla frita. Un plato sano, equilibrado y lleno de sabor, sorprendentemente ligero y con menos de 650 calorías.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con láminas de calabacín y cebolla frita",
+  "id": "697a1a179629deb2e47d5fc8",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R29_W10_ES_ESCP54085-2_Main_high-e378e274.jpg",
+  "imagePath": "/image/HF_Y26_R29_W10_ES_ESCP54085-2_Main_high-e378e274.jpg",
+  "ingredients": [
+    {
+      "id": "63bbfe06bc019e6ee3f1ab84",
+      "uuid": "c4ac6805-11a7-55c4-be5e-68aaa3c0f835",
+      "name": "Floretes de coliflor",
+      "type": "cauliflower-florets",
+      "slug": "floretes-de-coliflor",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bbfe06bc019e6ee3f1ab84-22b9bb05.png",
+      "imagePath": "/ingredient/63bbfe06bc019e6ee3f1ab84-22b9bb05.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bbfe06bc019e6ee3f1ab84-Floretes de coliflor.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "6924890401ae5540a928075a",
+      "uuid": "b74dbad6-e2f0-51df-9a17-a9690de49ee1",
+      "name": "Yogur",
+      "type": "yogurt",
+      "slug": "yogur",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67f8f3ba652eef3af1c9d274-abd1871a.png",
+      "imagePath": "/ingredient/67f8f3ba652eef3af1c9d274-abd1871a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6924890401ae5540a928075a-Yogur.png"
+    },
+    {
+      "id": "68cd689a478b7ea4b4a73347",
+      "uuid": "5b61629e-755f-5d4a-880a-4a76a661a171",
+      "name": "Chuletas de cerdo",
+      "type": "pork-chop",
+      "slug": "chuletas-de-cerdo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/68cd689a478b7ea4b4a73347-c5abcf03.png",
+      "imagePath": "/ingredient/68cd689a478b7ea4b4a73347-c5abcf03.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68cd689a478b7ea4b4a73347-Chuletas de cerdo.png"
+    },
+    {
+      "id": "686e3eed69ddbf20131a6a7d",
+      "uuid": "0a15cb9b-a6c5-4fce-b32c-1f756821800c",
+      "name": "Cebolla frita",
+      "type": "crispy-onions",
+      "slug": "cebolla-frita",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/686e3eed69ddbf20131a6a7d-90217169.png",
+      "imagePath": "/ingredient/686e3eed69ddbf20131a6a7d-90217169.png",
+      "shipped": true,
+      "allergens": [
+        "5acf972fae08b54d333ac322",
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/686e3eed69ddbf20131a6a7d-Cebolla frita.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/697a1a179629deb2e47d5fc8",
+  "name": "Extra de chuleta de cerdo con puré de coliflor caramelizada",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4003,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 957,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 68.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 23.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 19.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 7.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 75.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.24,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 675,
+  "slug": "extra-de-chuleta-de-cerdo-con-pure-de-coliflor-caramelizada",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPica la coliflor en trozos pequeños.\nEn una olla, calienta un chorrito de aceite y la mantequilla a fuego medio-bajo.\nAñade la coliflor y rehoga 15-20 min, removiendo regularmente, hasta que se caramelice.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pica la <strong>coliflor</strong> en trozos pequeños.</li>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> y la <strong>mantequilla</strong> a fuego medio-bajo.</li>\n<li>Añade la <strong>coliflor</strong> y rehoga 15-20 min, removiendo regularmente, hasta que se caramelice.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pica la <strong>coliflor</strong> en trozos pequeños.</li>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> y la <strong>mantequilla</strong> a fuego medio-bajo.</li>\n<li>Añade la <strong>coliflor</strong> y rehoga 15-20 min, removiendo regularmente, hasta que se caramelice.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/697a1a179629deb2e47d5fc8/step-38b8d600.jpg",
+          "path": "/697a1a179629deb2e47d5fc8/step-38b8d600.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/697a1a179629deb2e47d5fc8-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCorta el calabacín en láminas de 1 cm de grosor.\nEn una sartén, calienta un chorrito de aceite a fuego medio. Añade el calabacín, salpimienta y cocina 3 min por lado, hasta que se dore.\nCuando la coliflor esté lista, colócala en una jarra medidora y añade el yogur, un chorrito de agua, mantequilla al gusto, sal y pimienta.\nTritura con un túrmix al menos 1 min o hasta obtener una crema lisa y homogénea.\n",
+      "instructionsHTML": "<ul>\n<li>Corta el <strong>calabacín</strong> en láminas de 1 cm de grosor.</li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Añade el <strong>calabacín, salpimienta</strong> y cocina 3 min por lado, hasta que se dore.</li>\n<li>Cuando la <strong>coliflor</strong> esté lista, colócala en una jarra medidora y añade el <strong>yogur,</strong> un chorrito de <strong>agua, mantequilla</strong> al gusto, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Tritura con un túrmix al menos 1 min o hasta obtener una <strong>crema</strong> lisa y homogénea.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta el <strong>calabacín</strong> en láminas de 1 cm de grosor.</li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Añade el <strong>calabacín, salpimienta</strong> y cocina 3 min por lado, hasta que se dore.</li>\n<li>Cuando la <strong>coliflor</strong> esté lista, colócala en una jarra medidora y añade el <strong>yogur,</strong> un chorrito de <strong>agua, mantequilla</strong> al gusto, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Tritura con un túrmix al menos 1 min o hasta obtener una <strong>crema</strong> lisa y homogénea.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0",
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/697a1a179629deb2e47d5fc8/step-01fbf810.jpg",
+          "path": "/697a1a179629deb2e47d5fc8/step-01fbf810.jpg",
+          "caption": "Calabacín al fuego",
+          "localImage": "/images/recipes/697a1a179629deb2e47d5fc8-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nLimpia la sartén que has usado y caliéntala un chorrito de aceite a fuego medio.\nAgrega las chuletas de cerdo, salpimienta y cocina 3 min por lado o hasta que estén bien cocinadas.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Limpia la sartén que has usado y caliéntala un chorrito de <strong>aceite</strong> a fuego medio.</li>\n<li>Agrega las <strong>chuletas de cerdo</strong>, <strong>salpimienta</strong> y cocina 3 min por lado o hasta que estén bien cocinadas.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Limpia la sartén que has usado y caliéntala un chorrito de <strong>aceite</strong> a fuego medio.</li>\n<li>Agrega las <strong>chuletas de cerdo</strong>, <strong>salpimienta</strong> y cocina 3 min por lado o hasta que estén bien cocinadas.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/697a1a179629deb2e47d5fc8/step-f5272520.jpg",
+          "path": "/697a1a179629deb2e47d5fc8/step-f5272520.jpg",
+          "caption": "Turno de la carne",
+          "localImage": "/images/recipes/697a1a179629deb2e47d5fc8-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nSirve el puré de coliflor caramelizada en un lado de los platos, creando una base.\nColoca encima la chuleta de cerdo y cubre con cebolla frita al gusto.\nAl otro lado, coloca las láminas de calabacín.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>puré</strong> de <strong>coliflor</strong> caramelizada en un lado de los platos, creando una base.</li>\n<li>Coloca encima la <strong>chuleta de cerdo</strong> y cubre con <strong>cebolla frita</strong> al gusto.</li>\n<li>Al otro lado, coloca las láminas de <strong>calabacín.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>puré</strong> de <strong>coliflor</strong> caramelizada en un lado de los platos, creando una base.</li>\n<li>Coloca encima la <strong>chuleta de cerdo</strong> y cubre con <strong>cebolla frita</strong> al gusto.</li>\n<li>Al otro lado, coloca las láminas de <strong>calabacín.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/697a1a179629deb2e47d5fc8/step-57daca30.jpg",
+          "path": "/697a1a179629deb2e47d5fc8/step-57daca30.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/697a1a179629deb2e47d5fc8-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESCP54085-DP-1-2",
+  "updatedAt": "2026-03-03T08:52:58+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "f0f2461a-5f2f-431a-b7ec-470d7f528294",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/extra-de-chuleta-de-cerdo-con-pure-de-coliflor-caramelizada-697a1a179629deb2e47d5fc8",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63bbfe06bc019e6ee3f1ab84",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6924890401ae5540a928075a",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68cd689a478b7ea4b4a73347",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63bbfe06bc019e6ee3f1ab84",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6924890401ae5540a928075a",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68cd689a478b7ea4b4a73347",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63bbfe06bc019e6ee3f1ab84",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6924890401ae5540a928075a",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68cd689a478b7ea4b4a73347",
+          "amount": 1800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/697a1a179629deb2e47d5fc8-Extra de chuleta de cerdo con puré de coliflor caramelizada.jpg"
+}

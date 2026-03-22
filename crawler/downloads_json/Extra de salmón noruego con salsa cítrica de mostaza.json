@@ -1,0 +1,889 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 1,
+  "canonical": "638a209116676f814583bbd6",
+  "canonicalLink": "https://www.hellofresh.es/recipes/salmon-a-la-mostaza-638a209116676f814583bbd6",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "693998e4c92924105eca4548",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-16T08:36:55+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Aunque el salmón sea nórdico, su unión con mostaza y limón respira espíritu español: sabores contundentes, un toque ácido que despierta el paladar y una sencillez honesta que encaja en cualquier mesa. Es esa mezcla la que lo convierte en un plato cercano y muy nuestro.",
+  "descriptionHTML": "<p>Aunque el salmón sea nórdico, su unión con mostaza y limón respira espíritu español: sabores contundentes, un toque ácido que despierta el paladar y una sencillez honesta que encaja en cualquier mesa. Es esa mezcla la que lo convierte en un plato cercano y muy nuestro.</p>",
+  "descriptionMarkdown": "Aunque el salmón sea nórdico, su unión con mostaza y limón respira espíritu español: sabores contundentes, un toque ácido que despierta el paladar y una sencillez honesta que encaja en cualquier mesa. Es esa mezcla la que lo convierte en un plato cercano y muy nuestro.",
+  "difficulty": 1,
+  "favoritesCount": 4,
+  "headline": "con calabacín salteado y arroz",
+  "id": "69411a27351bdfaa40d7f4e5",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221222_R07_W06_ES_ESF0000-2_KB_Main_bcgr_edit_high-7d446dd9.jpg",
+  "imagePath": "/image/HF221222_R07_W06_ES_ESF0000-2_KB_Main_bcgr_edit_high-7d446dd9.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "635f88bb5ebcac2718d2fee9",
+      "uuid": "a69c7668-a546-418e-a0af-ec9b23156b6b",
+      "name": "Salmón noruego",
+      "type": "salmon",
+      "slug": "salmon-noruego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635f88bb5ebcac2718d2fee9-2c8d6e62.png",
+      "imagePath": "/ingredient/635f88bb5ebcac2718d2fee9-2c8d6e62.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635f88bb5ebcac2718d2fee9-Salmón noruego.png"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/69411a27351bdfaa40d7f4e5",
+  "name": "Extra de salmón noruego con salsa cítrica de mostaza",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4166,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 996,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 57.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 14.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 79.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 50.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.32,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 1,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 562,
+  "slug": "extra-de-salmon-noruego-con-salsa-citrica-de-mostaza",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nLlena un cazo con el agua para el arroz, añade el arroz y sal y lleva a ebullición con el cazo tapado.\nCuando hierva, cocina a fuego medio-bajo 13-15 min, removiendo.\nLuego, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua para el arroz,</strong> añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 13-15 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua para el arroz,</strong> añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 13-15 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69411a27351bdfaa40d7f4e5/step-ab9bb000.jpg",
+          "path": "/69411a27351bdfaa40d7f4e5/step-ab9bb000.jpg",
+          "caption": "Arroz en marcha",
+          "localImage": "/images/recipes/69411a27351bdfaa40d7f4e5-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nRetira los extremos del calabacín y córtalo en medias lunas de 0,5-1 cm.\nEn una sartén, calienta un chorrito de aceite a fuego medio. Saltea el calabacín 6-7 min, removiendo, hasta que se dore.\nSalpimienta y reserva fuera de la sartén.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Retira los extremos del <strong>calabacín</strong> y córtalo en medias lunas de 0,5-1 cm.</li>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Saltea el <strong>calabacín </strong><span style=\"color: rgb(0, 0, 0)\">6-7</span> min, removiendo, hasta que se dore.</li>\n<li dir=\"ltr\"><strong>Salpimienta</strong> y reserva fuera de la sartén.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Retira los extremos del <strong>calabacín</strong> y córtalo en medias lunas de 0,5-1 cm.</li>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Saltea el <strong>calabacín </strong><span style=\"color: rgb(0, 0, 0)\">6-7</span> min, removiendo, hasta que se dore.</li>\n<li dir=\"ltr\"><strong>Salpimienta</strong> y reserva fuera de la sartén.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69411a27351bdfaa40d7f4e5/step-17b6cb10.jpg",
+          "path": "/69411a27351bdfaa40d7f4e5/step-17b6cb10.jpg",
+          "caption": "Calabacín al fuego",
+          "localImage": "/images/recipes/69411a27351bdfaa40d7f4e5-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn un plato, agrega la harina. Salpimienta el salmón y cúbrelo con la harina del plato.\nEn la sartén, calienta a fuego medio-alto un chorrito de aceite o mantequilla al gusto.\nAgrega el salmón y cocina 2 min por lado, hasta que quede dorado por fuera y cocinado por dentro. Retira y reserva.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En un plato, agrega la <strong>harina</strong>. <strong>Salpimienta</strong> el <strong>salmón</strong> y cúbrelo con la <strong>harina</strong> del plato.</li>\n<li dir=\"ltr\">En la sartén, calienta a fuego medio-alto un chorrito de <strong>aceite</strong> o <strong>mantequilla</strong> al gusto.</li>\n<li dir=\"ltr\">Agrega el <strong>salmón</strong> y cocina 2 min por lado, hasta que quede dorado por fuera y cocinado por dentro. Retira y reserva.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En un plato, agrega la <strong>harina</strong>. <strong>Salpimienta</strong> el <strong>salmón</strong> y cúbrelo con la <strong>harina</strong> del plato.</li>\n<li dir=\"ltr\">En la sartén, calienta a fuego medio-alto un chorrito de <strong>aceite</strong> o <strong>mantequilla</strong> al gusto.</li>\n<li dir=\"ltr\">Agrega el <strong>salmón</strong> y cocina 2 min por lado, hasta que quede dorado por fuera y cocinado por dentro. Retira y reserva.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69411a27351bdfaa40d7f4e5/step-2aceee20.jpg",
+          "path": "/69411a27351bdfaa40d7f4e5/step-2aceee20.jpg",
+          "caption": "Turno del salmón",
+          "localImage": "/images/recipes/69411a27351bdfaa40d7f4e5-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCorta el limón a gajos.\nEn la sartén, agrega el agua para la salsa, el caldo vegetal en polvo, la mostaza y zumo de limón al gusto.\nLleva a ebullición, luego, deja que hierva a fuego medio-alto 2 min, mientras remueves con varillas, hasta que la salsa espese.\n",
+      "instructionsHTML": "<ul>\n<li>Corta el <strong>limón</strong> a gajos.</li>\n<li>En la sartén, agrega el <strong>agua para la salsa</strong>, el <strong>caldo vegetal</strong> en polvo, la <strong>mostaza</strong> y zumo de <strong>limón</strong> al gusto.</li>\n<li>Lleva a ebullición, luego, deja que hierva a fuego medio-alto 2 min, mientras remueves con varillas, hasta que la <strong>salsa</strong> espese.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta el <strong>limón</strong> a gajos.</li>\n<li>En la sartén, agrega el <strong>agua para la salsa</strong>, el <strong>caldo vegetal</strong> en polvo, la <strong>mostaza</strong> y zumo de <strong>limón</strong> al gusto.</li>\n<li>Lleva a ebullición, luego, deja que hierva a fuego medio-alto 2 min, mientras remueves con varillas, hasta que la <strong>salsa</strong> espese.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69411a27351bdfaa40d7f4e5/step-15e1b830.jpg",
+          "path": "/69411a27351bdfaa40d7f4e5/step-15e1b830.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/69411a27351bdfaa40d7f4e5-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn la sartén, agrega la nata líquida y cocina a fuego alto 2 min, hasta que espese.\nAgrega el salmón y cocina a fuego medio 1-2 min más, cubriendo el salmón con la salsa. Salpimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, agrega la <strong>nata líquida</strong> y cocina a fuego alto 2 min, hasta que espese.</li>\n<li>Agrega el <strong>salmón</strong> y cocina a fuego medio<span style=\"color: rgb(224, 62, 45)\"> <span style=\"color: rgb(0, 0, 0)\">1-2</span></span> min más, cubriendo el <strong>salmón</strong> con la <strong>salsa</strong>. <strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, agrega la <strong>nata líquida</strong> y cocina a fuego alto 2 min, hasta que espese.</li>\n<li>Agrega el <strong>salmón</strong> y cocina a fuego medio<span style=\"color: rgb(224, 62, 45)\"> <span style=\"color: rgb(0, 0, 0)\">1-2</span></span> min más, cubriendo el <strong>salmón</strong> con la <strong>salsa</strong>. <strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69411a27351bdfaa40d7f4e5/step-2dc68140.jpg",
+          "path": "/69411a27351bdfaa40d7f4e5/step-2dc68140.jpg",
+          "caption": "Añade el salmón",
+          "localImage": "/images/recipes/69411a27351bdfaa40d7f4e5-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el arroz en un lado de los platos y coloca el salmón al otro lado.\nCubre el salmón con el calabacín salteado y la salsa cremosa de mostaza.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>arroz</strong> en un lado de los platos y coloca el <strong>salmón</strong> al otro lado.</li>\n<li>Cubre el <strong>salmón</strong> con el <strong>calabacín</strong> salteado y la <strong>salsa cremosa de mostaza</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>arroz</strong> en un lado de los platos y coloca el <strong>salmón</strong> al otro lado.</li>\n<li>Cubre el <strong>salmón</strong> con el <strong>calabacín</strong> salteado y la <strong>salsa cremosa de mostaza</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69411a27351bdfaa40d7f4e5/step-bda1d850.jpg",
+          "path": "/69411a27351bdfaa40d7f4e5/step-bda1d850.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/69411a27351bdfaa40d7f4e5-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "62388d0e819bac74ed3067ef",
+      "type": "pescatarian",
+      "name": "Pescetariano",
+      "slug": "pescetariano",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESF0000-DP-1-2",
+  "updatedAt": "2026-01-23T15:19:51+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    }
+  ],
+  "uuid": "cbcb5494-2eda-4154-8c4e-89c392687979",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/extra-de-salmon-noruego-con-salsa-citrica-de-mostaza-69411a27351bdfaa40d7f4e5",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/69411a27351bdfaa40d7f4e5-Extra de salmón noruego con salsa cítrica de mostaza.jpg"
+}

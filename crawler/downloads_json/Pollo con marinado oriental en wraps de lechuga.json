@@ -1,0 +1,862 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f8",
+      "name": "Cacahuetes",
+      "type": "peanuts",
+      "slug": "cacahuetes",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.8,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/649f374eb823868e3893cf3b.pdf",
+  "category": null,
+  "clonedFrom": "6374fde308cf0b02479225ff",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-06-30T20:13:02+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "Un wrap no tiene por qué ser siempre una tortilla de trigo que sirve como envoltura para los demás ingredientes, ni tampoco tiene que ser un indicativo de plato grasiento o poco saludable. Con esta receta, queremos demostrarte que un wrap puede ser saludable, a la vez que rico en sabores y texturas. Tomando como inspiración la cocina asiática, utilizamos hojas de lechuga como soporte para una combinación de pollo marinado, zanahoria rallada y una fresca cebolla encurtida.",
+  "descriptionHTML": "<p>Un wrap no tiene por qué ser siempre una tortilla de trigo que sirve como envoltura para los demás ingredientes, ni tampoco tiene que ser un indicativo de plato grasiento o poco saludable. Con esta receta, queremos demostrarte que un wrap puede ser saludable, a la vez que rico en sabores y texturas. Tomando como inspiración la cocina asiática, utilizamos hojas de lechuga como soporte para una combinación de pollo marinado, zanahoria rallada y una fresca cebolla encurtida.</p>",
+  "descriptionMarkdown": "Un wrap no tiene por qué ser siempre una tortilla de trigo que sirve como envoltura para los demás ingredientes, ni tampoco tiene que ser un indicativo de plato grasiento o poco saludable. Con esta receta, queremos demostrarte que un wrap puede ser saludable, a la vez que rico en sabores y texturas. Tomando como inspiración la cocina asiática, utilizamos hojas de lechuga como soporte para una combinación de pollo marinado, zanahoria rallada y una fresca cebolla encurtida.",
+  "difficulty": 1,
+  "favoritesCount": 34,
+  "headline": "con cacahuetes y zanahoria en salsa de mostaza y miel",
+  "id": "649f374eb823868e3893cf3b",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R12_W09_ES_ESQCC13705-2_Main_high-4a1da8eb.jpg",
+  "imagePath": "/image/HF_Y23_R12_W09_ES_ESQCC13705-2_Main_high-4a1da8eb.jpg",
+  "ingredients": [
+    {
+      "id": "6340437b2268bc1bff0d3cd1",
+      "uuid": "9838d4d1-5c2e-4e68-a073-54d514ccfdb0",
+      "name": "Pechuga de pollo troceada",
+      "type": "chicken-breast-diced",
+      "slug": "pechuga-de-pollo-troceada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd1-Pechuga de pollo troceada.jpg"
+    },
+    {
+      "id": "6340436b41033266d7be9505",
+      "uuid": "9a94a307-a64d-5b85-962a-663dff0b143e",
+      "name": "Cogollos de lechuga",
+      "type": "baby-gem-lettuce",
+      "slug": "cogollos-de-lechuga",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9505-Cogollos de lechuga.png"
+    },
+    {
+      "id": "634d5daaebf08332f1bff1a8",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "imagePath": "/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d5daaebf08332f1bff1a8-Salsa de soja.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "63c6c4e85d055dd6f722b0c2",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "imagePath": "/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63c6c4e85d055dd6f722b0c2-Mayonesa.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "636bc5ee371ed3efb1da61da",
+      "uuid": "14c309a3-f0b6-54cd-bd8a-8616ef0b8482",
+      "name": "Cacahuetes salados",
+      "type": "salted-peanuts",
+      "slug": "cacahuetes-salados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636bc5ee371ed3efb1da61da-1367b68c.png",
+      "imagePath": "/ingredient/636bc5ee371ed3efb1da61da-1367b68c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f8",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636bc5ee371ed3efb1da61da-Cacahuetes salados.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    },
+    {
+      "id": "645bbdb422de2d12dae0e3ec",
+      "uuid": "a219293e-88f4-436d-a66e-6e9bc27c36d9",
+      "name": "Sal para encurtir",
+      "type": "salt-to-pickle",
+      "slug": "sal-para-encurtir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "imagePath": "/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/645bbdb422de2d12dae0e3ec-Sal para encurtir.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/649f374eb823868e3893cf3b",
+  "name": "Pollo con marinado oriental en wraps de lechuga",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 488,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2042,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 16.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 2.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 22.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 33.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.3,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT20M",
+  "promotion": null,
+  "ratingsCount": 17,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 435,
+  "slug": "pollo-con-marinado-oriental-en-wraps-de-lechuga",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Pela y ralla el ajo (ver cantidad en ingredientes) y la mitad del jengibre (doble para 4p). En un bol, agrega el ajo, el jengibre, la salsa de soja, un chorrito de aceite y un chorrito de vinagre de vino tinto. Añade la pechuga de pollo troceada y remueve bien. Deja que el pollo se marine hasta el paso 3. Pela y ralla la zanahoria.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes) y la mitad del <strong>jengibre</strong> (doble para 4p). En un bol, agrega el <strong>ajo</strong>, el <strong>jengibre</strong>, la <strong>salsa de soja</strong>, un chorrito de <strong>aceite</strong> y un chorrito de <strong>vinagre de vino tinto</strong>. Añade la <strong>pechuga de pollo troceada</strong> y remueve bien. Deja que el <strong>pollo</strong> se marine hasta el paso 3. Pela y ralla la <strong>zanahoria</strong>.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes) y la mitad del <strong>jengibre</strong> (doble para 4p). En un bol, agrega el <strong>ajo</strong>, el <strong>jengibre</strong>, la <strong>salsa de soja</strong>, un chorrito de <strong>aceite</strong> y un chorrito de <strong>vinagre de vino tinto</strong>. Añade la <strong>pechuga de pollo troceada</strong> y remueve bien. Deja que el <strong>pollo</strong> se marine hasta el paso 3. Pela y ralla la <strong>zanahoria</strong>.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5c0a9a5edbdd9fc57e863cd6",
+        "57e2674fb7e8697d4b305379",
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f374eb823868e3893cf3b/step-cdac9800.jpg",
+          "path": "/649f374eb823868e3893cf3b/step-cdac9800.jpg",
+          "caption": "Marina el pollo",
+          "localImage": "/images/recipes/649f374eb823868e3893cf3b-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Luego, ponla en un bol con el vinagre de vino y la sal para encurtir (ver cantidad en ingredientes de ambos). Deja que marine hasta el emplatado. Con la base de un cazo, aplasta los cacahuetes en su propia bolsa para picarlos.",
+      "instructionsHTML": "<p>Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Luego, ponla en un bol con el <strong>vinagre de vino</strong> y la <strong>sal para encurtir</strong> (ver cantidad en ingredientes de ambos). Deja que marine hasta el emplatado. Con la base de un cazo, aplasta los <strong>cacahuetes</strong> en su propia bolsa para picarlos.</p>",
+      "instructionsMarkdown": "<p>Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Luego, ponla en un bol con el <strong>vinagre de vino</strong> y la <strong>sal para encurtir</strong> (ver cantidad en ingredientes de ambos). Deja que marine hasta el emplatado. Con la base de un cazo, aplasta los <strong>cacahuetes</strong> en su propia bolsa para picarlos.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f374eb823868e3893cf3b/step-ad1e4810.jpg",
+          "path": "/649f374eb823868e3893cf3b/step-ad1e4810.jpg",
+          "caption": "Encurte la cebolla",
+          "localImage": "/images/recipes/649f374eb823868e3893cf3b-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En un bol mediano, mezcla la mayonesa con la mostaza y la miel. Añade la zanahoria rallada, salpimienta y mezcla bien. Corta la base de los cogollos de lechuga y separa las hojas con cuidado. En una sartén, calienta un chorrito de aceite a fuego medio. Una vez caliente, agrega el pollo y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior.",
+      "instructionsHTML": "<p dir=\"ltr\">En un bol mediano, mezcla la <strong>mayonesa</strong> con la <strong>mostaza</strong> y la <strong>miel</strong>. Añade la <strong>zanahoria</strong> rallada, <strong>salpimienta</strong> y mezcla bien. Corta la base de los <strong>cogollos de lechuga</strong> y separa las hojas con cuidado. En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega el <strong>pollo</strong> y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En un bol mediano, mezcla la <strong>mayonesa</strong> con la <strong>mostaza</strong> y la <strong>miel</strong>. Añade la <strong>zanahoria</strong> rallada, <strong>salpimienta</strong> y mezcla bien. Corta la base de los <strong>cogollos de lechuga</strong> y separa las hojas con cuidado. En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega el <strong>pollo</strong> y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f374eb823868e3893cf3b/step-628e1420.jpg",
+          "path": "/649f374eb823868e3893cf3b/step-628e1420.jpg",
+          "caption": "Prepara la zanahoria y cocina el pollo",
+          "localImage": "/images/recipes/649f374eb823868e3893cf3b-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Sobre cada cogollo de lechuga, agrega un poco de zanahoria rallada en salsa y cubre con el pollo marinado. Agrega encima cebolla encurtida al gusto, previamente escurrida, y espolvorea con los cacahuetes picados.",
+      "instructionsHTML": "<p dir=\"ltr\">Sobre cada <strong>cogollo de lechuga</strong>, agrega un poco de <strong>zanahoria</strong> rallada en <strong>salsa</strong> y cubre con el <strong>pollo marinado</strong>. Agrega encima <strong>cebolla encurtida</strong> al gusto, previamente escurrida, y espolvorea con los <strong>cacahuetes</strong> picados.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Sobre cada <strong>cogollo de lechuga</strong>, agrega un poco de <strong>zanahoria</strong> rallada en <strong>salsa</strong> y cubre con el <strong>pollo marinado</strong>. Agrega encima <strong>cebolla encurtida</strong> al gusto, previamente escurrida, y espolvorea con los <strong>cacahuetes</strong> picados.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f374eb823868e3893cf3b/step-b0adef30.jpg",
+          "path": "/649f374eb823868e3893cf3b/step-b0adef30.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/649f374eb823868e3893cf3b-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESQCC13705-5",
+  "updatedAt": "2026-01-21T17:18:19+00:00",
+  "utensils": [
+    {
+      "id": "5c0a9a5edbdd9fc57e863cd6",
+      "type": "box-greater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    }
+  ],
+  "uuid": "6f47fd11-7a0b-45bd-b306-c3e696ba945e",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-con-marinado-oriental-en-wraps-de-lechuga-649f374eb823868e3893cf3b",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 0.5,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 440,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 7,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/649f374eb823868e3893cf3b-Pollo con marinado oriental en wraps de lechuga.jpg",
+  "localCard": "/pdf/649f374eb823868e3893cf3b-Pollo con marinado oriental en wraps de lechuga.pdf"
+}

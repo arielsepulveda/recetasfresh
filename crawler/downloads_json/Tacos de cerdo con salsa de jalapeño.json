@@ -1,0 +1,739 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/650192d953d80a036210c062.pdf",
+  "category": null,
+  "clonedFrom": "63ed1974c8b4f9f88d60a60f",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-10-13T10:30:13+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "Amantes de la cocina mexicana, prestad atención a esta deliciosa y colorida receta en la que preparamos unos tacos de cerdo con especias mexicanas y los acompañamos con una salsa casera de jalapeño, solo apta para los más atrevidos. Si quieres arriesgarte, puedes también añadir jalapeños y cebolla encurtidos y acompañarlo con zumo de lima.",
+  "descriptionHTML": "<p>Amantes de la cocina mexicana, prestad atención a esta deliciosa y colorida receta en la que preparamos unos tacos de cerdo con especias mexicanas y los acompañamos con una salsa casera de jalapeño, solo apta para los más atrevidos. Si quieres arriesgarte, puedes también añadir jalapeños y cebolla encurtidos y acompañarlo con zumo de lima.</p>",
+  "descriptionMarkdown": "Amantes de la cocina mexicana, prestad atención a esta deliciosa y colorida receta en la que preparamos unos tacos de cerdo con especias mexicanas y los acompañamos con una salsa casera de jalapeño, solo apta para los más atrevidos. Si quieres arriesgarte, puedes también añadir jalapeños y cebolla encurtidos y acompañarlo con zumo de lima.",
+  "difficulty": 1,
+  "favoritesCount": 7,
+  "headline": "con cebolla y jalapeños encurtidos",
+  "id": "650192d953d80a036210c062",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R11_W37_ES_ESQCP14867-2_main_0970_v1high-0bf30f79.jpg",
+  "imagePath": "/image/HF_Y23_R11_W37_ES_ESQCP14867-2_main_0970_v1high-0bf30f79.jpg",
+  "ingredients": [
+    {
+      "id": "63fc92b0bbe06d8c7489ce76",
+      "uuid": "b7647ff1-cacb-5782-9678-8d04b94aba26",
+      "name": "Carne de cerdo picada",
+      "type": "pork-mince",
+      "slug": "carne-de-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "imagePath": "/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63fc92b0bbe06d8c7489ce76-Carne de cerdo picada.png"
+    },
+    {
+      "id": "6348219ebb36093c54997964",
+      "uuid": "1f59d4e9-83f7-5dac-abec-916f5f2c6d99",
+      "name": "Tortillas de trigo",
+      "type": "6-pack-tortilla",
+      "slug": "tortillas-de-trigo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6348219ebb36093c54997964-209def95.png",
+      "imagePath": "/ingredient/6348219ebb36093c54997964-209def95.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6348219ebb36093c54997964-Tortillas de trigo.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340437241033266d7be951e",
+      "uuid": "85d051a6-8a85-5138-8055-e2837c319e1f",
+      "name": "Jalapeño",
+      "type": "jalapeno",
+      "slug": "jalapeno",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437241033266d7be951e-65eaf85a.png",
+      "imagePath": "/ingredient/6340437241033266d7be951e-65eaf85a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437241033266d7be951e-Jalapeño.png"
+    },
+    {
+      "id": "63404373233160a36674ba0f",
+      "uuid": "a9702fdb-e742-5fe0-b221-974c1ea5db87",
+      "name": "Mix de especias mexicanas",
+      "type": "mexican-spice",
+      "slug": "mix-de-especias-mexicanas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0f-Mix de especias mexicanas.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "63493a08ebf08332f1bff15d",
+      "uuid": "bd338898-c991-4bcf-ac07-74fe7e736c4f",
+      "name": "Queso rallado",
+      "type": "grated-cheese-mix",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "imagePath": "/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63493a08ebf08332f1bff15d-Queso rallado.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "645bbdb422de2d12dae0e3ec",
+      "uuid": "a219293e-88f4-436d-a66e-6e9bc27c36d9",
+      "name": "Sal para encurtir",
+      "type": "salt-to-pickle",
+      "slug": "sal-para-encurtir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "imagePath": "/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/645bbdb422de2d12dae0e3ec-Sal para encurtir.png"
+    },
+    {
+      "id": "645bbd78d8259131b372d893",
+      "uuid": "14d48f3b-7e18-48f8-9fe1-690a07791ee0",
+      "name": "Vinagre para encurtir",
+      "type": "vinegar-to-pickle",
+      "slug": "vinagre-para-encurtir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/645bbd78d8259131b372d893-d8a6957f.png",
+      "imagePath": "/ingredient/645bbd78d8259131b372d893-d8a6957f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/645bbd78d8259131b372d893-Vinagre para encurtir.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/650192d953d80a036210c062",
+  "name": "Tacos de cerdo con salsa de jalapeño",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2645,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 632,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 35.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 15.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 37.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 4.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.92,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 33,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 334,
+  "slug": "tacos-cerdo-salsa-jalapenos-encurtidos",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta el jalapeño por la mitad y retira las semillas. Corta la mitad del jalapeño en trozos medianos. En una jarra medidora, agrega el jalapeño cortado, el zumo de media lima (doble para 4p), el ajo pelado, el agua (ver cantidad en ingredientes de ambos) y un chorrito de aceite. Salpimienta y tritura con ayuda de un túrmix.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta el <strong>jalapeño</strong> por la mitad y retira las semillas. Corta la mitad del <strong>jalapeño</strong> en trozos medianos. En una jarra medidora, agrega el <strong>jalapeño</strong> cortado, el zumo de media <strong>lima</strong> (doble para 4p), el <strong>ajo</strong> pelado, el <strong>agua</strong> (ver cantidad en ingredientes de ambos) y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y tritura con ayuda de un túrmix.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta el <strong>jalapeño</strong> por la mitad y retira las semillas. Corta la mitad del <strong>jalapeño</strong> en trozos medianos. En una jarra medidora, agrega el <strong>jalapeño</strong> cortado, el zumo de media <strong>lima</strong> (doble para 4p), el <strong>ajo</strong> pelado, el <strong>agua</strong> (ver cantidad en ingredientes de ambos) y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y tritura con ayuda de un túrmix.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192d953d80a036210c062/step-95385400.jpg",
+          "path": "/650192d953d80a036210c062/step-95385400.jpg",
+          "caption": "Prepara la salsa de jalapeño",
+          "localImage": "/images/recipes/650192d953d80a036210c062-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta el jalapeño restante en tiras finas. Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en tiras finas. En un bol, agrega el jalapeño en tiras, la cebolla, el zumo de 1/4 lima (doble para 4p), la sal para encurtir y el vinagre para encurtir (ver cantidad en ingredientes de ambos). Remueve y deja marinar hasta el emplatado.\n \nRECUERDA: Lávate bien las manos después de manipular el jalapeño.",
+      "instructionsHTML": "<p dir=\"ltr\">Corta el <strong>jalapeño</strong> restante en tiras finas. Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. En un bol, agrega el <strong>jalapeño </strong>en tiras, la <strong>cebolla</strong>, el zumo de 1/4 <strong>lima</strong> (doble para 4p), la <strong>sal para encurtir</strong> y el <strong>vinagre para encurtir</strong> (ver cantidad en ingredientes de ambos). Remueve y deja marinar hasta el emplatado.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate bien las manos después de manipular el jalapeño.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Corta el <strong>jalapeño</strong> restante en tiras finas. Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. En un bol, agrega el <strong>jalapeño </strong>en tiras, la <strong>cebolla</strong>, el zumo de 1/4 <strong>lima</strong> (doble para 4p), la <strong>sal para encurtir</strong> y el <strong>vinagre para encurtir</strong> (ver cantidad en ingredientes de ambos). Remueve y deja marinar hasta el emplatado.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate bien las manos después de manipular el jalapeño.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192d953d80a036210c062/step-122c1c10.jpg",
+          "path": "/650192d953d80a036210c062/step-122c1c10.jpg",
+          "caption": "Encurte el jalapeño y la cebolla",
+          "localImage": "/images/recipes/650192d953d80a036210c062-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén, calienta un chorrito de aceite a fuego medio-alto. Una vez caliente, agrega la carne de cerdo y, con ayuda de una espátula, desmenuza la carne para que se cueza uniformemente. Añade las especias mexicanas y cocina 4-5 min, removiendo ocasionalmente, hasta que la carne se dore. Salpimienta al gusto.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega la <strong>carne de cerdo</strong> y, con ayuda de una espátula, desmenuza la <strong>carne</strong> para que se cueza uniformemente. Añade las <strong>especias mexicanas</strong> y cocina 4-5 min, removiendo ocasionalmente, hasta que la <strong>carne</strong> se dore. <strong>Salpimienta</strong> al gusto.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega la <strong>carne de cerdo</strong> y, con ayuda de una espátula, desmenuza la <strong>carne</strong> para que se cueza uniformemente. Añade las <strong>especias mexicanas</strong> y cocina 4-5 min, removiendo ocasionalmente, hasta que la <strong>carne</strong> se dore. <strong>Salpimienta</strong> al gusto.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396",
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192d953d80a036210c062/step-eea37d20.jpg",
+          "path": "/650192d953d80a036210c062/step-eea37d20.jpg",
+          "caption": "Cocina la carne",
+          "localImage": "/images/recipes/650192d953d80a036210c062-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Coloca las tortillas de trigo en una bandeja de horno con papel de horno y agrega el queso rallado sobre las tortillas. Hornea en el estante superior 3-4 min, hasta que el queso se funda. Corta la lima restante a gajos. Cuando estén listas, coloca las tortillas en platos y agrega encima la carne aderezada, la cebolla y jalapeño encurtidos, previamente escurridos, y salsa de jalapeño al gusto. Agrega zumo de lima al gusto sobre los tacos.",
+      "instructionsHTML": "<p dir=\"ltr\"><span>Coloca las <strong>tortillas de trigo</strong> en una bandeja de horno con papel de horno y agrega el <strong>queso rallado</strong> sobre las <strong>tortillas</strong>. Hornea en el estante superior 3-4 min, hasta que el <strong>queso</strong> se funda. Corta la <strong>lima</strong> restante a gajos. Cuando estén listas, coloca las <strong>tortillas</strong> en platos y agrega encima la <strong>carne</strong> aderezada, la <strong>cebolla</strong> y <strong>jalapeño</strong> encurtidos, previamente escurridos, y <strong>salsa de jalapeño</strong> al gusto. Agrega <strong>zumo de lima</strong> al gusto sobre los <strong>tacos</strong>.</span></p>",
+      "instructionsMarkdown": "<p dir=\"ltr\"><span>Coloca las <strong>tortillas de trigo</strong> en una bandeja de horno con papel de horno y agrega el <strong>queso rallado</strong> sobre las <strong>tortillas</strong>. Hornea en el estante superior 3-4 min, hasta que el <strong>queso</strong> se funda. Corta la <strong>lima</strong> restante a gajos. Cuando estén listas, coloca las <strong>tortillas</strong> en platos y agrega encima la <strong>carne</strong> aderezada, la <strong>cebolla</strong> y <strong>jalapeño</strong> encurtidos, previamente escurridos, y <strong>salsa de jalapeño</strong> al gusto. Agrega <strong>zumo de lima</strong> al gusto sobre los <strong>tacos</strong>.</span></p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192d953d80a036210c062/step-c4f4c030.jpg",
+          "path": "/650192d953d80a036210c062/step-c4f4c030.jpg",
+          "caption": "Tuesta las tortillas y emplata",
+          "localImage": "/images/recipes/650192d953d80a036210c062-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESQCP14867-3",
+  "updatedAt": "2025-12-19T08:27:11+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "cac8e82f-385b-4ee4-9d47-630271110209",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/tacos-cerdo-salsa-jalapenos-encurtidos-650192d953d80a036210c062",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437241033266d7be951e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 25,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "645bbd78d8259131b372d893",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437241033266d7be951e",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "645bbd78d8259131b372d893",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/650192d953d80a036210c062-Tacos de cerdo con salsa de jalapeño.jpg",
+  "localCard": "/pdf/650192d953d80a036210c062-Tacos de cerdo con salsa de jalapeño.pdf"
+}

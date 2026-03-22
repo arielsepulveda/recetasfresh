@@ -1,0 +1,838 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f4",
+      "name": "Crustáceos",
+      "type": "crustaceans",
+      "slug": "crustaceos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.5,
+  "canonical": "66c74313148d730f514fa1ca",
+  "canonicalLink": "https://www.hellofresh.es/recipes/baos-de-langostinos-crujientes-con-salsa-de-chile-dulce-66c74313148d730f514fa1ca",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68d69e049ed4d679418a222e-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "66c74313148d730f514fa1ca",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-07T13:50:42+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a6",
+      "type": "chinese",
+      "name": "China",
+      "slug": "china",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a6-846a76df.jpg"
+    }
+  ],
+  "description": "Unos baos de langostinos crujientes son pura tentación gastronómica: suaves por fuera, dorados y delicadamente crujientes por dentro. Cada bocado combina la esponjosidad del pan al vapor con el contraste crujiente del langostino frito. No es un plato que se encuentre en cualquier sitio, y quizá por eso sabe aún más especial.",
+  "descriptionHTML": "<p>Unos baos de langostinos crujientes son pura tentación gastronómica: suaves por fuera, dorados y delicadamente crujientes por dentro. Cada bocado combina la esponjosidad del pan al vapor con el contraste crujiente del langostino frito. No es un plato que se encuentre en cualquier sitio, y quizá por eso sabe aún más especial.</p>",
+  "descriptionMarkdown": "Unos baos de langostinos crujientes son pura tentación gastronómica: suaves por fuera, dorados y delicadamente crujientes por dentro. Cada bocado combina la esponjosidad del pan al vapor con el contraste crujiente del langostino frito. No es un plato que se encuentre en cualquier sitio, y quizá por eso sabe aún más especial.",
+  "difficulty": 2,
+  "favoritesCount": 8,
+  "headline": "acompañados de ensalada de pepino con aderezo asiático ",
+  "id": "68d69e049ed4d679418a222e",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R21_W50_ES_ESSSFS31791_2_edit_shrimp_Main_high-1a8dd0cf.jpg",
+  "imagePath": "/image/HF_Y25_R21_W50_ES_ESSSFS31791_2_edit_shrimp_Main_high-1a8dd0cf.jpg",
+  "ingredients": [
+    {
+      "id": "6340436f41033266d7be9513",
+      "uuid": "822e0f6e-0b50-54d0-9774-fee0a98b0271",
+      "name": "Pepino",
+      "type": "cucumber",
+      "slug": "pepino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9513-Pepino.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff179",
+      "uuid": "ebd2f698-4242-5deb-b767-d529fb84b42f",
+      "name": "Aceite de sésamo",
+      "type": "sesame-oil",
+      "slug": "aceite-de-sesamo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff179-Aceite de sésamo.png"
+    },
+    {
+      "id": "63724760422e0b6ac4f85686",
+      "uuid": "0b18a29e-c9df-5b77-903e-c2e60206b65a",
+      "name": "Langostinos",
+      "type": "shrimps",
+      "slug": "langostinos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "imagePath": "/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f4"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63724760422e0b6ac4f85686-Langostinos.png"
+    },
+    {
+      "id": "6874cb2f5a587f17f4588c97",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "imagePath": "/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6874cb2f5a587f17f4588c97-Panko.png"
+    },
+    {
+      "id": "6340437941033266d7be9532",
+      "uuid": "e4b1a01a-6e1c-55ff-b4a6-59bdd48c4989",
+      "name": "Salsa de chile dulce",
+      "type": "sweet-chili-sauce",
+      "slug": "salsa-de-chile-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9532-b0077af3.jpg",
+      "imagePath": "/ingredient/6340437941033266d7be9532-b0077af3.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9532-Salsa de chile dulce.jpg"
+    },
+    {
+      "id": "68817ab50e296dba6fd6baef",
+      "uuid": "c8e5d8c2-4a72-52f5-95ee-ce8e77e4279c",
+      "name": "Pan bao",
+      "type": "bao-bun",
+      "slug": "pan-bao",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65cb807d5d02509305946748-1d9cae1a.png",
+      "imagePath": "/ingredient/65cb807d5d02509305946748-1d9cae1a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68817ab50e296dba6fd6baef-Pan bao.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    },
+    {
+      "id": "634928a2e9568549b78497e1",
+      "uuid": "f099a1c2-6d5f-42a2-a188-cad2ad1b6d5f",
+      "name": "Aceite para freír",
+      "type": "sunflower-oil",
+      "slug": "aceite-para-freir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "imagePath": "/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634928a2e9568549b78497e1-Aceite para freír.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68d69e049ed4d679418a222e",
+  "name": "Ebi Bao: langostinos crujientes con salsa de chile dulce",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3860,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 923,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 42.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 93.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 5.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 30.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.6,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 12,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 458,
+  "slug": "ebi-bao-langostinos-crujientes-con-salsa-de-chile-dulce",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nRetira los extremos del pepino y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5 cm.\nPela y ralla el ajo.\nEn una ensaladera, mezcla la salsa de soja, el aceite de sésamo y el ajo.\nAñade el pepino, remueve y reserva en la nevera.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Retira los extremos del <strong>pepino</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5 cm.</li>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>En una ensaladera, mezcla la <strong>salsa de soja,</strong> el <strong>aceite de sésamo</strong> y el <strong>ajo</strong>.</li>\n<li>Añade el <strong>pepino,</strong> remueve y reserva en la nevera.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Retira los extremos del <strong>pepino</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5 cm.</li>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>En una ensaladera, mezcla la <strong>salsa de soja,</strong> el <strong>aceite de sésamo</strong> y el <strong>ajo</strong>.</li>\n<li>Añade el <strong>pepino,</strong> remueve y reserva en la nevera.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d69e049ed4d679418a222e/step-56f1df00.jpg",
+          "path": "/68d69e049ed4d679418a222e/step-56f1df00.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68d69e049ed4d679418a222e-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nSeca y salpimienta los langostinos.\nEn un bol, bate el huevo con varillas.\nEn un plato hondo, añade el panko y salpimienta al gusto.\nCubre los langostinos con el huevo batido.\nLuego, cúbrelos con panko, presionando ligeramente.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.",
+      "instructionsHTML": "<ul>\n<li>Seca y <strong>salpimienta</strong> los <strong>langostinos.</strong></li>\n<li>En un bol, bate el <strong>huevo</strong> con varillas.</li>\n<li>En un plato hondo, añade el <strong>panko</strong> y <strong>salpimienta</strong> al gusto.</li>\n<li>Cubre los <strong>langostinos</strong> con el <strong>huevo</strong> batido.</li>\n<li>Luego, cúbrelos con <strong>panko,</strong> presionando ligeramente.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Seca y <strong>salpimienta</strong> los <strong>langostinos.</strong></li>\n<li>En un bol, bate el <strong>huevo</strong> con varillas.</li>\n<li>En un plato hondo, añade el <strong>panko</strong> y <strong>salpimienta</strong> al gusto.</li>\n<li>Cubre los <strong>langostinos</strong> con el <strong>huevo</strong> batido.</li>\n<li>Luego, cúbrelos con <strong>panko,</strong> presionando ligeramente.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384",
+        "59d49a9319279f8fe60e866f",
+        "57e2674fb7e8697d4b30539f",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d69e049ed4d679418a222e/step-f37ad010.jpg",
+          "path": "/68d69e049ed4d679418a222e/step-f37ad010.jpg",
+          "caption": "Reboza los langostinos",
+          "localImage": "/images/recipes/68d69e049ed4d679418a222e-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una sartén, calienta a fuego medio el aceite para freír.\nCuando esté caliente, fríe los langostinos 1-2 min por lado o hasta que estén dorados y cocinados en el interior.\nReserva los langostinos en un bol con papel de cocina.\nLuego, retira el papel de cocina, añade la salsa de chile dulce y mezcla con cuidado.\n",
+      "instructionsHTML": "<ul>\n<li>En una sartén, calienta a fuego medio el <strong>aceite para freír</strong>.</li>\n<li>Cuando esté caliente, fríe los <strong>langostinos</strong> 1-2 min por lado o hasta que estén dorados y cocinados en el interior.</li>\n<li>Reserva los <strong>langostinos</strong> en un bol con papel de cocina.</li>\n<li>Luego, retira el papel de cocina, añade la <strong>salsa de chile dulce</strong> y mezcla con cuidado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, calienta a fuego medio el <strong>aceite para freír</strong>.</li>\n<li>Cuando esté caliente, fríe los <strong>langostinos</strong> 1-2 min por lado o hasta que estén dorados y cocinados en el interior.</li>\n<li>Reserva los <strong>langostinos</strong> en un bol con papel de cocina.</li>\n<li>Luego, retira el papel de cocina, añade la <strong>salsa de chile dulce</strong> y mezcla con cuidado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d69e049ed4d679418a222e/step-a2d6c020.jpg",
+          "path": "/68d69e049ed4d679418a222e/step-a2d6c020.jpg",
+          "caption": "¡A la rica fritura!",
+          "localImage": "/images/recipes/68d69e049ed4d679418a222e-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nColoca los panes bao en un plato, sin que se toquen entre ellos, y calienta en el microondas entre 40 y 60 segundos a máxima potencia, hasta que queden tiernos y esponjosos.\nRellena los baos con ensalada de pepino al gusto y langostinos crujientes.\nAgrega la rúcula a la ensaladera con el pepino restante y sirve a un lado como acompañamiento.\n",
+      "instructionsHTML": "<ul>\n<li>Coloca los <strong>panes bao</strong> en un plato, sin que se toquen entre ellos, y calienta en el microondas entre 40 y 60 segundos a máxima potencia, hasta que queden tiernos y esponjosos.</li>\n<li>Rellena los baos con <strong>ensalada</strong> de <strong>pepino</strong> al gusto y <strong>langostinos</strong> crujientes.</li>\n<li>Agrega la <strong>rúcula</strong> a la ensaladera con el <strong>pepino</strong> restante y sirve a un lado como acompañamiento.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca los <strong>panes bao</strong> en un plato, sin que se toquen entre ellos, y calienta en el microondas entre 40 y 60 segundos a máxima potencia, hasta que queden tiernos y esponjosos.</li>\n<li>Rellena los baos con <strong>ensalada</strong> de <strong>pepino</strong> al gusto y <strong>langostinos</strong> crujientes.</li>\n<li>Agrega la <strong>rúcula</strong> a la ensaladera con el <strong>pepino</strong> restante y sirve a un lado como acompañamiento.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d69e049ed4d679418a222e/step-dab15b30.jpg",
+          "path": "/68d69e049ed4d679418a222e/step-dab15b30.jpg",
+          "caption": "Monta los baos y disfruta",
+          "localImage": "/images/recipes/68d69e049ed4d679418a222e-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "634f52cb7232b8c6440df4ef",
+      "type": "street-food",
+      "name": "Street food",
+      "slug": "street-food",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESSSFS31791-2",
+  "updatedAt": "2026-01-20T20:19:26+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539f",
+      "type": "soupbowl",
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "5044cdee-c0ee-423e-82bb-3b240f628219",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ebi-bao-langostinos-crujientes-con-salsa-de-chile-dulce-68d69e049ed4d679418a222e",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9532",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "68817ab50e296dba6fd6baef",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": "unit"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9532",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "68817ab50e296dba6fd6baef",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unit"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 75,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9532",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "68817ab50e296dba6fd6baef",
+          "amount": 18,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 3,
+          "unit": "unit"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 450,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68d69e049ed4d679418a222e-Ebi Bao langostinos crujientes con salsa de chile dulce.jpg",
+  "localCard": "/pdf/68d69e049ed4d679418a222e-Ebi Bao langostinos crujientes con salsa de chile dulce.pdf"
+}

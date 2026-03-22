@@ -1,0 +1,724 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/678f5f34c804dab549eaa815-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "639097bc3f8a1048bbfcf080",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-01-21T08:47:49+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "La coca de trampó es un plato tradicional de las Islas Baleares y, principalmente, de Mallorca, en el que se dispone el \"trampó\", una ensalada de verduras frescas, sobre una coca o masa. En esta ocasión, hemos decidirlo preparar una versión al más puro estilo HelloFresh, para que disfrutes de este plato tradicional de una manera diferente.",
+  "descriptionHTML": "<p>La coca de trampó es un plato tradicional de las Islas Baleares y, principalmente, de Mallorca, en el que se dispone el &quot;trampó&quot;, una ensalada de verduras frescas, sobre una coca o masa. En esta ocasión, hemos decidirlo preparar una versión al más puro estilo HelloFresh, para que disfrutes de este plato tradicional de una manera diferente.</p>",
+  "descriptionMarkdown": "La coca de trampó es un plato tradicional de las Islas Baleares y, principalmente, de Mallorca, en el que se dispone el \"trampó\", una ensalada de verduras frescas, sobre una coca o masa. En esta ocasión, hemos decidirlo preparar una versión al más puro estilo HelloFresh, para que disfrutes de este plato tradicional de una manera diferente.",
+  "difficulty": 2,
+  "favoritesCount": 13,
+  "headline": "con vinagreta de miel y ajo asado",
+  "id": "678f5f34c804dab549eaa815",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R04_W35_ES_ESCVV13930-4_switch_orgeano_edit_Main_high-5f50ac9b.jpg",
+  "imagePath": "/image/HF_Y23_R04_W35_ES_ESCVV13930-4_switch_orgeano_edit_Main_high-5f50ac9b.jpg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "63497d88971d5eddb3ff71b2",
+      "uuid": "ca2eb932-2be6-58fe-9c2b-05bd27036489",
+      "name": "Base de pizza",
+      "type": "pizza-bases",
+      "slug": "base-de-pizza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b2-Base de pizza.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "634d280debf08332f1bff1a3",
+      "uuid": "8d052f30-746c-4518-b8be-f170e199c63b",
+      "name": "Queso griego",
+      "type": "greek-salad-cheese",
+      "slug": "queso-griego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d280debf08332f1bff1a3-f0b0fd50.png",
+      "imagePath": "/ingredient/634d280debf08332f1bff1a3-f0b0fd50.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d280debf08332f1bff1a3-Queso griego.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63c91033ab23cdb3e671f036",
+      "uuid": "2e1d313f-a43e-4c7c-97fb-ab919b7c7531",
+      "name": "Ajo para la salsa",
+      "type": "garlic-for-sauce",
+      "slug": "ajo-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63c91033ab23cdb3e671f036-ba3e60f0.png",
+      "imagePath": "/ingredient/63c91033ab23cdb3e671f036-ba3e60f0.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63c91033ab23cdb3e671f036-Ajo para la salsa.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/678f5f34c804dab549eaa815",
+  "name": "Coca con crema de pimientos y queso griego",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3115,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 744,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 33.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 12.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 99.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 17.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 5.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 23.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.88,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 21,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 473,
+  "slug": "coca-con-crema-de-pimientos-y-queso-griego",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "\n\n¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela la cebolla, divídela en dos y córtala en tiras finas. Corta los pimientos por la mitad y quítales las semillas. Luego, córtalos en dados de 1-2 cm.\n\n",
+      "instructionsHTML": "<p><div dir=&quot;ltr&quot;>\n<div>\n<div id=&quot;waffle-rich-text-editor&quot; dir=&quot;ltr&quot;>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. Corta los <strong>pimientos</strong> por la mitad<strong> </strong>y quítales las semillas. Luego, córtalos en dados de 1-2 cm.</div>\n</div>\n</div></p>",
+      "instructionsMarkdown": "<div dir=\"ltr\">\n<div>\n<div id=\"waffle-rich-text-editor\" dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. Corta los <strong>pimientos</strong> por la mitad<strong> </strong>y quítales las semillas. Luego, córtalos en dados de 1-2 cm.</div>\n</div>\n</div>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/678f5f34c804dab549eaa815/step-b5503a00.jpg",
+          "path": "/678f5f34c804dab549eaa815/step-b5503a00.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/678f5f34c804dab549eaa815-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una bandeja de horno con papel de horno, agrega las verduras y cubre con un chorrito de aceite, sal y pimienta. Remueve para aderezar. Agrega también el ajo sin pelar (ver cantidad en ingredientes). Hornea 17-20 min, hasta que estén las verduras queden tiernas y doradas.",
+      "instructionsHTML": "<p><span>En una bandeja de horno con papel de horno, agrega las <strong>verduras</strong> y cubre con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> Remueve para aderezar. Agrega también el <strong>ajo</strong> sin pelar (ver cantidad en ingredientes). Hornea 17-20 min, hasta que estén las <strong>verduras</strong> queden tiernas y doradas.</span></p>",
+      "instructionsMarkdown": "<p><span>En una bandeja de horno con papel de horno, agrega las <strong>verduras</strong> y cubre con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> Remueve para aderezar. Agrega también el <strong>ajo</strong> sin pelar (ver cantidad en ingredientes). Hornea 17-20 min, hasta que estén las <strong>verduras</strong> queden tiernas y doradas.</span></p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/678f5f34c804dab549eaa815/step-48366210.jpg",
+          "path": "/678f5f34c804dab549eaa815/step-48366210.jpg",
+          "caption": "Hornea las verduras",
+          "localImage": "/images/recipes/678f5f34c804dab549eaa815-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Luego, coloca las bases de pizza en otra bandeja de horno con papel de horno. A un lado, agrega el ajo para la salsa (ver cantidad en ingredientes) sin pelar. Hornea a media altura durante 6-7 min o hasta que las pizzas se doren ligeramente.",
+      "instructionsHTML": "<p>Luego, coloca las <strong>bases de pizza</strong> en otra bandeja de horno con papel de horno. A un lado, agrega el <strong>ajo para la salsa</strong> (ver cantidad en ingredientes) sin pelar. Hornea a media altura durante 6-7 min o hasta que las <strong>pizzas </strong>se doren ligeramente.</p>",
+      "instructionsMarkdown": "<p>Luego, coloca las <strong>bases de pizza</strong> en otra bandeja de horno con papel de horno. A un lado, agrega el <strong>ajo para la salsa</strong> (ver cantidad en ingredientes) sin pelar. Hornea a media altura durante 6-7 min o hasta que las <strong>pizzas </strong>se doren ligeramente.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/678f5f34c804dab549eaa815/step-cbe70c20.jpg",
+          "path": "/678f5f34c804dab549eaa815/step-cbe70c20.jpg",
+          "caption": "Tuesta las bases",
+          "localImage": "/images/recipes/678f5f34c804dab549eaa815-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Coloca las verduras asadas, sin incluir el ajo asado, en una jarra medidora y agrega la mitad del queso griego. Tritura con un túrmix hasta conseguir una crema lisa. Retira el ajo para la salsa del horno. Luego, reparte la crema de pimientos sobre las bases de pizza, dejando 1 cm del borde sin cubrir. Hornea a media altura 6-8 min más o hasta que estén doradas.",
+      "instructionsHTML": "<p><span>Coloca las <strong>verduras</strong> asadas, sin incluir el <strong>ajo</strong> asado, en una jarra medidora y agrega la mitad del <strong>queso griego</strong>. Tritura con un túrmix hasta conseguir una <strong>crema</strong> lisa. Retira el <strong>ajo para la salsa</strong> del horno. Luego, reparte la <strong>crema de pimientos</strong> sobre las <strong>bases de pizza</strong>, dejando 1 cm del borde sin cubrir. Hornea a media altura 6-8 min más o hasta que estén doradas.</span></p>",
+      "instructionsMarkdown": "<p><span>Coloca las <strong>verduras</strong> asadas, sin incluir el <strong>ajo</strong> asado, en una jarra medidora y agrega la mitad del <strong>queso griego</strong>. Tritura con un túrmix hasta conseguir una <strong>crema</strong> lisa. Retira el <strong>ajo para la salsa</strong> del horno. Luego, reparte la <strong>crema de pimientos</strong> sobre las <strong>bases de pizza</strong>, dejando 1 cm del borde sin cubrir. Hornea a media altura 6-8 min más o hasta que estén doradas.</span></p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/678f5f34c804dab549eaa815/step-90b5dd30.jpg",
+          "path": "/678f5f34c804dab549eaa815/step-90b5dd30.jpg",
+          "caption": "Tritura las verduras",
+          "localImage": "/images/recipes/678f5f34c804dab549eaa815-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Pela el ajo para la salsa y desecha la piel. En un bol pequeño, agrega el ajo asado y aplástalo un tenedor. Luego, añade al bol el vinagre balsámico, la miel y un chorrito de aceite. Salpimienta y mezcla con varillas. Desmenuza el queso griego restante en trozos medianos.",
+      "instructionsHTML": "<p>Pela el <strong>ajo para la salsa</strong> y desecha la piel. En un bol pequeño, agrega el <strong>ajo</strong> asado y aplástalo un tenedor. Luego, añade al bol el <strong>vinagre balsámico</strong>, la <strong>miel</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y mezcla con varillas. Desmenuza el <strong>queso griego</strong> restante en trozos medianos.</p>",
+      "instructionsMarkdown": "<p>Pela el <strong>ajo para la salsa</strong> y desecha la piel. En un bol pequeño, agrega el <strong>ajo</strong> asado y aplástalo un tenedor. Luego, añade al bol el <strong>vinagre balsámico</strong>, la <strong>miel</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y mezcla con varillas. Desmenuza el <strong>queso griego</strong> restante en trozos medianos.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/678f5f34c804dab549eaa815/step-4d447a40.jpg",
+          "path": "/678f5f34c804dab549eaa815/step-4d447a40.jpg",
+          "caption": "Prepara el aliño",
+          "localImage": "/images/recipes/678f5f34c804dab549eaa815-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve la coca con crema de pimientos en platos y agrega el queso griego desmenuzado encima. Añade el aliño de ajo asado sobre la coca y espolvorea el orégano (ver cantidad en ingredientes) al gusto.",
+      "instructionsHTML": "<p>Sirve la <strong>coca</strong> con <strong>crema de pimientos</strong> en platos y agrega el <strong>queso griego</strong> desmenuzado encima. Añade el <strong>aliño de ajo asado</strong> sobre la <strong>coca</strong> y espolvorea el <strong>orégano</strong> (ver cantidad en ingredientes) al gusto.</p>",
+      "instructionsMarkdown": "<p>Sirve la <strong>coca</strong> con <strong>crema de pimientos</strong> en platos y agrega el <strong>queso griego</strong> desmenuzado encima. Añade el <strong>aliño de ajo asado</strong> sobre la <strong>coca</strong> y espolvorea el <strong>orégano</strong> (ver cantidad en ingredientes) al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/678f5f34c804dab549eaa815/step-0c037a50.jpg",
+          "path": "/678f5f34c804dab549eaa815/step-0c037a50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/678f5f34c804dab549eaa815-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "6566f7d63bae852974651021",
+      "type": "prepped-in-10",
+      "name": "Preparación en 10'",
+      "slug": "preparacion-en-10",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT10M",
+  "uniqueRecipeCode": "ESCVV13930-14",
+  "updatedAt": "2025-09-10T08:10:02+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "f9358d73-f6b4-4920-bc69-66ecc6c68347",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/coca-con-crema-de-pimientos-y-queso-griego-678f5f34c804dab549eaa815",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d280debf08332f1bff1a3",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63c91033ab23cdb3e671f036",
+          "amount": 1,
+          "unit": null
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d280debf08332f1bff1a3",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63c91033ab23cdb3e671f036",
+          "amount": 2,
+          "unit": null
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/678f5f34c804dab549eaa815-Coca con crema de pimientos y queso griego.jpg",
+  "localCard": "/pdf/678f5f34c804dab549eaa815-Coca con crema de pimientos y queso griego.pdf"
+}

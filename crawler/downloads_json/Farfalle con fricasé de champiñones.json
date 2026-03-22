@@ -1,0 +1,739 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "63f785b26d1f74727a153bed",
+  "canonicalLink": "https://www.hellofresh.es/recipes/farfalle-con-fricase-de-champinones-63f785b26d1f74727a153bed",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/649f375227a2eef57c938596.pdf",
+  "category": null,
+  "clonedFrom": "6347ef444eacd7e8b5e77bf9",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-06-30T20:13:06+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "El \"fricasé\" es un plato de origen francés en el que se dora la carne, verduras o pescado con mantequilla y se guisa con una salsa blanca. En este caso, te ofrecemos que prepares un fricasé de champiñones, acompañado de queso italiano y perejil, que aderezará la pasta y se servirá sobre una refrescante cama de rúcula.",
+  "descriptionHTML": "<p>El &quot;fricasé&quot; es un plato de origen francés en el que se dora la carne, verduras o pescado con mantequilla y se guisa con una salsa blanca. En este caso, te ofrecemos que prepares un fricasé de champiñones, acompañado de queso italiano y perejil, que aderezará la pasta y se servirá sobre una refrescante cama de rúcula.</p>",
+  "descriptionMarkdown": "El \"fricasé\" es un plato de origen francés en el que se dora la carne, verduras o pescado con mantequilla y se guisa con una salsa blanca. En este caso, te ofrecemos que prepares un fricasé de champiñones, acompañado de queso italiano y perejil, que aderezará la pasta y se servirá sobre una refrescante cama de rúcula.",
+  "difficulty": 1,
+  "favoritesCount": 32,
+  "headline": "con queso italiano curado y rúcula",
+  "id": "649f375227a2eef57c938596",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R09_W19_ES_ESCFVQV0030-2-2_Main__2high-49f14f85.jpg",
+  "imagePath": "/image/HF_Y23_R09_W19_ES_ESCFVQV0030-2-2_Main__2high-49f14f85.jpg",
+  "ingredients": [
+    {
+      "id": "634fd2e834c59d5ef0faeb46",
+      "uuid": "829ae3c1-0e5b-5eed-a428-235f7e0b90e3",
+      "name": "Farfalle",
+      "type": "farfalle",
+      "slug": "farfalle",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634fd2e834c59d5ef0faeb46-2be6a40d.png",
+      "imagePath": "/ingredient/634fd2e834c59d5ef0faeb46-2be6a40d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634fd2e834c59d5ef0faeb46-Farfalle.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f7",
+      "uuid": "0c719142-be77-4ddd-94a0-b6219698b827",
+      "name": "Champiñones",
+      "type": "champignon-mushrooms",
+      "slug": "champinones",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f7-Champiñones.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "638d95012d9af192559539ba",
+      "uuid": "81735a05-eaac-4944-b263-c8299b14566d",
+      "name": "Agua de la cocción",
+      "type": "cooking-water",
+      "slug": "agua-de-la-coccion",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "imagePath": "/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638d95012d9af192559539ba-Agua de la cocción.jpg"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/649f375227a2eef57c938596",
+  "name": "Farfalle con fricasé de champiñones",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2373,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 567,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 14.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 8.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 76.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 24.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.53,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 30,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 382,
+  "slug": "farfalle-con-fricase-de-champinones",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, pon a hervir abundante agua con sal. Pela la cebolla y corta una mitad (doble para 4p) en daditos. Pela y pica el ajo (ver cantidad en ingredientes). Limpia los champiñones con un paño húmedo. Retira el extremo del pie de los champiñones. Luego, córtalos por la mitad y haz láminas finas. Deshoja y pica la mitad del perejil (doble para 4p).",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, pon a hervir abundante <strong>agua</strong> con <strong>sal</strong>. Pela la <strong>cebolla</strong> y corta una mitad (doble para 4p) en daditos. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Limpia los <strong>champiñones</strong> con un paño húmedo. Retira el extremo del pie de los <strong>champiñones</strong>. Luego, córtalos por la mitad y haz láminas finas. Deshoja y pica la mitad del <strong>perejil</strong> (doble para 4p).</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, pon a hervir abundante <strong>agua</strong> con <strong>sal</strong>. Pela la <strong>cebolla</strong> y corta una mitad (doble para 4p) en daditos. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Limpia los <strong>champiñones</strong> con un paño húmedo. Retira el extremo del pie de los <strong>champiñones</strong>. Luego, córtalos por la mitad y haz láminas finas. Deshoja y pica la mitad del <strong>perejil</strong> (doble para 4p).</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375227a2eef57c938596/step-bcd69200.jpg",
+          "path": "/649f375227a2eef57c938596/step-bcd69200.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/649f375227a2eef57c938596-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Cuando el agua de la olla hierva, agrega los farfalle y cocina, con la olla tapada, 12-13 min o hasta que estén tiernos. Cuando estén listos, reserva el agua de cocción (ver cantidad en ingredientes). Luego, escurre con ayuda de un colador y reserva los farfalle de nuevo en la olla.",
+      "instructionsHTML": "<p>Cuando el <strong>agua</strong> de la olla hierva, agrega los <strong>farfalle</strong> y cocina, con la olla tapada, 12-13 min o hasta que estén tiernos. Cuando estén listos, reserva el <strong>agua de cocción</strong> (ver cantidad en ingredientes). Luego, escurre con ayuda de un colador y reserva los <strong>farfalle</strong> de nuevo en la olla.</p>",
+      "instructionsMarkdown": "<p>Cuando el <strong>agua</strong> de la olla hierva, agrega los <strong>farfalle</strong> y cocina, con la olla tapada, 12-13 min o hasta que estén tiernos. Cuando estén listos, reserva el <strong>agua de cocción</strong> (ver cantidad en ingredientes). Luego, escurre con ayuda de un colador y reserva los <strong>farfalle</strong> de nuevo en la olla.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375227a2eef57c938596/step-4f370210.jpg",
+          "path": "/649f375227a2eef57c938596/step-4f370210.jpg",
+          "caption": "Hierve la pasta",
+          "localImage": "/images/recipes/649f375227a2eef57c938596-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén grande, agrega un chorrito de aceite o la mantequilla (ver cantidad en ingredientes) junto con el ajo. Calienta a fuego medio y cocina 1-2 min. Agrega la cebolla y cocina 2 min. Añade los champiñones y cocina 4-5 min. Salpimienta y añade la mitad de la nata líquida (doble para 4p) y el orégano (ver cantidad en ingredientes). Lleva a ebullición, luego, cocina a fuego medio durante 2-3 min, hasta que la salsa espese.",
+      "instructionsHTML": "<p>En una sartén grande, agrega un chorrito de <strong>aceite</strong> o la <strong>mantequilla</strong> (ver cantidad en ingredientes) junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Agrega la <strong>cebolla</strong> y cocina 2 min. Añade los <strong>champiñones</strong> y cocina 4-5 min. <strong>Salpimienta</strong> y añade la mitad de la <strong>nata líquida</strong> (doble para 4p) y el <strong>orégano </strong>(ver cantidad en ingredientes). Lleva a ebullición, luego, cocina a fuego medio durante 2-3 min, hasta que la <strong>salsa</strong> espese.</p>",
+      "instructionsMarkdown": "<p>En una sartén grande, agrega un chorrito de <strong>aceite</strong> o la <strong>mantequilla</strong> (ver cantidad en ingredientes) junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Agrega la <strong>cebolla</strong> y cocina 2 min. Añade los <strong>champiñones</strong> y cocina 4-5 min. <strong>Salpimienta</strong> y añade la mitad de la <strong>nata líquida</strong> (doble para 4p) y el <strong>orégano </strong>(ver cantidad en ingredientes). Lleva a ebullición, luego, cocina a fuego medio durante 2-3 min, hasta que la <strong>salsa</strong> espese.</p>",
+      "ingredients": [],
+      "utensils": [
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375227a2eef57c938596/step-566cd720.jpg",
+          "path": "/649f375227a2eef57c938596/step-566cd720.jpg",
+          "caption": "Prepara el fricasé",
+          "localImage": "/images/recipes/649f375227a2eef57c938596-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la olla de los farfalle, agrega el fricasé de champiñones, 30 ml de agua de cocción (doble para 4p) y la mitad del queso rallado. Cocina a fuego lento 2 min mientras remueves, hasta que la pasta quede cubierta por la salsa y el queso se integre. Apaga el fuego y agrega la mitad del perejil. Sirve la rúcula en la base de los platos y cubre con los farfalle con fricasé de champiñones. Espolvorea el perejil y el queso rallado restante.",
+      "instructionsHTML": "<p>En la olla de los <strong>farfalle</strong>, agrega el <strong>fricasé de champiñones</strong>, 30 ml de <strong>agua de cocción</strong> (doble para 4p) y la mitad del <strong>queso rallado</strong>. Cocina a fuego lento 2 min mientras remueves, hasta que la <strong>pasta</strong> quede cubierta por la <strong>salsa</strong> y el <strong>queso</strong> se integre. Apaga el fuego y agrega la mitad del <strong>perejil</strong>. Sirve la <strong>rúcula</strong> en la base de los platos y cubre con los <strong>farfalle</strong> con <strong>fricasé de champiñones</strong>. Espolvorea el <strong>perejil</strong> y el <strong>queso rallado</strong> restante.</p>",
+      "instructionsMarkdown": "<p>En la olla de los <strong>farfalle</strong>, agrega el <strong>fricasé de champiñones</strong>, 30 ml de <strong>agua de cocción</strong> (doble para 4p) y la mitad del <strong>queso rallado</strong>. Cocina a fuego lento 2 min mientras remueves, hasta que la <strong>pasta</strong> quede cubierta por la <strong>salsa</strong> y el <strong>queso</strong> se integre. Apaga el fuego y agrega la mitad del <strong>perejil</strong>. Sirve la <strong>rúcula</strong> en la base de los platos y cubre con los <strong>farfalle</strong> con <strong>fricasé de champiñones</strong>. Espolvorea el <strong>perejil</strong> y el <strong>queso rallado</strong> restante.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375227a2eef57c938596/step-10ff4430.jpg",
+          "path": "/649f375227a2eef57c938596/step-10ff4430.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/649f375227a2eef57c938596-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCFVQV0030-3",
+  "updatedAt": "2025-07-28T10:39:53+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "7ad7dbc3-8f94-4d5d-b845-42d3e887fe90",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/farfalle-con-fricase-de-champinones-649f375227a2eef57c938596",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "634fd2e834c59d5ef0faeb46",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "634fd2e834c59d5ef0faeb46",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 80,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/649f375227a2eef57c938596-Farfalle con fricasé de champiñones.jpg",
+  "localCard": "/pdf/649f375227a2eef57c938596-Farfalle con fricasé de champiñones.pdf"
+}

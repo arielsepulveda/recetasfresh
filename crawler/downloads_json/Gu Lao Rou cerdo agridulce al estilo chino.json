@@ -1,0 +1,898 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "63aaf3db92c25465fb350ce7",
+  "canonicalLink": "https://www.hellofresh.es/recipes/cerdo-agridulce-al-estilo-chino-63aaf3db92c25465fb350ce7",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/688a78431cc5cea71280bb2c-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "63751248dc7eecea690161d7",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-07-30T19:53:40+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a6",
+      "type": "chinese",
+      "name": "China",
+      "slug": "china",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a6-846a76df.jpg"
+    }
+  ],
+  "description": "Es muy probable que, si has visitado un restaurante en el que sirven comida china, hayas probado el cerdo agridulce y, a partir de entonces, lo hayas pedido cada vez que vayas. Con esta receta puedes olvidarte de volver a salir para encontrar este plato, pues te enseñamos cómo prepararlo en tu propia cocina con los ingredientes más frescos.",
+  "descriptionHTML": "<p>Es muy probable que, si has visitado un restaurante en el que sirven comida china, hayas probado el cerdo agridulce y, a partir de entonces, lo hayas pedido cada vez que vayas. Con esta receta puedes olvidarte de volver a salir para encontrar este plato, pues te enseñamos cómo prepararlo en tu propia cocina con los ingredientes más frescos.</p>",
+  "descriptionMarkdown": "Es muy probable que, si has visitado un restaurante en el que sirven comida china, hayas probado el cerdo agridulce y, a partir de entonces, lo hayas pedido cada vez que vayas. Con esta receta puedes olvidarte de volver a salir para encontrar este plato, pues te enseñamos cómo prepararlo en tu propia cocina con los ingredientes más frescos.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con verduras y arroz basmati",
+  "id": "688a78431cc5cea71280bb2c",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R14_W13_ES_ESQCP13710-3_Main_high-f164e088.jpg",
+  "imagePath": "/image/HF_Y23_R14_W13_ES_ESQCP13710-3_Main_high-f164e088.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "6340437941033266d7be952e",
+      "uuid": "5039a7c1-5de6-5cc1-995f-aebbb994e544",
+      "name": "Ajo tierno",
+      "type": "spring-onion",
+      "slug": "ajo-tierno",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "imagePath": "/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be952e-Ajo tierno.png"
+    },
+    {
+      "id": "63404376233160a36674ba14",
+      "uuid": "b90fb973-7391-5db2-8d37-b49301e3ecf4",
+      "name": "Lomo de cerdo",
+      "type": "pork-loin-steak",
+      "slug": "lomo-de-cerdo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba14-5d1cb67a.png",
+      "imagePath": "/ingredient/63404376233160a36674ba14-5d1cb67a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba14-Lomo de cerdo.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb5",
+      "uuid": "af922816-acdb-5578-bc98-1d08dc489838",
+      "name": "Kétchup",
+      "type": "ketchup",
+      "slug": "ketchup",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb5-d94d288a.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb5-d94d288a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb5-Kétchup.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/688a78431cc5cea71280bb2c",
+  "name": "Gu Lao Rou: cerdo agridulce al estilo chino",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3649,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 872,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 52,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 2.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 82.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 10.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.34,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 473,
+  "slug": "cerdo-agridulce-al-estilo-chino",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nLlena un cazo con el agua, añade el arroz y sal y lleva a ebullición con el cazo tapado.\nCuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.\nLuego, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua,</strong> añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua,</strong> añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78431cc5cea71280bb2c/step-925b9200.jpg",
+          "path": "/688a78431cc5cea71280bb2c/step-925b9200.jpg",
+          "caption": "Arroz en marcha",
+          "localImage": "/images/recipes/688a78431cc5cea71280bb2c-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y pica el ajo.\nPela la cebolla y córtala en tiras finitas.\nCorta el pimiento en tiras finas de 0,5 cm de grosor.\nCorta el ajo tierno en rodajas finas y separa la parte verde.\nCorta el lomo de cerdo en tiras finas de 1 cm de grosor.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finitas.</li>\n<li>Corta el <strong>pimiento</strong> en tiras finas de 0,5 cm de grosor.</li>\n<li>Corta el <strong>ajo tierno</strong> en rodajas finas y separa la parte verde.</li>\n<li>Corta el <strong>lomo de cerdo </strong>en tiras finas de 1 cm de grosor.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finitas.</li>\n<li>Corta el <strong>pimiento</strong> en tiras finas de 0,5 cm de grosor.</li>\n<li>Corta el <strong>ajo tierno</strong> en rodajas finas y separa la parte verde.</li>\n<li>Corta el <strong>lomo de cerdo </strong>en tiras finas de 1 cm de grosor.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78431cc5cea71280bb2c/step-2623f210.jpg",
+          "path": "/688a78431cc5cea71280bb2c/step-2623f210.jpg",
+          "caption": "Cuchillo en mano",
+          "localImage": "/images/recipes/688a78431cc5cea71280bb2c-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio. Agrega el lomo, salpimienta y cocina 2 min, hasta que esté dorado.\nCuando esté listo, retira de la sartén y reserva.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>lomo</strong>, <strong>salpimienta</strong> y cocina 2 min, hasta que esté dorado.</li>\n<li>Cuando esté listo, retira de la sartén y reserva.</li>\n</ul>\n<p><span>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</span></p>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>lomo</strong>, <strong>salpimienta</strong> y cocina 2 min, hasta que esté dorado.</li>\n<li>Cuando esté listo, retira de la sartén y reserva.</li>\n</ul>\n<p><span>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</span></p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78431cc5cea71280bb2c/step-8f018c20.jpg",
+          "path": "/688a78431cc5cea71280bb2c/step-8f018c20.jpg",
+          "caption": "Que el lomo coja calor",
+          "localImage": "/images/recipes/688a78431cc5cea71280bb2c-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, añade un chorrito de aceite, el ajo y la parte blanca del ajo tierno. Calienta a fuego medio y cocina 1-2 min.\nAñade la cebolla y el pimiento y saltea 4-5 min, removiendo, hasta que se ablanden ligeramente. \n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, añade un chorrito de <strong>aceite</strong>, el <strong>ajo</strong> y la parte blanca del <strong>ajo tierno</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade la <strong>cebolla</strong> y el <strong>pimiento</strong> y saltea 4-5 min, removiendo, hasta que se ablanden ligeramente. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, añade un chorrito de <strong>aceite</strong>, el <strong>ajo</strong> y la parte blanca del <strong>ajo tierno</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade la <strong>cebolla</strong> y el <strong>pimiento</strong> y saltea 4-5 min, removiendo, hasta que se ablanden ligeramente. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78431cc5cea71280bb2c/step-41f5cc30.jpg",
+          "path": "/688a78431cc5cea71280bb2c/step-41f5cc30.jpg",
+          "caption": "¡Al rico salteado!",
+          "localImage": "/images/recipes/688a78431cc5cea71280bb2c-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn un bol, mezcla el kétchup, la salsa de soja, el zumo de la mitad de la lima y el azúcar.\nEn la sartén con las verduras, vuelve a agregar el lomo y añade la salsa agridulce. Mezcla todo bien y cocina 1 min. \n",
+      "instructionsHTML": "<ul>\n<li>En un bol, mezcla el <strong>kétchup</strong>, la <strong>salsa de soja</strong>, el zumo de la mitad de la <strong>lima</strong> y el <strong>azúcar</strong>.</li>\n<li>En la sartén con las <strong>verduras</strong>, vuelve a agregar el <strong>lomo</strong> y añade la <strong>salsa agridulce</strong>. Mezcla todo bien y cocina 1 min. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol, mezcla el <strong>kétchup</strong>, la <strong>salsa de soja</strong>, el zumo de la mitad de la <strong>lima</strong> y el <strong>azúcar</strong>.</li>\n<li>En la sartén con las <strong>verduras</strong>, vuelve a agregar el <strong>lomo</strong> y añade la <strong>salsa agridulce</strong>. Mezcla todo bien y cocina 1 min. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78431cc5cea71280bb2c/step-e46d7040.jpg",
+          "path": "/688a78431cc5cea71280bb2c/step-e46d7040.jpg",
+          "caption": "Salsea con gusto",
+          "localImage": "/images/recipes/688a78431cc5cea71280bb2c-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el arroz basmati en platos y coloca el cerdo con salsa agridulce y verduras encima.\nEspolvorea la parte verde del ajo tierno sobre el plato.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>arroz basmati</strong> en platos y coloca el <strong>cerdo con salsa agridulce</strong> y <strong>verduras</strong> encima.</li>\n<li>Espolvorea la parte verde del <strong>ajo tierno</strong> sobre el plato.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>arroz basmati</strong> en platos y coloca el <strong>cerdo con salsa agridulce</strong> y <strong>verduras</strong> encima.</li>\n<li>Espolvorea la parte verde del <strong>ajo tierno</strong> sobre el plato.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78431cc5cea71280bb2c/step-7ecb3050.jpg",
+          "path": "/688a78431cc5cea71280bb2c/step-7ecb3050.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/688a78431cc5cea71280bb2c-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESQCP13710-13",
+  "updatedAt": "2025-10-07T06:31:08+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    }
+  ],
+  "uuid": "b8cd7ccb-e85d-4154-83aa-0b99477893ce",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/cerdo-agridulce-al-estilo-chino-688a78431cc5cea71280bb2c",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb5",
+          "amount": 30,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 8,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb5",
+          "amount": 60,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 5,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 375,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 10,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb5",
+          "amount": 70,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": null,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": null,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": null,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": null,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb5",
+          "amount": 90,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/688a78431cc5cea71280bb2c-Gu Lao Rou cerdo agridulce al estilo chino.jpg",
+  "localCard": "/pdf/688a78431cc5cea71280bb2c-Gu Lao Rou cerdo agridulce al estilo chino.pdf"
+}

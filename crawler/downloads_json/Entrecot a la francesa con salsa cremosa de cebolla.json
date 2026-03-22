@@ -1,0 +1,741 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.8,
+  "canonical": "6797c46b89d6104200fde00b",
+  "canonicalLink": "https://www.hellofresh.es/recipes/entrecot-con-salsa-cremosa-de-cebolla-pure-de-tuberculos-y-pimientos-del-padron-6797c46b89d6104200fde00b",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68fb937f87218af402500f5c-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6797c46b89d6104200fde00b",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-24T14:55:59+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "El entrecot proviene de la parte alta del lomo de la ternera, una zona menos trabajada y, por tanto, más tierna y jugosa que otros cortes. Su infiltración de grasa le da un sabor más rico y una textura que casi se deshace al morder, lo que lo convierte en un corte más valorado y que ahora puedes disfrutar con una cremosa salsa de cebolla.",
+  "descriptionHTML": "<p>El entrecot proviene de la parte alta del lomo de la ternera, una zona menos trabajada y, por tanto, más tierna y jugosa que otros cortes. Su infiltración de grasa le da un sabor más rico y una textura que casi se deshace al morder, lo que lo convierte en un corte más valorado y que ahora puedes disfrutar con una cremosa salsa de cebolla.</p>",
+  "descriptionMarkdown": "El entrecot proviene de la parte alta del lomo de la ternera, una zona menos trabajada y, por tanto, más tierna y jugosa que otros cortes. Su infiltración de grasa le da un sabor más rico y una textura que casi se deshace al morder, lo que lo convierte en un corte más valorado y que ahora puedes disfrutar con una cremosa salsa de cebolla.",
+  "difficulty": 1,
+  "favoritesCount": 3,
+  "headline": "con pimientos de padrón y parmentier de chirivía y patata",
+  "id": "68fb937f87218af402500f5c",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R22_W39_ES_ESSPB39490-3_Main_high-4fd37c48.jpg",
+  "imagePath": "/image/HF_Y25_R22_W39_ES_ESSPB39490-3_Main_high-4fd37c48.jpg",
+  "ingredients": [
+    {
+      "id": "64d2495a2a63efcc605eb56f",
+      "uuid": "4aac0598-076a-5652-89fd-5076ac921db4",
+      "name": "Entrecot de ternera",
+      "type": "steak",
+      "slug": "entrecot-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64d2495a2a63efcc605eb56f-086d2066.jpg",
+      "imagePath": "/ingredient/64d2495a2a63efcc605eb56f-086d2066.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64d2495a2a63efcc605eb56f-Entrecot de ternera.jpg"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "64be8436a1aa6db20ea1183b",
+      "uuid": "f591cc12-e408-52ec-9321-c73329bc2aa2",
+      "name": "Chirivía",
+      "type": "parsnip",
+      "slug": "chirivia",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64be8436a1aa6db20ea1183b-ef163ab3.png",
+      "imagePath": "/ingredient/64be8436a1aa6db20ea1183b-ef163ab3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64be8436a1aa6db20ea1183b-Chirivía.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "6340437a41033266d7be953a",
+      "uuid": "37ed7595-df72-47bb-92d6-c2080e7880cf",
+      "name": "Pimientos de padrón",
+      "type": "padron-peppers",
+      "slug": "pimientos-de-padron",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be953a-906a24be.png",
+      "imagePath": "/ingredient/6340437a41033266d7be953a-906a24be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be953a-Pimientos de padrón.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Premium",
+    "handle": "premium",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68fb937f87218af402500f5c",
+  "name": "Entrecot a la francesa con salsa cremosa de cebolla",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3975,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 950,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 59.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 25.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 75.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 18.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 5.15,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 9,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 780,
+  "slug": "entrecot-a-la-francesa-con-salsa-cremosa-de-cebolla",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nSaca los entrecots de la nevera para que se atemperen.\nPela las patatas y la chirivía y corta ambos en dados de 2 cm.\nEn una olla, agrega las patatas y la chirivia, cubre con agua y añade una pizca de sal.\nLleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas.\nMientras tanto, pela la cebolla y córtala en tiras finas.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Saca los <strong>entrecots</strong> de la nevera para que se atemperen.</li>\n<li>Pela las <strong>patatas</strong> y la <strong>chirivía</strong> y corta ambos en dados de 2 cm.</li>\n<li>En una olla, agrega las <strong>patatas</strong> y la <strong>chirivia,</strong> cubre con <strong>agua</strong> y añade una pizca de <strong>sal.</strong></li>\n<li>Lleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas.</li>\n<li>Mientras tanto, pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Saca los <strong>entrecots</strong> de la nevera para que se atemperen.</li>\n<li>Pela las <strong>patatas</strong> y la <strong>chirivía</strong> y corta ambos en dados de 2 cm.</li>\n<li>En una olla, agrega las <strong>patatas</strong> y la <strong>chirivia,</strong> cubre con <strong>agua</strong> y añade una pizca de <strong>sal.</strong></li>\n<li>Lleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas.</li>\n<li>Mientras tanto, pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937f87218af402500f5c/step-15cca000.jpg",
+          "path": "/68fb937f87218af402500f5c/step-15cca000.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68fb937f87218af402500f5c-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio-alto. Agrega la cebolla y una pizca de sal y cocina 2-3 min.\nAñade el azúcar y cocina a fuego medio-bajo 5-6 min más, removiendo.\nAgrega la nata líquida y el caldo de ternera y lleva a ebullición.\nCuando hierva, cocina a fuego bajo 2-3 min, hasta que la salsa se reduzca.\nReserva la salsa en un bol.\n",
+      "instructionsHTML": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 2-3 min.</li>\n<li>Añade el <strong>azúcar</strong> y cocina a fuego medio-bajo 5-6 min más, removiendo.</li>\n<li>Agrega la <strong>nata líquida</strong> y el <strong>caldo de ternera</strong> y lleva a ebullición.</li>\n<li>Cuando hierva, cocina a fuego bajo 2-3 min, hasta que la <strong>salsa</strong> se reduzca.</li>\n<li>Reserva la <strong>salsa</strong> en un bol.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 2-3 min.</li>\n<li>Añade el <strong>azúcar</strong> y cocina a fuego medio-bajo 5-6 min más, removiendo.</li>\n<li>Agrega la <strong>nata líquida</strong> y el <strong>caldo de ternera</strong> y lleva a ebullición.</li>\n<li>Cuando hierva, cocina a fuego bajo 2-3 min, hasta que la <strong>salsa</strong> se reduzca.</li>\n<li>Reserva la <strong>salsa</strong> en un bol.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937f87218af402500f5c/step-5345d810.jpg",
+          "path": "/68fb937f87218af402500f5c/step-5345d810.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/68fb937f87218af402500f5c-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nLimpia la sartén con papel de cocina, luego, calienta un chorrito generoso de aceite a fuego medio.\nAñade los pimientos de padrón y cocina 4-5 min o hasta que estén dorados y completamente cocinados.\nReserva en un plato y añade sal al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Limpia la sartén con papel de cocina, luego, calienta un chorrito generoso de <strong>aceite</strong> a fuego medio.</li>\n<li>Añade los <strong>pimientos de padrón</strong> y cocina 4-5 min o hasta que estén dorados y completamente cocinados.</li>\n<li>Reserva en un plato y añade <strong>sal</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Limpia la sartén con papel de cocina, luego, calienta un chorrito generoso de <strong>aceite</strong> a fuego medio.</li>\n<li>Añade los <strong>pimientos de padrón</strong> y cocina 4-5 min o hasta que estén dorados y completamente cocinados.</li>\n<li>Reserva en un plato y añade <strong>sal</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937f87218af402500f5c/step-ed928920.jpg",
+          "path": "/68fb937f87218af402500f5c/step-ed928920.jpg",
+          "caption": "Turno de los pimientos",
+          "localImage": "/images/recipes/68fb937f87218af402500f5c-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego alto. Agrega el entrecot de ternera, salpimienta y cocina 1-2 min por lado, hasta que quede dorado.\nRetira de la sartén.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego alto. Agrega el <strong>entrecot de ternera, salpimienta</strong> y cocina 1-2 min por lado, hasta que quede dorado.</li>\n<li>Retira de la sartén.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego alto. Agrega el <strong>entrecot de ternera, salpimienta</strong> y cocina 1-2 min por lado, hasta que quede dorado.</li>\n<li>Retira de la sartén.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937f87218af402500f5c/step-31892430.jpg",
+          "path": "/68fb937f87218af402500f5c/step-31892430.jpg",
+          "caption": "Entrecots al fuego",
+          "localImage": "/images/recipes/68fb937f87218af402500f5c-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando la patata y chirivía estén listas, escúrrelas y colócalas en una jarra medidora.\nAgrega un chorrito de aceite, la mantequilla, sal y pimienta al gusto.\nCon un túrmix, tritura hasta conseguir un puré cremoso y homogéneo. \n",
+      "instructionsHTML": "<ul>\n<li>Cuando la <strong>patata</strong> y <strong>chirivía</strong> estén listas, escúrrelas y colócalas en una jarra medidora.</li>\n<li>Agrega un chorrito de <strong>aceite,</strong> la <strong>mantequilla</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto.</li>\n<li>Con un túrmix, tritura hasta conseguir un <strong>puré</strong> cremoso y homogéneo. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando la <strong>patata</strong> y <strong>chirivía</strong> estén listas, escúrrelas y colócalas en una jarra medidora.</li>\n<li>Agrega un chorrito de <strong>aceite,</strong> la <strong>mantequilla</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto.</li>\n<li>Con un túrmix, tritura hasta conseguir un <strong>puré</strong> cremoso y homogéneo. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937f87218af402500f5c/step-38638140.jpg",
+          "path": "/68fb937f87218af402500f5c/step-38638140.jpg",
+          "caption": "Tritura el parmentier",
+          "localImage": "/images/recipes/68fb937f87218af402500f5c-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve los entrecots de ternera, los pimientos de padrón y el parmentier de patata y chirivía en platos, por separado.\nCubre la carne con la salsa de cebolla.\n\nSABÍAS QUE: El entrecot se debe sacar de la nevera al menos 10 min antes de cocinarlo para que se atempere y su interior no quede frío cuando lo cocines.",
+      "instructionsHTML": "<ul>\n<li>Sirve los <strong>entrecots</strong> de <strong>ternera,</strong> los <strong>pimientos de padrón</strong> y el <strong>parmentier</strong> de <strong>patata</strong> y <strong>chirivía</strong> en platos, por separado.</li>\n<li>Cubre la <strong>carne</strong> con la <strong>salsa</strong> de <strong>cebolla</strong>.</li>\n</ul>\n<p>SABÍAS QUE: El entrecot se debe sacar de la nevera al menos 10 min antes de cocinarlo para que se atempere y su interior no quede frío cuando lo cocines.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve los <strong>entrecots</strong> de <strong>ternera,</strong> los <strong>pimientos de padrón</strong> y el <strong>parmentier</strong> de <strong>patata</strong> y <strong>chirivía</strong> en platos, por separado.</li>\n<li>Cubre la <strong>carne</strong> con la <strong>salsa</strong> de <strong>cebolla</strong>.</li>\n</ul>\n<p>SABÍAS QUE: El entrecot se debe sacar de la nevera al menos 10 min antes de cocinarlo para que se atempere y su interior no quede frío cuando lo cocines.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937f87218af402500f5c/step-8a127050.jpg",
+          "path": "/68fb937f87218af402500f5c/step-8a127050.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/68fb937f87218af402500f5c-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESSPB39490-4",
+  "updatedAt": "2026-03-10T12:25:05+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "1e7faa16-c23f-4c38-ad56-bc3c3eba16ed",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/entrecot-a-la-francesa-con-salsa-cremosa-de-cebolla-68fb937f87218af402500f5c",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 340,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8436a1aa6db20ea1183b",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be953a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 680,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8436a1aa6db20ea1183b",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be953a",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 1020,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8436a1aa6db20ea1183b",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be953a",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68fb937f87218af402500f5c-Entrecot a la francesa con salsa cremosa de cebolla.jpg",
+  "localCard": "/pdf/68fb937f87218af402500f5c-Entrecot a la francesa con salsa cremosa de cebolla.pdf"
+}

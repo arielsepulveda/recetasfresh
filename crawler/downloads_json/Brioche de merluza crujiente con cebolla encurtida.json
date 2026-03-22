@@ -1,0 +1,1150 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf967d30006c4cbc61d152",
+      "name": "Crustáceos",
+      "type": "traces-of-crustaceans",
+      "slug": "traces-of-crustaceos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5fdcacf19520e811397b51c9",
+      "name": "Moluscos",
+      "type": "traces-of-molluscs",
+      "slug": "traces-of-moluscos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97a2ae08b54dad34eb82",
+      "name": "Sulfitos",
+      "type": "traces-of-sulphites",
+      "slug": "traces-of-sulfitos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": "63516b5874b20ffb740efe22",
+  "canonicalLink": "https://www.hellofresh.es/recipes/brioche-de-merluza-con-cebolla-encurtida-63516b5874b20ffb740efe22",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/688a78561cc5cea71280bbcb-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "63516b5874b20ffb740efe22",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-07T01:03:43+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "El sándwich de pescado frito nació en las costas del sur de Estados Unidos. Surgió como comida rápida y práctica para pescadores, que servían filetes dorados entre pan blando. Con los años ganó carácter con salsas, lechuga y encurtidos, hasta convertirse en un clásico que combina frescura marina con la calidez del pan crujiente.",
+  "descriptionHTML": "<p>El sándwich de pescado frito nació en las costas del sur de Estados Unidos. Surgió como comida rápida y práctica para pescadores, que servían filetes dorados entre pan blando. Con los años ganó carácter con salsas, lechuga y encurtidos, hasta convertirse en un clásico que combina frescura marina con la calidez del pan crujiente.</p>",
+  "descriptionMarkdown": "El sándwich de pescado frito nació en las costas del sur de Estados Unidos. Surgió como comida rápida y práctica para pescadores, que servían filetes dorados entre pan blando. Con los años ganó carácter con salsas, lechuga y encurtidos, hasta convertirse en un clásico que combina frescura marina con la calidez del pan crujiente.",
+  "difficulty": 1,
+  "favoritesCount": 8,
+  "headline": "con cogollos a la plancha y vinagreta de soja y limón",
+  "id": "688a78561cc5cea71280bbcb",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R29_W43_ES_ESFCF13443-4_Main_F1_high-6df04651.jpg",
+  "imagePath": "/image/HF_Y25_R29_W43_ES_ESFCF13443-4_Main_F1_high-6df04651.jpg",
+  "ingredients": [
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340436b41033266d7be9505",
+      "uuid": "9a94a307-a64d-5b85-962a-663dff0b143e",
+      "name": "Cogollos de lechuga",
+      "type": "baby-gem-lettuce",
+      "slug": "cogollos-de-lechuga",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9505-Cogollos de lechuga.png"
+    },
+    {
+      "id": "6499912eb4dbfc471f9896ea",
+      "uuid": "8affa715-d53c-55e5-b4fb-03c54db1aca8",
+      "name": "Merluza",
+      "type": "hake-fillet",
+      "slug": "merluza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6499912eb4dbfc471f9896ea-24c605c1.png",
+      "imagePath": "/ingredient/6499912eb4dbfc471f9896ea-24c605c1.png",
+      "shipped": true,
+      "allergens": [
+        "5acf967d30006c4cbc61d152",
+        "5fdcacf19520e811397b51c9",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b305303",
+        "5b0532aaae08b52eb9420552",
+        "62cc417a2f15d58ec3559423",
+        "5acf97a2ae08b54dad34eb82",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6499912eb4dbfc471f9896ea-Merluza.png"
+    },
+    {
+      "id": "6874cb2f5a587f17f4588c97",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "imagePath": "/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6874cb2f5a587f17f4588c97-Panko.png"
+    },
+    {
+      "id": "6855fa605bd0c12080030107",
+      "uuid": "4bf23df3-dea7-5332-a518-801f7fd1b489",
+      "name": "Panecillos de brioche",
+      "type": "brioche-buns",
+      "slug": "panecillos-de-brioche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be950a-486ee0f1.jpg",
+      "imagePath": "/ingredient/6340436c41033266d7be950a-486ee0f1.jpg",
+      "shipped": true,
+      "allergens": [
+        "5b0532aaae08b52eb9420552",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f6",
+        "57962a07b7e8697d4b3052fa",
+        "57962a07b7e8697d4b3052fe",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6855fa605bd0c12080030107-Panecillos de brioche.jpg"
+    },
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "688c9b871cc5cea71281245a",
+      "uuid": "ec2276be-64f8-485c-a464-8da34d88aa6c",
+      "name": "Chili seco en escamas",
+      "type": "chilli-flakes-dried",
+      "slug": "chili-seco-en-escamas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "imagePath": "/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/688c9b871cc5cea71281245a-Chili seco en escamas.png"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    },
+    {
+      "id": "645bbdb422de2d12dae0e3ec",
+      "uuid": "a219293e-88f4-436d-a66e-6e9bc27c36d9",
+      "name": "Sal para encurtir",
+      "type": "salt-to-pickle",
+      "slug": "sal-para-encurtir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "imagePath": "/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/645bbdb422de2d12dae0e3ec-Sal para encurtir.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    },
+    {
+      "id": "634928a2e9568549b78497e1",
+      "uuid": "f099a1c2-6d5f-42a2-a188-cad2ad1b6d5f",
+      "name": "Aceite para freír",
+      "type": "sunflower-oil",
+      "slug": "aceite-para-freir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "imagePath": "/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634928a2e9568549b78497e1-Aceite para freír.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/688a78561cc5cea71280bbcb",
+  "name": "Brioche de merluza crujiente con cebolla encurtida",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4224,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1009,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 69.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 11.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 61.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 8.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 36.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 5.31,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 21,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 618,
+  "slug": "brioche-de-merluza-con-cebolla-encurtida",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela la cebolla y córtala en tiras finitas.\nEn un bol mediano, agrega la cebolla, el vinagre y la sal para encurtir. Remueve y deja reposar hasta el emplatado.\nCorta los cogollos de lechuga por la mitad.\nEn una sartén, calienta un chorrito de aceite a fuego medio-alto. Cocina los cogollos 2-3 min por lado, hasta que esten dorados. Salpimienta y reserva.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en tiras finitas.</li>\n<li dir=\"ltr\">En un bol mediano, agrega la <strong>cebolla</strong>, el <strong>vinagre</strong> y la <strong>sal para encurtir.</strong> Remueve y deja reposar hasta el emplatado.</li>\n<li dir=\"ltr\">Corta los <strong>cogollos de lechuga</strong> por la mitad.</li>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina los <strong>cogollos</strong> 2-3 min por lado, hasta que esten dorados. <strong>Salpimienta</strong> y reserva.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en tiras finitas.</li>\n<li dir=\"ltr\">En un bol mediano, agrega la <strong>cebolla</strong>, el <strong>vinagre</strong> y la <strong>sal para encurtir.</strong> Remueve y deja reposar hasta el emplatado.</li>\n<li dir=\"ltr\">Corta los <strong>cogollos de lechuga</strong> por la mitad.</li>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina los <strong>cogollos</strong> 2-3 min por lado, hasta que esten dorados. <strong>Salpimienta</strong> y reserva.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78561cc5cea71280bbcb/step-22619900.jpg",
+          "path": "/688a78561cc5cea71280bbcb/step-22619900.jpg",
+          "caption": "Encurte la cebolla",
+          "localImage": "/images/recipes/688a78561cc5cea71280bbcb-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nSeca la merluza y córtala en cuadrados de 2 cm. Salpimienta al gusto.\nEn un plato, bate el huevo. En otro plato, añade la harina. Finalmente, en otro plato, agrega el panko.\nEnharina la merluza, luego, cúbrela con el huevo. Finalmente, reboza en el panko.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Seca la <strong>merluza</strong> y córtala en cuadrados de 2 cm. <strong>Salpimienta</strong> al gusto.</li>\n<li dir=\"ltr\">En un plato, bate el <strong>huevo.</strong> En otro plato, añade la <strong>harina.</strong> Finalmente, en otro plato, agrega el <strong>panko.</strong></li>\n<li dir=\"ltr\">Enharina la <strong>merluza,</strong> luego, cúbrela con el <strong>huevo.</strong> Finalmente, reboza en el <strong>panko</strong>.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Seca la <strong>merluza</strong> y córtala en cuadrados de 2 cm. <strong>Salpimienta</strong> al gusto.</li>\n<li dir=\"ltr\">En un plato, bate el <strong>huevo.</strong> En otro plato, añade la <strong>harina.</strong> Finalmente, en otro plato, agrega el <strong>panko.</strong></li>\n<li dir=\"ltr\">Enharina la <strong>merluza,</strong> luego, cúbrela con el <strong>huevo.</strong> Finalmente, reboza en el <strong>panko</strong>.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b",
+        "59d49a9419279f8fe60e867a"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78561cc5cea71280bbcb/step-5c8eba10.jpg",
+          "path": "/688a78561cc5cea71280bbcb/step-5c8eba10.jpg",
+          "caption": "Empana la merluza",
+          "localImage": "/images/recipes/688a78561cc5cea71280bbcb-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nLimpia la sartén, luego, agrega el aceite para freír y calienta a fuego medio-alto.\nFríe la merluza 2 min por lado o hasta que estén crujientes y bien hechos por dentro.\nSalpimienta y reserva en un plato con papel de cocina.\n",
+      "instructionsHTML": "<ul>\n<li>Limpia la sartén, luego, agrega el <strong>aceite para freír</strong> y calienta a fuego medio-alto.</li>\n<li>Fríe la <strong>merluza</strong> 2 min por lado o hasta que estén crujientes y bien hechos por dentro.</li>\n<li><strong>Salpimienta</strong> y reserva en un plato con papel de cocina.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Limpia la sartén, luego, agrega el <strong>aceite para freír</strong> y calienta a fuego medio-alto.</li>\n<li>Fríe la <strong>merluza</strong> 2 min por lado o hasta que estén crujientes y bien hechos por dentro.</li>\n<li><strong>Salpimienta</strong> y reserva en un plato con papel de cocina.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78561cc5cea71280bbcb/step-7a20cb20.jpg",
+          "path": "/688a78561cc5cea71280bbcb/step-7a20cb20.jpg",
+          "caption": "Fríe la merluza",
+          "localImage": "/images/recipes/688a78561cc5cea71280bbcb-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nAbre los panes de brioche y tuéstalos en la tostadora hasta que estén dorados y crujientes. \nEn un bol, mezcla la mayonesa y chili en escamas al gusto.\nEn otro bol, mezcla con varillas el zumo del limón, la salsa de soja, un chorrito generoso de aceite, sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>Abre los <strong>panes de brioche</strong> y tuéstalos en la tostadora hasta que estén dorados y crujientes. </li>\n<li>En un bol, mezcla la <strong>mayonesa</strong> y <strong>chili en escamas</strong> al gusto.</li>\n<li>En otro bol, mezcla con varillas el zumo del <strong>limón,</strong> la <strong>salsa de soja,</strong> un chorrito generoso de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Abre los <strong>panes de brioche</strong> y tuéstalos en la tostadora hasta que estén dorados y crujientes. </li>\n<li>En un bol, mezcla la <strong>mayonesa</strong> y <strong>chili en escamas</strong> al gusto.</li>\n<li>En otro bol, mezcla con varillas el zumo del <strong>limón,</strong> la <strong>salsa de soja,</strong> un chorrito generoso de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78561cc5cea71280bbcb/step-55162030.jpg",
+          "path": "/688a78561cc5cea71280bbcb/step-55162030.jpg",
+          "caption": "Prepara la mayonesa",
+          "localImage": "/images/recipes/688a78561cc5cea71280bbcb-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCorta los tomates cherry por la mitad y adereza en un bol con la mitad de la vinagreta de soja y limón.\nCubre la base de los panecillos de brioche con la mayonesa y coloca encima la merluza crujiente.\nCubre con la cebolla encurtida escurrida y tapa con la otra parte del brioche.\n",
+      "instructionsHTML": "<ul>\n<li>Corta los <strong>tomates cherry</strong> por la mitad y adereza en un bol con la mitad de la <strong>vinagreta</strong> de <strong>soja</strong> y <strong>limón.</strong></li>\n<li>Cubre la base de los <strong>panecillos de brioche</strong> con la <strong>mayonesa</strong> y coloca encima la <strong>merluza</strong> crujiente.</li>\n<li>Cubre con la <strong>cebolla</strong> encurtida escurrida y tapa con la otra parte del <strong>brioche.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta los <strong>tomates cherry</strong> por la mitad y adereza en un bol con la mitad de la <strong>vinagreta</strong> de <strong>soja</strong> y <strong>limón.</strong></li>\n<li>Cubre la base de los <strong>panecillos de brioche</strong> con la <strong>mayonesa</strong> y coloca encima la <strong>merluza</strong> crujiente.</li>\n<li>Cubre con la <strong>cebolla</strong> encurtida escurrida y tapa con la otra parte del <strong>brioche.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "5e3ad24dfcf61c18c30ff525",
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78561cc5cea71280bbcb/step-7896c140.jpg",
+          "path": "/688a78561cc5cea71280bbcb/step-7896c140.jpg",
+          "caption": "Monta el brioche",
+          "localImage": "/images/recipes/688a78561cc5cea71280bbcb-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el brioche de merluza en platos y añade los cogollos y los tomates cherry a un lado, por separado.\nAgrega la vinagreta de soja y limón restante sobre los cogollos.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>brioche de merluza</strong> en platos y añade los <strong>cogollos </strong>y los <strong>tomates cherry</strong> a un lado, por separado.</li>\n<li>Agrega la <strong>vinagreta</strong> de <strong>soja</strong> y <strong>limón</strong> restante sobre los <strong>cogollos.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>brioche de merluza</strong> en platos y añade los <strong>cogollos </strong>y los <strong>tomates cherry</strong> a un lado, por separado.</li>\n<li>Agrega la <strong>vinagreta</strong> de <strong>soja</strong> y <strong>limón</strong> restante sobre los <strong>cogollos.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78561cc5cea71280bbcb/step-add74950.jpg",
+          "path": "/688a78561cc5cea71280bbcb/step-add74950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/688a78561cc5cea71280bbcb-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESFCF13443-4",
+  "updatedAt": "2026-01-23T15:19:36+00:00",
+  "utensils": [
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "59d49a9419279f8fe60e867a",
+      "type": "shallow-dish",
+      "name": "Plato hondo"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Bandeja de horno"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff525",
+      "type": null,
+      "name": "Plato hondo"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    }
+  ],
+  "uuid": "69677e1a-dd54-49ee-be81-f0c6ac8bb79a",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/brioche-de-merluza-con-cebolla-encurtida-688a78561cc5cea71280bbcb",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6499912eb4dbfc471f9896ea",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6855fa605bd0c12080030107",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": "unit"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 440,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6499912eb4dbfc471f9896ea",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6855fa605bd0c12080030107",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unit"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 660,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6499912eb4dbfc471f9896ea",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 75,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6855fa605bd0c12080030107",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 9,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 375,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 6,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 3,
+          "unit": "unit"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 450,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/688a78561cc5cea71280bbcb-Brioche de merluza crujiente con cebolla encurtida.jpg",
+  "localCard": "/pdf/688a78561cc5cea71280bbcb-Brioche de merluza crujiente con cebolla encurtida.pdf"
+}

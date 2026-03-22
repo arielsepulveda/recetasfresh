@@ -1,0 +1,772 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "669fcb6544e4fbb9d2132129",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-salsa-ricotta-zanahorias-lentejas-669fcb6544e4fbb9d2132129",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "68d12629478b7ea4b4a74886",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-09-26T12:42:04+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Aunque el sabor suele ser el principal factor de satisfacción, la textura también es crucial, ya que influye en la percepción del sabor y en la experiencia de comer. En esta receta, combinamos numerosas texturas para ofrecerte un plato diferente y estimulante.",
+  "descriptionHTML": "<p>Aunque el sabor suele ser el principal factor de satisfacción, la textura también es crucial, ya que influye en la percepción del sabor y en la experiencia de comer. En esta receta, combinamos numerosas texturas para ofrecerte un plato diferente y estimulante.</p>",
+  "descriptionMarkdown": "Aunque el sabor suele ser el principal factor de satisfacción, la textura también es crucial, ya que influye en la percepción del sabor y en la experiencia de comer. En esta receta, combinamos numerosas texturas para ofrecerte un plato diferente y estimulante.",
+  "difficulty": 2,
+  "favoritesCount": 0,
+  "headline": "con zanahorias aderezadas y lentejas crujientes",
+  "id": "68d68a1cd232ff05cfc4a8c3",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R27_W44_ES_ESCC18309-8_Main_high-129aab90.jpg",
+  "imagePath": "/image/HF_Y25_R27_W44_ES_ESCC18309-8_Main_high-129aab90.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6399e2044fc733684f4c6900",
+      "uuid": "f1a7c3f3-6783-46af-87b2-df2fd87c6820",
+      "name": "Pimentón ahumado",
+      "type": "smoked-paprika",
+      "slug": "pimenton-ahumado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "imagePath": "/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6399e2044fc733684f4c6900-Pimentón ahumado.png"
+    },
+    {
+      "id": "6340437141033266d7be951a",
+      "uuid": "ae95225f-9805-5f92-afa8-0649e7e90122",
+      "name": "Comino en polvo",
+      "type": "ground-cumin",
+      "slug": "comino-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "imagePath": "/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be951a-Comino en polvo.png"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f0",
+      "uuid": "49d1ae88-5dea-5aa5-be78-86a06abe0582",
+      "name": "Lentejas",
+      "type": "brown-lentils",
+      "slug": "lentejas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f0-Lentejas.png"
+    },
+    {
+      "id": "6340436e233160a36674b9f9",
+      "uuid": "43cf496e-b81e-45b7-977d-ba85227fed76",
+      "name": "Muslos de pollo deshuesados",
+      "type": "chicken-thighs",
+      "slug": "muslos-de-pollo-deshuesados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9f9-Muslos de pollo deshuesados.png"
+    },
+    {
+      "id": "636e0b21422e0b6ac4f8566a",
+      "uuid": "61fb57cc-94fe-5487-bee9-dd647927307a",
+      "name": "Ricotta italiana",
+      "type": "ricotta-cheese",
+      "slug": "ricotta-italiana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636e0b21422e0b6ac4f8566a-8e4304e7.png",
+      "imagePath": "/ingredient/636e0b21422e0b6ac4f8566a-8e4304e7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636e0b21422e0b6ac4f8566a-Ricotta italiana.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    },
+    {
+      "id": "64258aff6153ff0f6d9ded07",
+      "uuid": "f37766d1-399d-4f63-ae11-68ff799c5ea2",
+      "name": "Orégano para el aderezo",
+      "type": "oregano-for-dressing",
+      "slug": "oregano-para-el-aderezo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64258aff6153ff0f6d9ded07-6fef5722.png",
+      "imagePath": "/ingredient/64258aff6153ff0f6d9ded07-6fef5722.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64258aff6153ff0f6d9ded07-Orégano para el aderezo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68d68a1cd232ff05cfc4a8c3",
+  "name": "Extra de pollo con salsa cítrica de ricotta italiana",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3796,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 907,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 48,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 50.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 16.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 13.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 84.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.83,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 841,
+  "slug": "bocados-de-extra-pollo-con-salsa-citrica-de-ricotta-italiana",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno 220ºC.\nPela la zanahoria y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.\nColócala en un lado de una bandeja de horno con papel de horno y agrega la mitad del pimentón ahumado y del comino, el orégano, un chorrito de aceite, sal y pimienta. Remueve y hornea a media altura 5 min.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno 220ºC.</li>\n<li dir=\"ltr\">Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li dir=\"ltr\">Colócala en un lado de una bandeja de horno con papel de horno y agrega la mitad del <strong>pimentón ahumado</strong> y del <strong>comino,</strong> el <strong>orégano</strong>, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Remueve y hornea a media altura 5 min.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno 220ºC.</li>\n<li dir=\"ltr\">Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li dir=\"ltr\">Colócala en un lado de una bandeja de horno con papel de horno y agrega la mitad del <strong>pimentón ahumado</strong> y del <strong>comino,</strong> el <strong>orégano</strong>, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Remueve y hornea a media altura 5 min.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1cd232ff05cfc4a8c3/step-e2319300.jpg",
+          "path": "/68d68a1cd232ff05cfc4a8c3/step-e2319300.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68d68a1cd232ff05cfc4a8c3-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nMientras tanto, ralla la piel de la mitad del limón.\nEscurre las lentejas y colócalas entre dos papeles de cocina.\nPresiona ligeramente para eliminar la humedad restante de las lentejas, con cuidado de no romperlas.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Mientras tanto, ralla la piel de la mitad del <strong>limón</strong>.</li>\n<li dir=\"ltr\">Escurre las <strong>lentejas</strong> y colócalas entre dos papeles de cocina.</li>\n<li dir=\"ltr\">Presiona ligeramente para eliminar la humedad restante de las <strong>lentejas,</strong> con cuidado de no romperlas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Mientras tanto, ralla la piel de la mitad del <strong>limón</strong>.</li>\n<li dir=\"ltr\">Escurre las <strong>lentejas</strong> y colócalas entre dos papeles de cocina.</li>\n<li dir=\"ltr\">Presiona ligeramente para eliminar la humedad restante de las <strong>lentejas,</strong> con cuidado de no romperlas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1cd232ff05cfc4a8c3/step-55b91f10.jpg",
+          "path": "/68d68a1cd232ff05cfc4a8c3/step-55b91f10.jpg",
+          "caption": "Seca bien",
+          "localImage": "/images/recipes/68d68a1cd232ff05cfc4a8c3-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCuando la zanahoria se haya horneado 5 min, coloca las lentejas en el otro lado de la bandeja de horno y agrega encima el pimentón ahumado restante y un chorrito de aceite. Salpimienta y remueve.\nHornea la zanahoria y las lentejas a media altura 15-20 min o hasta que la zanahoria quede tierna y las lentejas estén crujientes. Remueve a mitad de cocción.\nCuando estén listas, agrega la mitad de la ralladura de limón sobre las lentejas.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Cuando la <strong>zanahoria</strong> se haya horneado 5 min, coloca las <strong>lentejas</strong> en el otro lado de la bandeja de horno y agrega encima el <strong>pimentón ahumado</strong> restante y un chorrito de <strong>aceite. Salpimienta</strong> y remueve.</li>\n<li dir=\"ltr\">Hornea la <strong>zanahoria</strong> y las <strong>lentejas</strong> a media altura 15-20 min o hasta que la <strong>zanahoria</strong> quede tierna y las <strong>lentejas</strong> estén crujientes. Remueve a mitad de cocción.</li>\n<li dir=\"ltr\">Cuando estén listas, agrega la mitad de la ralladura de <strong>limón</strong> sobre las <strong>lentejas</strong><strong>.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Cuando la <strong>zanahoria</strong> se haya horneado 5 min, coloca las <strong>lentejas</strong> en el otro lado de la bandeja de horno y agrega encima el <strong>pimentón ahumado</strong> restante y un chorrito de <strong>aceite. Salpimienta</strong> y remueve.</li>\n<li dir=\"ltr\">Hornea la <strong>zanahoria</strong> y las <strong>lentejas</strong> a media altura 15-20 min o hasta que la <strong>zanahoria</strong> quede tierna y las <strong>lentejas</strong> estén crujientes. Remueve a mitad de cocción.</li>\n<li dir=\"ltr\">Cuando estén listas, agrega la mitad de la ralladura de <strong>limón</strong> sobre las <strong>lentejas</strong><strong>.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1cd232ff05cfc4a8c3/step-429ac520.jpg",
+          "path": "/68d68a1cd232ff05cfc4a8c3/step-429ac520.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/68d68a1cd232ff05cfc4a8c3-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCorta el pollo en trozos de 2 cm.\nEn un bol, agrega el pollo, el comino restante, la harina, un chorrito de aceite, sal, pimienta. Mezcla bien y deja marinar.\nEn un bol pequeño, mezcla la ricotta, la ralladura de limón restante al gusto, zumo de limón al gusto, el orégano para el aderezo y pimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Corta el <strong>pollo</strong> en trozos de 2 cm.</li>\n<li dir=\"ltr\">En un bol, agrega el <strong>pollo,</strong> el <strong>comino</strong> restante, la <strong>harina,</strong> un chorrito de <strong>aceite, sal, </strong><strong>pimienta</strong>. Mezcla bien y deja marinar.</li>\n<li dir=\"ltr\">En un bol pequeño, mezcla la <strong>ricotta,</strong> la ralladura de <strong>limón</strong> restante al gusto, zumo de <strong>limón</strong> al gusto, el <strong>orégano para el aderezo</strong> y <strong>pimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Corta el <strong>pollo</strong> en trozos de 2 cm.</li>\n<li dir=\"ltr\">En un bol, agrega el <strong>pollo,</strong> el <strong>comino</strong> restante, la <strong>harina,</strong> un chorrito de <strong>aceite, sal, </strong><strong>pimienta</strong>. Mezcla bien y deja marinar.</li>\n<li dir=\"ltr\">En un bol pequeño, mezcla la <strong>ricotta,</strong> la ralladura de <strong>limón</strong> restante al gusto, zumo de <strong>limón</strong> al gusto, el <strong>orégano para el aderezo</strong> y <strong>pimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1cd232ff05cfc4a8c3/step-dafbe830.jpg",
+          "path": "/68d68a1cd232ff05cfc4a8c3/step-dafbe830.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/68d68a1cd232ff05cfc4a8c3-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio. Cuando el aceite esté caliente, cocina el pollo 4-5 min, hasta que esté dorado y cocinado en el interior.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cuando el <strong>aceite</strong> esté caliente, cocina el <strong>pollo</strong> 4-5 min, hasta que esté dorado y cocinado en el interior.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cuando el <strong>aceite</strong> esté caliente, cocina el <strong>pollo</strong> 4-5 min, hasta que esté dorado y cocinado en el interior.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1cd232ff05cfc4a8c3/step-0d93d240.jpg",
+          "path": "/68d68a1cd232ff05cfc4a8c3/step-0d93d240.jpg",
+          "caption": "Pollo al fuego",
+          "localImage": "/images/recipes/68d68a1cd232ff05cfc4a8c3-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la salsa de ricotta y limón en la base de los platos y cubre con las zanahorias asadas y el pollo, sirviendo cada uno a un lado del plato.\nAcaba el plato agregando las lentejas crujientes sobre la zanahoria asada.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve la <strong>salsa de ricotta y limón</strong> en la base de los platos y cubre con las <strong>zanahorias</strong> asadas y el <strong>pollo</strong>, sirviendo cada uno a un lado del plato.</li>\n<li>Acaba el plato agregando las <strong>lentejas</strong> crujientes sobre la <strong>zanahoria</strong> asada.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve la <strong>salsa de ricotta y limón</strong> en la base de los platos y cubre con las <strong>zanahorias</strong> asadas y el <strong>pollo</strong>, sirviendo cada uno a un lado del plato.</li>\n<li>Acaba el plato agregando las <strong>lentejas</strong> crujientes sobre la <strong>zanahoria</strong> asada.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1cd232ff05cfc4a8c3/step-25762750.jpg",
+          "path": "/68d68a1cd232ff05cfc4a8c3/step-25762750.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68d68a1cd232ff05cfc4a8c3-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCC18309-DP-1-9",
+  "updatedAt": "2026-01-23T15:19:43+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    }
+  ],
+  "uuid": "13990406-6c15-4f24-8c29-c62aed7f8ce4",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/bocados-de-extra-pollo-con-salsa-citrica-de-ricotta-italiana-68d68a1cd232ff05cfc4a8c3",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 660,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636e0b21422e0b6ac4f8566a",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "64258aff6153ff0f6d9ded07",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 1320,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636e0b21422e0b6ac4f8566a",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "64258aff6153ff0f6d9ded07",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 1170,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 1980,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636e0b21422e0b6ac4f8566a",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "64258aff6153ff0f6d9ded07",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68d68a1cd232ff05cfc4a8c3-Extra de pollo con salsa cítrica de ricotta italiana.jpg"
+}

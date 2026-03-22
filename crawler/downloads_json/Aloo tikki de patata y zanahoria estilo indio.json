@@ -1,0 +1,1086 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "65d8b0f1e15fd4f7b093a479",
+  "canonicalLink": "https://www.hellofresh.es/recipes/aloo-tikki-verduras-raita-ensalada-65d8b0f1e15fd4f7b093a479",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68fb939429be8924040c2eeb-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "653903772fab1d7bab107015",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-24T14:56:21+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "India",
+      "slug": "india",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg"
+    }
+  ],
+  "description": "El aloo tikki es una popular comida callejera originaria de la India, consistente en una especie de pastel de patata condimentado y frito, mientras que el raita de zanahoria es un acompañamiento común elaborado con yogur, zanahorias ralladas, cilantro, comino y otras especias.",
+  "descriptionHTML": "<p>El aloo tikki es una popular comida callejera originaria de la India, consistente en una especie de pastel de patata condimentado y frito, mientras que el raita de zanahoria es un acompañamiento común elaborado con yogur, zanahorias ralladas, cilantro, comino y otras especias.</p>",
+  "descriptionMarkdown": "El aloo tikki es una popular comida callejera originaria de la India, consistente en una especie de pastel de patata condimentado y frito, mientras que el raita de zanahoria es un acompañamiento común elaborado con yogur, zanahorias ralladas, cilantro, comino y otras especias.",
+  "difficulty": 2,
+  "favoritesCount": 1,
+  "headline": "con raita de zanahoria y ensalada con cebolla frita",
+  "id": "68fb939429be8924040c2eeb",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R10_W21_ES_ESVV20023-2_switch_salad_Main__11add_some_crispy_onion_on_top_of_the_salad_edit_high-393dbbe5.jpg",
+  "imagePath": "/image/HF_Y24_R10_W21_ES_ESVV20023-2_switch_salad_Main__11add_some_crispy_onion_on_top_of_the_salad_edit_high-393dbbe5.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340436f41033266d7be9513",
+      "uuid": "822e0f6e-0b50-54d0-9774-fee0a98b0271",
+      "name": "Pepino",
+      "type": "cucumber",
+      "slug": "pepino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9513-Pepino.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "6340437141033266d7be951a",
+      "uuid": "ae95225f-9805-5f92-afa8-0649e7e90122",
+      "name": "Comino en polvo",
+      "type": "ground-cumin",
+      "slug": "comino-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "imagePath": "/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be951a-Comino en polvo.png"
+    },
+    {
+      "id": "6340437a233160a36674ba2b",
+      "uuid": "b72f0046-564d-412b-b75a-8810fe101790",
+      "name": "Mezcla de especias indias",
+      "type": "indian-spice-mix",
+      "slug": "mezcla-de-especias-indias",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a233160a36674ba2b-e1df08de.png",
+      "imagePath": "/ingredient/6340437a233160a36674ba2b-e1df08de.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a233160a36674ba2b-Mezcla de especias indias.png"
+    },
+    {
+      "id": "688c9b871cc5cea71281245a",
+      "uuid": "ec2276be-64f8-485c-a464-8da34d88aa6c",
+      "name": "Chili seco en escamas",
+      "type": "chilli-flakes-dried",
+      "slug": "chili-seco-en-escamas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "imagePath": "/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/688c9b871cc5cea71281245a-Chili seco en escamas.png"
+    },
+    {
+      "id": "6924890401ae5540a928075a",
+      "uuid": "b74dbad6-e2f0-51df-9a17-a9690de49ee1",
+      "name": "Yogur",
+      "type": "yogurt",
+      "slug": "yogur",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67f8f3ba652eef3af1c9d274-abd1871a.png",
+      "imagePath": "/ingredient/67f8f3ba652eef3af1c9d274-abd1871a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6924890401ae5540a928075a-Yogur.png"
+    },
+    {
+      "id": "6874cb2f5a587f17f4588c97",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "imagePath": "/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6874cb2f5a587f17f4588c97-Panko.png"
+    },
+    {
+      "id": "6340437841033266d7be952c",
+      "uuid": "827bd110-c089-50ac-9b7a-346ec7b98257",
+      "name": "Mezclum",
+      "type": "salad-mix",
+      "slug": "mezclum",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "imagePath": "/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437841033266d7be952c-Mezclum.png"
+    },
+    {
+      "id": "686e3eed69ddbf20131a6a7d",
+      "uuid": "0a15cb9b-a6c5-4fce-b32c-1f756821800c",
+      "name": "Cebolla frita",
+      "type": "crispy-onions",
+      "slug": "cebolla-frita",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/686e3eed69ddbf20131a6a7d-90217169.png",
+      "imagePath": "/ingredient/686e3eed69ddbf20131a6a7d-90217169.png",
+      "shipped": true,
+      "allergens": [
+        "5acf972fae08b54d333ac322",
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/686e3eed69ddbf20131a6a7d-Cebolla frita.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63d3a4d1f3cad3f4f35bf204",
+      "uuid": "1eeff9e7-ab1f-4b96-870d-8adfda146614",
+      "name": "Aceite",
+      "type": "generic-oil",
+      "slug": "aceite",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63d3a4d1f3cad3f4f35bf204-2591a337.png",
+      "imagePath": "/ingredient/63d3a4d1f3cad3f4f35bf204-2591a337.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63d3a4d1f3cad3f4f35bf204-Aceite.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68fb939429be8924040c2eeb",
+  "name": "Aloo tikki de patata y zanahoria estilo indio",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2502,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 598,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 30.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 67,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 7.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 11.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.39,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 26,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 556,
+  "slug": "aloo-tikki-de-patata-y-zanahoria-estilo-indio",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela las patatas y córtalas en dados de 1 cm.\nEn una olla, agrega las patatas, cúbrelas con agua y añade una pizca de sal.\nLleva a ebullición, luego, cocina a fuego medio 10-12 min o hasta que estén tiernas, sin llegar a deshacerse.\nEscúrrelas cuando estén listas.\nMientras tanto, pela y ralla la zanahoria.\nRalla el pepino.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela las <strong>patatas</strong> y córtalas en dados de 1 cm.</li>\n<li>En una olla, agrega las <strong>patatas</strong>, cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal.</strong></li>\n<li>Lleva a ebullición, luego, cocina a fuego medio 10-12 min o hasta que estén tiernas, sin llegar a deshacerse.</li>\n<li>Escúrrelas cuando estén listas.</li>\n<li>Mientras tanto, pela y ralla la <strong>zanahoria</strong>.</li>\n<li>Ralla el <strong>pepino</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela las <strong>patatas</strong> y córtalas en dados de 1 cm.</li>\n<li>En una olla, agrega las <strong>patatas</strong>, cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal.</strong></li>\n<li>Lleva a ebullición, luego, cocina a fuego medio 10-12 min o hasta que estén tiernas, sin llegar a deshacerse.</li>\n<li>Escúrrelas cuando estén listas.</li>\n<li>Mientras tanto, pela y ralla la <strong>zanahoria</strong>.</li>\n<li>Ralla el <strong>pepino</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e",
+        "57e2674fb7e8697d4b305379",
+        "59d49a9319279f8fe60e8671"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939429be8924040c2eeb/step-bd532400.jpg",
+          "path": "/68fb939429be8924040c2eeb/step-bd532400.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68fb939429be8924040c2eeb-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y ralla el ajo.\nRalla la mitad del jengibre.\nDeshoja el cilantro.\nEn una sartén, agrega un chorrito generoso de aceite, el jengibre y el ajo. Calienta a fuego medio y cocina 1 min, removiendo regularmente.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Ralla la mitad del <strong>jengibre</strong>.</li>\n<li>Deshoja el <strong>cilantro</strong>.</li>\n<li>En una sartén, agrega un chorrito generoso de <strong>aceite</strong>, el <strong>jengibre</strong> y el <strong>ajo</strong><span style=\"color: rgb(0, 0, 0)\">.</span> Calienta a fuego medio y cocina 1 min, removiendo regularmente.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Ralla la mitad del <strong>jengibre</strong>.</li>\n<li>Deshoja el <strong>cilantro</strong>.</li>\n<li>En una sartén, agrega un chorrito generoso de <strong>aceite</strong>, el <strong>jengibre</strong> y el <strong>ajo</strong><span style=\"color: rgb(0, 0, 0)\">.</span> Calienta a fuego medio y cocina 1 min, removiendo regularmente.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939429be8924040c2eeb/step-90ba9a10.jpg",
+          "path": "/68fb939429be8924040c2eeb/step-90ba9a10.jpg",
+          "caption": "Mise en place",
+          "localImage": "/images/recipes/68fb939429be8924040c2eeb-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, agrega la mitad del comino, de las especias indias y del chili en escamas. Cocina a fuego medio 30 segundos, mientras remueves.\nAgrega la mitad de la zanahoria rallada y cocina 2-3 min más.\nAñade las patatas cocidas, salpimienta y cocina 1 min, removiendo.\nRetira la mezcla en un bol grande, tápalo y deja reposar 5-10 min en la nevera.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, agrega la mitad del <strong>comino</strong>, de las <strong>especias indias</strong> y del <strong>chili en escamas</strong>. Cocina a fuego medio 30 segundos, mientras remueves.</li>\n<li>Agrega la mitad de la <strong>zanahoria</strong> rallada y cocina 2-3 min más.</li>\n<li>Añade las <strong>patatas</strong> cocidas, <strong>salpimienta</strong> y cocina 1 min, removiendo.</li>\n<li>Retira la mezcla en un bol grande, tápalo y deja reposar 5-10 min en la nevera.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, agrega la mitad del <strong>comino</strong>, de las <strong>especias indias</strong> y del <strong>chili en escamas</strong>. Cocina a fuego medio 30 segundos, mientras remueves.</li>\n<li>Agrega la mitad de la <strong>zanahoria</strong> rallada y cocina 2-3 min más.</li>\n<li>Añade las <strong>patatas</strong> cocidas, <strong>salpimienta</strong> y cocina 1 min, removiendo.</li>\n<li>Retira la mezcla en un bol grande, tápalo y deja reposar 5-10 min en la nevera.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939429be8924040c2eeb/step-80b4be20.jpg",
+          "path": "/68fb939429be8924040c2eeb/step-80b4be20.jpg",
+          "caption": "Verduras al fuego",
+          "localImage": "/images/recipes/68fb939429be8924040c2eeb-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn un bol, agrega el yogur, el comino restante, las especias indias restantes, casi toda la zanahoria rallada restante, reservando un poco para el emplatado, y el pepino rallado al gusto. Salpimienta y mezcla.\nReparte la raita en boles para servir y agrega encima la zanahoria rallada restante, la mitad de las hojas de cilantro y chili en escamas al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol, agrega el <strong>yogur</strong>, el <strong>comino</strong> restante, las <strong>especias indias</strong> restantes, casi toda la <strong>zanahoria</strong> rallada restante, reservando un poco para el emplatado, y el <strong>pepino</strong> rallado al gusto. <strong>Salpimienta</strong> y mezcla.</li>\n<li>Reparte la <strong>raita</strong> en boles para servir y agrega encima la <strong>zanahoria</strong> rallada restante, la mitad de las <strong>hojas de cilantro</strong> y <strong>chili en escamas </strong>al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol, agrega el <strong>yogur</strong>, el <strong>comino</strong> restante, las <strong>especias indias</strong> restantes, casi toda la <strong>zanahoria</strong> rallada restante, reservando un poco para el emplatado, y el <strong>pepino</strong> rallado al gusto. <strong>Salpimienta</strong> y mezcla.</li>\n<li>Reparte la <strong>raita</strong> en boles para servir y agrega encima la <strong>zanahoria</strong> rallada restante, la mitad de las <strong>hojas de cilantro</strong> y <strong>chili en escamas </strong>al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939429be8924040c2eeb/step-afa3c630.jpg",
+          "path": "/68fb939429be8924040c2eeb/step-afa3c630.jpg",
+          "caption": "Da vida a la raita",
+          "localImage": "/images/recipes/68fb939429be8924040c2eeb-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn el bol con la patata y zanahoria, agrega el panko y la harina.\nCon una espátula, mezcla y rompe la patata ligeramente, dejando trozos más grandes.\nCon las manos, forma 2 hamburguesas de 2 cm de grosor por persona, presionando para que queden compactas.\nEn la sartén, calienta un chorrito de aceite a fuego medio. Cocina las hamburguesas, llamadas aloo tikki, 3-4 min por lado, hasta que estén doradas y crujientes.\n",
+      "instructionsHTML": "<ul>\n<li>En el bol con la <strong>patata</strong> y <strong>zanahoria</strong>, agrega el <strong>panko</strong> y la <strong>harina</strong>.</li>\n<li>Con una espátula, mezcla y rompe la <strong>patata</strong> ligeramente, dejando trozos más grandes.</li>\n<li>Con las manos, forma 2 <strong>hamburguesas</strong> de 2 cm de grosor por persona, presionando para que queden compactas.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina las <strong>hamburguesas</strong>, llamadas <strong>aloo tikki</strong>, 3-4 min por lado, hasta que estén doradas y crujientes.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En el bol con la <strong>patata</strong> y <strong>zanahoria</strong>, agrega el <strong>panko</strong> y la <strong>harina</strong>.</li>\n<li>Con una espátula, mezcla y rompe la <strong>patata</strong> ligeramente, dejando trozos más grandes.</li>\n<li>Con las manos, forma 2 <strong>hamburguesas</strong> de 2 cm de grosor por persona, presionando para que queden compactas.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina las <strong>hamburguesas</strong>, llamadas <strong>aloo tikki</strong>, 3-4 min por lado, hasta que estén doradas y crujientes.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939429be8924040c2eeb/step-641d9240.jpg",
+          "path": "/68fb939429be8924040c2eeb/step-641d9240.jpg",
+          "caption": "Turno del aloo tikki",
+          "localImage": "/images/recipes/68fb939429be8924040c2eeb-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nEn una ensaladera, agrega el vinagre, un chorrito de aceite, sal y pimienta.\nAgrega el mezclum y las hojas de cilantro restantes y mezcla.\nSirve los aloo tikki en platos y acompaña con la ensalada y el bol con la raita de zanahoria.\nCubre la ensalada con la cebolla frita.\n",
+      "instructionsHTML": "<ul>\n<li>En una ensaladera, agrega el<strong> vinagre</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Agrega el <strong>mezclum</strong> y las <strong>hojas de cilantro</strong> restantes y mezcla.</li>\n<li>Sirve los <strong>aloo tikki</strong> en platos y acompaña con la <strong>ensalada</strong> y el bol con la <strong>raita de zanahoria</strong>.</li>\n<li>Cubre la <strong>ensalada</strong> con la <strong>cebolla frita.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una ensaladera, agrega el<strong> vinagre</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Agrega el <strong>mezclum</strong> y las <strong>hojas de cilantro</strong> restantes y mezcla.</li>\n<li>Sirve los <strong>aloo tikki</strong> en platos y acompaña con la <strong>ensalada</strong> y el bol con la <strong>raita de zanahoria</strong>.</li>\n<li>Cubre la <strong>ensalada</strong> con la <strong>cebolla frita.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939429be8924040c2eeb/step-a83f9050.jpg",
+          "path": "/68fb939429be8924040c2eeb/step-a83f9050.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68fb939429be8924040c2eeb-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESVV20023-12",
+  "updatedAt": "2026-01-21T17:19:44+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e8671",
+      "type": "medium-pot",
+      "name": "Olla mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "7fa00892-e3b8-4639-aab0-2ac005dac205",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/aloo-tikki-de-patata-y-zanahoria-estilo-indio-68fb939429be8924040c2eeb",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a233160a36674ba2b",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6924890401ae5540a928075a",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d3a4d1f3cad3f4f35bf204",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a233160a36674ba2b",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6924890401ae5540a928075a",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d3a4d1f3cad3f4f35bf204",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a233160a36674ba2b",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6924890401ae5540a928075a",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 75,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d3a4d1f3cad3f4f35bf204",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68fb939429be8924040c2eeb-Aloo tikki de patata y zanahoria estilo indio.jpg",
+  "localCard": "/pdf/68fb939429be8924040c2eeb-Aloo tikki de patata y zanahoria estilo indio.pdf"
+}

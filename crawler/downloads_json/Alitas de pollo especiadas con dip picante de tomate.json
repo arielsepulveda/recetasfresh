@@ -1,0 +1,894 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "6892fd719643892dc8fb415d",
+  "canonicalLink": "https://www.hellofresh.es/recipes/alitas-de-pollo-con-salsa-de-tomate-picante-para-dippear-totopos-caseros-y-pico-de-gallo-6892fd719643892dc8fb415d",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6942e54a35efa043add8c603-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6892fd719643892dc8fb415d",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-17T17:15:55+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "¿Quieres conocer México desde tu mesa? En este plato combinamos unas alitas aderezadas y horneadas con una salsa de tomate, perfecta para dipear, unos totopos de maíz, un pico de gallo fresco y versátil y una salsa de queso y lima. Si los más pequeños prefieren que no pique, añade menos especias y disfrutad todos juntos.",
+  "descriptionHTML": "<p>¿Quieres conocer México desde tu mesa? En este plato combinamos unas alitas aderezadas y horneadas con una salsa de tomate, perfecta para dipear, unos totopos de maíz, un pico de gallo fresco y versátil y una salsa de queso y lima. Si los más pequeños prefieren que no pique, añade menos especias y disfrutad todos juntos.</p>",
+  "descriptionMarkdown": "¿Quieres conocer México desde tu mesa? En este plato combinamos unas alitas aderezadas y horneadas con una salsa de tomate, perfecta para dipear, unos totopos de maíz, un pico de gallo fresco y versátil y una salsa de queso y lima. Si los más pequeños prefieren que no pique, añade menos especias y disfrutad todos juntos.",
+  "difficulty": 2,
+  "favoritesCount": 0,
+  "headline": "con totopos, pico de gallo y queso a la lima",
+  "id": "6942e54a35efa043add8c603",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R29_W50_ES_ESCC48768-2_Main_F1_high-365fc2c9.jpg",
+  "imagePath": "/image/HF_Y25_R29_W50_ES_ESCC48768-2_Main_F1_high-365fc2c9.jpg",
+  "ingredients": [
+    {
+      "id": "66e849ee38a0c4a4ab52b062",
+      "uuid": "34d79d38-79af-4c3f-b73d-50b47e0d24c1",
+      "name": "Alitas de pollo",
+      "type": "chicken-wings",
+      "slug": "alitas-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/66e849ee38a0c4a4ab52b062-3d35cd63.png",
+      "imagePath": "/ingredient/66e849ee38a0c4a4ab52b062-3d35cd63.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/66e849ee38a0c4a4ab52b062-Alitas de pollo.png"
+    },
+    {
+      "id": "63404373233160a36674ba0f",
+      "uuid": "a9702fdb-e742-5fe0-b221-974c1ea5db87",
+      "name": "Mix de especias mexicanas",
+      "type": "mexican-spice",
+      "slug": "mix-de-especias-mexicanas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0f-Mix de especias mexicanas.png"
+    },
+    {
+      "id": "6340437641033266d7be9528",
+      "uuid": "2904fadb-88de-569e-9c92-a87c61848fdb",
+      "name": "Chile",
+      "type": "red-chilli",
+      "slug": "chile",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9528-12333c56.png",
+      "imagePath": "/ingredient/6340437641033266d7be9528-12333c56.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9528-Chile.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340436f41033266d7be9512",
+      "uuid": "ecae5103-44da-5d53-a901-8a34d154b23d",
+      "name": "Tomate triturado",
+      "type": "crushed-tomatoes",
+      "slug": "tomate-triturado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9512-Tomate triturado.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "6340437b233160a36674ba30",
+      "uuid": "e20d37da-83ce-490d-aeae-12ac9d3aa296",
+      "name": "Pimiento verde italiano",
+      "type": "pointed-bell-pepper-green",
+      "slug": "pimiento-verde-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "imagePath": "/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b233160a36674ba30-Pimiento verde italiano.png"
+    },
+    {
+      "id": "6925cbdbd4fb034401630345",
+      "uuid": "740b7e63-0d5e-5c25-83d2-5fedbac03cc4",
+      "name": "Totopos",
+      "type": "tortilla-chips",
+      "slug": "totopos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/690a12da9140c7b54ff219c8-a65f11d3.png",
+      "imagePath": "/ingredient/690a12da9140c7b54ff219c8-a65f11d3.png",
+      "shipped": true,
+      "allergens": [
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6925cbdbd4fb034401630345-Totopos.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6942e54a35efa043add8c603",
+  "name": "Alitas de pollo especiadas con dip picante de tomate",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4125,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 986,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 55.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 13.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 76.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 18.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 60.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.26,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 778,
+  "slug": "alitas-de-pollo-especiadas-con-dip-picante-de-tomate",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nEn un bol, mezcla las alitas de pollo, la mitad de las especias mexicanas, el orégano, un chorrito de aceite, sal y pimienta.\nColoca las alitas en una bandeja de horno con papel de horno y hornea a media altura 25 min o hasta que estén cocinadas. Gira a mitad de cocción.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>En un bol, mezcla las <strong>alitas de pollo</strong>, la mitad de las <strong>especias mexicanas</strong>, el <strong>orégano,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong>.</li>\n<li>Coloca las <strong>alitas</strong> en una bandeja de horno con papel de horno y hornea a media altura 25 min o hasta que estén cocinadas. Gira a mitad de cocción.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>En un bol, mezcla las <strong>alitas de pollo</strong>, la mitad de las <strong>especias mexicanas</strong>, el <strong>orégano,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong>.</li>\n<li>Coloca las <strong>alitas</strong> en una bandeja de horno con papel de horno y hornea a media altura 25 min o hasta que estén cocinadas. Gira a mitad de cocción.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e54a35efa043add8c603/step-87515500.jpg",
+          "path": "/6942e54a35efa043add8c603/step-87515500.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/6942e54a35efa043add8c603-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y pica el ajo.\nCorta el chile en rodajas finas.\nPela la cebolla y córtala en daditos. Reserva 1/3 en un bol.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y pica el <strong>ajo.</strong></li>\n<li>Corta el <strong>chile</strong> en rodajas finas.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos. Reserva 1/3 en un bol.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y pica el <strong>ajo.</strong></li>\n<li>Corta el <strong>chile</strong> en rodajas finas.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos. Reserva 1/3 en un bol.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e54a35efa043add8c603/step-1e16fe10.jpg",
+          "path": "/6942e54a35efa043add8c603/step-1e16fe10.jpg",
+          "caption": "Mise en place",
+          "localImage": "/images/recipes/6942e54a35efa043add8c603-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una sartén, agrega un chorrito de aceite, el ajo y chile al gusto. Calienta a fuego medio y cocina 1-2 min.\nAgrega la cebolla y cocina 2-3 min.\n",
+      "instructionsHTML": "<ul>\n<li>En una sartén, agrega un chorrito de <strong>aceite</strong>, el <strong>ajo</strong> y <strong>chile</strong> al gusto. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega la <strong>cebolla</strong> y cocina 2-3 min.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, agrega un chorrito de <strong>aceite</strong>, el <strong>ajo</strong> y <strong>chile</strong> al gusto. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega la <strong>cebolla</strong> y cocina 2-3 min.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e54a35efa043add8c603/step-20f3ec20.jpg",
+          "path": "/6942e54a35efa043add8c603/step-20f3ec20.jpg",
+          "caption": "Verduras al fuego",
+          "localImage": "/images/recipes/6942e54a35efa043add8c603-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nAñade el tomate triturado, las especias mexicanas restantes, el azúcar, sal y pimienta y remueve. Cocina a fuego medio-bajo y tapado 6-7 min, hasta que la salsa espese.\n",
+      "instructionsHTML": "<ul>\n<li>Añade el <strong>tomate triturado,</strong> las <strong>especias mexicanas</strong> restantes, el <strong>azúcar, sal</strong> y <strong>pimienta</strong> y remueve. Cocina a fuego medio-bajo y tapado 6-7 min, hasta que la <strong>salsa</strong> espese.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Añade el <strong>tomate triturado,</strong> las <strong>especias mexicanas</strong> restantes, el <strong>azúcar, sal</strong> y <strong>pimienta</strong> y remueve. Cocina a fuego medio-bajo y tapado 6-7 min, hasta que la <strong>salsa</strong> espese.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e54a35efa043add8c603/step-7720bf30.jpg",
+          "path": "/6942e54a35efa043add8c603/step-7720bf30.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/6942e54a35efa043add8c603-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nRalla la piel de la mitad de la lima.\nEn un bol pequeño, mezcla el queso crema y ralladura de lima al gusto.\nCorta el tomate y el pimiento en dados pequeños.\nEn el bol con la cebolla reservada, añade el tomate, el pimiento, zumo de lima al gusto, un chorrito de aceite, sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>Ralla la piel de la mitad de la <strong>lima.</strong></li>\n<li>En un bol pequeño, mezcla el <strong>queso crema </strong>y ralladura de <strong>lima</strong> al gusto.</li>\n<li>Corta el <strong>tomate</strong> y el <strong>pimiento</strong> en dados pequeños.</li>\n<li>En el bol con la <strong>cebolla</strong> reservada, añade el <strong>tomate</strong>, el <strong>pimiento,</strong> zumo de <strong>lima</strong> al gusto, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Ralla la piel de la mitad de la <strong>lima.</strong></li>\n<li>En un bol pequeño, mezcla el <strong>queso crema </strong>y ralladura de <strong>lima</strong> al gusto.</li>\n<li>Corta el <strong>tomate</strong> y el <strong>pimiento</strong> en dados pequeños.</li>\n<li>En el bol con la <strong>cebolla</strong> reservada, añade el <strong>tomate</strong>, el <strong>pimiento,</strong> zumo de <strong>lima</strong> al gusto, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e54a35efa043add8c603/step-50c6b340.jpg",
+          "path": "/6942e54a35efa043add8c603/step-50c6b340.jpg",
+          "caption": "Prepara el pico de gallo",
+          "localImage": "/images/recipes/6942e54a35efa043add8c603-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve las alitas de pollo en un lado de los platos.\nAl otro lado, acompaña sirviendo por separado los totopos, la salsa de tomate y el pico de gallo.\nAcaba con el queso a la lima.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve las <strong>alitas de pollo</strong> en un lado de los platos.</li>\n<li>Al otro lado, acompaña sirviendo por separado los <strong>totopos,</strong> la <strong>salsa de tomate</strong> y el <strong>pico de gallo.</strong></li>\n<li>Acaba con el <strong>queso</strong> a la <strong>lima</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve las <strong>alitas de pollo</strong> en un lado de los platos.</li>\n<li>Al otro lado, acompaña sirviendo por separado los <strong>totopos,</strong> la <strong>salsa de tomate</strong> y el <strong>pico de gallo.</strong></li>\n<li>Acaba con el <strong>queso</strong> a la <strong>lima</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e54a35efa043add8c603/step-97c3bb50.jpg",
+          "path": "/6942e54a35efa043add8c603/step-97c3bb50.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/6942e54a35efa043add8c603-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCC48768-4",
+  "updatedAt": "2026-02-26T05:05:20+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    }
+  ],
+  "uuid": "6a4ab85e-5b85-4577-be5f-f3b47fe2bd67",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/alitas-de-pollo-especiadas-con-dip-picante-de-tomate-6942e54a35efa043add8c603",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "66e849ee38a0c4a4ab52b062",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6925cbdbd4fb034401630345",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "66e849ee38a0c4a4ab52b062",
+          "amount": 24,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 6,
+          "unit": "paquete"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6925cbdbd4fb034401630345",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "66e849ee38a0c4a4ab52b062",
+          "amount": 36,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 9,
+          "unit": "paquete"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6925cbdbd4fb034401630345",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6942e54a35efa043add8c603-Alitas de pollo especiadas con dip picante de tomate.jpg",
+  "localCard": "/pdf/6942e54a35efa043add8c603-Alitas de pollo especiadas con dip picante de tomate.pdf"
+}

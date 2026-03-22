@@ -1,0 +1,881 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 2.8,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/bunuelos-bacalao-miel-ensalada-63aaf2b2d624bae7112f5a0b-19ad8a6b.pdf",
+  "category": null,
+  "clonedFrom": "6347efe6e9568549b78497c0",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-27T13:27:14+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Prepara en casa un clásico de nuestro país perfecto para compartir (o para ti solo) y disfrutar de esta combinación de sabores y texturas. La miel que cubre los buñuelos aporta un contraste interesante, que se completa con la ensalada con nueces que lo acompaña.",
+  "descriptionHTML": "<p>Prepara en casa un clásico de nuestro país perfecto para compartir (o para ti solo) y disfrutar de esta combinación de sabores y texturas. La miel que cubre los buñuelos aporta un contraste interesante, que se completa con la ensalada con nueces que lo acompaña.</p>",
+  "descriptionMarkdown": "Prepara en casa un clásico de nuestro país perfecto para compartir (o para ti solo) y disfrutar de esta combinación de sabores y texturas. La miel que cubre los buñuelos aporta un contraste interesante, que se completa con la ensalada con nueces que lo acompaña.",
+  "difficulty": 2,
+  "favoritesCount": 28,
+  "headline": "acompañado de ensalada con nueces",
+  "id": "63aaf2b2d624bae7112f5a0b",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221011_R02_W47_ES_MB_Main_high-2140c4c5.jpg",
+  "imagePath": "/image/HF221011_R02_W47_ES_MB_Main_high-2140c4c5.jpg",
+  "ingredients": [
+    {
+      "id": "6340437841033266d7be952d",
+      "uuid": "5323f33e-70b2-4869-905d-30806912c28a",
+      "name": "Bacalao",
+      "type": "skin-on-cod",
+      "slug": "bacalao",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437841033266d7be952d-689bd1b0.jpg",
+      "imagePath": "/ingredient/6340437841033266d7be952d-689bd1b0.jpg",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437841033266d7be952d-Bacalao.jpg"
+    },
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "6364e2c11c8a9adf8ea7f79d",
+      "uuid": "4b76e78b-72cc-5898-b33d-3ada326fa8ba",
+      "name": "Nueces peladas",
+      "type": "walnuts",
+      "slug": "nueces-peladas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "imagePath": "/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364e2c11c8a9adf8ea7f79d-Nueces peladas.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "6340437841033266d7be952c",
+      "uuid": "827bd110-c089-50ac-9b7a-346ec7b98257",
+      "name": "Mezclum",
+      "type": "salad-mix",
+      "slug": "mezclum",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "imagePath": "/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437841033266d7be952c-Mezclum.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492a38ebf08332f1bff158",
+      "uuid": "f3edd1e7-4508-4709-aa78-41efa824db4d",
+      "name": "Harina",
+      "type": "flour",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a38ebf08332f1bff158-ff411a48.png",
+      "imagePath": "/ingredient/63492a38ebf08332f1bff158-ff411a48.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a38ebf08332f1bff158-Harina.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    },
+    {
+      "id": "634928a2e9568549b78497e1",
+      "uuid": "f099a1c2-6d5f-42a2-a188-cad2ad1b6d5f",
+      "name": "Aceite para freír",
+      "type": "sunflower-oil",
+      "slug": "aceite-para-freir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "imagePath": "/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634928a2e9568549b78497e1-Aceite para freír.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "De La Abuela",
+    "handle": "grandma-style",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#b980d0",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/63aaf2b2d624bae7112f5a0b",
+  "name": "Buñuelos caseros de bacalao con miel",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 556,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2328,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 44.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 39.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 4.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 28,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0.1,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.29,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 48,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 278,
+  "slug": "bunuelos-caseros-de-bacalao-con-miel",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "En una olla, pon a hervir abundante agua y una pizca de sal. Añade el bacalao y cocina a fuego medio 5-6 min. Cuando el bacalao esté cocido, reserva el agua (ver cantidad en ingredientes) en una jarra medidora. Escurre el bacalao, sécalo con papel de cocina y quita las espinas que pueda contener. \n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<p dir=\"ltr\">En una olla, pon a hervir abundante <span>agua y </span>una pizca de <strong>sal</strong>. Añade el <strong>bacalao</strong> y cocina a fuego medio 5-6 min. Cuando el bacalao esté cocido, <span><span>reserva el <strong>agua</strong> (ver cantidad en ingredientes) en una jarra medidora.</span></span> Escurre el bacalao, sécalo con papel de cocina y <span><span>quita las espinas que pueda contener.</span> </span></p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una olla, pon a hervir abundante <span>agua y </span>una pizca de <strong>sal</strong>. Añade el <strong>bacalao</strong> y cocina a fuego medio 5-6 min. Cuando el bacalao esté cocido, <span><span>reserva el <strong>agua</strong> (ver cantidad en ingredientes) en una jarra medidora.</span></span> Escurre el bacalao, sécalo con papel de cocina y <span><span>quita las espinas que pueda contener.</span> </span></p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "59d49a9319279f8fe60e8671",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b2d624bae7112f5a0b/step-29f04700.jpg",
+          "path": "/63aaf2b2d624bae7112f5a0b/step-29f04700.jpg",
+          "caption": "Cocina el bacalao",
+          "localImage": "/images/recipes/63aaf2b2d624bae7112f5a0b-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Vuelve a poner en el fuego la olla con el agua reservada, utilizada para la cocción del bacalao, y lleva a ebullición. Cuando hierva, añade la harina (ver cantidad en ingredientes) y remueve enérgicamente, con la ayuda de una espátula, durante 2-3 min, hasta que quede una masa compacta y se separe de las paredes de la olla.",
+      "instructionsHTML": "<p dir=\"ltr\">Vuelve a poner en el fuego la olla con el <strong>agua</strong> reservada, utilizada para la cocción del <strong>bacalao</strong>, y lleva a ebullición. Cuando hierva, añade la <strong>harina</strong> (ver cantidad en ingredientes) y remueve enérgicamente, con la ayuda de una espátula, durante 2-3 min, hasta que quede una masa compacta y se separe de las paredes de la olla.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Vuelve a poner en el fuego la olla con el <strong>agua</strong> reservada, utilizada para la cocción del <strong>bacalao</strong>, y lleva a ebullición. Cuando hierva, añade la <strong>harina</strong> (ver cantidad en ingredientes) y remueve enérgicamente, con la ayuda de una espátula, durante 2-3 min, hasta que quede una masa compacta y se separe de las paredes de la olla.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396",
+        "623c805661a1b9d0034f9067"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b2d624bae7112f5a0b/step-45790010.jpg",
+          "path": "/63aaf2b2d624bae7112f5a0b/step-45790010.jpg",
+          "caption": "Prepara la masa",
+          "localImage": "/images/recipes/63aaf2b2d624bae7112f5a0b-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Retira del fuego y añade el huevo (ver cantidad en ingredientes), sigue mezclando con energía para que quede una masa homogénea y lisa. Pela y pica el ajo (ver cantidad en ingredientes). Deshoja y pica la mitad del perejil (doble para 4p). Agrega el ajo y el perejil a la olla. Desmenuza el bacalao y agrégalo. Sazona con sal y pimienta.",
+      "instructionsHTML": "<p dir=\"ltr\">Retira del fuego y añade el <strong>huevo</strong> (ver cantidad en ingredientes), sigue mezclando con energía para que quede una <strong>masa</strong> homogénea y lisa. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Deshoja y pica la mitad del <strong>perejil</strong> (doble para 4p). Agrega el <strong>ajo</strong> y el <strong>perejil</strong> a la olla. Desmenuza el <strong>bacalao</strong> y agrégalo. Sazona con <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Retira del fuego y añade el <strong>huevo</strong> (ver cantidad en ingredientes), sigue mezclando con energía para que quede una <strong>masa</strong> homogénea y lisa. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Deshoja y pica la mitad del <strong>perejil</strong> (doble para 4p). Agrega el <strong>ajo</strong> y el <strong>perejil</strong> a la olla. Desmenuza el <strong>bacalao</strong> y agrégalo. Sazona con <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b2d624bae7112f5a0b/step-b4babb20.jpg",
+          "path": "/63aaf2b2d624bae7112f5a0b/step-b4babb20.jpg",
+          "caption": "Mezcla el bacalao con la masa",
+          "localImage": "/images/recipes/63aaf2b2d624bae7112f5a0b-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En un cazo mediano, pon a calentar el aceite de semillas (ver cantidad en ingredientes). Forma bolas de la mezcla con ayuda de dos cucharas. Cuando el aceite esté bien caliente, fríe los buñuelos a fuego medio-alto 5-6 min o hasta que estén dorados. Reserva sobre un papel de cocina para escurrir el exceso de aceite.",
+      "instructionsHTML": "<p dir=\"ltr\">En un cazo mediano, pon a calentar <span>el <strong>aceite de semillas</strong> (ver cantidad en ingredientes). </span>Forma bolas de la mezcla con ayuda de dos cucharas. Cuando el aceite esté bien caliente, fríe los <strong>buñuelos</strong><span> <span>a fuego medio-alto 5-6 min o hasta que estén dorados.</span></span> Reserva sobre un papel de cocina para escurrir el exceso de aceite.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En un cazo mediano, pon a calentar <span>el <strong>aceite de semillas</strong> (ver cantidad en ingredientes). </span>Forma bolas de la mezcla con ayuda de dos cucharas. Cuando el aceite esté bien caliente, fríe los <strong>buñuelos</strong><span> <span>a fuego medio-alto 5-6 min o hasta que estén dorados.</span></span> Reserva sobre un papel de cocina para escurrir el exceso de aceite.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305381",
+        "57e2674fb7e8697d4b30538c",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b2d624bae7112f5a0b/step-b6bd2430.jpg",
+          "path": "/63aaf2b2d624bae7112f5a0b/step-b6bd2430.jpg",
+          "caption": "Fríe los buñuelos",
+          "localImage": "/images/recipes/63aaf2b2d624bae7112f5a0b-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Mientras, en un bol grande, mezcla la mostaza, el vinagre balsámico y un chorrito de aceite. Añade el mezclum y combínalo todo. Sazona con sal y pimienta. Pica las nueces en trozos medianos.",
+      "instructionsHTML": "<p dir=\"ltr\">Mientras, en un bol grande, mezcla la <strong>mostaza</strong>, el <strong>vinagre balsámico</strong> y un chorrito de <strong>aceite</strong>. Añade el <strong>mezclum</strong> y combínalo todo. Sazona con <strong>sal</strong> y <strong>pimienta</strong>. Pica las <strong>nueces</strong> en trozos medianos.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Mientras, en un bol grande, mezcla la <strong>mostaza</strong>, el <strong>vinagre balsámico</strong> y un chorrito de <strong>aceite</strong>. Añade el <strong>mezclum</strong> y combínalo todo. Sazona con <strong>sal</strong> y <strong>pimienta</strong>. Pica las <strong>nueces</strong> en trozos medianos.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b2d624bae7112f5a0b/step-837afd40.jpg",
+          "path": "/63aaf2b2d624bae7112f5a0b/step-837afd40.jpg",
+          "caption": "Prepara la ensalada",
+          "localImage": "/images/recipes/63aaf2b2d624bae7112f5a0b-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Por último, sirve los buñuelos y agrega la miel por encima. Acompáñalos con la ensalada a un lado y espolvorea las nueces por encima.",
+      "instructionsHTML": "<p dir=\"ltr\">Por último, sirve los <strong>buñuelos</strong> y agrega la <strong>miel</strong> por encima. Acompáñalos con la <strong>ensalada</strong> a un lado y espolvorea las <strong>nueces</strong> por encima.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Por último, sirve los <strong>buñuelos</strong> y agrega la <strong>miel</strong> por encima. Acompáñalos con la <strong>ensalada</strong> a un lado y espolvorea las <strong>nueces</strong> por encima.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf2b2d624bae7112f5a0b/step-cb74b350.jpg",
+          "path": "/63aaf2b2d624bae7112f5a0b/step-cb74b350.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63aaf2b2d624bae7112f5a0b-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESCF0154-5",
+  "updatedAt": "2025-06-12T15:55:03+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "59d49a9319279f8fe60e8671",
+      "type": "medium-pot",
+      "name": "Olla mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    },
+    {
+      "id": "623c805661a1b9d0034f9067",
+      "type": "scales",
+      "name": "Báscula"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305381",
+      "type": "spoon",
+      "name": "Cuchara"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    }
+  ],
+  "uuid": "78cf7e61-f3a7-4b40-abbf-123093c0f013",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/bunuelos-caseros-de-bacalao-con-miel-63aaf2b2d624bae7112f5a0b",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437841033266d7be952d",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 80,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 250,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437841033266d7be952d",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 160,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 500,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63aaf2b2d624bae7112f5a0b-Buñuelos caseros de bacalao con miel.jpg",
+  "localCard": "/pdf/63aaf2b2d624bae7112f5a0b-Buñuelos caseros de bacalao con miel.pdf"
+}

@@ -1,0 +1,772 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.8,
+  "canonical": "6584baa0600988fb9c0679f4",
+  "canonicalLink": "https://www.hellofresh.es/recipes/fideos-udon-cerdo-verduras-6584baa0600988fb9c0679f4",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6849326a56532819dcc1a1e7-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6669b452bd13e7439ddc0c45",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-11T07:38:18+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "Prepara en tu propia cocina este plato digno de un restaurante asiático al que podrías haber acudido cada fin de semana cuando el antojo por este tipo de sabores aprieta. Prueba estos fideos udon con carne de cerdo y verduras, cubierto por una mayonesa de soja que potenciará tu plato y hará que disfrutes más si cabe.",
+  "descriptionHTML": "<p>Prepara en tu propia cocina este plato digno de un restaurante asiático al que podrías haber acudido cada fin de semana cuando el antojo por este tipo de sabores aprieta. Prueba estos fideos udon con carne de cerdo y verduras, cubierto por una mayonesa de soja que potenciará tu plato y hará que disfrutes más si cabe.</p>",
+  "descriptionMarkdown": "Prepara en tu propia cocina este plato digno de un restaurante asiático al que podrías haber acudido cada fin de semana cuando el antojo por este tipo de sabores aprieta. Prueba estos fideos udon con carne de cerdo y verduras, cubierto por una mayonesa de soja que potenciará tu plato y hará que disfrutes más si cabe.",
+  "difficulty": 1,
+  "favoritesCount": 24,
+  "headline": "aderezados con mayonesa de soja",
+  "id": "6849326a56532819dcc1a1e7",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R17_W10_ES_ESQFCM17136-2_04_Main_green_pepper_strips_edit_high-8d995b35.jpg",
+  "imagePath": "/image/HF_Y24_R17_W10_ES_ESQFCM17136-2_04_Main_green_pepper_strips_edit_high-8d995b35.jpg",
+  "ingredients": [
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "6340437b233160a36674ba30",
+      "uuid": "e20d37da-83ce-490d-aeae-12ac9d3aa296",
+      "name": "Pimiento verde italiano",
+      "type": "pointed-bell-pepper-green",
+      "slug": "pimiento-verde-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "imagePath": "/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b233160a36674ba30-Pimiento verde italiano.png"
+    },
+    {
+      "id": "63fc92b0bbe06d8c7489ce76",
+      "uuid": "b7647ff1-cacb-5782-9678-8d04b94aba26",
+      "name": "Carne de cerdo picada",
+      "type": "pork-mince",
+      "slug": "carne-de-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "imagePath": "/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63fc92b0bbe06d8c7489ce76-Carne de cerdo picada.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "63480b79e9568549b78497c9",
+      "uuid": "24b03259-ca4b-5338-bf7a-132e30d306ba",
+      "name": "Salsa de soja dulce",
+      "type": "ketjap-manis",
+      "slug": "salsa-de-soja-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63480b79e9568549b78497c9-7b8bba56.png",
+      "imagePath": "/ingredient/63480b79e9568549b78497c9-7b8bba56.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63480b79e9568549b78497c9-Salsa de soja dulce.png"
+    },
+    {
+      "id": "634fc20ad60c92f32eff1cb4",
+      "uuid": "4d08f895-ac4f-5922-af38-c2693b40797f",
+      "name": "Fideos udon",
+      "type": "udon-noodles",
+      "slug": "fideos-udon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634fc20ad60c92f32eff1cb4-ed8f5c92.png",
+      "imagePath": "/ingredient/634fc20ad60c92f32eff1cb4-ed8f5c92.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634fc20ad60c92f32eff1cb4-Fideos udon.png"
+    },
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Recetas Estrella",
+    "handle": "bestseller",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#067A46",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/6849326a56532819dcc1a1e7",
+  "name": "Fideos udon con cerdo y verduras",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3107,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 743,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 47.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 10.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 57.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 31.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.07,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 63,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 465,
+  "slug": "fideos-udon-con-cerdo-y-verduras",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela y ralla el ajo.\nCorta los pimientos en tiras finas de 0,5 cm de grosor. \n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Corta los <strong>pimientos</strong> en tiras finas de 0,5 cm de grosor. </li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Corta los <strong>pimientos</strong> en tiras finas de 0,5 cm de grosor. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849326a56532819dcc1a1e7/step-425ecf00.jpg",
+          "path": "/6849326a56532819dcc1a1e7/step-425ecf00.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/6849326a56532819dcc1a1e7-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una sartén grande, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAgrega la carne picada de cerdo y desmenúzala. Cocina 4-5 min, hasta que se dore.\nSalpimienta al gusto, luego, retira y reserva en un bol.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una sartén grande, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Agrega la <strong>carne picada</strong> <strong>de cerdo</strong> y desmenúzala. Cocina 4-5 min, hasta que se dore.</li>\n<li dir=\"ltr\"><strong>Salpimienta</strong> al gusto, luego, retira y reserva en un bol.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una sartén grande, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Agrega la <strong>carne picada</strong> <strong>de cerdo</strong> y desmenúzala. Cocina 4-5 min, hasta que se dore.</li>\n<li dir=\"ltr\"><strong>Salpimienta</strong> al gusto, luego, retira y reserva en un bol.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f",
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849326a56532819dcc1a1e7/step-d1930810.jpg",
+          "path": "/6849326a56532819dcc1a1e7/step-d1930810.jpg",
+          "caption": "Cocina la carne",
+          "localImage": "/images/recipes/6849326a56532819dcc1a1e7-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Saltea los pimientos 6-7 min, removiendo.\nAgrega la mitad de la salsa de soja, la salsa de soja dulce, el agua y los fideos udon.\nRemueve con unas pinzas para que los fideos queden separados y saltea 2-3 min más.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Saltea los <strong>pimientos</strong> 6-7 min, removiendo.</li>\n<li>Agrega la mitad de la <strong>salsa de soja</strong>, la <strong>salsa de soja dulce</strong>, el <strong>agua</strong> y los <strong>fideos udon</strong>.</li>\n<li>Remueve con unas pinzas para que los <strong>fideos</strong> queden separados y saltea 2-3 min más.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Saltea los <strong>pimientos</strong> 6-7 min, removiendo.</li>\n<li>Agrega la mitad de la <strong>salsa de soja</strong>, la <strong>salsa de soja dulce</strong>, el <strong>agua</strong> y los <strong>fideos udon</strong>.</li>\n<li>Remueve con unas pinzas para que los <strong>fideos</strong> queden separados y saltea 2-3 min más.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "59d49a9419279f8fe60e867b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849326a56532819dcc1a1e7/step-a7d72c20.jpg",
+          "path": "/6849326a56532819dcc1a1e7/step-a7d72c20.jpg",
+          "caption": "Saltea las verduras",
+          "localImage": "/images/recipes/6849326a56532819dcc1a1e7-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, agrega la carne de cerdo y remueve. Prueba y rectifica de sal y pimienta.\nEn un bol pequeño, mezcla la mayonesa y la salsa de soja restante.\nSirve los fideos con cerdo y verduras en platos y agrega la mayonesa de soja encima.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la sartén, agrega la <strong>carne de cerdo</strong> y remueve. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">En un bol pequeño, mezcla la <strong>mayonesa</strong> y la<strong> salsa de soja</strong> restante.</li>\n<li dir=\"ltr\">Sirve los <strong>fideos</strong> con <strong>cerdo</strong> y <strong>verduras</strong> en platos y agrega la <strong>mayonesa de soja</strong> encima.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la sartén, agrega la <strong>carne de cerdo</strong> y remueve. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">En un bol pequeño, mezcla la <strong>mayonesa</strong> y la<strong> salsa de soja</strong> restante.</li>\n<li dir=\"ltr\">Sirve los <strong>fideos</strong> con <strong>cerdo</strong> y <strong>verduras</strong> en platos y agrega la <strong>mayonesa de soja</strong> encima.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849326a56532819dcc1a1e7/step-87164d30.jpg",
+          "path": "/6849326a56532819dcc1a1e7/step-87164d30.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6849326a56532819dcc1a1e7-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESQFCM28370-7",
+  "updatedAt": "2025-12-19T08:27:20+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "59d49a9419279f8fe60e867b",
+      "type": "tongs",
+      "name": "Pinzas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "7255d0db-3612-49a1-82ed-6eacb32dee0f",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/fideos-udon-con-cerdo-y-verduras-6849326a56532819dcc1a1e7",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63480b79e9568549b78497c9",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 75,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63480b79e9568549b78497c9",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63480b79e9568549b78497c9",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 900,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 9,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 225,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6849326a56532819dcc1a1e7-Fideos udon con cerdo y verduras.jpg",
+  "localCard": "/pdf/6849326a56532819dcc1a1e7-Fideos udon con cerdo y verduras.pdf"
+}

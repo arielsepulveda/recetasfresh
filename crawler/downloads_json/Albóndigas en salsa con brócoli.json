@@ -1,0 +1,872 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/albondigas-salsa-brocoli-pure-63ca9c23812a821893bf04fd-3c845f32.pdf",
+  "category": null,
+  "clonedFrom": "63a0736856559efbf08a1c3f",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-01-20T13:50:27+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterránea ",
+      "slug": "mediterranea ",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg"
+    }
+  ],
+  "description": "Si estabas buscando un plato completo, nutritivo y sabroso que preparar en solo 15 minutos, esta es tu receta. Combina unas jugosas albóndigas en salsa con un cremoso puré de patata y acompaña con el siempre saludable brócoli.",
+  "descriptionHTML": "<p>Si estabas buscando un plato completo, nutritivo y sabroso que preparar en solo 15 minutos, esta es tu receta. Combina unas jugosas albóndigas en salsa con un cremoso puré de patata y acompaña con el siempre saludable brócoli.</p>",
+  "descriptionMarkdown": "Si estabas buscando un plato completo, nutritivo y sabroso que preparar en solo 15 minutos, esta es tu receta. Combina unas jugosas albóndigas en salsa con un cremoso puré de patata y acompaña con el siempre saludable brócoli.",
+  "difficulty": 1,
+  "favoritesCount": 31,
+  "headline": "acompañadas de puré de patatas y queso italiano",
+  "id": "63ca9c23812a821893bf04fd",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R02_browner_W16_ES_ESCCLFM14105-2_browner_Main_high-5a28314d.jpg",
+  "imagePath": "/image/HF_Y23_R02_browner_W16_ES_ESCCLFM14105-2_browner_Main_high-5a28314d.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340437241033266d7be951c",
+      "uuid": "ae916f80-2cef-5a50-bd6f-0034f3a60852",
+      "name": "Especias italianas",
+      "type": "italian-style-spice-mix",
+      "slug": "especias-italianas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437241033266d7be951c-daa3d0e7.png",
+      "imagePath": "/ingredient/6340437241033266d7be951c-daa3d0e7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437241033266d7be951c-Especias italianas.png"
+    },
+    {
+      "id": "636ee2296875fac468eeb9ce",
+      "uuid": "b2d33c6c-dcf6-5212-8de8-f75bd59d77c0",
+      "name": "Carne de ternera y cerdo picada",
+      "type": "mixed-mince-pork-beef",
+      "slug": "carne-de-ternera-y-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636ee2296875fac468eeb9ce-f949fe5e.png",
+      "imagePath": "/ingredient/636ee2296875fac468eeb9ce-f949fe5e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636ee2296875fac468eeb9ce-Carne de ternera y cerdo picada.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "6340436c41033266d7be950b",
+      "uuid": "9c185787-b4f8-5457-863b-da9d361fcd22",
+      "name": "Brócoli",
+      "type": "broccoli",
+      "slug": "brocoli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "imagePath": "/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be950b-Brócoli.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    },
+    {
+      "id": "63e6083fa0a0603e5708dcdf",
+      "uuid": "e9deafd3-f03e-495a-af91-c26c97148dbd",
+      "name": "Mantequilla para el puré",
+      "type": "butter-for-the-mashed-optional",
+      "slug": "mantequilla-para-el-pure",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63e6083fa0a0603e5708dcdf-6def1058.png",
+      "imagePath": "/ingredient/63e6083fa0a0603e5708dcdf-6def1058.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63e6083fa0a0603e5708dcdf-Mantequilla para el puré.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    },
+    {
+      "id": "63b3d2a0749d7fa20bf999b1",
+      "uuid": "ee2baff8-e1ee-4938-a945-7b69d723ec55",
+      "name": "Harina para las albóndigas",
+      "type": "flour-for-meatballs",
+      "slug": "harina-para-las-albondigas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63b3d2a0749d7fa20bf999b1-b9235204.png",
+      "imagePath": "/ingredient/63b3d2a0749d7fa20bf999b1-b9235204.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63b3d2a0749d7fa20bf999b1-Harina para las albóndigas.png"
+    },
+    {
+      "id": "6409eae2cda96bb6528b8fa2",
+      "uuid": "8f09a02d-3278-4c04-b7de-87d2d8bc640f",
+      "name": "Harina para la salsa",
+      "type": "flour-for-the-sauce",
+      "slug": "harina-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6409eae2cda96bb6528b8fa2-4556bfe9.png",
+      "imagePath": "/ingredient/6409eae2cda96bb6528b8fa2-4556bfe9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6409eae2cda96bb6528b8fa2-Harina para la salsa.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "638d95012d9af192559539ba",
+      "uuid": "81735a05-eaac-4944-b263-c8299b14566d",
+      "name": "Agua de la cocción",
+      "type": "cooking-water",
+      "slug": "agua-de-la-coccion",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "imagePath": "/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638d95012d9af192559539ba-Agua de la cocción.jpg"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/63ca9c23812a821893bf04fd",
+  "name": "Albóndigas en salsa con brócoli",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2342,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 560,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 18.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 8.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 40.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 30.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 45,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 468,
+  "slug": "albondigas-en-salsa-con-brocoli",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Pela las patatas y córtalas en dados de 2 cm. En una olla, agrega las patatas, cúbrelas con abundante agua y añade una pizca de sal. Lleva a ebullición y cocina, a fuego medio, 13-15 min o hasta que estén blandas. Cuando las patatas estén cocinadas, reserva el agua de la cocción (ver cantidad en ingredientes) en un bol. Luego, escúrrelas con ayuda de un colador y devuélvelas a la olla.",
+      "instructionsHTML": "<p>Pela las <strong>patatas</strong> y córtalas en dados de 2 cm. En una olla, agrega las <strong>patatas</strong>, cúbrelas con abundante <strong>agua</strong> y añade una pizca de <strong>sal</strong>. Lleva a ebullición y cocina, a fuego medio, 13-15 min o hasta que estén blandas. Cuando las <strong>patatas</strong> estén cocinadas, reserva el <strong>agua de la cocción</strong> (ver cantidad en ingredientes) en un bol. Luego, escúrrelas con ayuda de un colador y devuélvelas a la olla.</p>",
+      "instructionsMarkdown": "<p>Pela las <strong>patatas</strong> y córtalas en dados de 2 cm. En una olla, agrega las <strong>patatas</strong>, cúbrelas con abundante <strong>agua</strong> y añade una pizca de <strong>sal</strong>. Lleva a ebullición y cocina, a fuego medio, 13-15 min o hasta que estén blandas. Cuando las <strong>patatas</strong> estén cocinadas, reserva el <strong>agua de la cocción</strong> (ver cantidad en ingredientes) en un bol. Luego, escúrrelas con ayuda de un colador y devuélvelas a la olla.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b305379",
+        "59d49a9319279f8fe60e866f",
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fd/step-7d2bf400.jpg",
+          "path": "/63ca9c23812a821893bf04fd/step-7d2bf400.jpg",
+          "caption": "Cuece las patatas",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fd-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela y pica el ajo (ver cantidad en ingredientes). En un bol grande, agrega el ajo, 1/4 de las especias italianas (doble para 4p), la harina para las albóndigas (ver cantidad en ingredientes) y salpimienta. Agrega la carne picada, mezcla bien y forma 5 albóndigas por persona. En un plato, agrega la harina (ver cantidad en ingredientes) y reboza bien las albóndigas.",
+      "instructionsHTML": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En un bol grande, agrega el <strong>ajo</strong>, 1/4 de las <strong>especias italianas</strong> (doble para 4p), la <strong>harina para las albóndigas </strong>(ver cantidad en ingredientes) y <strong>salpimienta</strong>. Agrega la <strong>carne picada, </strong>mezcla bien y forma 5 <strong>albóndigas</strong> por persona. En un plato, agrega la <strong>harina</strong> (ver cantidad en ingredientes) y reboza bien las <strong>albóndigas</strong>.</p>",
+      "instructionsMarkdown": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En un bol grande, agrega el <strong>ajo</strong>, 1/4 de las <strong>especias italianas</strong> (doble para 4p), la <strong>harina para las albóndigas </strong>(ver cantidad en ingredientes) y <strong>salpimienta</strong>. Agrega la <strong>carne picada, </strong>mezcla bien y forma 5 <strong>albóndigas</strong> por persona. En un plato, agrega la <strong>harina</strong> (ver cantidad en ingredientes) y reboza bien las <strong>albóndigas</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fd/step-dbd97010.jpg",
+          "path": "/63ca9c23812a821893bf04fd/step-dbd97010.jpg",
+          "caption": "Adereza la carne",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fd-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Calienta una sartén a fuego medio-alto con un chorrito de aceite y fríe las albóndigas durante 6-7 min, hasta que estén doradas y bien cocinadas en el interior. Una vez listas, retira de la sartén y reserva. Mientras tanto, corta el brócoli por la mitad y retira el tallo. Luego, corta una mitad (doble para 4p) en floretes pequeños.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">Calienta una sartén a fuego medio-alto con un chorrito de <strong>aceite</strong> y fríe las <strong>albóndigas</strong> durante 6-7 min, hasta que estén doradas y bien cocinadas en el interior. Una vez listas, retira de la sartén y reserva. Mientras tanto, corta el <strong>brócoli</strong> por la mitad y retira el tallo. Luego, corta una mitad (doble para 4p) en floretes pequeños.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Calienta una sartén a fuego medio-alto con un chorrito de <strong>aceite</strong> y fríe las <strong>albóndigas</strong> durante 6-7 min, hasta que estén doradas y bien cocinadas en el interior. Una vez listas, retira de la sartén y reserva. Mientras tanto, corta el <strong>brócoli</strong> por la mitad y retira el tallo. Luego, corta una mitad (doble para 4p) en floretes pequeños.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fd/step-96aabc20.jpg",
+          "path": "/63ca9c23812a821893bf04fd/step-96aabc20.jpg",
+          "caption": "Cocina las albóndigas",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fd-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la olla de las patatas, agrega el queso rallado, el agua de la cocción, un chorrito de aceite y, de forma opcional, la mantequilla para el puré (ver cantidad en ingredientes). Salpimienta al gusto y, con la ayuda de un pasapurés o un tenedor, aplasta las patatas hasta conseguir un puré. Llena un cazo con abundante agua y una pizca de sal y lleva a ebullición. Cuando hierva, agrega el brócoli y cocina 4-5 min. Una vez cocido, escurre y reserva.",
+      "instructionsHTML": "<p dir=\"ltr\">En la olla de las <strong>patatas</strong>, agrega el <strong>queso rallado</strong>, el <strong>agua de la cocción</strong>, un chorrito de <strong>aceite</strong> y, de forma opcional, la <strong>mantequilla para el puré</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong> al gusto y, con la ayuda de un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta conseguir un <strong>puré</strong>. Llena un cazo con abundante <strong>agua</strong> y una pizca de <strong>sal</strong> y lleva a ebullición. Cuando hierva, agrega el <strong>brócoli</strong> y cocina 4-5 min. Una vez cocido, escurre y reserva.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En la olla de las <strong>patatas</strong>, agrega el <strong>queso rallado</strong>, el <strong>agua de la cocción</strong>, un chorrito de <strong>aceite</strong> y, de forma opcional, la <strong>mantequilla para el puré</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong> al gusto y, con la ayuda de un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta conseguir un <strong>puré</strong>. Llena un cazo con abundante <strong>agua</strong> y una pizca de <strong>sal</strong> y lleva a ebullición. Cuando hierva, agrega el <strong>brócoli</strong> y cocina 4-5 min. Una vez cocido, escurre y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fd/step-9cf95330.jpg",
+          "path": "/63ca9c23812a821893bf04fd/step-9cf95330.jpg",
+          "caption": "Termina el puré",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fd-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Calienta la sartén de las albóndigas a fuego medio-bajo y añade la mantequilla y la harina para la salsa (ver cantidad en ingredientes de ambas). Cocina 2 min. Luego, agrega el agua (ver cantidad en ingredientes), la mitad de las especias italianas restantes (doble para 4p) y el caldo de ternera en polvo y cocina 2-3 min a fuego medio, hasta que la salsa reduzca. Agrega las albóndigas y cocina 1 min más.",
+      "instructionsHTML": "<p>Calienta la sartén de las <strong>albóndigas</strong> a fuego medio-bajo y añade la <strong>mantequilla</strong> y la <strong>harina para la salsa</strong> (ver cantidad en ingredientes de ambas). Cocina 2 min. Luego, agrega el <strong>agua</strong> (ver cantidad en ingredientes), la mitad de las <strong>especias italianas</strong> restantes (doble para 4p) y el <strong>caldo de ternera</strong> en polvo y cocina 2-3 min a fuego medio, hasta que la <strong>salsa</strong> reduzca. Agrega las <strong>albóndigas</strong> y cocina 1 min más.</p>",
+      "instructionsMarkdown": "<p>Calienta la sartén de las <strong>albóndigas</strong> a fuego medio-bajo y añade la <strong>mantequilla</strong> y la <strong>harina para la salsa</strong> (ver cantidad en ingredientes de ambas). Cocina 2 min. Luego, agrega el <strong>agua</strong> (ver cantidad en ingredientes), la mitad de las <strong>especias italianas</strong> restantes (doble para 4p) y el <strong>caldo de ternera</strong> en polvo y cocina 2-3 min a fuego medio, hasta que la <strong>salsa</strong> reduzca. Agrega las <strong>albóndigas</strong> y cocina 1 min más.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fd/step-8938a140.jpg",
+          "path": "/63ca9c23812a821893bf04fd/step-8938a140.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fd-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Una vez que la salsa se haya reducido, retira del fuego. Reparte el puré de patatas y queso entre la base de los platos y sirve las albóndigas y la salsa encima. Sirve los floretes de brócoli a un lado, salpimienta y añade un chorrito de aceite de oliva.",
+      "instructionsHTML": "<p dir=\"ltr\">Una vez que la <strong>salsa</strong> se haya reducido, retira del fuego. Reparte el <strong>puré de patatas y queso</strong> entre la base de los platos y sirve las <strong>albóndigas</strong> y la <strong>salsa</strong> encima. Sirve los <strong>floretes de brócoli</strong> a un lado, <strong>salpimienta</strong> y añade un chorrito de <strong>aceite de oliva</strong>.<strong id=\"docs-internal-guid-69d9a353-7fff-2215-f731-d5dbea74ff01\"></strong></p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Una vez que la <strong>salsa</strong> se haya reducido, retira del fuego. Reparte el <strong>puré de patatas y queso</strong> entre la base de los platos y sirve las <strong>albóndigas</strong> y la <strong>salsa</strong> encima. Sirve los <strong>floretes de brócoli</strong> a un lado, <strong>salpimienta</strong> y añade un chorrito de <strong>aceite de oliva</strong>.<strong id=\"docs-internal-guid-69d9a353-7fff-2215-f731-d5dbea74ff01\"></strong></p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fd/step-338d3950.jpg",
+          "path": "/63ca9c23812a821893bf04fd/step-338d3950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fd-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCCLFM14105-2",
+  "updatedAt": "2026-01-21T13:59:43+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    }
+  ],
+  "uuid": "1d1f4088-751f-4701-8329-b3a0531e837a",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/albondigas-en-salsa-con-brocoli-63ca9c23812a821893bf04fd",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437241033266d7be951c",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63e6083fa0a0603e5708dcdf",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63b3d2a0749d7fa20bf999b1",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6409eae2cda96bb6528b8fa2",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437241033266d7be951c",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63e6083fa0a0603e5708dcdf",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63b3d2a0749d7fa20bf999b1",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6409eae2cda96bb6528b8fa2",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63ca9c23812a821893bf04fd-Albóndigas en salsa con brócoli.jpg",
+  "localCard": "/pdf/63ca9c23812a821893bf04fd-Albóndigas en salsa con brócoli.pdf"
+}

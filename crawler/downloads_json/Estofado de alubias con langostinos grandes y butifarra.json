@@ -1,0 +1,674 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f4",
+      "name": "Crustáceos",
+      "type": "crustaceans",
+      "slug": "crustaceos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3,
+  "canonical": "671918f52afd696502ee30d6",
+  "canonicalLink": "https://www.hellofresh.es/recipes/estofado-de-garbanzos-con-gambon-y-chorizo-671918f52afd696502ee30d6",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/67af1b69e126ee27f0dcb8a7-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "671918f52afd696502ee30d6",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-02-14T10:31:06+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "El \"mar y montaña\" es principalmente popular en Cataluña y las Islas Baleares por su particular geografía y su fantástica combinación de montañas y playas, que da lugar a que los productos que ambos ofrecen estuvieran muy disponibles. Así, desde el medievo, la carne y el pescado o marisco se combinaban en platos como el que te ofrecemos.",
+  "descriptionHTML": "<p>El &quot;mar y montaña&quot; es principalmente popular en Cataluña y las Islas Baleares por su particular geografía y su fantástica combinación de montañas y playas, que da lugar a que los productos que ambos ofrecen estuvieran muy disponibles. Así, desde el medievo, la carne y el pescado o marisco se combinaban en platos como el que te ofrecemos.</p>",
+  "descriptionMarkdown": "El \"mar y montaña\" es principalmente popular en Cataluña y las Islas Baleares por su particular geografía y su fantástica combinación de montañas y playas, que da lugar a que los productos que ambos ofrecen estuvieran muy disponibles. Así, desde el medievo, la carne y el pescado o marisco se combinaban en platos como el que te ofrecemos.",
+  "difficulty": 1,
+  "favoritesCount": 5,
+  "headline": "con verduras",
+  "id": "67af1b69e126ee27f0dcb8a7",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R22_W14_ES_ESSFPS34763-2_Main_high-30d0baa6.jpg",
+  "imagePath": "/image/HF_Y25_R22_W14_ES_ESSFPS34763-2_Main_high-30d0baa6.jpg",
+  "ingredients": [
+    {
+      "id": "671053b5ed0d969de7c062cd",
+      "uuid": "071ad1eb-4a5d-5136-9a06-806c0ff55b67",
+      "name": "Langostinos grandes",
+      "type": "king-prawns",
+      "slug": "langostinos-grandes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/671053b5ed0d969de7c062cd-5186e351.png",
+      "imagePath": "/ingredient/671053b5ed0d969de7c062cd-5186e351.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f4"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/671053b5ed0d969de7c062cd-Langostinos grandes.png"
+    },
+    {
+      "id": "636535e40a112d281e8e7e06",
+      "uuid": "80a2d680-e62d-4cd3-ab2e-85dd9dc4c054",
+      "name": "Butifarra",
+      "type": "catalan-sausage-pork-meat",
+      "slug": "butifarra",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636535e40a112d281e8e7e06-1656cb57.png",
+      "imagePath": "/ingredient/636535e40a112d281e8e7e06-1656cb57.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636535e40a112d281e8e7e06-Butifarra.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63566c5eb174d9ebd3c35bc8",
+      "uuid": "180dba5b-4f37-51f9-80a9-efb9c27c5351",
+      "name": "Judías blancas",
+      "type": "cannellini-beans",
+      "slug": "judias-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63566c5eb174d9ebd3c35bc8-f34b7bec.png",
+      "imagePath": "/ingredient/63566c5eb174d9ebd3c35bc8-f34b7bec.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63566c5eb174d9ebd3c35bc8-Judías blancas.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Todos a la mesa",
+    "handle": "feast",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/67af1b69e126ee27f0dcb8a7",
+  "name": "Estofado de alubias con langostinos grandes y butifarra",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3495,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 835,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 47.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 13.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 58.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 10.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 54.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.83,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 5,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 747,
+  "slug": "estofado-de-alubias-con-gambon-y-butifarra",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nSeca los langostinos grandes.\nEn una olla, calienta un chorrito de aceite a fuego medio-alto. Agrega los langostinos, salpimienta y cocina 1-2 min, moviendo, hasta que se doren.\nCuando estén listos, retira y reserva.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Seca los <strong>langostinos grandes</strong>.</li>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega los <strong>langostinos, salpimienta</strong> y cocina 1-2 min, moviendo, hasta que se doren.</li>\n<li>Cuando estén listos, retira y reserva.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Seca los <strong>langostinos grandes</strong>.</li>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega los <strong>langostinos, salpimienta</strong> y cocina 1-2 min, moviendo, hasta que se doren.</li>\n<li>Cuando estén listos, retira y reserva.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b69e126ee27f0dcb8a7/step-80da5200.jpg",
+          "path": "/67af1b69e126ee27f0dcb8a7/step-80da5200.jpg",
+          "caption": "Cocina los langostinos",
+          "localImage": "/images/recipes/67af1b69e126ee27f0dcb8a7-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCon un cuchillo, haz un corte en la piel de la butifarra y retírala. Divide la carne en 6 trozos por persona.\nEn la olla, calienta un chorrito de aceite a fuego medio. Cocina la butifarra 3-4 min por lado, hasta que se dore.\nCuando la butifarra esté lista, resérvala en un plato.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Con un cuchillo, haz un corte en la piel de la <strong>butifarra</strong> y retírala. Divide la carne en 6 trozos por persona.</li>\n<li>En la olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina la <strong>butifarra</strong> 3-4 min por lado, hasta que se dore.</li>\n<li>Cuando la <strong>butifarra</strong> esté lista, resérvala en un plato.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Con un cuchillo, haz un corte en la piel de la <strong>butifarra</strong> y retírala. Divide la carne en 6 trozos por persona.</li>\n<li>En la olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina la <strong>butifarra</strong> 3-4 min por lado, hasta que se dore.</li>\n<li>Cuando la <strong>butifarra</strong> esté lista, resérvala en un plato.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5c0a9a5edbdd9fc57e863cd6"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b69e126ee27f0dcb8a7/step-0d1c8210.jpg",
+          "path": "/67af1b69e126ee27f0dcb8a7/step-0d1c8210.jpg",
+          "caption": "Cocina la butifarra",
+          "localImage": "/images/recipes/67af1b69e126ee27f0dcb8a7-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nMientras se cocina la butifara, corta el tomate por la mitad y rallálo.\nPela la cebolla y córtala en daditos pequeños.\nEn la olla, calienta un chorrito de aceite a fuego medio. Agrega la cebolla y cocina 4-5 min, removiendo, hasta que esté transparente. \n",
+      "instructionsHTML": "<ul>\n<li>Mientras se cocina la <strong>butifara,</strong> corta el <strong>tomate</strong> por la mitad y rallálo.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos pequeños.</li>\n<li>En la olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> y cocina 4-5 min, removiendo, hasta que esté transparente. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Mientras se cocina la <strong>butifara,</strong> corta el <strong>tomate</strong> por la mitad y rallálo.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos pequeños.</li>\n<li>En la olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> y cocina 4-5 min, removiendo, hasta que esté transparente. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b69e126ee27f0dcb8a7/step-cd121920.jpg",
+          "path": "/67af1b69e126ee27f0dcb8a7/step-cd121920.jpg",
+          "caption": "Saltea la cebolla",
+          "localImage": "/images/recipes/67af1b69e126ee27f0dcb8a7-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nMientras tanto, pela las patatas, luego, clava parcialmente el filo del cuchillo y rompe la patata en trozos medianos e irregulares.\nEn la olla, agrega el tomate y cocina 2-3 min más.\nAgrega las patatas y cocina 1 min.\nEscurre las judías blancas.\n",
+      "instructionsHTML": "<ul>\n<li>Mientras tanto, pela las <strong>patatas,</strong> luego, clava parcialmente el filo del cuchillo y rompe la patata en trozos medianos e irregulares.</li>\n<li>En la olla, agrega el <strong>tomate</strong> y cocina 2-3 min más.</li>\n<li>Agrega las <strong>patatas</strong> y cocina 1 min.</li>\n<li>Escurre las <strong>judías blancas</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Mientras tanto, pela las <strong>patatas,</strong> luego, clava parcialmente el filo del cuchillo y rompe la patata en trozos medianos e irregulares.</li>\n<li>En la olla, agrega el <strong>tomate</strong> y cocina 2-3 min más.</li>\n<li>Agrega las <strong>patatas</strong> y cocina 1 min.</li>\n<li>Escurre las <strong>judías blancas</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b69e126ee27f0dcb8a7/step-cc9dde30.jpg",
+          "path": "/67af1b69e126ee27f0dcb8a7/step-cc9dde30.jpg",
+          "caption": "Añade las patatas",
+          "localImage": "/images/recipes/67af1b69e126ee27f0dcb8a7-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn la olla, agrega el agua (ver cantidad en ingredientes) y las judías blancas y cocina 20-22 min o hasta que las patatas estén blandas.\nCuando queden 5-6 min, agrega la butifarra de nuevo a la olla.\nEn la olla, agrega las espinacas y los langostinos y cocina 2 min más.\n\nSABÍAS QUE: La cocción por expansión es una técnica en la que se cocinan los alimentos desde un líquido frío para extraer su sabor y que éste quede en el medio de cocción.",
+      "instructionsHTML": "<ul>\n<li>En la olla, agrega el <strong>agua</strong> (ver cantidad en ingredientes) y las <strong>judías blancas</strong> y cocina 20-22 min o hasta que las <strong>patatas</strong> estén blandas.</li>\n<li>Cuando queden 5-6 min, agrega la <strong>butifarra</strong> de nuevo a la olla.</li>\n<li>En la olla, agrega las <strong>espinacas</strong> y los <strong>langostinos</strong> y cocina 2 min más.</li>\n</ul>\n<p>SABÍAS QUE: La cocción por expansión es una técnica en la que se cocinan los alimentos desde un líquido frío para extraer su sabor y que éste quede en el medio de cocción.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En la olla, agrega el <strong>agua</strong> (ver cantidad en ingredientes) y las <strong>judías blancas</strong> y cocina 20-22 min o hasta que las <strong>patatas</strong> estén blandas.</li>\n<li>Cuando queden 5-6 min, agrega la <strong>butifarra</strong> de nuevo a la olla.</li>\n<li>En la olla, agrega las <strong>espinacas</strong> y los <strong>langostinos</strong> y cocina 2 min más.</li>\n</ul>\n<p>SABÍAS QUE: La cocción por expansión es una técnica en la que se cocinan los alimentos desde un líquido frío para extraer su sabor y que éste quede en el medio de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b69e126ee27f0dcb8a7/step-69372d40.jpg",
+          "path": "/67af1b69e126ee27f0dcb8a7/step-69372d40.jpg",
+          "caption": "Prepara el estofado",
+          "localImage": "/images/recipes/67af1b69e126ee27f0dcb8a7-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nPrueba el estofado y rectifica de sal y pimienta.\nSirve el estofado en platos.\n",
+      "instructionsHTML": "<ul>\n<li>Prueba el <strong>estofado</strong> y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Sirve el <strong>estofado</strong> en platos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Prueba el <strong>estofado</strong> y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Sirve el <strong>estofado</strong> en platos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b69e126ee27f0dcb8a7/step-58053850.jpg",
+          "path": "/67af1b69e126ee27f0dcb8a7/step-58053850.jpg",
+          "caption": "Combina y emplata",
+          "localImage": "/images/recipes/67af1b69e126ee27f0dcb8a7-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESSFPS34763-3",
+  "updatedAt": "2026-01-21T14:00:36+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "5c0a9a5edbdd9fc57e863cd6",
+      "type": "box-greater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    }
+  ],
+  "uuid": "926e24d8-1a82-4c94-ae64-4211212e723c",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/estofado-de-alubias-con-gambon-y-butifarra-67af1b69e126ee27f0dcb8a7",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "671053b5ed0d969de7c062cd",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636535e40a112d281e8e7e06",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63566c5eb174d9ebd3c35bc8",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 550,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "671053b5ed0d969de7c062cd",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636535e40a112d281e8e7e06",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63566c5eb174d9ebd3c35bc8",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/67af1b69e126ee27f0dcb8a7-Estofado de alubias con langostinos grandes y butifarra.jpg",
+  "localCard": "/pdf/67af1b69e126ee27f0dcb8a7-Estofado de alubias con langostinos grandes y butifarra.pdf"
+}

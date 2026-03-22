@@ -1,0 +1,651 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64c0fa58a1aa6db20ea12a10.pdf",
+  "category": null,
+  "clonedFrom": "6489be0725862a444bdb6291",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-07-26T10:50:00+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "Atrévete a probar una receta para los días fríos en la que podrás preparar un caldo casero de setas con inspiración oriental, en el que cocinaremos las setas portobello, los fideos udon y unas albóndigas de cerdo caseras. Disfruta de este sabroso plato sin preocuparte por la dieta, dado que este completo plato tiene menos de 650 calorías.",
+  "descriptionHTML": "<p>Atrévete a probar una receta para los días fríos en la que podrás preparar un caldo casero de setas con inspiración oriental, en el que cocinaremos las setas portobello, los fideos udon y unas albóndigas de cerdo caseras. Disfruta de este sabroso plato sin preocuparte por la dieta, dado que este completo plato tiene menos de 650 calorías.</p>",
+  "descriptionMarkdown": "Atrévete a probar una receta para los días fríos en la que podrás preparar un caldo casero de setas con inspiración oriental, en el que cocinaremos las setas portobello, los fideos udon y unas albóndigas de cerdo caseras. Disfruta de este sabroso plato sin preocuparte por la dieta, dado que este completo plato tiene menos de 650 calorías.",
+  "difficulty": 1,
+  "favoritesCount": 30,
+  "headline": "con caldo casero de setas portobello",
+  "id": "64c0fa58a1aa6db20ea12a10",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R06_W42_ES_ESQCFM17135-2_Main_Remove_spring_onion_edit_high-3ee1cf71.jpg",
+  "imagePath": "/image/HF_Y23_R06_W42_ES_ESQCFM17135-2_Main_Remove_spring_onion_edit_high-3ee1cf71.jpg",
+  "ingredients": [
+    {
+      "id": "634fc20ad60c92f32eff1cb4",
+      "uuid": "4d08f895-ac4f-5922-af38-c2693b40797f",
+      "name": "Fideos udon",
+      "type": "udon-noodles",
+      "slug": "fideos-udon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634fc20ad60c92f32eff1cb4-ed8f5c92.png",
+      "imagePath": "/ingredient/634fc20ad60c92f32eff1cb4-ed8f5c92.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634fc20ad60c92f32eff1cb4-Fideos udon.png"
+    },
+    {
+      "id": "63fc92b0bbe06d8c7489ce76",
+      "uuid": "b7647ff1-cacb-5782-9678-8d04b94aba26",
+      "name": "Carne de cerdo picada",
+      "type": "pork-mince",
+      "slug": "carne-de-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "imagePath": "/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63fc92b0bbe06d8c7489ce76-Carne de cerdo picada.png"
+    },
+    {
+      "id": "63404376233160a36674ba19",
+      "uuid": "87dc56ae-88e0-530d-bd62-be00baab053b",
+      "name": "Portobello",
+      "type": "portobello-mushroom",
+      "slug": "portobello",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba19-66c19148.png",
+      "imagePath": "/ingredient/63404376233160a36674ba19-66c19148.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba19-Portobello.png"
+    },
+    {
+      "id": "63be6f11bc0b80106b4671d1",
+      "uuid": "24b03259-ca4b-5338-bf7a-132e30d306ba",
+      "name": "Salsa de soja dulce",
+      "type": "ketjap-manis",
+      "slug": "salsa-de-soja-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63be6f11bc0b80106b4671d1-850a5056.png",
+      "imagePath": "/ingredient/63be6f11bc0b80106b4671d1-850a5056.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63be6f11bc0b80106b4671d1-Salsa de soja dulce.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "634d5daaebf08332f1bff1a8",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "imagePath": "/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d5daaebf08332f1bff1a8-Salsa de soja.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/64c0fa58a1aa6db20ea12a10",
+  "name": "Sopa de fideos udon con albóndigas de cerdo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 426,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1781,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 23.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 33.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 28.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.57,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 36,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 357,
+  "slug": "sopa-de-fideos-udon-con-albondigas-de-cerdo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Limpia los portobellos con un paño húmedo. Retira y desecha el extremo del pie de los portobellos. Luego, córtalos en láminas finas. En una olla, agrega el agua (ver cantidad en ingredientes), el caldo de ternera y sal y lleva a ebullición. Cuando hierva, añade las setas portobello laminadas. A continuación, retira del fuego y tapa la olla durante 5-10 min. ",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Limpia los <strong>portobellos</strong> con un paño húmedo. Retira y desecha el extremo del pie de los <strong>portobellos</strong>. Luego, córtalos en láminas finas. En una olla, agrega el <strong>agua</strong> (ver cantidad en ingredientes), el <strong>caldo de ternera</strong> y <strong>sal</strong> y lleva a ebullición. Cuando hierva, añade las <strong>setas portobello</strong> laminadas. A continuación, retira del fuego y tapa la olla durante 5-10 min. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Limpia los <strong>portobellos</strong> con un paño húmedo. Retira y desecha el extremo del pie de los <strong>portobellos</strong>. Luego, córtalos en láminas finas. En una olla, agrega el <strong>agua</strong> (ver cantidad en ingredientes), el <strong>caldo de ternera</strong> y <strong>sal</strong> y lleva a ebullición. Cuando hierva, añade las <strong>setas portobello</strong> laminadas. A continuación, retira del fuego y tapa la olla durante 5-10 min. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30536b",
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa58a1aa6db20ea12a10/step-b0efbb00.jpg",
+          "path": "/64c0fa58a1aa6db20ea12a10/step-b0efbb00.jpg",
+          "caption": "Prepara el caldo",
+          "localImage": "/images/recipes/64c0fa58a1aa6db20ea12a10-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela y ralla el ajo (ver cantidad en ingredientes). En un bol grande, agrega la carne picada de cerdo, el ajo, la mitad de la salsa de soja y la harina (ver cantidad en ingredientes). Salpimienta y mezcla bien. Luego, forma 5 albóndigas por persona.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). En un bol grande, agrega la <strong>carne picada de cerdo</strong>, el <strong>ajo</strong>, la mitad de la <strong>salsa de soja</strong> y la <strong>harina</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong> y mezcla bien. Luego, forma 5 <strong>albóndigas</strong> por persona.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). En un bol grande, agrega la <strong>carne picada de cerdo</strong>, el <strong>ajo</strong>, la mitad de la <strong>salsa de soja</strong> y la <strong>harina</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong> y mezcla bien. Luego, forma 5 <strong>albóndigas</strong> por persona.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa58a1aa6db20ea12a10/step-31bdc610.jpg",
+          "path": "/64c0fa58a1aa6db20ea12a10/step-31bdc610.jpg",
+          "caption": "Forma las albóndigas",
+          "localImage": "/images/recipes/64c0fa58a1aa6db20ea12a10-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Con ayuda de una araña o espumadera, retira las setas portobello de la olla con el caldo y resérvalas en un plato. Lleva el caldo a ebullición y añade la salsa de soja dulce, la salsa de soja restante y las albóndigas de cerdo. Cocina a fuego medio-alto durante 5-6 min, hasta que las albóndigas estén bien hechas en el interior.",
+      "instructionsHTML": "<p>Con ayuda de una araña o espumadera, retira las <strong>setas portobello</strong> de la olla con el <strong>caldo</strong> y resérvalas en un plato. Lleva el <strong>caldo</strong> a ebullición y añade la <strong>salsa de soja dulce</strong>, la <strong>salsa de soja</strong> restante y las <strong>albóndigas de cerdo</strong>. Cocina a fuego medio-alto durante 5-6 min, hasta que las <strong>albóndigas</strong> estén bien hechas en el interior.</p>",
+      "instructionsMarkdown": "<p>Con ayuda de una araña o espumadera, retira las <strong>setas portobello</strong> de la olla con el <strong>caldo</strong> y resérvalas en un plato. Lleva el <strong>caldo</strong> a ebullición y añade la <strong>salsa de soja dulce</strong>, la <strong>salsa de soja</strong> restante y las <strong>albóndigas de cerdo</strong>. Cocina a fuego medio-alto durante 5-6 min, hasta que las <strong>albóndigas</strong> estén bien hechas en el interior.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b",
+        "637ccf1f51efa9c65fc33334"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa58a1aa6db20ea12a10/step-23f9c620.jpg",
+          "path": "/64c0fa58a1aa6db20ea12a10/step-23f9c620.jpg",
+          "caption": "Cocina las albóndigas en el caldo",
+          "localImage": "/images/recipes/64c0fa58a1aa6db20ea12a10-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando las albóndigas estén listas, agrega los fideos udon y las setas portobello a la olla, remueve para separar los fideos y cocina 1-2 min. Cuando esté lista, sirve la sopa de fideos con albóndigas de cerdo en platos hondos.",
+      "instructionsHTML": "<p dir=\"ltr\">Cuando las <strong>albóndigas</strong> estén listas, agrega los <strong>fideos udon</strong> y las <strong>setas portobello</strong> a la olla, remueve para separar los <strong>fideos</strong> y cocina 1-2 min. Cuando esté lista, sirve la <strong>sopa de fideos</strong> con <strong>albóndigas de cerdo</strong> en platos hondos.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Cuando las <strong>albóndigas</strong> estén listas, agrega los <strong>fideos udon</strong> y las <strong>setas portobello</strong> a la olla, remueve para separar los <strong>fideos</strong> y cocina 1-2 min. Cuando esté lista, sirve la <strong>sopa de fideos</strong> con <strong>albóndigas de cerdo</strong> en platos hondos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa58a1aa6db20ea12a10/step-4d82d030.jpg",
+          "path": "/64c0fa58a1aa6db20ea12a10/step-4d82d030.jpg",
+          "caption": "Agrega los fideos y emplata",
+          "localImage": "/images/recipes/64c0fa58a1aa6db20ea12a10-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESQCFM17135-2",
+  "updatedAt": "2025-12-19T08:27:11+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "637ccf1f51efa9c65fc33334",
+      "type": "skimmer",
+      "name": "Araña"
+    }
+  ],
+  "uuid": "7f0b1b19-4323-4dbb-a520-013ad472a37f",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/sopa-de-fideos-udon-con-albondigas-de-cerdo-64c0fa58a1aa6db20ea12a10",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63be6f11bc0b80106b4671d1",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63be6f11bc0b80106b4671d1",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64c0fa58a1aa6db20ea12a10-Sopa de fideos udon con albóndigas de cerdo.jpg",
+  "localCard": "/pdf/64c0fa58a1aa6db20ea12a10-Sopa de fideos udon con albóndigas de cerdo.pdf"
+}

@@ -1,0 +1,805 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.7,
+  "canonical": "6436696c862feff0434c98df",
+  "canonicalLink": "https://www.hellofresh.es/recipes/piadinas-de-burrata-y-cebolla-caramelizada-6436696c862feff0434c98df",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/65d8b0e6700746d2fe5207bb.pdf",
+  "category": null,
+  "clonedFrom": "6401d15b7cb532b7de19edb6",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-04-15T15:54:33+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Atrévete a probar estas piadinas con una base de ensalada de rúcula, maíz y manzana, sobre la que agregamos burrata desmenuzada y cebolla caramelizada. El sabor dulce del maíz, la manzana y la cebolla caramelizada contrasta con la frescura de la ensalada y la cremosidad de la burrata.",
+  "descriptionHTML": "<p>Atrévete a probar estas piadinas con una base de ensalada de rúcula, maíz y manzana, sobre la que agregamos burrata desmenuzada y cebolla caramelizada. El sabor dulce del maíz, la manzana y la cebolla caramelizada contrasta con la frescura de la ensalada y la cremosidad de la burrata.</p>",
+  "descriptionMarkdown": "Atrévete a probar estas piadinas con una base de ensalada de rúcula, maíz y manzana, sobre la que agregamos burrata desmenuzada y cebolla caramelizada. El sabor dulce del maíz, la manzana y la cebolla caramelizada contrasta con la frescura de la ensalada y la cremosidad de la burrata.",
+  "difficulty": 1,
+  "favoritesCount": 23,
+  "headline": "con aceite de albahaca y ensalada de rúcula, manzana y maíz",
+  "id": "65d8b0e6700746d2fe5207bb",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R09_W29_ES_ESQVV15191-2_more_golden_Main_high-071a4ab7.jpg",
+  "imagePath": "/image/HF_Y23_R09_W29_ES_ESQVV15191-2_more_golden_Main_high-071a4ab7.jpg",
+  "ingredients": [
+    {
+      "id": "6348219ebb36093c54997964",
+      "uuid": "1f59d4e9-83f7-5dac-abec-916f5f2c6d99",
+      "name": "Tortillas de trigo",
+      "type": "6-pack-tortilla",
+      "slug": "tortillas-de-trigo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6348219ebb36093c54997964-209def95.png",
+      "imagePath": "/ingredient/6348219ebb36093c54997964-209def95.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6348219ebb36093c54997964-Tortillas de trigo.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f3",
+      "uuid": "7e69f80c-67d4-45b1-a3bd-d76e5d9e539b",
+      "name": "Maíz dulce",
+      "type": "canned-corn",
+      "slug": "maiz-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f3-Maíz dulce.png"
+    },
+    {
+      "id": "6340436b233160a36674b9e9",
+      "uuid": "fae5ea17-1d10-5a79-acab-118ec738e69e",
+      "name": "Albahaca",
+      "type": "basil",
+      "slug": "albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "imagePath": "/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9e9-Albahaca.jpg"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca0",
+      "uuid": "e2769482-364e-53c8-97cc-79b0d2b33e8a",
+      "name": "Manzana",
+      "type": "apple",
+      "slug": "manzana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca0-Manzana.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "6451269fe915ac78ee7c67ec",
+      "uuid": "859a77cd-1f8a-5303-ab71-50625ff579c6",
+      "name": "Burrata italiana",
+      "type": "burrata",
+      "slug": "burrata-italiana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6451269fe915ac78ee7c67ec-844c68ff.png",
+      "imagePath": "/ingredient/6451269fe915ac78ee7c67ec-844c68ff.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6451269fe915ac78ee7c67ec-Burrata italiana.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "638e17f58c9d9b72748a9366",
+      "uuid": "deb547a0-a744-4f8b-8a22-d66c485b5b4c",
+      "name": "Aceite para la salsa",
+      "type": "olive-oil-for-the-sauce-ml",
+      "slug": "aceite-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638e17f58c9d9b72748a9366-1a867c7a.png",
+      "imagePath": "/ingredient/638e17f58c9d9b72748a9366-1a867c7a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638e17f58c9d9b72748a9366-Aceite para la salsa.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/65d8b0e6700746d2fe5207bb",
+  "name": "Piadinas de burrata y cebolla caramelizada",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2632,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 629,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 20.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 12.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 54,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 18.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.07,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 13,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 368,
+  "slug": "piadinas-burrata-cebolla-ensalada",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la cebolla, divídela en dos y córtala en tiras finas. En una sartén, calienta un chorrito de aceite a fuego medio-alto. Una vez caliente, agrega la cebolla y una pizca de sal y cocina 2-3 min. Luego, añade el azúcar (ver cantidad en ingredientes) y cocina a fuego medio-bajo 5-6 min más, removiendo frecuentemente, hasta que oscurezca y quede caramelizado.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 2-3 min. Luego, añade el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina a fuego medio-bajo 5-6 min más, removiendo frecuentemente, hasta que oscurezca y quede caramelizado.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 2-3 min. Luego, añade el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina a fuego medio-bajo 5-6 min más, removiendo frecuentemente, hasta que oscurezca y quede caramelizado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0e6700746d2fe5207bb/step-ae3eee00.jpg",
+          "path": "/65d8b0e6700746d2fe5207bb/step-ae3eee00.jpg",
+          "caption": "Carameliza la cebolla",
+          "localImage": "/images/recipes/65d8b0e6700746d2fe5207bb-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela el ajo (ver cantidad en ingredientes) y córtalo en trozos grandes. Deshoja la albahaca. En una jarra medidora, añade la albahaca, el ajo, el aceite para la salsa, el agua (ver cantidad en ingredientes de ambos) y sal al gusto. Tritura con un túrmix hasta que quede un aceite de albahaca liso.",
+      "instructionsHTML": "<p>Pela el <strong>ajo</strong> (ver cantidad en ingredientes) y córtalo en trozos grandes. Deshoja la <strong>albahaca</strong>. En una jarra medidora, añade la <strong>albahaca</strong>, el <strong>ajo</strong>, el <strong>aceite para la salsa</strong>, el <strong>agua</strong> (ver cantidad en ingredientes de ambos) y <strong>sal</strong> al gusto. Tritura con un túrmix hasta que quede un <strong>aceite de albahaca</strong> liso.</p>",
+      "instructionsMarkdown": "<p>Pela el <strong>ajo</strong> (ver cantidad en ingredientes) y córtalo en trozos grandes. Deshoja la <strong>albahaca</strong>. En una jarra medidora, añade la <strong>albahaca</strong>, el <strong>ajo</strong>, el <strong>aceite para la salsa</strong>, el <strong>agua</strong> (ver cantidad en ingredientes de ambos) y <strong>sal</strong> al gusto. Tritura con un túrmix hasta que quede un <strong>aceite de albahaca</strong> liso.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0e6700746d2fe5207bb/step-ba0faa10.jpg",
+          "path": "/65d8b0e6700746d2fe5207bb/step-ba0faa10.jpg",
+          "caption": "Prepara el aceite de albahaca",
+          "localImage": "/images/recipes/65d8b0e6700746d2fe5207bb-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Corta la manzana por la mitad y retira el corazón. Luego, corta las mitades en dados de 0,5-1 cm. Escurre el maíz. En una ensaladera, agrega la rúcula, el maíz, la manzana, el aceite de albahaca y el vinagre de vino tinto (ver cantidad en ingredientes). Salpimienta y mezcla bien. Desmenuza la burrata con las manos y reserva en un bol.",
+      "instructionsHTML": "<p>Corta la <strong>manzana</strong> por la mitad y retira el corazón. Luego, corta las mitades en dados de 0,5-1 cm. Escurre el <strong>maíz</strong>. En una ensaladera, agrega la <strong>rúcula</strong>, el <strong>maíz</strong>, la <strong>manzana</strong>, el <strong>aceite de albahaca</strong> y el <strong>vinagre de vino tinto</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong> y mezcla bien. Desmenuza la <strong>burrata</strong> con las manos y reserva en un bol.</p>",
+      "instructionsMarkdown": "<p>Corta la <strong>manzana</strong> por la mitad y retira el corazón. Luego, corta las mitades en dados de 0,5-1 cm. Escurre el <strong>maíz</strong>. En una ensaladera, agrega la <strong>rúcula</strong>, el <strong>maíz</strong>, la <strong>manzana</strong>, el <strong>aceite de albahaca</strong> y el <strong>vinagre de vino tinto</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong> y mezcla bien. Desmenuza la <strong>burrata</strong> con las manos y reserva en un bol.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0e6700746d2fe5207bb/step-b26e9320.jpg",
+          "path": "/65d8b0e6700746d2fe5207bb/step-b26e9320.jpg",
+          "caption": "Prepara la ensalada",
+          "localImage": "/images/recipes/65d8b0e6700746d2fe5207bb-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Calienta la sartén a fuego medio sin aceite. Una vez caliente, calienta las tortillas de trigo 30 segundos por lado, hasta que se doren ligeramente. Cuando estén doradas, agrega ensalada de rúcula, maíz y manzana al gusto sobre la base de cada tortilla. Luego, añade burrata desmenuzada y cebolla caramelizada. Sirve la ensalada restante en un bol como acompañamiento.",
+      "instructionsHTML": "<p>Calienta la sartén a fuego medio sin aceite. Una vez caliente, calienta las <strong>tortillas de trigo</strong> 30 segundos por lado, hasta que se doren ligeramente. Cuando estén doradas, agrega <strong>ensalada</strong> de <strong>rúcula</strong>, <strong>maíz</strong> y <strong>manzana</strong> al gusto sobre la base de cada <strong>tortilla</strong>. Luego, añade <strong>burrata</strong> desmenuzada y <strong>cebolla caramelizada</strong>. Sirve la <strong>ensalada</strong> restante en un bol como acompañamiento.</p>",
+      "instructionsMarkdown": "<p>Calienta la sartén a fuego medio sin aceite. Una vez caliente, calienta las <strong>tortillas de trigo</strong> 30 segundos por lado, hasta que se doren ligeramente. Cuando estén doradas, agrega <strong>ensalada</strong> de <strong>rúcula</strong>, <strong>maíz</strong> y <strong>manzana</strong> al gusto sobre la base de cada <strong>tortilla</strong>. Luego, añade <strong>burrata</strong> desmenuzada y <strong>cebolla caramelizada</strong>. Sirve la <strong>ensalada</strong> restante en un bol como acompañamiento.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0e6700746d2fe5207bb/step-4600f930.jpg",
+          "path": "/65d8b0e6700746d2fe5207bb/step-4600f930.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/65d8b0e6700746d2fe5207bb-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESQVV15191-15",
+  "updatedAt": "2025-09-01T16:01:50+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "e9bfbe1d-5bcd-4a40-89cf-83d9863d8219",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/piadinas-burrata-cebolla-ensalada-65d8b0e6700746d2fe5207bb",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6451269fe915ac78ee7c67ec",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "638e17f58c9d9b72748a9366",
+          "amount": 30,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 20,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6451269fe915ac78ee7c67ec",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "638e17f58c9d9b72748a9366",
+          "amount": 60,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 40,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/65d8b0e6700746d2fe5207bb-Piadinas de burrata y cebolla caramelizada.jpg",
+  "localCard": "/pdf/65d8b0e6700746d2fe5207bb-Piadinas de burrata y cebolla caramelizada.pdf"
+}

@@ -1,0 +1,681 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f4",
+      "name": "Crustáceos",
+      "type": "crustaceans",
+      "slug": "crustaceos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "634e834343f2341804322082",
+  "canonicalLink": "https://www.hellofresh.es/recipes/estofado-de-garbanzos-y-gambas-al-ajillo-634e834343f2341804322082",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6942e5471101204cae75679a-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347ef92bb36093c54997946",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-17T17:15:52+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "¿Hay algo más nuestro que unos langostinos al ajillo chisporroteando en la sartén? En este plato de cuchara, ese gesto tan español se une a garbanzos y espinacas para crear un guiso reconfortante y lleno de carácter. Tradición, contraste y sabor intenso, listo en poco tiempo para disfrutarlo sin prisas.",
+  "descriptionHTML": "<p>¿Hay algo más nuestro que unos langostinos al ajillo chisporroteando en la sartén? En este plato de cuchara, ese gesto tan español se une a garbanzos y espinacas para crear un guiso reconfortante y lleno de carácter. Tradición, contraste y sabor intenso, listo en poco tiempo para disfrutarlo sin prisas.</p>",
+  "descriptionMarkdown": "¿Hay algo más nuestro que unos langostinos al ajillo chisporroteando en la sartén? En este plato de cuchara, ese gesto tan español se une a garbanzos y espinacas para crear un guiso reconfortante y lleno de carácter. Tradición, contraste y sabor intenso, listo en poco tiempo para disfrutarlo sin prisas.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con brotes de espinacas",
+  "id": "6942e5471101204cae75679a",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221011_R11_W47_ES_MB_Main_high-25ed37e2.jpg",
+  "imagePath": "/image/HF221011_R11_W47_ES_MB_Main_high-25ed37e2.jpg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63724760422e0b6ac4f85686",
+      "uuid": "0b18a29e-c9df-5b77-903e-c2e60206b65a",
+      "name": "Langostinos",
+      "type": "shrimps",
+      "slug": "langostinos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "imagePath": "/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f4"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63724760422e0b6ac4f85686-Langostinos.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "63bd9bcb6cc380016be793b8",
+      "uuid": "f1a7c3f3-6783-46af-87b2-df2fd87c6820",
+      "name": "Pimentón ahumado",
+      "type": "smoked-paprika",
+      "slug": "pimenton-ahumado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bd9bcb6cc380016be793b8-a175456b.png",
+      "imagePath": "/ingredient/63bd9bcb6cc380016be793b8-a175456b.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bd9bcb6cc380016be793b8-Pimentón ahumado.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "6450b971a7de25dd4f194163",
+      "uuid": "e8b4474a-caeb-43ea-870a-2b5963671f04",
+      "name": "Aceite para la salsa",
+      "type": "oil-for-the-sauce-tbsp",
+      "slug": "aceite-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6450b971a7de25dd4f194163-c451ce6e.png",
+      "imagePath": "/ingredient/6450b971a7de25dd4f194163-c451ce6e.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6450b971a7de25dd4f194163-Aceite para la salsa.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "De La Abuela",
+    "handle": "grandma-style",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#b980d0",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/6942e5471101204cae75679a",
+  "name": "Estofado de garbanzos y langostinos al ajillo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2032,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 486,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 5.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 1.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 50.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 6.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 10.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 23.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.43,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 366,
+  "slug": "estofado-de-garbanzos-y-langostinos-al-ajillo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela la cebolla y córtala en daditos.\nCon la hoja del cuchillo, aplasta el ajo.\nEn una olla, agrega el aceite para la salsa y el ajo. Calienta a fuego medio y cocina 1-2 min.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en daditos.</li>\n<li dir=\"ltr\">Con la hoja del cuchillo, aplasta el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">En una olla, agrega el <strong>aceite para la salsa</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en daditos.</li>\n<li dir=\"ltr\">Con la hoja del cuchillo, aplasta el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">En una olla, agrega el <strong>aceite para la salsa</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5471101204cae75679a/step-57992500.jpg",
+          "path": "/6942e5471101204cae75679a/step-57992500.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/6942e5471101204cae75679a-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nSeca los langostinos.\nAgrega a la olla los langostinos, salpimienta y cocina 1-2 min, hasta que se doren.\nRetira los langostinos y reserva.\nRetira los ajos y deséchalos.\nReserva el aceite sobrante, lo utilizarás para el resto de la receta.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Seca los <strong>langostinos</strong>.</li>\n<li dir=\"ltr\">Agrega a la olla los <strong>langostinos</strong>, <strong>salpimienta</strong> y cocina 1-2 min, hasta que se doren.</li>\n<li dir=\"ltr\">Retira los <strong>langostinos</strong> y reserva.</li>\n<li dir=\"ltr\">Retira los <strong>ajos</strong> y deséchalos.</li>\n<li dir=\"ltr\">Reserva el <strong>aceite</strong> sobrante, lo utilizarás para el resto de la receta.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Seca los <strong>langostinos</strong>.</li>\n<li dir=\"ltr\">Agrega a la olla los <strong>langostinos</strong>, <strong>salpimienta</strong> y cocina 1-2 min, hasta que se doren.</li>\n<li dir=\"ltr\">Retira los <strong>langostinos</strong> y reserva.</li>\n<li dir=\"ltr\">Retira los <strong>ajos</strong> y deséchalos.</li>\n<li dir=\"ltr\">Reserva el <strong>aceite</strong> sobrante, lo utilizarás para el resto de la receta.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5471101204cae75679a/step-dd0ff010.jpg",
+          "path": "/6942e5471101204cae75679a/step-dd0ff010.jpg",
+          "caption": "Langostinos al fuego",
+          "localImage": "/images/recipes/6942e5471101204cae75679a-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la olla, calienta a fuego medio un chorrito del aceite reservado.\nAgrega la cebolla y sal y cocina 4-5 min, removiendo.\nAñade las espinacas y cocina a fuego medio 2 min o hasta que se reduzcan.\nAgrega el pimentón ahumado y cocina 1 min, mientras remueves.\nSalpimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la olla, calienta a fuego medio un chorrito del <strong>aceite</strong> reservado.</li>\n<li dir=\"ltr\">Agrega la <strong>cebolla</strong> y <strong>sal</strong> y cocina 4-5 min, removiendo.</li>\n<li dir=\"ltr\">Añade las <strong>espinacas</strong> y cocina a fuego medio 2 min o hasta que se reduzcan.</li>\n<li dir=\"ltr\">Agrega el <strong>pimentón ahumado</strong> y cocina 1 min, mientras remueves.</li>\n<li dir=\"ltr\"><strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la olla, calienta a fuego medio un chorrito del <strong>aceite</strong> reservado.</li>\n<li dir=\"ltr\">Agrega la <strong>cebolla</strong> y <strong>sal</strong> y cocina 4-5 min, removiendo.</li>\n<li dir=\"ltr\">Añade las <strong>espinacas</strong> y cocina a fuego medio 2 min o hasta que se reduzcan.</li>\n<li dir=\"ltr\">Agrega el <strong>pimentón ahumado</strong> y cocina 1 min, mientras remueves.</li>\n<li dir=\"ltr\"><strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5471101204cae75679a/step-ee918820.jpg",
+          "path": "/6942e5471101204cae75679a/step-ee918820.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/6942e5471101204cae75679a-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la olla, agrega el agua y el caldo vegetal en polvo y remueve.\nEscurre los garbanzos y añádelos a la olla. Cocina a fuego medio 6 min, removiendo.\nAgrega los langostinos y cocina 2 min más.\nCuando esté listo, prueba el estofado y rectifica de sal y pimienta.\nSirve el estofado de garbanzos con langostinos y espinacas en platos.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la olla, agrega el <strong>agua</strong> y el <strong>caldo vegetal</strong> en polvo y remueve.</li>\n<li dir=\"ltr\">Escurre los <strong>garbanzos</strong> y añádelos a la olla. Cocina a fuego medio 6 min, removiendo.</li>\n<li dir=\"ltr\">Agrega los <strong>langostinos</strong> y cocina 2 min más.</li>\n<li>Cuando esté listo, prueba el <strong>estofado</strong> y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Sirve el <strong>estofado</strong> <strong>de garbanzos</strong> con <strong>langostinos</strong> y <strong>espinacas</strong> en platos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la olla, agrega el <strong>agua</strong> y el <strong>caldo vegetal</strong> en polvo y remueve.</li>\n<li dir=\"ltr\">Escurre los <strong>garbanzos</strong> y añádelos a la olla. Cocina a fuego medio 6 min, removiendo.</li>\n<li dir=\"ltr\">Agrega los <strong>langostinos</strong> y cocina 2 min más.</li>\n<li>Cuando esté listo, prueba el <strong>estofado</strong> y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Sirve el <strong>estofado</strong> <strong>de garbanzos</strong> con <strong>langostinos</strong> y <strong>espinacas</strong> en platos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5471101204cae75679a/step-b908fa30.jpg",
+          "path": "/6942e5471101204cae75679a/step-b908fa30.jpg",
+          "caption": "Acaba el estofado y emplata",
+          "localImage": "/images/recipes/6942e5471101204cae75679a-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCQCL0001-23",
+  "updatedAt": "2026-02-24T07:20:36+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    }
+  ],
+  "uuid": "30fdf622-ed18-4792-a83e-220e96a827b8",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/estofado-de-garbanzos-y-langostinos-al-ajillo-6942e5471101204cae75679a",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63bd9bcb6cc380016be793b8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 380,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63bd9bcb6cc380016be793b8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 760,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 800,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63bd9bcb6cc380016be793b8",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 1140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6942e5471101204cae75679a-Estofado de garbanzos y langostinos al ajillo.jpg",
+  "localCard": "/pdf/6942e5471101204cae75679a-Estofado de garbanzos y langostinos al ajillo.pdf"
+}

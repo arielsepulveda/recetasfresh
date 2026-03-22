@@ -1,0 +1,761 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/albondigas-horno-tomate-mozzarella-63ca9c138c142fdfd13ed293-23d79d9b.pdf",
+  "category": null,
+  "clonedFrom": "6388cff4729e0378763a69a4",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-01-20T13:50:11+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Las albóndigas son un plato que gustan a todos y del que existen tantas versiones como gustos. En esta ocasión, hemos decidido mejorarlas al hornearlas cubiertas por una salsa de tomates, mini mozzarellas y albahaca. Para acompañar esta placentera combinación de sabores, te proponemos que sirvas las albóndigas sobre arroz basmati y que disfrutes de este plato en tu propia cocina.",
+  "descriptionHTML": "<p>Las albóndigas son un plato que gustan a todos y del que existen tantas versiones como gustos. En esta ocasión, hemos decidido mejorarlas al hornearlas cubiertas por una salsa de tomates, mini mozzarellas y albahaca. Para acompañar esta placentera combinación de sabores, te proponemos que sirvas las albóndigas sobre arroz basmati y que disfrutes de este plato en tu propia cocina.</p>",
+  "descriptionMarkdown": "Las albóndigas son un plato que gustan a todos y del que existen tantas versiones como gustos. En esta ocasión, hemos decidido mejorarlas al hornearlas cubiertas por una salsa de tomates, mini mozzarellas y albahaca. Para acompañar esta placentera combinación de sabores, te proponemos que sirvas las albóndigas sobre arroz basmati y que disfrutes de este plato en tu propia cocina.",
+  "difficulty": 1,
+  "favoritesCount": 20,
+  "headline": "con queso mozzarella, albahaca fresca y arroz jazmín",
+  "id": "63ca9c138c142fdfd13ed293",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R12_W14_ES_ESFB13897-2_Main_13_low-b77e7972.jpg",
+  "imagePath": "/image/HF_Y23_R12_W14_ES_ESFB13897-2_Main_13_low-b77e7972.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c2268bc1bff0d3ca4",
+      "uuid": "edb45406-e818-56a4-b9b9-2022a79d3087",
+      "name": "Carne de ternera picada",
+      "type": "beef-mince",
+      "slug": "carne-de-ternera-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c2268bc1bff0d3ca4-2bd5c4ce.png",
+      "imagePath": "/ingredient/6340436c2268bc1bff0d3ca4-2bd5c4ce.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c2268bc1bff0d3ca4-Carne de ternera picada.png"
+    },
+    {
+      "id": "634d4809971d5eddb3ff71c6",
+      "uuid": "557e23a0-acf7-4784-950e-04026032a724",
+      "name": "Mini queso mozzarella",
+      "type": "bocconcini",
+      "slug": "mini-queso-mozzarella",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d4809971d5eddb3ff71c6-ba34210a.png",
+      "imagePath": "/ingredient/634d4809971d5eddb3ff71c6-ba34210a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d4809971d5eddb3ff71c6-Mini queso mozzarella.png"
+    },
+    {
+      "id": "6340436b233160a36674b9e9",
+      "uuid": "fae5ea17-1d10-5a79-acab-118ec738e69e",
+      "name": "Albahaca",
+      "type": "basil",
+      "slug": "albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "imagePath": "/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9e9-Albahaca.jpg"
+    },
+    {
+      "id": "6340436f41033266d7be9512",
+      "uuid": "ecae5103-44da-5d53-a901-8a34d154b23d",
+      "name": "Tomate triturado",
+      "type": "crushed-tomatoes",
+      "slug": "tomate-triturado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9512-Tomate triturado.png"
+    },
+    {
+      "id": "6340437141033266d7be951a",
+      "uuid": "ae95225f-9805-5f92-afa8-0649e7e90122",
+      "name": "Comino en polvo",
+      "type": "ground-cumin",
+      "slug": "comino-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "imagePath": "/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be951a-Comino en polvo.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "6340437241033266d7be951d",
+      "uuid": "ff045bdb-fe2c-58b4-bd0c-c0ccbddd8a2d",
+      "name": "Arroz jazmín",
+      "type": "jasmine-rice",
+      "slug": "arroz-jazmin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "imagePath": "/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437241033266d7be951d-Arroz jazmín.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    },
+    {
+      "id": "63b3d2a0749d7fa20bf999b1",
+      "uuid": "ee2baff8-e1ee-4938-a945-7b69d723ec55",
+      "name": "Harina para las albóndigas",
+      "type": "flour-for-meatballs",
+      "slug": "harina-para-las-albondigas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63b3d2a0749d7fa20bf999b1-b9235204.png",
+      "imagePath": "/ingredient/63b3d2a0749d7fa20bf999b1-b9235204.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63b3d2a0749d7fa20bf999b1-Harina para las albóndigas.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/63ca9c138c142fdfd13ed293",
+  "name": "Albóndigas al horno en salsa de tomate",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2565,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 613,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 14.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 66.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 5.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 40.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 20,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 424,
+  "slug": "albondigas-al-horno-en-salsa-de-tomate",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 200ºC con la opción de gratinar. Llena un cazo con el agua (ver cantidad en ingredientes) y añade sal al gusto. Tápalo y llévalo a ebullición. Cuando hierva, añade el arroz, baja el fuego a medio-bajo y tápalo de nuevo. Deja cocinar 12 min y remueve de vez en cuando. Una vez cocinado, déjalo reposar con la tapa durante al menos 10 min. Después, remueve el arroz con la ayuda de un tenedor y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>Precalienta el horno a 200ºC con la opción de gratinar. Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes) y añade <strong>sal</strong> al gusto. Tápalo y llévalo a ebullición. Cuando hierva, añade el <strong>arroz</strong>, baja el fuego a medio-bajo y tápalo de nuevo. Deja cocinar 12 min y remueve de vez en cuando. Una vez cocinado, déjalo reposar con la tapa durante al menos 10 min. Después, remueve el <strong>arroz</strong> con la ayuda de un tenedor y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 200ºC con la opción de gratinar. Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes) y añade <strong>sal</strong> al gusto. Tápalo y llévalo a ebullición. Cuando hierva, añade el <strong>arroz</strong>, baja el fuego a medio-bajo y tápalo de nuevo. Deja cocinar 12 min y remueve de vez en cuando. Una vez cocinado, déjalo reposar con la tapa durante al menos 10 min. Después, remueve el <strong>arroz</strong> con la ayuda de un tenedor y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c138c142fdfd13ed293/step-800b6800.jpg",
+          "path": "/63ca9c138c142fdfd13ed293/step-800b6800.jpg",
+          "caption": "Hierve el arroz",
+          "localImage": "/images/recipes/63ca9c138c142fdfd13ed293-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En un bol grande, pon la carne de ternera junto con la harina para las albóndigas (ver cantidad en ingredientes), la mitad del comino (doble para 4p) y salpimienta. Mezcla todo bien y forma 5 albóndigas por persona. En un plato hondo, pon la harina (ver cantidad en ingredientes) y enharina las albóndigas. \n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>En un bol grande, pon la <strong>carne de ternera</strong> junto con la <strong>harina para las albóndigas </strong>(ver cantidad en ingredientes), la mitad del <strong>comino</strong> (doble para 4p) y <strong>salpimienta</strong>. Mezcla todo bien y forma 5 <strong>albóndigas</strong> por persona. En un plato hondo, pon la <strong>harina</strong> (ver cantidad en ingredientes) y enharina las <strong>albóndigas</strong>. </p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>En un bol grande, pon la <strong>carne de ternera</strong> junto con la <strong>harina para las albóndigas </strong>(ver cantidad en ingredientes), la mitad del <strong>comino</strong> (doble para 4p) y <strong>salpimienta</strong>. Mezcla todo bien y forma 5 <strong>albóndigas</strong> por persona. En un plato hondo, pon la <strong>harina</strong> (ver cantidad en ingredientes) y enharina las <strong>albóndigas</strong>. </p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372",
+        "59d49a9419279f8fe60e867a"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c138c142fdfd13ed293/step-c2580e10.jpg",
+          "path": "/63ca9c138c142fdfd13ed293/step-c2580e10.jpg",
+          "caption": "Prepara las albóndigas",
+          "localImage": "/images/recipes/63ca9c138c142fdfd13ed293-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Pon una sartén a calentar a fuego medio con un chorrito de aceite. Una vez caliente, añade las albóndigas y fríe durante 3-4 min por lado, hasta que estén doradas. Una vez listas, retira las albóndigas de la sartén y colócalas en una fuente para el horno.",
+      "instructionsHTML": "<p>Pon una sartén a calentar a fuego medio con un chorrito de <strong>aceite</strong>. Una vez caliente, añade las <strong>albóndigas</strong> y fríe durante 3-4 min por lado, hasta que estén doradas. Una vez listas, retira las <strong>albóndigas</strong> de la sartén y colócalas en una fuente para el horno.</p>",
+      "instructionsMarkdown": "<p>Pon una sartén a calentar a fuego medio con un chorrito de <strong>aceite</strong>. Una vez caliente, añade las <strong>albóndigas</strong> y fríe durante 3-4 min por lado, hasta que estén doradas. Una vez listas, retira las <strong>albóndigas</strong> de la sartén y colócalas en una fuente para el horno.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305386",
+        "57e2674fb7e8697d4b305373"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c138c142fdfd13ed293/step-5eed3c20.jpg",
+          "path": "/63ca9c138c142fdfd13ed293/step-5eed3c20.jpg",
+          "caption": "Fríe las albóndigas",
+          "localImage": "/images/recipes/63ca9c138c142fdfd13ed293-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Pela y pica el ajo (ver cantidad en ingredientes). Corta los tomates cherry por la mitad. Deshoja la mitad de la albahaca (doble para 4p). Pon la sartén a calentar con un chorrito de aceite y el ajo, cocina durante 1-2 min. Agrega los tomates cherry y cocina 2-3 min. Añade la mitad del tomate triturado (doble para 4p) y lleva a ebullición, luego, baja a fuego medio y cocina 2 min. Añade la mitad de la albahaca y mezcla.",
+      "instructionsHTML": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Corta los <strong>tomates cherry</strong> por la mitad. Deshoja la mitad de la <strong>albahaca</strong> (doble para 4p). Pon la sartén a calentar con un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>, cocina durante 1-2 min. Agrega los <strong>tomates cherry</strong> y cocina 2-3 min. Añade la mitad del <strong>tomate triturado</strong> (doble para 4p) y lleva a ebullición, luego, baja a fuego medio y cocina 2 min. Añade la mitad de la <strong>albahaca</strong> y mezcla.</p>",
+      "instructionsMarkdown": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Corta los <strong>tomates cherry</strong> por la mitad. Deshoja la mitad de la <strong>albahaca</strong> (doble para 4p). Pon la sartén a calentar con un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>, cocina durante 1-2 min. Agrega los <strong>tomates cherry</strong> y cocina 2-3 min. Añade la mitad del <strong>tomate triturado</strong> (doble para 4p) y lleva a ebullición, luego, baja a fuego medio y cocina 2 min. Añade la mitad de la <strong>albahaca</strong> y mezcla.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c138c142fdfd13ed293/step-2c879730.jpg",
+          "path": "/63ca9c138c142fdfd13ed293/step-2c879730.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/63ca9c138c142fdfd13ed293-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Agrega la salsa de tomates y albahaca sobre las albóndigas en la fuente para el horno. Añade la mitad de las mini mozarellas (doble para 4p) sobre la salsa y albóndigas. Hornea durante 8-10 min en el estante superior del horno, hasta que el queso se derrita.",
+      "instructionsHTML": "<p>Agrega la <strong>salsa de tomates y albahaca</strong> sobre las <strong>albóndigas</strong> en la fuente para el horno. Añade la mitad de las <strong>mini mozarellas</strong> (doble para 4p) sobre la <strong>salsa</strong> y <strong>albóndigas</strong>. Hornea durante 8-10 min en el estante superior del horno, hasta que el <strong>queso</strong> se derrita.</p>",
+      "instructionsMarkdown": "<p>Agrega la <strong>salsa de tomates y albahaca</strong> sobre las <strong>albóndigas</strong> en la fuente para el horno. Añade la mitad de las <strong>mini mozarellas</strong> (doble para 4p) sobre la <strong>salsa</strong> y <strong>albóndigas</strong>. Hornea durante 8-10 min en el estante superior del horno, hasta que el <strong>queso</strong> se derrita.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c138c142fdfd13ed293/step-62804440.jpg",
+          "path": "/63ca9c138c142fdfd13ed293/step-62804440.jpg",
+          "caption": "Hornea las albóndigas",
+          "localImage": "/images/recipes/63ca9c138c142fdfd13ed293-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve la fuente con las albóndigas en salsa de tomates y queso mozzarella. Reparte el arroz jazmín en platos hondos y sirve las albóndigas en salsa de tomates encima. Espolvorea la albahaca deshojada restante.",
+      "instructionsHTML": "<p>Sirve la fuente con las <strong>albóndigas</strong> en <strong>salsa de tomates</strong> y <strong>queso mozzarella</strong>. Reparte el <strong>arroz jazmín</strong> en platos hondos y sirve las <strong>albóndigas en salsa de tomates encima</strong>. Espolvorea la <strong>albahaca</strong> deshojada restante.</p>",
+      "instructionsMarkdown": "<p>Sirve la fuente con las <strong>albóndigas</strong> en <strong>salsa de tomates</strong> y <strong>queso mozzarella</strong>. Reparte el <strong>arroz jazmín</strong> en platos hondos y sirve las <strong>albóndigas en salsa de tomates encima</strong>. Espolvorea la <strong>albahaca</strong> deshojada restante.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c138c142fdfd13ed293/step-a2767f50.jpg",
+          "path": "/63ca9c138c142fdfd13ed293/step-a2767f50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63ca9c138c142fdfd13ed293-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESFB13897-2",
+  "updatedAt": "2026-02-05T09:09:21+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "59d49a9419279f8fe60e867a",
+      "type": "shallow-dish",
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305386",
+      "type": "ovendish",
+      "name": "Plato para horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "1e4f53ed-dab8-440d-b6c0-25dbb08e1cce",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/albondigas-al-horno-en-salsa-de-tomate-63ca9c138c142fdfd13ed293",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d4809971d5eddb3ff71c6",
+          "amount": 75,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63b3d2a0749d7fa20bf999b1",
+          "amount": 15,
+          "unit": "gramo(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d4809971d5eddb3ff71c6",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63b3d2a0749d7fa20bf999b1",
+          "amount": 30,
+          "unit": "gramo(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63ca9c138c142fdfd13ed293-Albóndigas al horno en salsa de tomate.jpg",
+  "localCard": "/pdf/63ca9c138c142fdfd13ed293-Albóndigas al horno en salsa de tomate.pdf"
+}

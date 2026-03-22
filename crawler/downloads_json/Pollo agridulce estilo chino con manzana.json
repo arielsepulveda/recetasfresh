@@ -1,0 +1,854 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66853552f5bcc18fabe95576-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "644a2136b3e6d9a85fbc34cc",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-08-13T12:40:18+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a6",
+      "type": "chinese",
+      "name": "China",
+      "slug": "china",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a6-846a76df.jpg"
+    }
+  ],
+  "description": "Estamos seguros de que has probado el pollo agridulce, pero ¿sabes cómo prepararlo? Con esta receta, aprenderás a cocinar esta sabrosa salsa, tradicional de la gastronomía china, que combina sabores opuestos para crear un equilibrio único y adictivo. Cubrimos pollo con verduras con esta preparación y acompañamos con arroz.",
+  "descriptionHTML": "<p>Estamos seguros de que has probado el pollo agridulce, pero ¿sabes cómo prepararlo? Con esta receta, aprenderás a cocinar esta sabrosa salsa, tradicional de la gastronomía china, que combina sabores opuestos para crear un equilibrio único y adictivo. Cubrimos pollo con verduras con esta preparación y acompañamos con arroz.</p>",
+  "descriptionMarkdown": "Estamos seguros de que has probado el pollo agridulce, pero ¿sabes cómo prepararlo? Con esta receta, aprenderás a cocinar esta sabrosa salsa, tradicional de la gastronomía china, que combina sabores opuestos para crear un equilibrio único y adictivo. Cubrimos pollo con verduras con esta preparación y acompañamos con arroz.",
+  "difficulty": 1,
+  "favoritesCount": 20,
+  "headline": "con verduras sobre arroz basmati",
+  "id": "66853552f5bcc18fabe95576",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R20_W37_ES_ESFCC16265-2_edit_onions_Main_high-5a791d89.jpg",
+  "imagePath": "/image/HF_Y24_R20_W37_ES_ESFCC16265-2_edit_onions_Main_high-5a791d89.jpg",
+  "ingredients": [
+    {
+      "id": "6340437b2268bc1bff0d3cd1",
+      "uuid": "9838d4d1-5c2e-4e68-a073-54d514ccfdb0",
+      "name": "Pechuga de pollo troceada",
+      "type": "chicken-breast-diced",
+      "slug": "pechuga-de-pollo-troceada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd1-Pechuga de pollo troceada.jpg"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca0",
+      "uuid": "e2769482-364e-53c8-97cc-79b0d2b33e8a",
+      "name": "Manzana",
+      "type": "apple",
+      "slug": "manzana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca0-Manzana.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb5",
+      "uuid": "af922816-acdb-5578-bc98-1d08dc489838",
+      "name": "Kétchup",
+      "type": "ketchup",
+      "slug": "ketchup",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb5-d94d288a.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb5-d94d288a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb5-Kétchup.png"
+    },
+    {
+      "id": "63404376233160a36674ba1b",
+      "uuid": "6b9b5891-6a0f-43b7-abac-f1d515dd2d91",
+      "name": "Pimiento rojo",
+      "type": "red-bell-pepper",
+      "slug": "pimiento-rojo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1b-Pimiento rojo.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404371233160a36674ba06",
+      "uuid": "b4937cf5-9f86-592c-903e-767ec461fb7f",
+      "name": "Chile",
+      "type": "green-chilli",
+      "slug": "chile",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba06-1adf9604.png",
+      "imagePath": "/ingredient/63404371233160a36674ba06-1adf9604.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba06-Chile.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "6401c00b62bd092a213120b4",
+      "uuid": "72c3cf55-faca-413f-8642-cb185c54528d",
+      "name": "Harina",
+      "type": "flour-in-tsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401c00b62bd092a213120b4-632ba9f0.png",
+      "imagePath": "/ingredient/6401c00b62bd092a213120b4-632ba9f0.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401c00b62bd092a213120b4-Harina.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/66853552f5bcc18fabe95576",
+  "name": "Pollo agridulce estilo chino con manzana",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2598,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 621,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 2.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 86.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 20.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 34.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.97,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 13,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 485,
+  "slug": "pollo-agridulce-manzana-arroz",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el agua para el arroz (ver cantidad en ingredientes) y añade el arroz y sal al gusto. Cuando hierva, baja a fuego medio-bajo y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el arroz para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes) y añade el <strong>arroz</strong> y sal al gusto. Cuando hierva, baja a fuego medio-bajo y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes) y añade el <strong>arroz</strong> y sal al gusto. Cuando hierva, baja a fuego medio-bajo y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66853552f5bcc18fabe95576/step-0c858c00.jpg",
+          "path": "/66853552f5bcc18fabe95576/step-0c858c00.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/66853552f5bcc18fabe95576-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela y ralla el ajo (ver cantidad en ingredientes). Ralla la mitad del jengibre (doble para 4p). Corta la manzana por la mitad y retira el corazón. Luego, corta cada mitad en trozos de 1-2 cm. Corta el chili verde por la mitad a lo largo y retira las semillas. Luego, corta una mitad (doble para 4p) rodajas finas.\nRECUERDA: Utiliza guantes para manipular el chili y lávate las manos y los utensilios después.",
+      "instructionsHTML": "<p dir=\"ltr\">Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Ralla la mitad del <strong>jengibre</strong> (doble para 4p). Corta la <strong>manzana</strong> por la mitad y retira el corazón. Luego, corta cada mitad en trozos de 1-2 cm. Corta el <strong>chili verde</strong> por la mitad a lo largo y retira las semillas. Luego, corta una mitad (doble para 4p) rodajas finas.</p>\n<p dir=\"ltr\">RECUERDA: Utiliza guantes para manipular el chili y lávate las manos y los utensilios después.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Ralla la mitad del <strong>jengibre</strong> (doble para 4p). Corta la <strong>manzana</strong> por la mitad y retira el corazón. Luego, corta cada mitad en trozos de 1-2 cm. Corta el <strong>chili verde</strong> por la mitad a lo largo y retira las semillas. Luego, corta una mitad (doble para 4p) rodajas finas.</p>\n<p dir=\"ltr\">RECUERDA: Utiliza guantes para manipular el chili y lávate las manos y los utensilios después.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66853552f5bcc18fabe95576/step-e840e810.jpg",
+          "path": "/66853552f5bcc18fabe95576/step-e840e810.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/66853552f5bcc18fabe95576-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Pela la cebolla, divídela en dos y córtala en tiras de 2 cm. Luego, separa las capas de la cebolla. Corta el pimiento por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 1-2 cm. En un bol, agrega el kétchup, el vinagre balsámico, el agua para la salsa y la harina (ver cantidad en ingredientes de ambos). Mezcla con varillas hasta que no queden grumos.",
+      "instructionsHTML": "<p dir=\"ltr\">Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras de 2 cm. Luego, separa las capas de la <strong>cebolla</strong>. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 1-2 cm. En un bol, agrega el <strong>kétchup</strong>, el <strong>vinagre balsámico</strong>, el <strong>agua para la salsa</strong> y la <strong>harina</strong> (ver cantidad en ingredientes de ambos). Mezcla con varillas hasta que no queden grumos.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras de 2 cm. Luego, separa las capas de la <strong>cebolla</strong>. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 1-2 cm. En un bol, agrega el <strong>kétchup</strong>, el <strong>vinagre balsámico</strong>, el <strong>agua para la salsa</strong> y la <strong>harina</strong> (ver cantidad en ingredientes de ambos). Mezcla con varillas hasta que no queden grumos.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305384"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66853552f5bcc18fabe95576/step-b31c2320.jpg",
+          "path": "/66853552f5bcc18fabe95576/step-b31c2320.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/66853552f5bcc18fabe95576-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En una sartén grande, calienta un chorrito de aceite a fuego medio. Luego, agrega el pollo, salpimienta y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior. Luego, reserva en un plato. En la sartén, agrega un chorrito de aceite, el ajo y el jengibre. Calienta a fuego medio y cocina 1-2 min o hasta que se doren.\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Luego, agrega el <strong>pollo</strong>, <strong>salpimienta</strong> y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior. Luego, reserva en un plato. En la sartén, agrega un chorrito de <strong>aceite</strong>, el <strong>ajo</strong> y el <strong>jengibre</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se doren.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Luego, agrega el <strong>pollo</strong>, <strong>salpimienta</strong> y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior. Luego, reserva en un plato. En la sartén, agrega un chorrito de <strong>aceite</strong>, el <strong>ajo</strong> y el <strong>jengibre</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se doren.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66853552f5bcc18fabe95576/step-9e4a7d30.jpg",
+          "path": "/66853552f5bcc18fabe95576/step-9e4a7d30.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/66853552f5bcc18fabe95576-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la sartén, agrega la cebolla, el pimiento y chile verde al gusto y saltea a fuego medio 4-5 min más, removiendo frecuentemente, hasta que las verduras se doren. Añade la manzana y la salsa agridulce del bol y cocina a fuego medio-alto 2-3 min más, hasta que la salsa se reduzca. Finalmente, agrega el pollo y mezcla bien.",
+      "instructionsHTML": "<p>En la sartén, agrega la <strong>cebolla</strong>, el <strong>pimiento</strong> y <strong>chile verde</strong> al gusto y saltea a fuego medio 4-5 min más, removiendo frecuentemente, hasta que las <strong>verduras</strong> se doren. Añade la <strong>manzana</strong> y la <strong>salsa agridulce</strong> del bol y cocina a fuego medio-alto 2-3 min más, hasta que la <strong>salsa</strong> se reduzca. Finalmente, agrega el <strong>pollo</strong> y mezcla bien.</p>",
+      "instructionsMarkdown": "<p>En la sartén, agrega la <strong>cebolla</strong>, el <strong>pimiento</strong> y <strong>chile verde</strong> al gusto y saltea a fuego medio 4-5 min más, removiendo frecuentemente, hasta que las <strong>verduras</strong> se doren. Añade la <strong>manzana</strong> y la <strong>salsa agridulce</strong> del bol y cocina a fuego medio-alto 2-3 min más, hasta que la <strong>salsa</strong> se reduzca. Finalmente, agrega el <strong>pollo</strong> y mezcla bien.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66853552f5bcc18fabe95576/step-3a589e40.jpg",
+          "path": "/66853552f5bcc18fabe95576/step-3a589e40.jpg",
+          "caption": "Combina los ingredientes",
+          "localImage": "/images/recipes/66853552f5bcc18fabe95576-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Prueba el pollo y la salsa y recitifica de sal y pimienta. Sirve el arroz basmati en la base de los platos y agrega encima el pollo agridulce con verduras.\nSABÍAS QUE: Si retiras la parte blanca del interior de los pimientos, evitarás que tengan un sabor amargo, dado que contiene capsaicina.",
+      "instructionsHTML": "<p>Prueba el <strong>pollo</strong> y la <strong>salsa</strong> y recitifica de <strong>sal</strong> y <strong>pimienta</strong>. Sirve el <strong>arroz basmati</strong> en la base de los platos y agrega encima el <strong>pollo agridulce</strong> con <strong>verduras.</strong></p>\n<p>SABÍAS QUE: Si retiras la parte blanca del interior de los pimientos, evitarás que tengan un sabor amargo, dado que contiene capsaicina.</p>",
+      "instructionsMarkdown": "<p>Prueba el <strong>pollo</strong> y la <strong>salsa</strong> y recitifica de <strong>sal</strong> y <strong>pimienta</strong>. Sirve el <strong>arroz basmati</strong> en la base de los platos y agrega encima el <strong>pollo agridulce</strong> con <strong>verduras.</strong></p>\n<p>SABÍAS QUE: Si retiras la parte blanca del interior de los pimientos, evitarás que tengan un sabor amargo, dado que contiene capsaicina.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66853552f5bcc18fabe95576/step-93c0cb50.jpg",
+          "path": "/66853552f5bcc18fabe95576/step-93c0cb50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/66853552f5bcc18fabe95576-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESFCC16265-2",
+  "updatedAt": "2025-11-13T22:42:15+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "11ba35b5-ae81-4f67-a9ce-f7267deb27db",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-agridulce-manzana-arroz-66853552f5bcc18fabe95576",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb5",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba06",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401c00b62bd092a213120b4",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb5",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba06",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401c00b62bd092a213120b4",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66853552f5bcc18fabe95576-Pollo agridulce estilo chino con manzana.jpg",
+  "localCard": "/pdf/66853552f5bcc18fabe95576-Pollo agridulce estilo chino con manzana.pdf"
+}

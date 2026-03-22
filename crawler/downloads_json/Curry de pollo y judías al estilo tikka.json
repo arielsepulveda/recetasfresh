@@ -1,0 +1,851 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": "63f785a4bde4da4f3e242b34",
+  "canonicalLink": "https://www.hellofresh.es/recipes/curry-de-pollo-y-judias-al-estilo-tikka-63f785a4bde4da4f3e242b34",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/650afe2b32e9107c6db99c08.pdf",
+  "category": null,
+  "clonedFrom": "6347ef92bb36093c54997950",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-09-20T14:14:03+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "India",
+      "slug": "india",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg"
+    }
+  ],
+  "description": "¿Estás deseando degustar los sabores de la India, pero no quieres platos demasiado calóricos? Pide esta receta y podrás cocinar un sabroso curry de pollo y judías verdes al estilo tikka con arroz basmati y, lo más importante, podrás disfrutarlo sin remordimientos.",
+  "descriptionHTML": "<p>¿Estás deseando degustar los sabores de la India, pero no quieres platos demasiado calóricos? Pide esta receta y podrás cocinar un sabroso curry de pollo y judías verdes al estilo tikka con arroz basmati y, lo más importante, podrás disfrutarlo sin remordimientos.</p>",
+  "descriptionMarkdown": "¿Estás deseando degustar los sabores de la India, pero no quieres platos demasiado calóricos? Pide esta receta y podrás cocinar un sabroso curry de pollo y judías verdes al estilo tikka con arroz basmati y, lo más importante, podrás disfrutarlo sin remordimientos.",
+  "difficulty": 1,
+  "favoritesCount": 11,
+  "headline": "acompañado de arroz basmati",
+  "id": "650afe2b32e9107c6db99c08",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R12_CW49_ES_Main_high-79d5b2f1.jpg",
+  "imagePath": "/image/HF_Y23_R12_CW49_ES_Main_high-79d5b2f1.jpg",
+  "ingredients": [
+    {
+      "id": "6340437b41033266d7be953b",
+      "uuid": "4c668d5f-24c9-4c33-96ff-80536d73c126",
+      "name": "Muslos de pollo troceados",
+      "type": "chicken-thigh-diced",
+      "slug": "muslos-de-pollo-troceados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b41033266d7be953b-0ae13c49.png",
+      "imagePath": "/ingredient/6340437b41033266d7be953b-0ae13c49.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b41033266d7be953b-Muslos de pollo troceados.png"
+    },
+    {
+      "id": "634976b3e9568549b784980e",
+      "uuid": "29eb59dd-a095-51ac-b053-e2b300368bde",
+      "name": "Yogur griego",
+      "type": "greek-yogurt",
+      "slug": "yogur-griego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "imagePath": "/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634976b3e9568549b784980e-Yogur griego.png"
+    },
+    {
+      "id": "63404373233160a36674ba0b",
+      "uuid": "427c79c7-8c5a-567a-aec0-980b9e2aca8d",
+      "name": "Pasta de curry korma",
+      "type": "korma-style-paste",
+      "slug": "pasta-de-curry-korma",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0b-0f9fba52.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0b-0f9fba52.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0b-Pasta de curry korma.png"
+    },
+    {
+      "id": "634d532eebf08332f1bff1a5",
+      "uuid": "b330fdf9-ab81-5b42-bc68-7b5748ae00ba",
+      "name": "Curry en polvo",
+      "type": "curry-powder",
+      "slug": "curry-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d532eebf08332f1bff1a5-11f940df.png",
+      "imagePath": "/ingredient/634d532eebf08332f1bff1a5-11f940df.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d532eebf08332f1bff1a5-Curry en polvo.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "6340437a41033266d7be9534",
+      "uuid": "c7440604-41b7-5ef5-b2b3-8f83c31bccf9",
+      "name": "Tomate concentrado",
+      "type": "tomato-puree",
+      "slug": "tomate-concentrado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "imagePath": "/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9534-Tomate concentrado.jpg"
+    },
+    {
+      "id": "63404371233160a36674ba05",
+      "uuid": "0af471b0-f5b6-53c8-bf79-1fa315f20bf3",
+      "name": "Judías verdes",
+      "type": "green-beans",
+      "slug": "judias-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba05-1e297429.png",
+      "imagePath": "/ingredient/63404371233160a36674ba05-1e297429.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba05-Judías verdes.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/650afe2b32e9107c6db99c08",
+  "name": "Curry de pollo y judías al estilo tikka",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2561,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 612,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 12.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 76.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 12.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 33.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.49,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 16,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 412,
+  "slug": "curry-pollo-judias-arroz",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 200°C. Llena un cazo con el agua para el arroz (ver cantidad en ingredientes), añade el arroz y sal y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el arroz para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 200°C. Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 200°C. Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe2b32e9107c6db99c08/step-87387700.jpg",
+          "path": "/650afe2b32e9107c6db99c08/step-87387700.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/650afe2b32e9107c6db99c08-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En un bol grande, agrega el curry en polvo, 1/3 del yogur griego, los muslos de pollo troceados y salpimienta. Mezcla bien para que el pollo quede aderezado. Luego, coloca el pollo en una bandeja de horno con papel de horno y hornea durante 10-12 min, hasta que esté dorado y bien cocinado en el interior. Da la vuelta a mitad de cocción.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">En un bol grande, agrega el <strong>curry en polvo</strong>, 1/3 del <strong>yogur griego</strong>, los <strong>muslos de pollo troceados</strong> y <strong>salpimienta</strong>. Mezcla bien para que el <strong>pollo</strong> quede aderezado. Luego, coloca el <strong>pollo</strong> en una bandeja de horno con papel de horno y hornea durante 10-12 min, hasta que esté dorado y bien cocinado en el interior. Da la vuelta a mitad de cocción.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En un bol grande, agrega el <strong>curry en polvo</strong>, 1/3 del <strong>yogur griego</strong>, los <strong>muslos de pollo troceados</strong> y <strong>salpimienta</strong>. Mezcla bien para que el <strong>pollo</strong> quede aderezado. Luego, coloca el <strong>pollo</strong> en una bandeja de horno con papel de horno y hornea durante 10-12 min, hasta que esté dorado y bien cocinado en el interior. Da la vuelta a mitad de cocción.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372",
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe2b32e9107c6db99c08/step-4404f110.jpg",
+          "path": "/650afe2b32e9107c6db99c08/step-4404f110.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/650afe2b32e9107c6db99c08-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Retira las puntas de las judías verdes y córtalas en tercios. Pela y pica finamente el ajo (ver cantidad en ingredientes). ",
+      "instructionsHTML": "<p>Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios. Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes). </p>",
+      "instructionsMarkdown": "<p>Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios. Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes). </p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe2b32e9107c6db99c08/step-c37a0d20.jpg",
+          "path": "/650afe2b32e9107c6db99c08/step-c37a0d20.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/650afe2b32e9107c6db99c08-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En una sartén, calienta un chorrito de aceite a fuego medio. Agrega la cebolla y las judías verdes, salpimienta y cocina 6-7 min, mientras remueves. Agrega el ajo y cocina 1-2 min. Luego, añade la pasta de curry korma y cocina 1 min más. Agrega el caldo de pollo en polvo, el tomate concentrado, el agua para la salsa y el azúcar (ver cantidad en ingredientes de ambos). Salpimienta, lleva a ebullición y cocina 3-5 min, hasta que el curry espese.",
+      "instructionsHTML": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> y las <strong>judías verdes</strong>, <strong>salpimienta</strong> y cocina 6-7 min, mientras remueves. Agrega el <strong>ajo</strong> y cocina 1-2 min. Luego, añade la <strong>pasta de curry korma</strong> y cocina 1 min más. Agrega el <strong>caldo de pollo</strong> en polvo, el <strong>tomate concentrado</strong>, el <strong>agua para la salsa</strong> y el <strong>azúcar</strong> (ver cantidad en ingredientes de ambos). <strong>Salpimienta</strong>, lleva a ebullición y cocina 3-5 min, hasta que el <strong>curry</strong> espese.</p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> y las <strong>judías verdes</strong>, <strong>salpimienta</strong> y cocina 6-7 min, mientras remueves. Agrega el <strong>ajo</strong> y cocina 1-2 min. Luego, añade la <strong>pasta de curry korma</strong> y cocina 1 min más. Agrega el <strong>caldo de pollo</strong> en polvo, el <strong>tomate concentrado</strong>, el <strong>agua para la salsa</strong> y el <strong>azúcar</strong> (ver cantidad en ingredientes de ambos). <strong>Salpimienta</strong>, lleva a ebullición y cocina 3-5 min, hasta que el <strong>curry</strong> espese.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe2b32e9107c6db99c08/step-89466c30.jpg",
+          "path": "/650afe2b32e9107c6db99c08/step-89466c30.jpg",
+          "caption": "Prepara el curry",
+          "localImage": "/images/recipes/650afe2b32e9107c6db99c08-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando el pollo esté listo, agrégalo a la sartén y mezcla bien para que quede integrado con el curry. Retira la sartén del fuego y agrega el yogur griego restante. Prueba el curry y salpimienta a tu gusto. Si prefieres el curry menos espeso, agrega un chorrito de agua y remueve bien para que se integre.",
+      "instructionsHTML": "<p>Cuando el <strong>pollo</strong> esté listo, agrégalo a la sartén y mezcla bien para que quede integrado con el <strong>curry</strong>. Retira la sartén del fuego y agrega el <strong>yogur</strong> <strong>griego</strong> restante. Prueba el <strong>curry</strong> y <strong>salpimienta</strong> a tu gusto. Si prefieres el <strong>curry</strong> menos espeso, agrega un chorrito de <strong>agua</strong> y remueve bien para que se integre.</p>",
+      "instructionsMarkdown": "<p>Cuando el <strong>pollo</strong> esté listo, agrégalo a la sartén y mezcla bien para que quede integrado con el <strong>curry</strong>. Retira la sartén del fuego y agrega el <strong>yogur</strong> <strong>griego</strong> restante. Prueba el <strong>curry</strong> y <strong>salpimienta</strong> a tu gusto. Si prefieres el <strong>curry</strong> menos espeso, agrega un chorrito de <strong>agua</strong> y remueve bien para que se integre.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe2b32e9107c6db99c08/step-b0b31f40.jpg",
+          "path": "/650afe2b32e9107c6db99c08/step-b0b31f40.jpg",
+          "caption": "Agrega el pollo al curry",
+          "localImage": "/images/recipes/650afe2b32e9107c6db99c08-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el arroz basmati en la base de los platos hondos y cubre con el curry de pollo con judías al estilo tikka.",
+      "instructionsHTML": "<p>Sirve el <strong>arroz basmati</strong> en la base de los platos hondos y cubre con el <strong>curry de pollo</strong> con<strong> judías</strong> al estilo tikka.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>arroz basmati</strong> en la base de los platos hondos y cubre con el <strong>curry de pollo</strong> con<strong> judías</strong> al estilo tikka.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe2b32e9107c6db99c08/step-c4e7b850.jpg",
+          "path": "/650afe2b32e9107c6db99c08/step-c4e7b850.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/650afe2b32e9107c6db99c08-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "59e09e0fc288007a0d3e2192",
+      "type": "",
+      "name": "Ingredientes sin gluten",
+      "slug": "ingredientes-sin-gluten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCLFC0105-5",
+  "updatedAt": "2025-08-14T17:45:21+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    }
+  ],
+  "uuid": "890d4081-cdb3-4843-88a6-462c99c0e470",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/curry-pollo-judias-arroz-650afe2b32e9107c6db99c08",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437b41033266d7be953b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0b",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d532eebf08332f1bff1a5",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437b41033266d7be953b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0b",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d532eebf08332f1bff1a5",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/650afe2b32e9107c6db99c08-Curry de pollo y judías al estilo tikka.jpg",
+  "localCard": "/pdf/650afe2b32e9107c6db99c08-Curry de pollo y judías al estilo tikka.pdf"
+}

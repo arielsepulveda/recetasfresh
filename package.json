@@ -1,0 +1,36 @@
+{
+  "name": "recetas-fresh",
+  "version": "0.3.0",
+  "description": "HelloFresh Crawler plus a simple shopping list app to manage your HelloFresh recipes and ingredients.",
+  "main": "server.js",
+  "author": "Ariel Sepulveda",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcryptjs": "^3.0.3",
+    "connect-sqlite3": "^0.9.16",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.19.0",
+    "sqlite3": "^5.1.6",
+    "yargs": "^15.4.1"
+  },
+  "scripts": {
+    "start": "node crawler/index.js",
+    "serve": "node scripts/start-env.js production",
+    "serve:dev": "node scripts/start-env.js development",
+    "serve:prod": "node scripts/start-env.js production",
+    "download-images": "node crawler/download-images.js",
+    "generate-db": "node crawler/generate-db.js",
+    "generate-db:dev": "node scripts/generate-db-env.js development --replace",
+    "generate-db:prod": "node scripts/generate-db-env.js production --replace",
+    "json-server": "node crawler/index_json.js HelloFresh",
+    "validate-recipes": "node crawler/validate-recipes.js"
+  },
+  "keywords": [
+    "HelloFresh",
+    "Recetas",
+    "Shopping List",
+    "Crawler"
+  ],
+  "license": "MIT"
+}

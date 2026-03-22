@@ -1,0 +1,892 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5fdcaac412e5336f910e70bd",
+      "name": "Almendras",
+      "type": "almonds",
+      "slug": "almendras",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5fdcacf19520e811397b51c9",
+      "name": "Moluscos",
+      "type": "traces-of-molluscs",
+      "slug": "traces-of-moluscos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97a2ae08b54dad34eb82",
+      "name": "Sulfitos",
+      "type": "traces-of-sulphites",
+      "slug": "traces-of-sulfitos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf967d30006c4cbc61d152",
+      "name": "Crustáceos",
+      "type": "traces-of-crustaceans",
+      "slug": "traces-of-crustaceos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 4,
+  "canonical": "65606ffe5234ba85b73bb5cb",
+  "canonicalLink": "https://www.hellofresh.es/recipes/dorada-con-mantequilla-casera-de-nantes-65606ffe5234ba85b73bb5cb",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68d68a0c1d20e752a6dba865-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "65606ffe5234ba85b73bb5cb",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-13T07:59:49+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "La salsa \"mantequilla de Nantes\", también conocida como \"beurre blanc\", es una clásica salsa francesa originaria de la región de Nantes, en el valle del Loira. Se dice que fue creada accidentalmente por la chef Clémence Lefeuvre en el siglo XIX, aunque el gran sabor de este plato no es ningún accidente.",
+  "descriptionHTML": "<p>La salsa &quot;mantequilla de Nantes&quot;, también conocida como &quot;beurre blanc&quot;, es una clásica salsa francesa originaria de la región de Nantes, en el valle del Loira. Se dice que fue creada accidentalmente por la chef Clémence Lefeuvre en el siglo XIX, aunque el gran sabor de este plato no es ningún accidente.</p>",
+  "descriptionMarkdown": "La salsa \"mantequilla de Nantes\", también conocida como \"beurre blanc\", es una clásica salsa francesa originaria de la región de Nantes, en el valle del Loira. Se dice que fue creada accidentalmente por la chef Clémence Lefeuvre en el siglo XIX, aunque el gran sabor de este plato no es ningún accidente.",
+  "difficulty": 1,
+  "favoritesCount": 4,
+  "headline": "con patatas y espárragos verdes asados ",
+  "id": "68d68a0c1d20e752a6dba865",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R16_W51_ES_ESSGF20899-2_edit__Main_F1_high-16445326.jpg",
+  "imagePath": "/image/HF_Y25_R16_W51_ES_ESSGF20899-2_edit__Main_F1_high-16445326.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ea",
+      "uuid": "2a05fc5d-f5d3-4afc-9bce-976b245e9b0c",
+      "name": "Espárragos verdes",
+      "type": "asparagus",
+      "slug": "esparragos-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ea-2feaf92e.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ea-2feaf92e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ea-Espárragos verdes.png"
+    },
+    {
+      "id": "635bf32c715b05ed6af180bd",
+      "uuid": "92d67c8f-7ca6-5e50-b1ea-12d85a78d150",
+      "name": "Crème Fraîche",
+      "type": "creme-fraiche",
+      "slug": "creme-fraiche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "imagePath": "/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635bf32c715b05ed6af180bd-Crème Fraîche.png"
+    },
+    {
+      "id": "68befa92f655999316000c6e",
+      "uuid": "ba743c71-aa0e-56f6-9a65-1dc7cd42dbb5",
+      "name": "Almendras laminadas",
+      "type": "flaked-almonds",
+      "slug": "almendras-laminadas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/68befa92f655999316000c6e-70b3586e.png",
+      "imagePath": "/ingredient/68befa92f655999316000c6e-70b3586e.png",
+      "shipped": true,
+      "allergens": [
+        "5a9614ab30006c2c026cf562",
+        "62cc417a2f15d58ec3559423",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fb",
+        "5fdcaac412e5336f910e70bd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68befa92f655999316000c6e-Almendras laminadas.png"
+    },
+    {
+      "id": "657992cf41ffdf9a7be0d050",
+      "uuid": "969451b4-64fc-5f21-9f62-e6bb8424ef2d",
+      "name": "Dorada",
+      "type": "sea-bream-fillet",
+      "slug": "dorada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/657992cf41ffdf9a7be0d050-54dcc82d.png",
+      "imagePath": "/ingredient/657992cf41ffdf9a7be0d050-54dcc82d.png",
+      "shipped": true,
+      "allergens": [
+        "5acf97b7ae08b54d88061162",
+        "5fdcacf19520e811397b51c9",
+        "5b0532aaae08b52eb9420552",
+        "5acf97a2ae08b54dad34eb82",
+        "5acf967d30006c4cbc61d152",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305303",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/657992cf41ffdf9a7be0d050-Dorada.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Especial Navidad",
+    "handle": "christmasgourmet",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#3c454a",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68d68a0c1d20e752a6dba865",
+  "name": "Dorada con salsa de mantequilla de Nantes",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3776,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 903,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 72.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 30.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 47.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 27.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.17,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 7,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 633,
+  "slug": "dorada-con-salsa-de-mantequilla-de-nantes",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220°C.\nCorta las patatas en gajos de 1-2 cm de grosor.\nColócalos en una bandeja de horno con papel de horno y agrega un chorrito de aceite, sal y pimienta.\nMezcla y hornea a media altura 10 min.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220°C.</li>\n<li>Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor.</li>\n<li>Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y hornea a media altura 10 min.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220°C.</li>\n<li>Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor.</li>\n<li>Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y hornea a media altura 10 min.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a0c1d20e752a6dba865/step-988fd900.jpg",
+          "path": "/68d68a0c1d20e752a6dba865/step-988fd900.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68d68a0c1d20e752a6dba865-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y pica la chalota.\nCorta el limón en cuartos.\nCorta y desecha la parte inferior de los espárragos, más blanca y dura. Luego, corta los espárragos en tercios.\nPela y ralla el ajo y colócalo en un bol. Añade un chorrito generoso de aceite, sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y pica la <strong>chalota.</strong></li>\n<li>Corta el <strong>limón</strong> en cuartos.</li>\n<li>Corta y desecha la parte inferior de los <strong>espárragos,</strong> más blanca y dura. Luego, corta los <strong>espárragos</strong> en tercios.</li>\n<li>Pela y ralla el <strong>ajo</strong> y colócalo en un bol. Añade un chorrito generoso de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y pica la <strong>chalota.</strong></li>\n<li>Corta el <strong>limón</strong> en cuartos.</li>\n<li>Corta y desecha la parte inferior de los <strong>espárragos,</strong> más blanca y dura. Luego, corta los <strong>espárragos</strong> en tercios.</li>\n<li>Pela y ralla el <strong>ajo</strong> y colócalo en un bol. Añade un chorrito generoso de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a0c1d20e752a6dba865/step-cc976310.jpg",
+          "path": "/68d68a0c1d20e752a6dba865/step-cc976310.jpg",
+          "caption": "Mise en place",
+          "localImage": "/images/recipes/68d68a0c1d20e752a6dba865-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCuando las patatas se hayan horneado 10 min, dales la vuelta y colócalas en un lado de la bandeja.\nAñade los espárragos en el otro lado de la bandeja de horno y cubre con el aceite de ajo.\nHornea a media altura 10-15 min más, hasta que los vegetales queden tiernos y dorados.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando las <strong>patatas</strong> se hayan horneado 10 min, dales la vuelta y colócalas en un lado de la bandeja.</li>\n<li>Añade los <strong>espárragos</strong> en el otro lado de la bandeja de horno y cubre con el <strong>aceite</strong> de <strong>ajo.</strong></li>\n<li>Hornea a media altura 10-15 min más, hasta que los <strong>vegetales</strong> queden tiernos y dorados.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando las <strong>patatas</strong> se hayan horneado 10 min, dales la vuelta y colócalas en un lado de la bandeja.</li>\n<li>Añade los <strong>espárragos</strong> en el otro lado de la bandeja de horno y cubre con el <strong>aceite</strong> de <strong>ajo.</strong></li>\n<li>Hornea a media altura 10-15 min más, hasta que los <strong>vegetales</strong> queden tiernos y dorados.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a0c1d20e752a6dba865/step-e7c3f620.jpg",
+          "path": "/68d68a0c1d20e752a6dba865/step-e7c3f620.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/68d68a0c1d20e752a6dba865-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn una sartén antiadherente, calienta un chorito de aceite a fuego medio. Cocina la chalota 2-3 min.\nAñade zumo de limón al gusto y cocina 1-2 min más.\nAñade la mantequilla y, cuando se funda, agrega la crème fraîche. Remueve con varillas y lleva a ebullición.\nCocina 2-3 min, hasta que la salsa quede cremosa.\nSalpimienta y reserva en un bol.\n",
+      "instructionsHTML": "<ul>\n<li>En una sartén antiadherente, calienta un chorito de <strong>aceite</strong> a fuego medio. Cocina la chalota 2-3 min.</li>\n<li>Añade zumo de <strong>limón</strong> al gusto y cocina 1-2 min más.</li>\n<li>Añade la <strong>mantequilla</strong> y, cuando se funda, agrega la<strong> crème fraîche.</strong> Remueve con varillas y lleva a ebullición.</li>\n<li>Cocina 2-3 min, hasta que la <strong>salsa</strong> quede cremosa.</li>\n<li><strong>Salpimienta</strong> y reserva en un bol.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén antiadherente, calienta un chorito de <strong>aceite</strong> a fuego medio. Cocina la chalota 2-3 min.</li>\n<li>Añade zumo de <strong>limón</strong> al gusto y cocina 1-2 min más.</li>\n<li>Añade la <strong>mantequilla</strong> y, cuando se funda, agrega la<strong> crème fraîche.</strong> Remueve con varillas y lleva a ebullición.</li>\n<li>Cocina 2-3 min, hasta que la <strong>salsa</strong> quede cremosa.</li>\n<li><strong>Salpimienta</strong> y reserva en un bol.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384",
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a0c1d20e752a6dba865/step-98818330.jpg",
+          "path": "/68d68a0c1d20e752a6dba865/step-98818330.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/68d68a0c1d20e752a6dba865-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nLimpia la sartén y calienta a fuego a medio sin aceite.\nTuesta las almendras 1-2 min, hasta que se doren. Reserva fuera de la sartén.\nSeca y salpimienta la dorada.\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Cocina la dorada por la parte de la piel 2-3 min, luego, cocina 2 min más por el otro lado, hasta que quede dorada y bien hecha.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<ul>\n<li>Limpia la sartén y calienta a fuego a medio sin aceite.</li>\n<li>Tuesta las <strong>almendras</strong> 1-2 min, hasta que se doren. Reserva fuera de la sartén.</li>\n<li>Seca y <strong>salpimienta</strong> la <strong>dorada.</strong></li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina la <strong>dorada</strong> por la parte de la piel 2-3 min, luego, cocina 2 min más por el otro lado, hasta que quede dorada y bien hecha.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Limpia la sartén y calienta a fuego a medio sin aceite.</li>\n<li>Tuesta las <strong>almendras</strong> 1-2 min, hasta que se doren. Reserva fuera de la sartén.</li>\n<li>Seca y <strong>salpimienta</strong> la <strong>dorada.</strong></li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina la <strong>dorada</strong> por la parte de la piel 2-3 min, luego, cocina 2 min más por el otro lado, hasta que quede dorada y bien hecha.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a0c1d20e752a6dba865/step-ce688e40.jpg",
+          "path": "/68d68a0c1d20e752a6dba865/step-ce688e40.jpg",
+          "caption": "Dorada al fuego",
+          "localImage": "/images/recipes/68d68a0c1d20e752a6dba865-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve las patatas y los espárragos en un lado de los platos, por separado.\nAl otro lado, sirve la dorada y cubre con la salsa de mantequilla.\nAcaba agregando las almendras tostadas sobre el plato.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve las <strong>patatas</strong> y los <strong>espárragos</strong> en un lado de los platos, por separado.</li>\n<li>Al otro lado, sirve la <strong>dorada</strong> y cubre con la <strong>salsa de mantequilla.</strong></li>\n<li>Acaba agregando las <strong>almendras</strong> tostadas sobre el plato.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve las <strong>patatas</strong> y los <strong>espárragos</strong> en un lado de los platos, por separado.</li>\n<li>Al otro lado, sirve la <strong>dorada</strong> y cubre con la <strong>salsa de mantequilla.</strong></li>\n<li>Acaba agregando las <strong>almendras</strong> tostadas sobre el plato.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a0c1d20e752a6dba865/step-ee7ad050.jpg",
+          "path": "/68d68a0c1d20e752a6dba865/step-ee7ad050.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/68d68a0c1d20e752a6dba865-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "64b93188e10e1cea61958f7f",
+      "type": "premium",
+      "name": "premium",
+      "slug": "premium",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESSGF20899-2",
+  "updatedAt": "2026-01-23T15:19:43+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    }
+  ],
+  "uuid": "aa35fc7f-96ff-4fc0-a69e-a06462e5eb4e",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/dorada-con-salsa-de-mantequilla-de-nantes-68d68a0c1d20e752a6dba865",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ea",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68befa92f655999316000c6e",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "657992cf41ffdf9a7be0d050",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1.5,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ea",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68befa92f655999316000c6e",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "657992cf41ffdf9a7be0d050",
+          "amount": 440,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 9,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ea",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68befa92f655999316000c6e",
+          "amount": 45,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "657992cf41ffdf9a7be0d050",
+          "amount": 660,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 4.5,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68d68a0c1d20e752a6dba865-Dorada con salsa de mantequilla de Nantes.jpg",
+  "localCard": "/pdf/68d68a0c1d20e752a6dba865-Dorada con salsa de mantequilla de Nantes.pdf"
+}

@@ -1,0 +1,666 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "6877563a7299475a5b04e3e0",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ramen-rojo-de-lomo-adobado-con-caldo-casero-de-miso-fideos-y-verduras-6877563a7299475a5b04e3e0",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68d68a1f1d20e752a6dba8bf-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6877563a7299475a5b04e3e0",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-02T14:59:19+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ad",
+      "type": "japanese",
+      "name": "Japonesa",
+      "slug": "japonesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ad-3f36131f.jpg"
+    }
+  ],
+  "description": "El ramen es un icono de la cocina japonesa, nacido a principios del siglo XX como un plato cotidiano y reconfortante, lleno de caldo aromático y fideos suaves. Tradicionalmente se acompaña con cerdo, huevo o verduras. En nuestra versión, el lomo adobado aporta sabor intenso y un color vibrante, transformando este plato en un espectacular “ramen rojo”.",
+  "descriptionHTML": "<p>El ramen es un icono de la cocina japonesa, nacido a principios del siglo XX como un plato cotidiano y reconfortante, lleno de caldo aromático y fideos suaves. Tradicionalmente se acompaña con cerdo, huevo o verduras. En nuestra versión, el lomo adobado aporta sabor intenso y un color vibrante, transformando este plato en un espectacular “ramen rojo”.</p>",
+  "descriptionMarkdown": "El ramen es un icono de la cocina japonesa, nacido a principios del siglo XX como un plato cotidiano y reconfortante, lleno de caldo aromático y fideos suaves. Tradicionalmente se acompaña con cerdo, huevo o verduras. En nuestra versión, el lomo adobado aporta sabor intenso y un color vibrante, transformando este plato en un espectacular “ramen rojo”.",
+  "difficulty": 1,
+  "favoritesCount": 2,
+  "headline": "con fideos udon y espinacas",
+  "id": "68d68a1f1d20e752a6dba8bf",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R23_W52_ES_ESCQCLP47814-2_edit_spinach_Main_high-fd072677.jpg",
+  "imagePath": "/image/HF_Y25_R23_W52_ES_ESCQCLP47814-2_edit_spinach_Main_high-fd072677.jpg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "689b1545464ec79ed47137bb",
+      "uuid": "f65dfe31-250a-4fff-8920-b8db68aedcb0",
+      "name": "Lomo de cerdo adobado",
+      "type": "marinated-pork",
+      "slug": "lomo-de-cerdo-adobado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/689b1545464ec79ed47137bb-1852085b.png",
+      "imagePath": "/ingredient/689b1545464ec79ed47137bb-1852085b.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/689b1545464ec79ed47137bb-Lomo de cerdo adobado.png"
+    },
+    {
+      "id": "67aa98e1d479b9c2257734c2",
+      "uuid": "d52fa5aa-1f49-5c06-a714-c71690aeec3e",
+      "name": "Pasta de Miso",
+      "type": "miso-paste",
+      "slug": "pasta-de-miso",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67aa98e1d479b9c2257734c2-658e01d1.png",
+      "imagePath": "/ingredient/67aa98e1d479b9c2257734c2-658e01d1.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67aa98e1d479b9c2257734c2-Pasta de Miso.png"
+    },
+    {
+      "id": "6340437941033266d7be9530",
+      "uuid": "4bb2d585-8bff-53e8-85b3-fc1744a8b5bd",
+      "name": "Sriracha",
+      "type": "sriracha",
+      "slug": "sriracha",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9530-1dc67998.png",
+      "imagePath": "/ingredient/6340437941033266d7be9530-1dc67998.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9530-Sriracha.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "634fc20ad60c92f32eff1cb4",
+      "uuid": "4d08f895-ac4f-5922-af38-c2693b40797f",
+      "name": "Fideos udon",
+      "type": "udon-noodles",
+      "slug": "fideos-udon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634fc20ad60c92f32eff1cb4-ed8f5c92.png",
+      "imagePath": "/ingredient/634fc20ad60c92f32eff1cb4-ed8f5c92.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634fc20ad60c92f32eff1cb4-Fideos udon.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68d68a1f1d20e752a6dba8bf",
+  "name": "Ramen rojo: lomo adobado con miso",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3170,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 758,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 59.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 15.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 40.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 40.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 6.09,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 406,
+  "slug": "ramen-rojo-lomo-adobado-con-caldo-casero-de-miso-fideos-y-verduras",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nCorta el lomo adobado en tiras de 1-2 cm.\nEn una olla, calienta un chorrito de aceite a fuego medio-alto. Agrega el lomo, salpimienta y cocina 2-3 min.\nRetira y reserva.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Corta el <strong>lomo adobado</strong> en tiras de 1-2 cm.</li>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>lomo, salpimienta</strong> y cocina 2-3 min.</li>\n<li>Retira y reserva.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Corta el <strong>lomo adobado</strong> en tiras de 1-2 cm.</li>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>lomo, salpimienta</strong> y cocina 2-3 min.</li>\n<li>Retira y reserva.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1f1d20e752a6dba8bf/step-c0950100.jpg",
+          "path": "/68d68a1f1d20e752a6dba8bf/step-c0950100.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68d68a1f1d20e752a6dba8bf-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela la cebolla y córtala en tiras finas.\nEn la olla, calienta un chorrito de aceite a fuego medio. Agrega la cebolla y una pizca de sal y cocina 4-5 min, removiendo.\n",
+      "instructionsHTML": "<ul>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>En la olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>En la olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1f1d20e752a6dba8bf/step-7b9c5a10.jpg",
+          "path": "/68d68a1f1d20e752a6dba8bf/step-7b9c5a10.jpg",
+          "caption": "Cebolla al fuego",
+          "localImage": "/images/recipes/68d68a1f1d20e752a6dba8bf-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la olla con la cebolla, agrega el agua, la pasta de miso, la sriracha y la miel. Cocina a fuego medio 1-2 min y remueve.\nAñade los fideos udon y las espinacas y cocina todo junto a fuego medio 2-3 min, removiendo para separar los fideos.\n",
+      "instructionsHTML": "<ul>\n<li>En la olla con la <strong>cebolla,</strong> agrega el <strong>agua</strong>, la <strong>pasta de miso,</strong> la <strong>sriracha</strong> y la <strong>miel.</strong> Cocina a fuego medio 1-2 min y remueve.</li>\n<li>Añade los <strong>fideos udon</strong> y las <strong>espinacas</strong> y cocina todo junto a fuego medio 2-3 min, removiendo para separar los <strong>fideos.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la olla con la <strong>cebolla,</strong> agrega el <strong>agua</strong>, la <strong>pasta de miso,</strong> la <strong>sriracha</strong> y la <strong>miel.</strong> Cocina a fuego medio 1-2 min y remueve.</li>\n<li>Añade los <strong>fideos udon</strong> y las <strong>espinacas</strong> y cocina todo junto a fuego medio 2-3 min, removiendo para separar los <strong>fideos.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1f1d20e752a6dba8bf/step-a4f57820.jpg",
+          "path": "/68d68a1f1d20e752a6dba8bf/step-a4f57820.jpg",
+          "caption": "Da vida al ramen",
+          "localImage": "/images/recipes/68d68a1f1d20e752a6dba8bf-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nSirve el caldo del ramen en platos.\nAgrega en cada plato los fideos udon, el lomo adobado y las espinacas.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>caldo</strong> del <strong>ramen</strong> en platos.</li>\n<li>Agrega en cada plato los <strong>fideos udon,</strong> el <strong>lomo adobado</strong> y las <strong>espinacas</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>caldo</strong> del <strong>ramen</strong> en platos.</li>\n<li>Agrega en cada plato los <strong>fideos udon,</strong> el <strong>lomo adobado</strong> y las <strong>espinacas</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a1f1d20e752a6dba8bf/step-7dd71d30.jpg",
+          "path": "/68d68a1f1d20e752a6dba8bf/step-7dd71d30.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68d68a1f1d20e752a6dba8bf-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCQCLP47814-2",
+  "updatedAt": "2025-12-18T14:55:35+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    }
+  ],
+  "uuid": "63fea269-29f2-4ebc-8a73-53db7e79b642",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ramen-rojo-lomo-adobado-con-caldo-casero-de-miso-fideos-y-verduras-68d68a1f1d20e752a6dba8bf",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "689b1545464ec79ed47137bb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67aa98e1d479b9c2257734c2",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9530",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 800,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "689b1545464ec79ed47137bb",
+          "amount": 8,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67aa98e1d479b9c2257734c2",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9530",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1600,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "689b1545464ec79ed47137bb",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67aa98e1d479b9c2257734c2",
+          "amount": 75,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9530",
+          "amount": 1.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 2400,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68d68a1f1d20e752a6dba8bf-Ramen rojo lomo adobado con miso.jpg",
+  "localCard": "/pdf/68d68a1f1d20e752a6dba8bf-Ramen rojo lomo adobado con miso.pdf"
+}

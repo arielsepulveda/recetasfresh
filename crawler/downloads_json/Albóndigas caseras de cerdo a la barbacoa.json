@@ -1,0 +1,765 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/albondigas-barbacoa-pure-brocoli-63ca9c1ef3cad3f4f35bef8a-0b7483aa.pdf",
+  "category": null,
+  "clonedFrom": "6347ef444eacd7e8b5e77bf4",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-01-20T13:50:22+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Americana",
+      "slug": "americana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg"
+    }
+  ],
+  "description": "Si te apetecen los intensos sabores de la salsa barbacoa combinada con la carne, pero no quieres preparar un plato alto en calorías y bajo en nutrientes, escoge esta receta en tu próxima caja de HelloFresh. En este caso, acompañamos unas albóndigas de cerdo con salsa y sazonador barbacoa con un cremoso puré de patata y floretes de brócoli salteados con ajo.",
+  "descriptionHTML": "<p>Si te apetecen los intensos sabores de la salsa barbacoa combinada con la carne, pero no quieres preparar un plato alto en calorías y bajo en nutrientes, escoge esta receta en tu próxima caja de HelloFresh. En este caso, acompañamos unas albóndigas de cerdo con salsa y sazonador barbacoa con un cremoso puré de patata y floretes de brócoli salteados con ajo.</p>",
+  "descriptionMarkdown": "Si te apetecen los intensos sabores de la salsa barbacoa combinada con la carne, pero no quieres preparar un plato alto en calorías y bajo en nutrientes, escoge esta receta en tu próxima caja de HelloFresh. En este caso, acompañamos unas albóndigas de cerdo con salsa y sazonador barbacoa con un cremoso puré de patata y floretes de brócoli salteados con ajo.",
+  "difficulty": 1,
+  "favoritesCount": 22,
+  "headline": "con puré de patatas y brócoli salteado",
+  "id": "63ca9c1ef3cad3f4f35bef8a",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF220211_R1014_W14_CA_RB151971-6_MB_Main_meatballs_high-f3f071e2.jpg",
+  "imagePath": "/image/HF220211_R1014_W14_CA_RB151971-6_MB_Main_meatballs_high-f3f071e2.jpg",
+  "ingredients": [
+    {
+      "id": "63497564ebf08332f1bff174",
+      "uuid": "b0bf78aa-aee2-54a8-9729-c47d4b7bb10a",
+      "name": "Salsa barbacoa",
+      "type": "bbq-sauce",
+      "slug": "salsa-barbacoa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497564ebf08332f1bff174-345e77db.png",
+      "imagePath": "/ingredient/63497564ebf08332f1bff174-345e77db.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497564ebf08332f1bff174-Salsa barbacoa.png"
+    },
+    {
+      "id": "6340436c2268bc1bff0d3ca3",
+      "uuid": "f75c0a34-b8c9-4c80-b8f9-62d711a18d61",
+      "name": "Sazonador barbacoa",
+      "type": "bbq-rub",
+      "slug": "sazonador-barbacoa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c2268bc1bff0d3ca3-13b5238b.png",
+      "imagePath": "/ingredient/6340436c2268bc1bff0d3ca3-13b5238b.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c2268bc1bff0d3ca3-Sazonador barbacoa.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "6369182b27b0db08e0fb84ac",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6369182b27b0db08e0fb84ac-6854f2b5.png",
+      "imagePath": "/ingredient/6369182b27b0db08e0fb84ac-6854f2b5.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6369182b27b0db08e0fb84ac-Panko.png"
+    },
+    {
+      "id": "6340436e41033266d7be950e",
+      "uuid": "b443c50a-b3b3-510c-93ac-01d6610777a3",
+      "name": "Cebollino",
+      "type": "chives",
+      "slug": "cebollino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "imagePath": "/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be950e-Cebollino.png"
+    },
+    {
+      "id": "63fc92b0bbe06d8c7489ce76",
+      "uuid": "b7647ff1-cacb-5782-9678-8d04b94aba26",
+      "name": "Carne de cerdo picada",
+      "type": "pork-mince",
+      "slug": "carne-de-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "imagePath": "/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63fc92b0bbe06d8c7489ce76-Carne de cerdo picada.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340436c41033266d7be950b",
+      "uuid": "9c185787-b4f8-5457-863b-da9d361fcd22",
+      "name": "Brócoli",
+      "type": "broccoli",
+      "slug": "brocoli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "imagePath": "/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be950b-Brócoli.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/63ca9c1ef3cad3f4f35bef8a",
+  "name": "Albóndigas caseras de cerdo a la barbacoa",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2679,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 640,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 30.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 9.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 56.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 31.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 42,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 490,
+  "slug": "albondigas-caseras-de-cerdo-a-la-barbacoa",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 220ºC. Pela las patatas y córtalas en dados de 2 cm. En una olla, agrega las patatas, cúbrelas con agua y añade una pizca de sal. Lleva a ebullición y cocina, a fuego medio, 13-15 min o hasta que estén blandas. Pica la mitad del cebollino (doble para 4p). Pela y pica el ajo (ver cantidad en ingredientes). En un bol pequeño, mezcla el caldo de pollo en polvo, la mitad de la salsa barbacoa y un chorrito de agua. Reserva.",
+      "instructionsHTML": "<p>Precalienta el horno a 220ºC. Pela las <strong>patatas</strong> y córtalas en dados de 2 cm. En una olla, agrega las <strong>patatas</strong>, cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal</strong>. Lleva a ebullición y cocina, a fuego medio, 13-15 min o hasta que estén blandas. Pica la mitad del <strong>cebollino</strong> (doble para 4p). Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En un bol pequeño, mezcla el <strong>caldo de pollo</strong> en polvo, la mitad de la <strong>salsa barbacoa</strong> y un chorrito de <strong>agua</strong>. Reserva.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 220ºC. Pela las <strong>patatas</strong> y córtalas en dados de 2 cm. En una olla, agrega las <strong>patatas</strong>, cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal</strong>. Lleva a ebullición y cocina, a fuego medio, 13-15 min o hasta que estén blandas. Pica la mitad del <strong>cebollino</strong> (doble para 4p). Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En un bol pequeño, mezcla el <strong>caldo de pollo</strong> en polvo, la mitad de la <strong>salsa barbacoa</strong> y un chorrito de <strong>agua</strong>. Reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e8671",
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c1ef3cad3f4f35bef8a/step-434f8600.jpg",
+          "path": "/63ca9c1ef3cad3f4f35bef8a/step-434f8600.jpg",
+          "caption": "Hierve las patatas",
+          "localImage": "/images/recipes/63ca9c1ef3cad3f4f35bef8a-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En un bol para mezclar, agrega la carne picada, el panko, el sazonador barbacoa, la mitad del cebollino picado y la salsa barbacoa restante. Salpimienta y mezcla. Forma con las manos 5 albóndigas del mismo tamaño por persona. Coloca las albóndigas en una bandeja de horno con papel de horno. Hornea a media altura durante 10-12 min.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>En un bol para mezclar, agrega la <strong>carne picada</strong>, el <strong>panko</strong>, el <strong>sazonador barbacoa</strong>, la mitad del <strong>cebollino</strong> picado y la <strong>salsa barbacoa</strong> restante. <strong>Salpimienta</strong> y mezcla. Forma con las manos 5 <strong>albóndigas</strong> del mismo tamaño por persona. Coloca las <strong>albóndigas</strong> en una bandeja de horno con papel de horno. Hornea a media altura durante 10-12 min.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>En un bol para mezclar, agrega la <strong>carne picada</strong>, el <strong>panko</strong>, el <strong>sazonador barbacoa</strong>, la mitad del <strong>cebollino</strong> picado y la <strong>salsa barbacoa</strong> restante. <strong>Salpimienta</strong> y mezcla. Forma con las manos 5 <strong>albóndigas</strong> del mismo tamaño por persona. Coloca las <strong>albóndigas</strong> en una bandeja de horno con papel de horno. Hornea a media altura durante 10-12 min.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538e",
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c1ef3cad3f4f35bef8a/step-62a39d10.jpg",
+          "path": "/63ca9c1ef3cad3f4f35bef8a/step-62a39d10.jpg",
+          "caption": "Forma y cocina las albóndigas",
+          "localImage": "/images/recipes/63ca9c1ef3cad3f4f35bef8a-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Mientras tanto, corta el tronco del brócoli y, luego, corta una mitad (doble para 4p) en floretes pequeños. En una sartén antiadherente, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega el brócoli y un chorrito de agua. Remueve para combinar. Cocina, tapado, 5-6 min, hasta que esté tierno. Salpimienta al gusto.",
+      "instructionsHTML": "<p>Mientras tanto, corta el tronco del <strong>brócoli</strong> y, luego, corta una mitad (doble para 4p) en floretes pequeños. En una sartén antiadherente, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega el <strong>brócoli</strong> y un chorrito de <strong>agua</strong>. Remueve para combinar. Cocina, tapado, 5-6 min, hasta que esté tierno. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Mientras tanto, corta el tronco del <strong>brócoli</strong> y, luego, corta una mitad (doble para 4p) en floretes pequeños. En una sartén antiadherente, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega el <strong>brócoli</strong> y un chorrito de <strong>agua</strong>. Remueve para combinar. Cocina, tapado, 5-6 min, hasta que esté tierno. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c1ef3cad3f4f35bef8a/step-2ae45020.jpg",
+          "path": "/63ca9c1ef3cad3f4f35bef8a/step-2ae45020.jpg",
+          "caption": "Cocina el brócoli",
+          "localImage": "/images/recipes/63ca9c1ef3cad3f4f35bef8a-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando las patatas estén cocinadas, escúrrelas con ayuda de un colador. Vuelve a poner las patatas en la olla y añade la mantequilla (ver cantidad en ingredientes) o un chorrito de aceite, sal y pimienta al gusto. Con la ayuda de un pasapurés o un tenedor, aplasta las patatas hasta conseguir un puré. ",
+      "instructionsHTML": "<p>Cuando las <strong>patatas</strong> estén cocinadas, escúrrelas con ayuda de un colador. Vuelve a poner las <strong>patatas</strong> en la olla y añade la <strong>mantequilla</strong> (ver cantidad en ingredientes) o un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto. Con la ayuda de un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta conseguir un <strong>puré</strong>. </p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>patatas</strong> estén cocinadas, escúrrelas con ayuda de un colador. Vuelve a poner las <strong>patatas</strong> en la olla y añade la <strong>mantequilla</strong> (ver cantidad en ingredientes) o un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto. Con la ayuda de un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta conseguir un <strong>puré</strong>. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305393",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c1ef3cad3f4f35bef8a/step-a4086c30.jpg",
+          "path": "/63ca9c1ef3cad3f4f35bef8a/step-a4086c30.jpg",
+          "caption": "Prepara el puré",
+          "localImage": "/images/recipes/63ca9c1ef3cad3f4f35bef8a-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando las albóndigas estén listas, agrégalas al bol con la salsa barbacoa. Remueve bien, hasta que las albóndigas queden bien cubiertas por la salsa.",
+      "instructionsHTML": "<p>Cuando las <strong>albóndigas</strong> estén listas, agrégalas al bol con la <strong>salsa barbacoa</strong>. Remueve bien, hasta que las <strong>albóndigas</strong> queden bien cubiertas por la <strong>salsa</strong>.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>albóndigas</strong> estén listas, agrégalas al bol con la <strong>salsa barbacoa</strong>. Remueve bien, hasta que las <strong>albóndigas</strong> queden bien cubiertas por la <strong>salsa</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c1ef3cad3f4f35bef8a/step-e5ced340.jpg",
+          "path": "/63ca9c1ef3cad3f4f35bef8a/step-e5ced340.jpg",
+          "caption": "Adereza las albóndigas",
+          "localImage": "/images/recipes/63ca9c1ef3cad3f4f35bef8a-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Divide el brócoli al ajo y el puré de patatas entre los platos. Encima, reparte las albóndigas con salsa barbacoa y cubre con la salsa restante. Espolvorea con el cebollino restante al gusto.",
+      "instructionsHTML": "<p>Divide el <strong>brócoli al ajo</strong> y el <strong>puré de patatas</strong> entre los platos. Encima, reparte las <strong>albóndigas con salsa barbacoa</strong> y cubre con la <strong>salsa</strong> restante. Espolvorea con el <strong>cebollino</strong> restante al gusto.</p>",
+      "instructionsMarkdown": "<p>Divide el <strong>brócoli al ajo</strong> y el <strong>puré de patatas</strong> entre los platos. Encima, reparte las <strong>albóndigas con salsa barbacoa</strong> y cubre con la <strong>salsa</strong> restante. Espolvorea con el <strong>cebollino</strong> restante al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c1ef3cad3f4f35bef8a/step-1ee5b350.jpg",
+          "path": "/63ca9c1ef3cad3f4f35bef8a/step-1ee5b350.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63ca9c1ef3cad3f4f35bef8a-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT10M",
+  "uniqueRecipeCode": "ESFP0023-2",
+  "updatedAt": "2026-01-21T13:59:43+00:00",
+  "utensils": [
+    {
+      "id": "59d49a9319279f8fe60e8671",
+      "type": "medium-pot",
+      "name": "Olla mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538e",
+      "type": "mixingbowl",
+      "name": "Bol para mezclar"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305393",
+      "type": "potato-masher",
+      "name": "Pasapurés"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "f4dc9f76-8ef1-4b47-b8e1-17793adee759",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/albondigas-caseras-de-cerdo-a-la-barbacoa-63ca9c1ef3cad3f4f35bef8a",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63497564ebf08332f1bff174",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca3",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6369182b27b0db08e0fb84ac",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63497564ebf08332f1bff174",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca3",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6369182b27b0db08e0fb84ac",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63ca9c1ef3cad3f4f35bef8a-Albóndigas caseras de cerdo a la barbacoa.jpg",
+  "localCard": "/pdf/63ca9c1ef3cad3f4f35bef8a-Albóndigas caseras de cerdo a la barbacoa.pdf"
+}

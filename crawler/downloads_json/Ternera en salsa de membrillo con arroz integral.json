@@ -1,0 +1,784 @@
+{
+  "active": true,
+  "allergens": [],
+  "averageRating": 3.1,
+  "canonical": "67323d714d72b9f96d940a57",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ternera-con-glaseado-de-membrillo-arroz-integral-y-verduras-salteadas-67323d714d72b9f96d940a57",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/688a78621cc5cea71280bc2a-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "67323d714d72b9f96d940a57",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-07-30T19:54:11+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "¿Quién dijo que el membrillo no podría convertirse en una salsa para la carne? En HelloFresh, ¡nos atrevemos a todo! En este caso, preparamos una salsa dulce a base de membrillo para la ternera, que acompañamos con verduras salteadas y arroz integral en esta receta más rápida de cocinar que de disfrutar.",
+  "descriptionHTML": "<p>¿Quién dijo que el membrillo no podría convertirse en una salsa para la carne? En HelloFresh, ¡nos atrevemos a todo! En este caso, preparamos una salsa dulce a base de membrillo para la ternera, que acompañamos con verduras salteadas y arroz integral en esta receta más rápida de cocinar que de disfrutar.</p>",
+  "descriptionMarkdown": "¿Quién dijo que el membrillo no podría convertirse en una salsa para la carne? En HelloFresh, ¡nos atrevemos a todo! En este caso, preparamos una salsa dulce a base de membrillo para la ternera, que acompañamos con verduras salteadas y arroz integral en esta receta más rápida de cocinar que de disfrutar.",
+  "difficulty": 1,
+  "favoritesCount": 4,
+  "headline": "con verduras salteadas",
+  "id": "688a78621cc5cea71280bc2a",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R18_W44_ES_ESQCB35635-8_Main_R_2_high-855776df.jpg",
+  "imagePath": "/image/HF_Y25_R18_W44_ES_ESQCB35635-8_Main_R_2_high-855776df.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340437141033266d7be951a",
+      "uuid": "ae95225f-9805-5f92-afa8-0649e7e90122",
+      "name": "Comino en polvo",
+      "type": "ground-cumin",
+      "slug": "comino-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "imagePath": "/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be951a-Comino en polvo.png"
+    },
+    {
+      "id": "66fd18234c6de2e4afe690b4",
+      "uuid": "336a7733-0ced-482c-8a65-f2a49c15249a",
+      "name": "Membrillo",
+      "type": "quince",
+      "slug": "membrillo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/66fd18234c6de2e4afe690b4-68597abd.png",
+      "imagePath": "/ingredient/66fd18234c6de2e4afe690b4-68597abd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/66fd18234c6de2e4afe690b4-Membrillo.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "6340437741033266d7be952b",
+      "uuid": "26c839a7-90d5-5ab1-808a-7f16c7526471",
+      "name": "Filete de ternera",
+      "type": "rump-steak",
+      "slug": "filete-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "imagePath": "/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437741033266d7be952b-Filete de ternera.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Exprés",
+    "handle": "super-quick",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/688a78621cc5cea71280bc2a",
+  "name": "Ternera en salsa de membrillo con arroz integral ",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2564,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 613,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 22.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 85.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 16.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 37,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.54,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 53,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 535,
+  "slug": "ternera-en-salsa-de-membrillo-con-arroz-integral",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela y pica el ajo.\nEn un cazo, agrega un chorrito de aceite y la mitad del ajo. Calienta a fuego medio y cocina 1-2 min.\nAñade el arroz y sal y rehoga 1 min.\nAñade el agua para el arroz y lleva a ebullición, luego, cocina a fuego medio-bajo 11-13 min, removiendo ocasionalmente.\nRemueve y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela y pica el <strong>ajo.</strong></li>\n<li>En un cazo, agrega un chorrito de <strong>aceite</strong> y la mitad del <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade el <strong>arroz</strong> y <strong>sal</strong> y rehoga 1 min.</li>\n<li>Añade el <strong>agua para el arroz</strong> y lleva a ebullición, luego, cocina a fuego medio-bajo 11-13 min, removiendo ocasionalmente.</li>\n<li>Remueve y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela y pica el <strong>ajo.</strong></li>\n<li>En un cazo, agrega un chorrito de <strong>aceite</strong> y la mitad del <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade el <strong>arroz</strong> y <strong>sal</strong> y rehoga 1 min.</li>\n<li>Añade el <strong>agua para el arroz</strong> y lleva a ebullición, luego, cocina a fuego medio-bajo 11-13 min, removiendo ocasionalmente.</li>\n<li>Remueve y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78621cc5cea71280bc2a/step-ea5ccd00.jpg",
+          "path": "/688a78621cc5cea71280bc2a/step-ea5ccd00.jpg",
+          "caption": "Cuece el arroz",
+          "localImage": "/images/recipes/688a78621cc5cea71280bc2a-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCorta el tomate en dados de 1-2 cm.\nRetira los extremos del calabacín y corta por la mitad a lo largo. Corta en medias lunas finas.\nPela la cebolla y córtala en tiras finas.\nEn una sartén grande, calienta un chorrito de aceite a fuego alto. Añade las verduras, el comino, sal y pimienta. Cocina 5-6 min, removiendo, hasta que queden tiernos.\nRetira de la sartén.\n",
+      "instructionsHTML": "<ul>\n<li>Corta el <strong>tomate</strong> en dados de 1-2 cm.</li>\n<li>Retira los extremos del <strong>calabacín</strong> y corta por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego alto. Añade las <strong>verduras,</strong> el <strong>comino, sal</strong> y <strong>pimienta.</strong> Cocina 5-6 min, removiendo, hasta que queden tiernos.</li>\n<li>Retira de la sartén.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta el <strong>tomate</strong> en dados de 1-2 cm.</li>\n<li>Retira los extremos del <strong>calabacín</strong> y corta por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego alto. Añade las <strong>verduras,</strong> el <strong>comino, sal</strong> y <strong>pimienta.</strong> Cocina 5-6 min, removiendo, hasta que queden tiernos.</li>\n<li>Retira de la sartén.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78621cc5cea71280bc2a/step-c103d910.jpg",
+          "path": "/688a78621cc5cea71280bc2a/step-c103d910.jpg",
+          "caption": "Saltea las verduras",
+          "localImage": "/images/recipes/688a78621cc5cea71280bc2a-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, añade un chorrito de aceite y el ajo restante. Calienta a fuego medio y cocina 1-2 min.\nAñade el membrillo, el caldo de ternera y el agua para la salsa y cocina 1-2 min, removiendo con varillas, hasta que la salsa espese.\nRetira de la sartén.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, añade un chorrito de<strong> aceite</strong> y el <strong>ajo</strong> restante. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade el <strong>membrillo,</strong> el <strong>caldo de ternera</strong> y el <strong>agua para la salsa</strong> y cocina 1-2 min, removiendo con varillas, hasta que la <strong>salsa</strong> espese.</li>\n<li>Retira de la sartén.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, añade un chorrito de<strong> aceite</strong> y el <strong>ajo</strong> restante. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade el <strong>membrillo,</strong> el <strong>caldo de ternera</strong> y el <strong>agua para la salsa</strong> y cocina 1-2 min, removiendo con varillas, hasta que la <strong>salsa</strong> espese.</li>\n<li>Retira de la sartén.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78621cc5cea71280bc2a/step-f9346e20.jpg",
+          "path": "/688a78621cc5cea71280bc2a/step-f9346e20.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/688a78621cc5cea71280bc2a-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto.\nAñade la ternera, salpimienta y cocina 1 min por lado.\nSirve el arroz, las verduras y la ternera en platos, por separado.\nCubre la ternera con la salsa de membrillo.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto.</li>\n<li>Añade la <strong>ternera, salpimienta</strong> y cocina 1 min por lado.</li>\n<li>Sirve el <strong>arroz,</strong> las <strong>verduras</strong> y la <strong>ternera</strong> en platos, por separado.</li>\n<li>Cubre la <strong>ternera</strong> con la <strong>salsa de membrillo</strong>.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto.</li>\n<li>Añade la <strong>ternera, salpimienta</strong> y cocina 1 min por lado.</li>\n<li>Sirve el <strong>arroz,</strong> las <strong>verduras</strong> y la <strong>ternera</strong> en platos, por separado.</li>\n<li>Cubre la <strong>ternera</strong> con la <strong>salsa de membrillo</strong>.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78621cc5cea71280bc2a/step-1c84d730.jpg",
+          "path": "/688a78621cc5cea71280bc2a/step-1c84d730.jpg",
+          "caption": "Cocina la ternera y emplata",
+          "localImage": "/images/recipes/688a78621cc5cea71280bc2a-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESQCB35635-8",
+  "updatedAt": "2025-11-19T17:59:49+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    }
+  ],
+  "uuid": "53ded162-75b4-4708-a5fe-ddf6c3c85080",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ternera-en-salsa-de-membrillo-con-arroz-integral-688a78621cc5cea71280bc2a",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "66fd18234c6de2e4afe690b4",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "66fd18234c6de2e4afe690b4",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 9,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "66fd18234c6de2e4afe690b4",
+          "amount": 75,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/688a78621cc5cea71280bc2a-Ternera en salsa de membrillo con arroz integral.jpg",
+  "localCard": "/pdf/688a78621cc5cea71280bc2a-Ternera en salsa de membrillo con arroz integral.pdf"
+}

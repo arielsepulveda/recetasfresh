@@ -1,0 +1,797 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "64788adc904daffe76f26a2b",
+  "canonicalLink": "https://www.hellofresh.es/recipes/libritos-de-lomo-con-queso-italiano-curado-64788adc904daffe76f26a2b",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/650afe1353d80a0362117403.pdf",
+  "category": null,
+  "clonedFrom": "639c4bf62a35705314f05edb",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-09-20T14:13:39+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "¿Disfrutas tanto la gastronomía como la literatura? Esta receta es perfecta para ti, pues te proponemos que cocines unos libritos de lomo rellenos de queso pecorino, de sabor intenso, y los acompañamos con patatas y cebolla al horno con aderezo de pimentón y tomillo. Además, podrás añadir a tu plato una sabrosa mayonesa de pimentón que aportará un toque fresco.",
+  "descriptionHTML": "<p>¿Disfrutas tanto la gastronomía como la literatura? Esta receta es perfecta para ti, pues te proponemos que cocines unos libritos de lomo rellenos de queso pecorino, de sabor intenso, y los acompañamos con patatas y cebolla al horno con aderezo de pimentón y tomillo. Además, podrás añadir a tu plato una sabrosa mayonesa de pimentón que aportará un toque fresco.</p>",
+  "descriptionMarkdown": "¿Disfrutas tanto la gastronomía como la literatura? Esta receta es perfecta para ti, pues te proponemos que cocines unos libritos de lomo rellenos de queso pecorino, de sabor intenso, y los acompañamos con patatas y cebolla al horno con aderezo de pimentón y tomillo. Además, podrás añadir a tu plato una sabrosa mayonesa de pimentón que aportará un toque fresco.",
+  "difficulty": 2,
+  "favoritesCount": 39,
+  "headline": "con patatas y cebolla al horno y mayonesa de pimentón",
+  "id": "650afe1353d80a0362117403",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R05_W35_ES_ESCFP14075-2_Main_high-ea510b66.jpg",
+  "imagePath": "/image/HF_Y23_R05_W35_ES_ESCFP14075-2_Main_high-ea510b66.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba14",
+      "uuid": "b90fb973-7391-5db2-8d37-b49301e3ecf4",
+      "name": "Lomo de cerdo",
+      "type": "pork-loin-steak",
+      "slug": "lomo-de-cerdo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba14-5d1cb67a.png",
+      "imagePath": "/ingredient/63404376233160a36674ba14-5d1cb67a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba14-Lomo de cerdo.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6369182b27b0db08e0fb84ac",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6369182b27b0db08e0fb84ac-6854f2b5.png",
+      "imagePath": "/ingredient/6369182b27b0db08e0fb84ac-6854f2b5.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6369182b27b0db08e0fb84ac-Panko.png"
+    },
+    {
+      "id": "63c6c4e85d055dd6f722b0c2",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "imagePath": "/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63c6c4e85d055dd6f722b0c2-Mayonesa.png"
+    },
+    {
+      "id": "646c6e918c393b044d74495c",
+      "uuid": "d5a29260-26eb-42f9-ac36-b9cf8bf64138",
+      "name": "Pecorino italiano",
+      "type": "pecorino-romano",
+      "slug": "pecorino-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/646c6e918c393b044d74495c-35e92fd7.png",
+      "imagePath": "/ingredient/646c6e918c393b044d74495c-35e92fd7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/646c6e918c393b044d74495c-Pecorino italiano.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6399e2044fc733684f4c6900",
+      "uuid": "f1a7c3f3-6783-46af-87b2-df2fd87c6820",
+      "name": "Pimentón ahumado",
+      "type": "smoked-paprika",
+      "slug": "pimenton-ahumado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "imagePath": "/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6399e2044fc733684f4c6900-Pimentón ahumado.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492a38ebf08332f1bff158",
+      "uuid": "f3edd1e7-4508-4709-aa78-41efa824db4d",
+      "name": "Harina",
+      "type": "flour",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a38ebf08332f1bff158-ff411a48.png",
+      "imagePath": "/ingredient/63492a38ebf08332f1bff158-ff411a48.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a38ebf08332f1bff158-Harina.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    },
+    {
+      "id": "63f4d45db6ae9e66039dd731",
+      "uuid": "2e840e60-bb45-4b75-a871-d045979c26aa",
+      "name": "Aceite para freír",
+      "type": "sunflower-oil-less-kcal",
+      "slug": "aceite-para-freir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63f4d45db6ae9e66039dd731-e4e7c0e1.png",
+      "imagePath": "/ingredient/63f4d45db6ae9e66039dd731-e4e7c0e1.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63f4d45db6ae9e66039dd731-Aceite para freír.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/650afe1353d80a0362117403",
+  "name": "Libritos de lomo caseros con queso pecorino",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3994,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 955,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 42.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 12.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 60.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 6.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 31.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.62,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 65,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 585,
+  "slug": "libritos-de-lomo-caseros-con-queso-pecorino",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las patatas por la mitad a lo largo, luego, apoya la patata por la parte plana y corta en gajos de 1-2 cm de grosor. Pela la cebolla, divídela en dos y córtala en tiras finas.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las <strong>patatas</strong> por la mitad a lo largo, luego, apoya la <strong>patata</strong> por la parte plana y corta en gajos de 1-2 cm de grosor. Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las <strong>patatas</strong> por la mitad a lo largo, luego, apoya la <strong>patata</strong> por la parte plana y corta en gajos de 1-2 cm de grosor. Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe1353d80a0362117403/step-1aad2a00.jpg",
+          "path": "/650afe1353d80a0362117403/step-1aad2a00.jpg",
+          "caption": "Prepara la patata y cebolla",
+          "localImage": "/images/recipes/650afe1353d80a0362117403-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En un bol mediano, mezcla la patata y la cebolla con el tomillo seco, la mitad del pimentón ahumado, la harina (ver cantidad en ingredientes), un chorrito de aceite, sal y pimienta. Coloca los vegetales en una bandeja de horno con papel de horno. Hornea la patata y la cebolla durante 20-25 min o hasta que estén doradas y tiernas. Dales la vuelta a mitad de cocción.",
+      "instructionsHTML": "<p>En un bol mediano, mezcla la <strong>patata</strong> y la <strong>cebolla</strong> con el <strong>tomillo seco</strong>, la mitad del <strong>pimentón ahumado</strong>, la <strong>harina</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Coloca los <strong>vegetales</strong> en una bandeja de horno con papel de horno. Hornea la <strong>patata</strong> y la <strong>cebolla</strong> durante 20-25 min o hasta que estén doradas y tiernas. Dales la vuelta a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>En un bol mediano, mezcla la <strong>patata</strong> y la <strong>cebolla</strong> con el <strong>tomillo seco</strong>, la mitad del <strong>pimentón ahumado</strong>, la <strong>harina</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Coloca los <strong>vegetales</strong> en una bandeja de horno con papel de horno. Hornea la <strong>patata</strong> y la <strong>cebolla</strong> durante 20-25 min o hasta que estén doradas y tiernas. Dales la vuelta a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538e",
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe1353d80a0362117403/step-7a07b710.jpg",
+          "path": "/650afe1353d80a0362117403/step-7a07b710.jpg",
+          "caption": "Hornea la patata y la cebolla",
+          "localImage": "/images/recipes/650afe1353d80a0362117403-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Apoya los lomos de cerdo sobre una tabla y realiza un corte en uno de los lados, sin llegar hasta el final, de forma que puedas abrirlo como un libro. Sobre una parte de los lomos de cerdo, agrega el queso pecorino. Luego, cierra el librito de lomo uniendo ambas partes, dejando el queso en el interior, y presiona los bordes con los dedos, para asegurar que el queso no se salga.",
+      "instructionsHTML": "<p>Apoya los <strong>lomos de cerdo</strong> sobre una tabla y realiza un corte en uno de los lados, sin llegar hasta el final, de forma que puedas abrirlo como un libro. Sobre una parte de los <strong>lomos de cerdo</strong>, agrega el <strong>queso pecorino</strong>. Luego, cierra el <strong>librito de lomo</strong> uniendo ambas partes, dejando el <strong>queso</strong> en el interior, y presiona los bordes con los dedos, para asegurar que el <strong>queso</strong> no se salga.</p>",
+      "instructionsMarkdown": "<p>Apoya los <strong>lomos de cerdo</strong> sobre una tabla y realiza un corte en uno de los lados, sin llegar hasta el final, de forma que puedas abrirlo como un libro. Sobre una parte de los <strong>lomos de cerdo</strong>, agrega el <strong>queso pecorino</strong>. Luego, cierra el <strong>librito de lomo</strong> uniendo ambas partes, dejando el <strong>queso</strong> en el interior, y presiona los bordes con los dedos, para asegurar que el <strong>queso</strong> no se salga.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe1353d80a0362117403/step-0c605220.jpg",
+          "path": "/650afe1353d80a0362117403/step-0c605220.jpg",
+          "caption": "Rellena el lomo",
+          "localImage": "/images/recipes/650afe1353d80a0362117403-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Salpimienta los libritos de lomo. En un plato hondo, bate el huevo (ver cantidad en ingredientes). En otro plato, agrega el panko. Luego, coloca los libritos de lomo en el plato con el huevo batido y cúbrelos. A continuación, rebózalos en panko. Presiona ligeramente para que el panko quede bien adherido.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p><strong>Salpimienta</strong> los <strong>libritos de lomo</strong>. En un plato hondo, bate el <strong>huevo</strong> (ver cantidad en ingredientes). En otro plato, agrega el <strong>panko</strong>. Luego, coloca los <strong>libritos de lomo</strong> en el plato con el <strong>huevo</strong> batido y cúbrelos. A continuación, rebózalos en <strong>panko</strong>. Presiona ligeramente para que el <strong>panko</strong> quede bien adherido.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p><strong>Salpimienta</strong> los <strong>libritos de lomo</strong>. En un plato hondo, bate el <strong>huevo</strong> (ver cantidad en ingredientes). En otro plato, agrega el <strong>panko</strong>. Luego, coloca los <strong>libritos de lomo</strong> en el plato con el <strong>huevo</strong> batido y cúbrelos. A continuación, rebózalos en <strong>panko</strong>. Presiona ligeramente para que el <strong>panko</strong> quede bien adherido.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24dfcf61c18c30ff525",
+        "57e2674fb7e8697d4b30537b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe1353d80a0362117403/step-78451f30.jpg",
+          "path": "/650afe1353d80a0362117403/step-78451f30.jpg",
+          "caption": "Empana los libritos de lomo",
+          "localImage": "/images/recipes/650afe1353d80a0362117403-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En una sartén, calienta a fuego medio el aceite para freír (ver cantidad en ingredientes). Cuando el aceite esté caliente, fríe los libritos de lomos 2-3 min por lado, hasta que estén dorados y cocinados en el interior. Reserva en un plato con papel de cocina para retirar el exceso de aceite. En un bol pequeño, mezcla la mayonesa y el pimentón ahumado restante.",
+      "instructionsHTML": "<p>En una sartén, calienta a fuego medio el <strong>aceite para freír</strong> (ver cantidad en ingredientes). Cuando el <strong>aceite</strong> esté caliente, fríe los <strong>libritos de lomos</strong> 2-3 min por lado, hasta que estén dorados y cocinados en el interior. Reserva en un plato con papel de cocina para retirar el exceso de aceite. En un bol pequeño, mezcla la <strong>mayonesa</strong> y el <strong>pimentón ahumado</strong> restante.</p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta a fuego medio el <strong>aceite para freír</strong> (ver cantidad en ingredientes). Cuando el <strong>aceite</strong> esté caliente, fríe los <strong>libritos de lomos</strong> 2-3 min por lado, hasta que estén dorados y cocinados en el interior. Reserva en un plato con papel de cocina para retirar el exceso de aceite. En un bol pequeño, mezcla la <strong>mayonesa</strong> y el <strong>pimentón ahumado</strong> restante.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375",
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe1353d80a0362117403/step-c02bcc40.jpg",
+          "path": "/650afe1353d80a0362117403/step-c02bcc40.jpg",
+          "caption": "Fríe los libritos de lomo",
+          "localImage": "/images/recipes/650afe1353d80a0362117403-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve los libritos de lomo rellenos de queso en platos y acompaña con las patatas al horno con cebolla y con la mayonesa de pimentón.",
+      "instructionsHTML": "<p>Sirve los <strong>libritos de lomo</strong> rellenos de <strong>queso</strong> en platos y acompaña con las <strong>patatas</strong> al horno con <strong>cebolla</strong> y con la <strong>mayonesa de pimentón</strong>.</p>",
+      "instructionsMarkdown": "<p>Sirve los <strong>libritos de lomo</strong> rellenos de <strong>queso</strong> en platos y acompaña con las <strong>patatas</strong> al horno con <strong>cebolla</strong> y con la <strong>mayonesa de pimentón</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650afe1353d80a0362117403/step-bae7b150.jpg",
+          "path": "/650afe1353d80a0362117403/step-bae7b150.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/650afe1353d80a0362117403-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCFP14075-3",
+  "updatedAt": "2026-01-21T13:59:53+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30538e",
+      "type": "mixingbowl",
+      "name": "Bol para mezclar"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff525",
+      "type": null,
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    }
+  ],
+  "uuid": "1081c825-1908-449f-adaf-d93f68cf3850",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/libritos-de-lomo-caseros-con-queso-pecorino-650afe1353d80a0362117403",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6369182b27b0db08e0fb84ac",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "646c6e918c393b044d74495c",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63f4d45db6ae9e66039dd731",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6369182b27b0db08e0fb84ac",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 7,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "646c6e918c393b044d74495c",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63f4d45db6ae9e66039dd731",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/650afe1353d80a0362117403-Libritos de lomo caseros con queso pecorino.jpg",
+  "localCard": "/pdf/650afe1353d80a0362117403-Libritos de lomo caseros con queso pecorino.pdf"
+}

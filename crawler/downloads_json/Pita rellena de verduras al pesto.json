@@ -1,0 +1,817 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.5,
+  "canonical": "640f51457bee82308d551292",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pita-rellena-de-verduras-al-pesto-640f51457bee82308d551292",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/pita-verduras-pesto-crudites-hummus-638a20d56f291b76a7d59169-179d32c0.pdf",
+  "category": null,
+  "clonedFrom": "63515b3149bc03dee0944e2b",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-02T15:59:17+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterránea ",
+      "slug": "mediterranea ",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg"
+    }
+  ],
+  "description": "Este plato vegetariano es una opción variada y saludable para los días en que no cuentas con tanto tiempo para cocinar. Tras tostar el pan de pita, lo rellenamos con verduras al pesto y acompañamos este delicioso bocado con hummus casero y crudités, perfecto acompañamiento para la salsa de Oriente Medio.",
+  "descriptionHTML": "<p>Este plato vegetariano es una opción variada y saludable para los días en que no cuentas con tanto tiempo para cocinar. Tras tostar el pan de pita, lo rellenamos con verduras al pesto y acompañamos este delicioso bocado con hummus casero y crudités, perfecto acompañamiento para la salsa de Oriente Medio.</p>",
+  "descriptionMarkdown": "Este plato vegetariano es una opción variada y saludable para los días en que no cuentas con tanto tiempo para cocinar. Tras tostar el pan de pita, lo rellenamos con verduras al pesto y acompañamos este delicioso bocado con hummus casero y crudités, perfecto acompañamiento para la salsa de Oriente Medio.",
+  "difficulty": 2,
+  "favoritesCount": 19,
+  "headline": "con hummus casero y crudités",
+  "id": "638a20d56f291b76a7d59169",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R09_W08_ES_ESVVQ13441-2_Main_4_high-0d8c93be.jpg",
+  "imagePath": "/image/HF_Y23_R09_W08_ES_ESVVQ13441-2_Main_4_high-0d8c93be.jpg",
+  "ingredients": [
+    {
+      "id": "634d2314971d5eddb3ff71bf",
+      "uuid": "d727dac9-25b4-5d73-9417-ad3f0ca215fd",
+      "name": "Pan de pita",
+      "type": "pita-bread",
+      "slug": "pan-de-pita",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d2314971d5eddb3ff71bf-ba19fc1c.png",
+      "imagePath": "/ingredient/634d2314971d5eddb3ff71bf-ba19fc1c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d2314971d5eddb3ff71bf-Pan de pita.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404376233160a36674ba1b",
+      "uuid": "6b9b5891-6a0f-43b7-abac-f1d515dd2d91",
+      "name": "Pimiento rojo",
+      "type": "red-bell-pepper",
+      "slug": "pimiento-rojo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1b-Pimiento rojo.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "6352ac0f0f0324d2cd53b1bc",
+      "uuid": "5da5c54f-a194-4ef9-b062-0cd73e7e009b",
+      "name": "Pesto de albahaca",
+      "type": "basil-pesto",
+      "slug": "pesto-de-albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352ac0f0f0324d2cd53b1bc-15a361fe.jpg",
+      "imagePath": "/ingredient/6352ac0f0f0324d2cd53b1bc-15a361fe.jpg",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fb",
+        "57962a07b7e8697d4b3052fa",
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352ac0f0f0324d2cd53b1bc-Pesto de albahaca.jpg"
+    },
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff179",
+      "uuid": "ebd2f698-4242-5deb-b767-d529fb84b42f",
+      "name": "Aceite de sésamo",
+      "type": "sesame-oil",
+      "slug": "aceite-de-sesamo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff179-Aceite de sésamo.png"
+    },
+    {
+      "id": "6340437141033266d7be951a",
+      "uuid": "ae95225f-9805-5f92-afa8-0649e7e90122",
+      "name": "Comino en polvo",
+      "type": "ground-cumin",
+      "slug": "comino-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "imagePath": "/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be951a-Comino en polvo.png"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340436f41033266d7be9513",
+      "uuid": "822e0f6e-0b50-54d0-9774-fee0a98b0271",
+      "name": "Pepino",
+      "type": "cucumber",
+      "slug": "pepino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9513-Pepino.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/638a20d56f291b76a7d59169",
+  "name": "Pita rellena de verduras al pesto ",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 637,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2665,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 23,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 2.39,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 78.99,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 16.43,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 9.88,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 22.39,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.55,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 29,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 782,
+  "slug": "pita-rellena-de-verduras-al-pesto",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 200ºC. Pela y pica el ajo (ver cantidad en ingredientes). Pela la cebolla y corta una mitad (doble para 4p) en cubitos pequeños. Corta el pimiento por la mitad y quítale las semillas. Córtalo en trozos pequeños. Corta el calabacín en cubos de 1-2 cm. Pela la zanahoria y córtala por la mitad. Corta cada parte en bastones de 1 cm de grosor. Repite el proceso con el pepino para conseguir bastones de 1 cm de grosor. Reserva las crudités.",
+      "instructionsHTML": "<p>Precalienta el horno a 200ºC. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong> y corta una mitad (doble para 4p) en cubitos pequeños. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en trozos pequeños. Corta el <strong>calabacín</strong> en cubos de 1-2 cm. Pela la <strong>zanahoria</strong> y córtala por la mitad. Corta cada parte en bastones de 1 cm de grosor. Repite el proceso con el <strong>pepino</strong> para conseguir bastones de 1 cm de grosor. Reserva las <strong>crudités</strong>.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 200ºC. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong> y corta una mitad (doble para 4p) en cubitos pequeños. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en trozos pequeños. Corta el <strong>calabacín</strong> en cubos de 1-2 cm. Pela la <strong>zanahoria</strong> y córtala por la mitad. Corta cada parte en bastones de 1 cm de grosor. Repite el proceso con el <strong>pepino</strong> para conseguir bastones de 1 cm de grosor. Reserva las <strong>crudités</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d56f291b76a7d59169/step-762d2500.jpg",
+          "path": "/638a20d56f291b76a7d59169/step-762d2500.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/638a20d56f291b76a7d59169-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén, añade un chorrito de aceite y el ajo. Pon a calentar a fuego medio y fríe el ajo durante 1-2 min o hasta que esté dorado. Luego, agrega la cebolla, el pimiento y el calabacín. Deja que se cocine todo junto 7-8 min. En el último momento, añade el pesto de albahaca y mezcla todo bien 2-3 min más. ",
+      "instructionsHTML": "<p>En una sartén, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Pon a calentar a fuego medio y fríe el <strong>ajo</strong> durante 1-2 min o hasta que esté dorado. Luego, agrega la <strong>cebolla</strong>, el <strong>pimiento</strong> y el <strong>calabacín</strong>. Deja que se cocine todo junto 7-8 min. En el último momento, añade el <strong>pesto de albahaca</strong> y mezcla todo bien 2-3 min más. </p>",
+      "instructionsMarkdown": "<p>En una sartén, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Pon a calentar a fuego medio y fríe el <strong>ajo</strong> durante 1-2 min o hasta que esté dorado. Luego, agrega la <strong>cebolla</strong>, el <strong>pimiento</strong> y el <strong>calabacín</strong>. Deja que se cocine todo junto 7-8 min. En el último momento, añade el <strong>pesto de albahaca</strong> y mezcla todo bien 2-3 min más. </p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d56f291b76a7d59169/step-4e167910.jpg",
+          "path": "/638a20d56f291b76a7d59169/step-4e167910.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/638a20d56f291b76a7d59169-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Cuando el horno esté caliente, hornea los panes de pita 4-5 min o hasta que se doren un poco. Lava y escurre los garbanzos con ayuda de un colador. Ponlos en una jarra medidora. Agrega el aceite de sésamo, el zumo de medio limón (doble para 4p), el comino en polvo, el agua (ver cantidad en ingredientes), sal y pimienta. Con la ayuda de un túrmix, tritúralo todo bien.",
+      "instructionsHTML": "<p>Cuando el horno esté caliente, hornea los <strong>panes de pita</strong> 4-5 min o hasta que se doren un poco. Lava y escurre los <strong>garbanzos</strong> con ayuda de un colador. Ponlos en una jarra medidora. Agrega el <strong>aceite de sésamo</strong>, el zumo de medio <strong>limón</strong> (doble para 4p), el <strong>comino en polvo</strong>, el <strong>agua</strong> (ver cantidad en ingredientes), <strong>sal</strong> y <strong>pimienta</strong>. Con la ayuda de un túrmix, tritúralo todo bien.</p>",
+      "instructionsMarkdown": "<p>Cuando el horno esté caliente, hornea los <strong>panes de pita</strong> 4-5 min o hasta que se doren un poco. Lava y escurre los <strong>garbanzos</strong> con ayuda de un colador. Ponlos en una jarra medidora. Agrega el <strong>aceite de sésamo</strong>, el zumo de medio <strong>limón</strong> (doble para 4p), el <strong>comino en polvo</strong>, el <strong>agua</strong> (ver cantidad en ingredientes), <strong>sal</strong> y <strong>pimienta</strong>. Con la ayuda de un túrmix, tritúralo todo bien.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d56f291b76a7d59169/step-72854220.jpg",
+          "path": "/638a20d56f291b76a7d59169/step-72854220.jpg",
+          "caption": "Prepara el hummus",
+          "localImage": "/images/recipes/638a20d56f291b76a7d59169-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Abre los panes de pita por la mitad. Rellena con las verduras al pesto. A un lado, coloca el hummus y las crudités para acompañarlo. ",
+      "instructionsHTML": "<p>Abre los <strong>panes de pita</strong> por la mitad. Rellena con las <strong>verduras al pesto</strong>. A un lado, coloca el <strong>hummus</strong> y las <strong>crudités</strong> para acompañarlo. </p>",
+      "instructionsMarkdown": "<p>Abre los <strong>panes de pita</strong> por la mitad. Rellena con las <strong>verduras al pesto</strong>. A un lado, coloca el <strong>hummus</strong> y las <strong>crudités</strong> para acompañarlo. </p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d56f291b76a7d59169/step-55f6ed30.jpg",
+          "path": "/638a20d56f291b76a7d59169/step-55f6ed30.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/638a20d56f291b76a7d59169-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESVVQ13441-2",
+  "updatedAt": "2026-01-23T15:19:00+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "bb2cbeff-e039-4978-9685-a3ef5ea666d9",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pita-rellena-de-verduras-al-pesto-638a20d56f291b76a7d59169",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "634d2314971d5eddb3ff71bf",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352ac0f0f0324d2cd53b1bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 340,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "634d2314971d5eddb3ff71bf",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352ac0f0f0324d2cd53b1bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 680,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/638a20d56f291b76a7d59169-Pita rellena de verduras al pesto.jpg",
+  "localCard": "/pdf/638a20d56f291b76a7d59169-Pita rellena de verduras al pesto.pdf"
+}

@@ -1,0 +1,690 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97a2ae08b54dad34eb82",
+      "name": "Sulfitos",
+      "type": "traces-of-sulphites",
+      "slug": "traces-of-sulfitos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/650192d453d80a036210c059.pdf",
+  "category": null,
+  "clonedFrom": "64c13b9da7c1f8a1e13c0012",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-10-13T12:22:04+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "El alioli es una salsa tradicional de la cocina mediterránea, especialmente de la gastronomía catalana y provenzal. El nombre de este producto se forma sencillamente al combinar el nombre de sus ingredientes en catalán: \"all\" (ajo) y \"oli\" (aceite). En esta ocasión, cubrimos el bacalao con este sabroso y potente condimento y lo gratinamos. Acompañamos con quinoa con aceite casero de perejil y puerros asados.",
+  "descriptionHTML": "<p>El alioli es una salsa tradicional de la cocina mediterránea, especialmente de la gastronomía catalana y provenzal. El nombre de este producto se forma sencillamente al combinar el nombre de sus ingredientes en catalán: &quot;all&quot; (ajo) y &quot;oli&quot; (aceite). En esta ocasión, cubrimos el bacalao con este sabroso y potente condimento y lo gratinamos. Acompañamos con quinoa con aceite casero de perejil y puerros asados.</p>",
+  "descriptionMarkdown": "El alioli es una salsa tradicional de la cocina mediterránea, especialmente de la gastronomía catalana y provenzal. El nombre de este producto se forma sencillamente al combinar el nombre de sus ingredientes en catalán: \"all\" (ajo) y \"oli\" (aceite). En esta ocasión, cubrimos el bacalao con este sabroso y potente condimento y lo gratinamos. Acompañamos con quinoa con aceite casero de perejil y puerros asados.",
+  "difficulty": 1,
+  "favoritesCount": 14,
+  "headline": "acompañado de quinoa con aceite casero de ajo y perejil",
+  "id": "650192d453d80a036210c059",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R07_W01_ES_ESFCPF17956-2_edit_colour_MAIN__high-52d8b7fe.jpg",
+  "imagePath": "/image/HF_Y24_R07_W01_ES_ESFCPF17956-2_edit_colour_MAIN__high-52d8b7fe.jpg",
+  "ingredients": [
+    {
+      "id": "649a283db4dbfc471f989712",
+      "uuid": "5323f33e-70b2-4869-905d-30806912c28a",
+      "name": "Bacalao",
+      "type": "skin-on-cod",
+      "slug": "bacalao",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/649a283db4dbfc471f989712-d108cd96.jpg",
+      "imagePath": "/ingredient/649a283db4dbfc471f989712-d108cd96.jpg",
+      "shipped": true,
+      "allergens": [
+        "62cc417a2f15d58ec3559423",
+        "5acf97a2ae08b54dad34eb82",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/649a283db4dbfc471f989712-Bacalao.jpg"
+    },
+    {
+      "id": "63404376233160a36674ba1a",
+      "uuid": "dddc446f-dcdd-53de-a0df-b4b78c372e51",
+      "name": "Quinoa",
+      "type": "quinoa",
+      "slug": "quinoa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1a-324d6369.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1a-324d6369.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1a-Quinoa.png"
+    },
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "634043a62268bc1bff0d3cd4",
+      "uuid": "931e72be-8132-585e-9855-9dfe0f2cd32c",
+      "name": "Alioli",
+      "type": "aioli",
+      "slug": "alioli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043a62268bc1bff0d3cd4-b14f7f3e.png",
+      "imagePath": "/ingredient/634043a62268bc1bff0d3cd4-b14f7f3e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043a62268bc1bff0d3cd4-Alioli.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/650192d453d80a036210c059",
+  "name": "Bacalao con alioli gratinado y puerro asado",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2465,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 589,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 10.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 1.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 60.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 32.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.57,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 20,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 411,
+  "slug": "bacalao-alioli-puerro-quinoa-perejil",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Retira las raíces y el extremo verde del puerro y deséchalos. En cortes diagonales, divide cada puerro en 4 trozos de 3-4 cm. En una sartén, calienta un chorrito de aceite a fuego medio-alto. Una vez caliente, agrega el puerro, salpimienta y cocina 2 min por lado, hasta que se dore.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. En cortes diagonales, divide cada <strong>puerro</strong> en 4 trozos de 3-4 cm. En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega el <strong>puerro</strong>, <strong>salpimienta</strong> y cocina 2 min por lado, hasta que se dore.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. En cortes diagonales, divide cada <strong>puerro</strong> en 4 trozos de 3-4 cm. En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega el <strong>puerro</strong>, <strong>salpimienta</strong> y cocina 2 min por lado, hasta que se dore.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192d453d80a036210c059/step-95e6ec00.jpg",
+          "path": "/650192d453d80a036210c059/step-95e6ec00.jpg",
+          "caption": "Prepara y dora el puerro",
+          "localImage": "/images/recipes/650192d453d80a036210c059-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Cuando el puerro esté dorado, colócalo en una bandeja de horno con papel de horno con la parte plana hacia arriba. Hornea a media altura durante 15-20 min o hasta que esté tierno.",
+      "instructionsHTML": "<p>Cuando el <strong>puerro</strong> esté dorado, colócalo en una bandeja de horno con papel de horno con la parte plana hacia arriba. Hornea a media altura durante 15-20 min o hasta que esté tierno.</p>",
+      "instructionsMarkdown": "<p>Cuando el <strong>puerro</strong> esté dorado, colócalo en una bandeja de horno con papel de horno con la parte plana hacia arriba. Hornea a media altura durante 15-20 min o hasta que esté tierno.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192d453d80a036210c059/step-ee69d610.jpg",
+          "path": "/650192d453d80a036210c059/step-ee69d610.jpg",
+          "caption": "Hornea el puerro",
+          "localImage": "/images/recipes/650192d453d80a036210c059-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Seca el bacalao con papel de cocina. Coloca el bacalao en una fuente de horno con la piel hacia abajo. Salpimienta. Hornea 10-12 min, hasta que esté bien cocinado. Cuando queden 2 min para que el bacalao esté listo, agrega el alioli encima. Hornea en el estante superior 2-4 min, hasta que el alioli se gratine.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<p>Seca el <strong>bacalao</strong> con papel de cocina. Coloca el <strong>bacalao</strong> en una fuente de horno con la piel hacia abajo. <strong>Salpimienta</strong>. Hornea 10-12 min, hasta que esté bien cocinado. Cuando queden 2 min para que el <strong>bacalao</strong> esté listo, agrega el <strong>alioli</strong> encima. Hornea en el estante superior 2-4 min, hasta que el <strong>alioli</strong> se gratine.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<p>Seca el <strong>bacalao</strong> con papel de cocina. Coloca el <strong>bacalao</strong> en una fuente de horno con la piel hacia abajo. <strong>Salpimienta</strong>. Hornea 10-12 min, hasta que esté bien cocinado. Cuando queden 2 min para que el <strong>bacalao</strong> esté listo, agrega el <strong>alioli</strong> encima. Hornea en el estante superior 2-4 min, hasta que el <strong>alioli</strong> se gratine.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305386",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192d453d80a036210c059/step-9a2c6f20.jpg",
+          "path": "/650192d453d80a036210c059/step-9a2c6f20.jpg",
+          "caption": "Gratina el bacalao",
+          "localImage": "/images/recipes/650192d453d80a036210c059-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En un cazo, agrega el agua (ver cantidad en ingredientes), una pizca de sal y la quinoa. Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado. Una vez listo, remueve con un tenedor para que la quinoa no se pegue y deja reposar con la tapa puesta hasta el momento de servir.",
+      "instructionsHTML": "<p>En un cazo, agrega el <strong>agua</strong> (ver cantidad en ingredientes), una pizca de <strong>sal</strong> y la <strong>quinoa</strong>. Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado. Una vez listo, remueve con un tenedor para que la <strong>quinoa</strong> no se pegue y deja reposar con la tapa puesta hasta el momento de servir.</p>",
+      "instructionsMarkdown": "<p>En un cazo, agrega el <strong>agua</strong> (ver cantidad en ingredientes), una pizca de <strong>sal</strong> y la <strong>quinoa</strong>. Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado. Una vez listo, remueve con un tenedor para que la <strong>quinoa</strong> no se pegue y deja reposar con la tapa puesta hasta el momento de servir.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192d453d80a036210c059/step-39785330.jpg",
+          "path": "/650192d453d80a036210c059/step-39785330.jpg",
+          "caption": "Cocina la quinoa",
+          "localImage": "/images/recipes/650192d453d80a036210c059-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Pela el ajo (ver cantidad en ingredientes) y corta en láminas. Deshoja y pica finamente el perejil. En la sartén, agrega un chorrito generoso de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega el perejil picado, remueve y retira del fuego. Cuando la quinoa esté lista, agrega el aceite de perejil al cazo y remueve bien. Salpimienta.",
+      "instructionsHTML": "<p>Pela el <strong>ajo</strong> (ver cantidad en ingredientes) y corta en láminas. Deshoja y pica finamente el <strong>perejil</strong>. En la sartén, agrega un chorrito generoso de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega el <strong>perejil</strong> picado, remueve y retira del fuego. Cuando la <strong>quinoa</strong> esté lista, agrega el <strong>aceite de perejil</strong> al cazo y remueve bien. <strong>Salpimienta</strong>.</p>",
+      "instructionsMarkdown": "<p>Pela el <strong>ajo</strong> (ver cantidad en ingredientes) y corta en láminas. Deshoja y pica finamente el <strong>perejil</strong>. En la sartén, agrega un chorrito generoso de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega el <strong>perejil</strong> picado, remueve y retira del fuego. Cuando la <strong>quinoa</strong> esté lista, agrega el <strong>aceite de perejil</strong> al cazo y remueve bien. <strong>Salpimienta</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192d453d80a036210c059/step-81550140.jpg",
+          "path": "/650192d453d80a036210c059/step-81550140.jpg",
+          "caption": "Prepara el aceite de perejil",
+          "localImage": "/images/recipes/650192d453d80a036210c059-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve la quinoa con aceite de perejil en platos y coloca el bacalao con alioli gratinado encima. Sirve el puerro al horno a un lado como acompañamiento.",
+      "instructionsHTML": "<p>Sirve la <strong>quinoa</strong> con <strong>aceite de perejil</strong> en platos y coloca el <strong>bacalao</strong> con <strong>alioli</strong> gratinado encima. Sirve el <strong>puerro</strong> al horno a un lado como acompañamiento.</p>",
+      "instructionsMarkdown": "<p>Sirve la <strong>quinoa</strong> con <strong>aceite de perejil</strong> en platos y coloca el <strong>bacalao</strong> con <strong>alioli</strong> gratinado encima. Sirve el <strong>puerro</strong> al horno a un lado como acompañamiento.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192d453d80a036210c059/step-8f7fd750.jpg",
+          "path": "/650192d453d80a036210c059/step-8f7fd750.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/650192d453d80a036210c059-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "62388d0e819bac74ed3067ef",
+      "type": "pescatarian",
+      "name": "Pescetariano",
+      "slug": "pescetariano",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESFCPF17956-2",
+  "updatedAt": "2025-06-12T15:55:09+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305386",
+      "type": "ovendish",
+      "name": "Plato para horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    }
+  ],
+  "uuid": "5a920de5-4e67-4d5a-969b-b6975482c5f9",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/bacalao-alioli-puerro-quinoa-perejil-650192d453d80a036210c059",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "649a283db4dbfc471f989712",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043a62268bc1bff0d3cd4",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "649a283db4dbfc471f989712",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043a62268bc1bff0d3cd4",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/650192d453d80a036210c059-Bacalao con alioli gratinado y puerro asado.jpg",
+  "localCard": "/pdf/650192d453d80a036210c059-Bacalao con alioli gratinado y puerro asado.pdf"
+}

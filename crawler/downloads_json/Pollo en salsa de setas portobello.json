@@ -1,0 +1,546 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/pollo-setas-portobello-judias-638a20d24af6d174904411fd-a72df48a.pdf",
+  "category": null,
+  "clonedFrom": "635950bc5ebcac2718d2fe24",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-02T15:59:14+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "Estamos seguros de que habrás probado el pollo a la plancha, frito, en un guiso o en una ensalada, pero esta receta lleva el pollo a un terreno quizá inexplorado. La salsa de portobellos que acompaña los muslos te sorprenderá por su profundidad y sabor, que se verá complementado por las judías verdes salteadas, que completan este maravilloso plato.",
+  "descriptionHTML": "<p>Estamos seguros de que habrás probado el pollo a la plancha, frito, en un guiso o en una ensalada, pero esta receta lleva el pollo a un terreno quizá inexplorado. La salsa de portobellos que acompaña los muslos te sorprenderá por su profundidad y sabor, que se verá complementado por las judías verdes salteadas, que completan este maravilloso plato.</p>",
+  "descriptionMarkdown": "Estamos seguros de que habrás probado el pollo a la plancha, frito, en un guiso o en una ensalada, pero esta receta lleva el pollo a un terreno quizá inexplorado. La salsa de portobellos que acompaña los muslos te sorprenderá por su profundidad y sabor, que se verá complementado por las judías verdes salteadas, que completan este maravilloso plato.",
+  "difficulty": 1,
+  "favoritesCount": 75,
+  "headline": "con judías verdes salteadas",
+  "id": "638a20d24af6d174904411fd",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R02_W12_ES_ESCCLQF13610-3_Main_high-e6567061.jpg",
+  "imagePath": "/image/HF_Y23_R02_W12_ES_ESCCLQF13610-3_Main_high-e6567061.jpg",
+  "ingredients": [
+    {
+      "id": "6340436e233160a36674b9f9",
+      "uuid": "43cf496e-b81e-45b7-977d-ba85227fed76",
+      "name": "Muslos de pollo deshuesados",
+      "type": "chicken-thighs",
+      "slug": "muslos-de-pollo-deshuesados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9f9-Muslos de pollo deshuesados.png"
+    },
+    {
+      "id": "63404376233160a36674ba19",
+      "uuid": "87dc56ae-88e0-530d-bd62-be00baab053b",
+      "name": "Portobello",
+      "type": "portobello-mushroom",
+      "slug": "portobello",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba19-66c19148.png",
+      "imagePath": "/ingredient/63404376233160a36674ba19-66c19148.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba19-Portobello.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "63404371233160a36674ba05",
+      "uuid": "0af471b0-f5b6-53c8-bf79-1fa315f20bf3",
+      "name": "Judías verdes",
+      "type": "green-beans",
+      "slug": "judias-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba05-1e297429.png",
+      "imagePath": "/ingredient/63404371233160a36674ba05-1e297429.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba05-Judías verdes.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/638a20d24af6d174904411fd",
+  "name": "Pollo en salsa de setas portobello",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 390,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1630,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 20.05,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 11.38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 18.51,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.36,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 32.23,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.42,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 115,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 491,
+  "slug": "pollo-en-salsa-de-setas-portobello",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Pela y pica el ajo (ver cantidad en ingredientes). Limpia los portobello con la ayuda de un paño húmedo. Luego, córtalos en cuartos. Pela la cebolla y corta una mitad (doble para 4p) en cubitos pequeños. Retira las puntas de las judías verdes y córtalas en tercios.",
+      "instructionsHTML": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Limpia los <strong>portobello</strong> con la ayuda de un paño húmedo. Luego, córtalos en cuartos. Pela la <strong>cebolla</strong> y corta una mitad (doble para 4p) en cubitos pequeños. Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios.</p>",
+      "instructionsMarkdown": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Limpia los <strong>portobello</strong> con la ayuda de un paño húmedo. Luego, córtalos en cuartos. Pela la <strong>cebolla</strong> y corta una mitad (doble para 4p) en cubitos pequeños. Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fd/step-d6efae00.jpg",
+          "path": "/638a20d24af6d174904411fd/step-d6efae00.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/638a20d24af6d174904411fd-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Salpimienta los muslos de pollo al gusto. En una olla, pon a calentar a fuego medio-alto un chorrito de aceite. Una vez caliente, añade los muslos de pollo. Cocina durante 3-4 min, hasta que queden dorados. Retira y reserva en un plato.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p><strong>Salpimienta</strong> los <strong>muslos de pollo</strong> al gusto. En una olla, pon a calentar a fuego medio-alto un chorrito de <strong>aceite</strong>. Una vez caliente, añade los <strong>muslos de pollo</strong>. Cocina durante 3-4 min, hasta que queden dorados. Retira y reserva en un plato.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p><strong>Salpimienta</strong> los <strong>muslos de pollo</strong> al gusto. En una olla, pon a calentar a fuego medio-alto un chorrito de <strong>aceite</strong>. Una vez caliente, añade los <strong>muslos de pollo</strong>. Cocina durante 3-4 min, hasta que queden dorados. Retira y reserva en un plato.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e8671"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fd/step-8579bc10.jpg",
+          "path": "/638a20d24af6d174904411fd/step-8579bc10.jpg",
+          "caption": "Cocina los muslos de pollo",
+          "localImage": "/images/recipes/638a20d24af6d174904411fd-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la misma olla, agrega un chorrito de aceite y la mitad del ajo. Fríe el ajo durante 1-2 min o hasta que esté dorado. Luego, añade la cebolla y deja cocinar 4 min, hasta que quede transparente. Sube el fuego y agrega las setas portobello. Cocina durante 2-3 min.",
+      "instructionsHTML": "<p>En la misma olla, agrega un chorrito de <strong>aceite</strong> y la mitad del <strong>ajo</strong>. Fríe el <strong>ajo</strong> durante 1-2 min o hasta que esté dorado. Luego, añade la <strong>cebolla</strong> y deja cocinar 4 min, hasta que quede transparente. Sube el fuego y agrega las <strong>setas portobello</strong>. Cocina durante 2-3 min.</p>",
+      "instructionsMarkdown": "<p>En la misma olla, agrega un chorrito de <strong>aceite</strong> y la mitad del <strong>ajo</strong>. Fríe el <strong>ajo</strong> durante 1-2 min o hasta que esté dorado. Luego, añade la <strong>cebolla</strong> y deja cocinar 4 min, hasta que quede transparente. Sube el fuego y agrega las <strong>setas portobello</strong>. Cocina durante 2-3 min.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fd/step-98f33820.jpg",
+          "path": "/638a20d24af6d174904411fd/step-98f33820.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/638a20d24af6d174904411fd-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Añade la nata líquida a la olla y lleva a ebullición. Cuando hierva, baja el fuego a medio. Añade los muslos de pollo y cocina durante 5-6 min, hasta que la salsa se reduzca un poco. Salpimienta al gusto.",
+      "instructionsHTML": "<p>Añade la <strong>nata líquida</strong> a la olla y lleva a ebullición. Cuando hierva, baja el fuego a medio. Añade los <strong>muslos de pollo</strong> y cocina durante 5-6 min, hasta que la <strong>salsa</strong> se reduzca un poco. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Añade la <strong>nata líquida</strong> a la olla y lleva a ebullición. Cuando hierva, baja el fuego a medio. Añade los <strong>muslos de pollo</strong> y cocina durante 5-6 min, hasta que la <strong>salsa</strong> se reduzca un poco. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fd/step-f3aa7f30.jpg",
+          "path": "/638a20d24af6d174904411fd/step-f3aa7f30.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/638a20d24af6d174904411fd-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Mientras, en una sartén, añade un chorrito de aceite y el ajo restante. Pon a calentar a fuego medio y fríe el ajo durante 1-2 min o hasta que esté dorado. Luego, agrega las judías verdes y saltea 1-2 min a fuego fuerte. Añade un chorrito de agua y tapa la sartén. Deja cocinar 4-5 min. Salpimienta al gusto. ",
+      "instructionsHTML": "<p>Mientras, en una sartén, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong> restante. Pon a calentar a fuego medio y fríe el <strong>ajo</strong> durante 1-2 min o hasta que esté dorado. Luego, agrega las <strong>judías verdes</strong> y saltea 1-2 min a fuego fuerte. Añade un chorrito de <strong>agua</strong> y tapa la sartén. Deja cocinar 4-5 min. <strong>Salpimienta</strong> al gusto. </p>",
+      "instructionsMarkdown": "<p>Mientras, en una sartén, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong> restante. Pon a calentar a fuego medio y fríe el <strong>ajo</strong> durante 1-2 min o hasta que esté dorado. Luego, agrega las <strong>judías verdes</strong> y saltea 1-2 min a fuego fuerte. Añade un chorrito de <strong>agua</strong> y tapa la sartén. Deja cocinar 4-5 min. <strong>Salpimienta</strong> al gusto. </p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fd/step-844d9c40.jpg",
+          "path": "/638a20d24af6d174904411fd/step-844d9c40.jpg",
+          "caption": "Saltea las judías",
+          "localImage": "/images/recipes/638a20d24af6d174904411fd-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve los muslos de pollo con la salsa de setas portobello y acompaña con las judías verdes salteadas a un lado. ",
+      "instructionsHTML": "<p>Sirve los <strong>muslos de pollo</strong> con la <strong>salsa de setas portobello</strong> y acompaña con las <strong>judías verdes</strong> salteadas a un lado. </p>",
+      "instructionsMarkdown": "<p>Sirve los <strong>muslos de pollo</strong> con la <strong>salsa de setas portobello</strong> y acompaña con las <strong>judías verdes</strong> salteadas a un lado. </p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fd/step-f64e6650.jpg",
+          "path": "/638a20d24af6d174904411fd/step-f64e6650.jpg",
+          "caption": "Emplata",
+          "localImage": "/images/recipes/638a20d24af6d174904411fd-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESCFC13499-2",
+  "updatedAt": "2025-07-28T11:05:39+00:00",
+  "utensils": [
+    {
+      "id": "59d49a9319279f8fe60e8671",
+      "type": "medium-pot",
+      "name": "Olla mediana"
+    }
+  ],
+  "uuid": "4c5140e1-ce89-47ab-a3e2-1d51d5337e9c",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-en-salsa-de-setas-portobello-638a20d24af6d174904411fd",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 560,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/638a20d24af6d174904411fd-Pollo en salsa de setas portobello.jpg",
+  "localCard": "/pdf/638a20d24af6d174904411fd-Pollo en salsa de setas portobello.pdf"
+}

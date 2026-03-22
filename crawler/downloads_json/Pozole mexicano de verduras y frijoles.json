@@ -1,0 +1,845 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": "64c0fa64a7c1f8a1e13bfe11",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pozole-mexicano-de-verduras-y-frijoles-64c0fa64a7c1f8a1e13bfe11",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/677d53751a8cfa26226210e5-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "63b589834ce8ac7a954a1fe6",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-01-07T16:16:54+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "El pozole es un plato mexicano en el que se prepara un caldo de verduras y maíz, pero nosotros hemos escogido ofrecerte una versión más completa y atrevida, en la que acompañamos este plato con portobellos caramelizados y frijoles. Así, sin perder la esencia mexicana ni sus característicos sabores, podrás disfrutar de un plato completo y diferente.",
+  "descriptionHTML": "<p>El pozole es un plato mexicano en el que se prepara un caldo de verduras y maíz, pero nosotros hemos escogido ofrecerte una versión más completa y atrevida, en la que acompañamos este plato con portobellos caramelizados y frijoles. Así, sin perder la esencia mexicana ni sus característicos sabores, podrás disfrutar de un plato completo y diferente.</p>",
+  "descriptionMarkdown": "El pozole es un plato mexicano en el que se prepara un caldo de verduras y maíz, pero nosotros hemos escogido ofrecerte una versión más completa y atrevida, en la que acompañamos este plato con portobellos caramelizados y frijoles. Así, sin perder la esencia mexicana ni sus característicos sabores, podrás disfrutar de un plato completo y diferente.",
+  "difficulty": 1,
+  "favoritesCount": 13,
+  "headline": "con portobellos caramelizados, maíz dulce y cilantro",
+  "id": "677d53751a8cfa26226210e5",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/R10_W19_ES_ESCCLVV14179-2_Main__2high-1e2e0e5d.jpg",
+  "imagePath": "/image/R10_W19_ES_ESCCLVV14179-2_Main__2high-1e2e0e5d.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f3",
+      "uuid": "7e69f80c-67d4-45b1-a3bd-d76e5d9e539b",
+      "name": "Maíz dulce",
+      "type": "canned-corn",
+      "slug": "maiz-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f3-Maíz dulce.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "63404371233160a36674ba06",
+      "uuid": "b4937cf5-9f86-592c-903e-767ec461fb7f",
+      "name": "Chile",
+      "type": "green-chilli",
+      "slug": "chile",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba06-1adf9604.png",
+      "imagePath": "/ingredient/63404371233160a36674ba06-1adf9604.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba06-Chile.png"
+    },
+    {
+      "id": "63404376233160a36674ba19",
+      "uuid": "87dc56ae-88e0-530d-bd62-be00baab053b",
+      "name": "Portobello",
+      "type": "portobello-mushroom",
+      "slug": "portobello",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba19-66c19148.png",
+      "imagePath": "/ingredient/63404376233160a36674ba19-66c19148.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba19-Portobello.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "6340437641033266d7be9529",
+      "uuid": "385f8e87-917f-5c02-88d9-33bcfc3a3d73",
+      "name": "Judías rojas",
+      "type": "red-kidney-beans",
+      "slug": "judias-rojas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9529-60c44c18.jpg",
+      "imagePath": "/ingredient/6340437641033266d7be9529-60c44c18.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9529-Judías rojas.jpg"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/677d53751a8cfa26226210e5",
+  "name": "Pozole mexicano de verduras y frijoles",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1876,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 448,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 22.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 6.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 60.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 19.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 17.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 15.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.92,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 31,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 604,
+  "slug": "pozole-mexicano-de-verduras-y-frijoles",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Corta el tomate por la mitad, luego, corta cada mitad en cuartos. Pela la zanahoria y córtala por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Pela la cebolla, divídela en dos y corta en tiras de 2 cm. ",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Corta el <strong>tomate</strong> por la mitad, luego, corta cada mitad en cuartos. Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Pela la <strong>cebolla</strong>, divídela en dos y corta en tiras de 2 cm. </p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Corta el <strong>tomate</strong> por la mitad, luego, corta cada mitad en cuartos. Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Pela la <strong>cebolla</strong>, divídela en dos y corta en tiras de 2 cm. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53751a8cfa26226210e5/step-6d7db600.jpg",
+          "path": "/677d53751a8cfa26226210e5/step-6d7db600.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/677d53751a8cfa26226210e5-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Retira las semillas de la mitad del chili (doble para 4p) y córtalo en rodajas finas. En una olla, agrega el agua (ver cantidad en ingredientes), el caldo vegetal, el tomate, la zanahoria, la cebolla y chili al gusto y lleva a ebullición. Cuando hierva, cocina a fuego medio 15-20 min con la tapa puesta, hasta que las verduras estén tiernas.\nRECUERDA: Utiliza guantes para manipular el chili y lávate las manos y los utensilios después.",
+      "instructionsHTML": "<p>Retira las semillas de la mitad del <strong>chili</strong> (doble para 4p) y córtalo en rodajas finas. En una olla, agrega el <strong>agua</strong> (ver cantidad en ingredientes), el <strong>caldo vegetal</strong>, el <strong>tomate</strong>, la <strong>zanahoria</strong>, la <strong>cebolla</strong> y <strong>chili</strong> al gusto y lleva a ebullición. Cuando hierva, cocina a fuego medio 15-20 min con la tapa puesta, hasta que las <strong>verduras</strong> estén tiernas.</p>\n<p>RECUERDA: Utiliza guantes para manipular el chili y lávate las manos y los utensilios después.</p>",
+      "instructionsMarkdown": "<p>Retira las semillas de la mitad del <strong>chili</strong> (doble para 4p) y córtalo en rodajas finas. En una olla, agrega el <strong>agua</strong> (ver cantidad en ingredientes), el <strong>caldo vegetal</strong>, el <strong>tomate</strong>, la <strong>zanahoria</strong>, la <strong>cebolla</strong> y <strong>chili</strong> al gusto y lleva a ebullición. Cuando hierva, cocina a fuego medio 15-20 min con la tapa puesta, hasta que las <strong>verduras</strong> estén tiernas.</p>\n<p>RECUERDA: Utiliza guantes para manipular el chili y lávate las manos y los utensilios después.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "64ba7d3d9d1f1314f17e6c06"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53751a8cfa26226210e5/step-4f366510.jpg",
+          "path": "/677d53751a8cfa26226210e5/step-4f366510.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/677d53751a8cfa26226210e5-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Limpia los portobellos y desecha el extremo del pie. Corta los portobellos en láminas finas. En una sartén, calienta a fuego medio-alto un chorrito de aceite y la mantequilla (ver cantidad en ingredientes). Agrega los portobellos y cocina 2-3 min, removiendo. Añade el azúcar (ver cantidad en ingredientes), un chorrito de agua y cocina a fuego medio 2-3 min, hasta que se caramelicen. Salpimienta y reserva.",
+      "instructionsHTML": "<p>Limpia los <strong>portobellos</strong> y desecha el extremo del pie. Corta los <strong>portobellos</strong> en láminas finas. En una sartén, calienta a fuego medio-alto un chorrito de <strong>aceite</strong> y la <strong>mantequilla</strong> (ver cantidad en ingredientes). Agrega los <strong>portobellos</strong> y cocina 2-3 min, removiendo. Añade el <strong>azúcar</strong> (ver cantidad en ingredientes), un chorrito de <strong>agua</strong> y cocina a fuego medio 2-3 min, hasta que se caramelicen. <strong>Salpimienta</strong> y reserva.</p>",
+      "instructionsMarkdown": "<p>Limpia los <strong>portobellos</strong> y desecha el extremo del pie. Corta los <strong>portobellos</strong> en láminas finas. En una sartén, calienta a fuego medio-alto un chorrito de <strong>aceite</strong> y la <strong>mantequilla</strong> (ver cantidad en ingredientes). Agrega los <strong>portobellos</strong> y cocina 2-3 min, removiendo. Añade el <strong>azúcar</strong> (ver cantidad en ingredientes), un chorrito de <strong>agua</strong> y cocina a fuego medio 2-3 min, hasta que se caramelicen. <strong>Salpimienta</strong> y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53751a8cfa26226210e5/step-e6ea8a20.jpg",
+          "path": "/677d53751a8cfa26226210e5/step-e6ea8a20.jpg",
+          "caption": "Carameliza los portobellos",
+          "localImage": "/images/recipes/677d53751a8cfa26226210e5-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando las verduras de la olla estén tiernas, apaga el fuego y tritura con un túrmix el contenido de la olla, hasta que quede una sopa homogénea. Escurre las judías rojas y agrégalas a la olla. Remueve bien y cocina 2 min a fuego medio.",
+      "instructionsHTML": "<p>Cuando las <strong>verduras</strong> de la olla estén tiernas, apaga el fuego y tritura con un túrmix el contenido de la olla, hasta que quede una <strong>sopa</strong> homogénea. Escurre las <strong>judías rojas</strong> y agrégalas a la olla. Remueve bien y cocina 2 min a fuego medio.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>verduras</strong> de la olla estén tiernas, apaga el fuego y tritura con un túrmix el contenido de la olla, hasta que quede una <strong>sopa</strong> homogénea. Escurre las <strong>judías rojas</strong> y agrégalas a la olla. Remueve bien y cocina 2 min a fuego medio.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53751a8cfa26226210e5/step-f7381530.jpg",
+          "path": "/677d53751a8cfa26226210e5/step-f7381530.jpg",
+          "caption": "Prepara el pozole",
+          "localImage": "/images/recipes/677d53751a8cfa26226210e5-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Escurre el maíz dulce y agrégalo a la olla. Salpimienta y mezcla bien. Corta la lima en gajos. Deshoja y pica la mitad del cilantro (doble para 4p).",
+      "instructionsHTML": "<p>Escurre el <strong>maíz dulce</strong> y agrégalo a la olla. <strong>Salpimienta</strong> y mezcla bien. Corta la <strong>lima</strong> en gajos. Deshoja y pica la mitad del <strong>cilantro</strong> (doble para 4p).</p>",
+      "instructionsMarkdown": "<p>Escurre el <strong>maíz dulce</strong> y agrégalo a la olla. <strong>Salpimienta</strong> y mezcla bien. Corta la <strong>lima</strong> en gajos. Deshoja y pica la mitad del <strong>cilantro</strong> (doble para 4p).</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53751a8cfa26226210e5/step-8d066f40.jpg",
+          "path": "/677d53751a8cfa26226210e5/step-8d066f40.jpg",
+          "caption": "Agrega el maíz",
+          "localImage": "/images/recipes/677d53751a8cfa26226210e5-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el pozole en platos hondos y agrega encima los portobellos caramelizados. Finalmente, espolvorea el cilantro picado y añade zumo de lima al gusto.",
+      "instructionsHTML": "<p>Sirve el <strong>pozole</strong> en platos hondos y agrega encima los <strong>portobellos caramelizados</strong>. Finalmente, espolvorea el <strong>cilantro</strong> picado y añade zumo de <strong>lima</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>pozole</strong> en platos hondos y agrega encima los <strong>portobellos caramelizados</strong>. Finalmente, espolvorea el <strong>cilantro</strong> picado y añade zumo de <strong>lima</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53751a8cfa26226210e5/step-3eabe050.jpg",
+          "path": "/677d53751a8cfa26226210e5/step-3eabe050.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/677d53751a8cfa26226210e5-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegano",
+      "slug": "vegano",
+      "colorHandle": "vegan",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "61bcc274f0aa2a6e79272a5a",
+      "type": "extra-vegetables",
+      "name": ">250g de vegetales",
+      "slug": "250g-de-vegetales",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCCLVV14179-6",
+  "updatedAt": "2026-01-21T17:18:54+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "64ba7d3d9d1f1314f17e6c06",
+      "type": "pot-with-lid",
+      "name": "Olla con Tapa"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "aedc1b65-dcf8-4200-9a96-272b8775939d",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pozole-mexicano-de-verduras-y-frijoles-677d53751a8cfa26226210e5",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba06",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9529",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 0.5,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 700,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba06",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9529",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/677d53751a8cfa26226210e5-Pozole mexicano de verduras y frijoles.jpg",
+  "localCard": "/pdf/677d53751a8cfa26226210e5-Pozole mexicano de verduras y frijoles.pdf"
+}

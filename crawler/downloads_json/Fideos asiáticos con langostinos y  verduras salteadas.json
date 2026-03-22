@@ -1,0 +1,916 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f4",
+      "name": "Crustáceos",
+      "type": "crustaceans",
+      "slug": "crustaceos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 4,
+  "canonical": "668255d73468e0473bf9c84c",
+  "canonicalLink": "https://www.hellofresh.es/recipes/fideos-verduras-semillas-salsa-668255d73468e0473bf9c84c",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "6899a8ab9643892dc8fc59d7",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-13T10:25:46+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "Con esta receta, deja que tu paladar sea invadido por los sabores asiáticos, liderados por la soja y el aceite de sésamo, que aderezan unos fideos japoneses con verduras salteadas. Acabamos el plato añadiendo una adictiva mayonesa de soja, que hará que hasta los más pequeños disfruten de este rápido plato vegetariano.",
+  "descriptionHTML": "<p>Con esta receta, deja que tu paladar sea invadido por los sabores asiáticos, liderados por la soja y el aceite de sésamo, que aderezan unos fideos japoneses con verduras salteadas. Acabamos el plato añadiendo una adictiva mayonesa de soja, que hará que hasta los más pequeños disfruten de este rápido plato vegetariano.</p>",
+  "descriptionMarkdown": "Con esta receta, deja que tu paladar sea invadido por los sabores asiáticos, liderados por la soja y el aceite de sésamo, que aderezan unos fideos japoneses con verduras salteadas. Acabamos el plato añadiendo una adictiva mayonesa de soja, que hará que hasta los más pequeños disfruten de este rápido plato vegetariano.",
+  "difficulty": 1,
+  "favoritesCount": 22,
+  "headline": "con semillas de sésamo tostadas y mayonesa de soja",
+  "id": "689c68291597ca633109ac45",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R10_W35_ES_ESQVFV22988-2_darker_edit_Main_red_bell_pepper_edit_high-6be58cd5.jpg",
+  "imagePath": "/image/HF_Y24_R10_W35_ES_ESQVFV22988-2_darker_edit_Main_red_bell_pepper_edit_high-6be58cd5.jpg",
+  "ingredients": [
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "6340437941033266d7be952e",
+      "uuid": "5039a7c1-5de6-5cc1-995f-aebbb994e544",
+      "name": "Ajo tierno",
+      "type": "spring-onion",
+      "slug": "ajo-tierno",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "imagePath": "/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be952e-Ajo tierno.png"
+    },
+    {
+      "id": "636b7f74371ed3efb1da61cd",
+      "uuid": "de1c411e-d847-53a1-916a-23d030518916",
+      "name": "Semillas de sésamo blancas",
+      "type": "white-sesame-seeds",
+      "slug": "semillas-de-sesamo-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "imagePath": "/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636b7f74371ed3efb1da61cd-Semillas de sésamo blancas.png"
+    },
+    {
+      "id": "63724760422e0b6ac4f85686",
+      "uuid": "0b18a29e-c9df-5b77-903e-c2e60206b65a",
+      "name": "Langostinos",
+      "type": "shrimps",
+      "slug": "langostinos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "imagePath": "/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f4"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63724760422e0b6ac4f85686-Langostinos.png"
+    },
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "634e5f90ab4a7ae25c41cb84",
+      "uuid": "ff44829a-7745-4d95-93ae-b5c26d2633fb",
+      "name": "Fideos japoneses",
+      "type": "mie-noodles",
+      "slug": "fideos-japoneses",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634e5f90ab4a7ae25c41cb84-9ac0f3bd.png",
+      "imagePath": "/ingredient/634e5f90ab4a7ae25c41cb84-9ac0f3bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634e5f90ab4a7ae25c41cb84-Fideos japoneses.png"
+    },
+    {
+      "id": "63480b79e9568549b78497c9",
+      "uuid": "24b03259-ca4b-5338-bf7a-132e30d306ba",
+      "name": "Salsa de soja dulce",
+      "type": "ketjap-manis",
+      "slug": "salsa-de-soja-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63480b79e9568549b78497c9-7b8bba56.png",
+      "imagePath": "/ingredient/63480b79e9568549b78497c9-7b8bba56.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63480b79e9568549b78497c9-Salsa de soja dulce.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff179",
+      "uuid": "ebd2f698-4242-5deb-b767-d529fb84b42f",
+      "name": "Aceite de sésamo",
+      "type": "sesame-oil",
+      "slug": "aceite-de-sesamo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff179-Aceite de sésamo.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/689c68291597ca633109ac45",
+  "name": "Fideos asiáticos con langostinos y  verduras salteadas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3702,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 885,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 28.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 4.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 102,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 23.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 32.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.69,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 3,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 622,
+  "slug": "fideos-asiaticos-con-lagostinos-y-verduras-salteadas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nRetira los extremos del calabacín y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.\nPela la zanahoria y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.\nCorta el pimiento en tiras finas.\nCorta el ajo tierno en rodajas finas y reserva la parte verde hasta el emplatado.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Corta el <strong>pimiento </strong>en tiras finas.</li>\n<li>Corta el <strong>ajo tierno</strong> en rodajas finas y reserva la parte verde hasta el emplatado.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Corta el <strong>pimiento </strong>en tiras finas.</li>\n<li>Corta el <strong>ajo tierno</strong> en rodajas finas y reserva la parte verde hasta el emplatado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c68291597ca633109ac45/step-f1e7da00.jpg",
+          "path": "/689c68291597ca633109ac45/step-f1e7da00.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/689c68291597ca633109ac45-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una olla, agrega abundante agua y un poco de sal y lleva a ebullición.\nCalienta una sartén grande a fuego medio sin aceite. Tuesta las semillas de sésamo 2-3 min, removiendo ocasionalmente. Retira y reserva.\n",
+      "instructionsHTML": "<ul>\n<li>En una olla, agrega abundante <strong>agua</strong> y un poco de <strong>sal</strong> y lleva a ebullición.</li>\n<li>Calienta una sartén grande a fuego medio sin aceite. Tuesta las <strong>semillas de sésamo</strong> 2-3 min, removiendo ocasionalmente. Retira y reserva.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una olla, agrega abundante <strong>agua</strong> y un poco de <strong>sal</strong> y lleva a ebullición.</li>\n<li>Calienta una sartén grande a fuego medio sin aceite. Tuesta las <strong>semillas de sésamo</strong> 2-3 min, removiendo ocasionalmente. Retira y reserva.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c",
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c68291597ca633109ac45/step-7cf97910.jpg",
+          "path": "/689c68291597ca633109ac45/step-7cf97910.jpg",
+          "caption": "Tuesta las semillas",
+          "localImage": "/images/recipes/689c68291597ca633109ac45-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Saltea el calabacín y el pimiento 2-3 min, removiendo, hasta que se dore.\nAgrega la parte blanca del ajo tierno y la zanahoria, salpimienta y cocina a fuego medio 4-5 min más, removiendo.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Saltea el <strong>calabacín </strong>y el<strong> pimiento</strong> 2-3 min, removiendo, hasta que se dore.</li>\n<li>Agrega la parte blanca del <strong>ajo tierno </strong>y la <strong>zanahoria</strong>, <strong>salpimienta</strong> y cocina a fuego medio 4-5 min más, removiendo.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Saltea el <strong>calabacín </strong>y el<strong> pimiento</strong> 2-3 min, removiendo, hasta que se dore.</li>\n<li>Agrega la parte blanca del <strong>ajo tierno </strong>y la <strong>zanahoria</strong>, <strong>salpimienta</strong> y cocina a fuego medio 4-5 min más, removiendo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c68291597ca633109ac45/step-a2f39e20.jpg",
+          "path": "/689c68291597ca633109ac45/step-a2f39e20.jpg",
+          "caption": "Saltea las verduras",
+          "localImage": "/images/recipes/689c68291597ca633109ac45-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn un bol, mezcla la mayonesa y la mitad de la salsa de soja.\nCuando el agua de la olla hierva, cocina los fideos mie 2 min. Remueve para separarlos.\nCuando estén listos, escurre.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol, mezcla la <strong>mayonesa</strong> y la mitad de la <strong>salsa de soja</strong>.</li>\n<li>Cuando el <strong>agua</strong> de la olla hierva, cocina los <strong>fideos mie</strong> 2 min. Remueve para separarlos.</li>\n<li>Cuando estén listos, escurre.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol, mezcla la <strong>mayonesa</strong> y la mitad de la <strong>salsa de soja</strong>.</li>\n<li>Cuando el <strong>agua</strong> de la olla hierva, cocina los <strong>fideos mie</strong> 2 min. Remueve para separarlos.</li>\n<li>Cuando estén listos, escurre.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c68291597ca633109ac45/step-ffa63b30.jpg",
+          "path": "/689c68291597ca633109ac45/step-ffa63b30.jpg",
+          "caption": "Cocina los fideos",
+          "localImage": "/images/recipes/689c68291597ca633109ac45-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nSeca los langostinos. \nEn la sartén de las verduras agrega los langostinos y cocina 1-2 min.\nAñade los fideos mie cocidos, la salsa de soja restante, la salsa de soja dulce y el aceite de sésamo.\nMezcla y cocina todo junto 1 min, removiendo. Prueba y rectifica de sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>Seca los <strong>langostinos</strong>. </li>\n<li>En la sartén de las <strong>verduras </strong>agrega los <strong>langostinos </strong>y cocina 1-2 min.</li>\n<li>Añade los <strong>fideos mie</strong> cocidos, la<strong> salsa de soja</strong> restante, la <strong>salsa de soja dulce</strong> y el <strong>aceite de sésamo</strong>.</li>\n<li>Mezcla y cocina todo junto 1 min, removiendo. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Seca los <strong>langostinos</strong>. </li>\n<li>En la sartén de las <strong>verduras </strong>agrega los <strong>langostinos </strong>y cocina 1-2 min.</li>\n<li>Añade los <strong>fideos mie</strong> cocidos, la<strong> salsa de soja</strong> restante, la <strong>salsa de soja dulce</strong> y el <strong>aceite de sésamo</strong>.</li>\n<li>Mezcla y cocina todo junto 1 min, removiendo. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c68291597ca633109ac45/step-49fdfa40.jpg",
+          "path": "/689c68291597ca633109ac45/step-49fdfa40.jpg",
+          "caption": "Combina los ingredientes",
+          "localImage": "/images/recipes/689c68291597ca633109ac45-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve los fideos asiáticos en platos y agrega encima la parte verde del ajo tierno y las semillas de sésamo tostadas.\nAcaba el plato salseando con la mayonesa de soja.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve los <strong>fideos asiáticos</strong> en platos y agrega encima la parte verde del <strong>ajo tierno</strong> y las <strong>semillas de sésamo</strong> tostadas.</li>\n<li>Acaba el plato salseando con la <strong>mayonesa de soja</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve los <strong>fideos asiáticos</strong> en platos y agrega encima la parte verde del <strong>ajo tierno</strong> y las <strong>semillas de sésamo</strong> tostadas.</li>\n<li>Acaba el plato salseando con la <strong>mayonesa de soja</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/689c68291597ca633109ac45/step-a84b2650.jpg",
+          "path": "/689c68291597ca633109ac45/step-a84b2650.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/689c68291597ca633109ac45-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESQVFV22988-AP-1-2",
+  "updatedAt": "2026-01-21T17:19:24+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "39d32ffe-c590-4a55-bbe3-f52e9aecba69",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/fideos-asiaticos-con-lagostinos-y-verduras-salteadas-689c68291597ca633109ac45",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 7.995,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634e5f90ab4a7ae25c41cb84",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63480b79e9568549b78497c9",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634e5f90ab4a7ae25c41cb84",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63480b79e9568549b78497c9",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 23.985,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 9,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634e5f90ab4a7ae25c41cb84",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63480b79e9568549b78497c9",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/689c68291597ca633109ac45-Fideos asiáticos con langostinos y verduras salteadas.jpg"
+}

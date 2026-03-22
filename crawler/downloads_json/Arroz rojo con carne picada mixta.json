@@ -1,0 +1,830 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 4,
+  "canonical": "64788add22f7f34e1f95d337",
+  "canonicalLink": "https://www.hellofresh.es/recipes/arroz-rojo-con-carne-picada-mixta-64788add22f7f34e1f95d337",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6849324b56532819dcc1a175-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "645d152ed8259131b372d8d0",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-11T07:37:47+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b3",
+      "type": "thai",
+      "name": "Tailandesa",
+      "slug": "tailandesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b3-3b2b2add.jpg"
+    }
+  ],
+  "description": "Para cuando te apetezca disfrutar de un arroz salteado, pero prefieras innovar y probar recetas diferentes, te ofrecemos este arroz rojo con carne picada y verduras, que podrás cocinar en 25 minutos. Y, aunque tenga este color, el plato puede disfrutarlo toda la familia, pues solo será picante para los más atrevidos.",
+  "descriptionHTML": "<p>Para cuando te apetezca disfrutar de un arroz salteado, pero prefieras innovar y probar recetas diferentes, te ofrecemos este arroz rojo con carne picada y verduras, que podrás cocinar en 25 minutos. Y, aunque tenga este color, el plato puede disfrutarlo toda la familia, pues solo será picante para los más atrevidos.</p>",
+  "descriptionMarkdown": "Para cuando te apetezca disfrutar de un arroz salteado, pero prefieras innovar y probar recetas diferentes, te ofrecemos este arroz rojo con carne picada y verduras, que podrás cocinar en 25 minutos. Y, aunque tenga este color, el plato puede disfrutarlo toda la familia, pues solo será picante para los más atrevidos.",
+  "difficulty": 1,
+  "favoritesCount": 3,
+  "headline": "con verduras salteadas y salsa asiática",
+  "id": "6849324b56532819dcc1a175",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R06_W50_ES_ESCFM16530-3_Main_high-f6ebbdac.jpg",
+  "imagePath": "/image/HF_Y23_R06_W50_ES_ESCFM16530-3_Main_high-f6ebbdac.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340437b233160a36674ba30",
+      "uuid": "e20d37da-83ce-490d-aeae-12ac9d3aa296",
+      "name": "Pimiento verde italiano",
+      "type": "pointed-bell-pepper-green",
+      "slug": "pimiento-verde-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "imagePath": "/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b233160a36674ba30-Pimiento verde italiano.png"
+    },
+    {
+      "id": "636ee2296875fac468eeb9ce",
+      "uuid": "b2d33c6c-dcf6-5212-8de8-f75bd59d77c0",
+      "name": "Carne de ternera y cerdo picada",
+      "type": "mixed-mince-pork-beef",
+      "slug": "carne-de-ternera-y-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636ee2296875fac468eeb9ce-f949fe5e.png",
+      "imagePath": "/ingredient/636ee2296875fac468eeb9ce-f949fe5e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636ee2296875fac468eeb9ce-Carne de ternera y cerdo picada.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "64afc5bc565e2133abaa58a3",
+      "uuid": "27bdf929-2223-5877-8919-3bd93eb85c24",
+      "name": "Passata de tomate",
+      "type": "tomato-passata",
+      "slug": "passata-de-tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "imagePath": "/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64afc5bc565e2133abaa58a3-Passata de tomate.png"
+    },
+    {
+      "id": "688c9b871cc5cea71281245a",
+      "uuid": "ec2276be-64f8-485c-a464-8da34d88aa6c",
+      "name": "Chili seco en escamas",
+      "type": "chilli-flakes-dried",
+      "slug": "chili-seco-en-escamas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "imagePath": "/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/688c9b871cc5cea71281245a-Chili seco en escamas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Especial para táper",
+    "handle": "takeaway-classic",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/6849324b56532819dcc1a175",
+  "name": "Arroz rojo con carne picada mixta",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2757,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 659,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 10.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 77.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 5.05,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 2,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 405,
+  "slug": "arroz-rojo-con-carne-picada-mixta",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nLlena un cazo con el agua para el arroz, añade el arroz y sal y lleva a ebullición con el cazo tapado.\nCuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.\nLuego, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Llena un cazo con el <strong>agua para el arroz</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li dir=\"ltr\">Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li dir=\"ltr\">Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Llena un cazo con el <strong>agua para el arroz</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li dir=\"ltr\">Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li dir=\"ltr\">Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849324b56532819dcc1a175/step-23c39600.jpg",
+          "path": "/6849324b56532819dcc1a175/step-23c39600.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/6849324b56532819dcc1a175-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela la cebolla y córtala en tiras de 1 cm.\nCorta el pimiento en cuadrados de 1-2 cm.\nPela y ralla el ajo.\nDesmenuza la carne picada en trozos de 2 cm.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en tiras de 1 cm.</li>\n<li dir=\"ltr\">Corta el <strong>pimiento</strong> en cuadrados de 1-2 cm.</li>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Desmenuza la <strong>carne picada</strong> en trozos de 2 cm.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en tiras de 1 cm.</li>\n<li dir=\"ltr\">Corta el <strong>pimiento</strong> en cuadrados de 1-2 cm.</li>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Desmenuza la <strong>carne picada</strong> en trozos de 2 cm.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849324b56532819dcc1a175/step-89e3b910.jpg",
+          "path": "/6849324b56532819dcc1a175/step-89e3b910.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/6849324b56532819dcc1a175-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una sartén, calienta a fuego medio un chorrito de aceite. Añade la carne picada y cocina 3-4 min, hasta que se dore.\nSalpimienta, retira de la sartén y reserva.\nEn la sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAgrega la cebolla y el pimiento y cocina 4-5 min, removiendo.\nAgrega la carne picada y cocina 1 min más, removiendo.\n",
+      "instructionsHTML": "<ul>\n<li><span>En una sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Añade la <strong>carne picada</strong> y cocina 3-4 min, hasta que se dore.</span></li>\n<li><span><strong>Salpimienta</strong>, retira de la sartén y reserva.</span></li>\n<li><span>En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</span></li>\n<li><span>Agrega la <strong>cebolla</strong> y el <strong>pimiento</strong> y cocina 4-5 min, removiendo.</span></li>\n<li><span>Agrega la <strong>carne picada </strong>y cocina 1 min más, removiendo.</span></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li><span>En una sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Añade la <strong>carne picada</strong> y cocina 3-4 min, hasta que se dore.</span></li>\n<li><span><strong>Salpimienta</strong>, retira de la sartén y reserva.</span></li>\n<li><span>En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</span></li>\n<li><span>Agrega la <strong>cebolla</strong> y el <strong>pimiento</strong> y cocina 4-5 min, removiendo.</span></li>\n<li><span>Agrega la <strong>carne picada </strong>y cocina 1 min más, removiendo.</span></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849324b56532819dcc1a175/step-c259e020.jpg",
+          "path": "/6849324b56532819dcc1a175/step-c259e020.jpg",
+          "caption": "Cocina las verduras y la carne",
+          "localImage": "/images/recipes/6849324b56532819dcc1a175-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, agrega la salsa de soja, el caldo de ternera, la passata de tomate y el agua para la salsa. Cocina a fuego medio-alto 3-4 min, removiendo.\nCuando el arroz esté listo, añádelo a la sartén, mezcla y saltea 1-2 min más.\nPrueba y rectifica de sal y pimienta.\nSirve en platos y espolvorea chili en escamas al gusto.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la sartén, agrega la <strong>salsa de soja</strong>, el <strong>caldo de ternera</strong>, la <strong>passata de tomate</strong> y el <strong>agua para la salsa</strong>. Cocina a fuego medio-alto 3-4 min, removiendo.</li>\n<li dir=\"ltr\">Cuando el <strong>arroz</strong> esté listo, añádelo a la sartén, mezcla y saltea 1-2 min más.</li>\n<li dir=\"ltr\">Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Sirve en platos y espolvorea <strong>chili en escamas</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la sartén, agrega la <strong>salsa de soja</strong>, el <strong>caldo de ternera</strong>, la <strong>passata de tomate</strong> y el <strong>agua para la salsa</strong>. Cocina a fuego medio-alto 3-4 min, removiendo.</li>\n<li dir=\"ltr\">Cuando el <strong>arroz</strong> esté listo, añádelo a la sartén, mezcla y saltea 1-2 min más.</li>\n<li dir=\"ltr\">Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Sirve en platos y espolvorea <strong>chili en escamas</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849324b56532819dcc1a175/step-b566af30.jpg",
+          "path": "/6849324b56532819dcc1a175/step-b566af30.jpg",
+          "caption": "Combina los ingredientes y emplata",
+          "localImage": "/images/recipes/6849324b56532819dcc1a175-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCFM16530-19",
+  "updatedAt": "2025-08-21T10:31:57+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "b3d1360f-c7dd-4e22-a2ab-5e17d104d980",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/arroz-rojo-con-carne-picada-mixta-6849324b56532819dcc1a175",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 105,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 210,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 315,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6849324b56532819dcc1a175-Arroz rojo con carne picada mixta.jpg",
+  "localCard": "/pdf/6849324b56532819dcc1a175-Arroz rojo con carne picada mixta.pdf"
+}

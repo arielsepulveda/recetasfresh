@@ -1,0 +1,923 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "64c3e7cb2864fe111ef96742",
+  "canonicalLink": "https://www.hellofresh.es/recipes/falafel-casero-con-salsa-de-yogur-64c3e7cb2864fe111ef96742",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6942e55a1101204cae756819-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "645d35d2b44d4cdf028dea1e",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-17T17:16:11+00:00",
+  "cuisines": [
+    {
+      "id": "67ebf900b2ffe612cd83e51b",
+      "type": "",
+      "name": "Middle Eastern",
+      "slug": ""
+    }
+  ],
+  "description": "Si estás en casa y tienes antojo de comer falafel, olvídate de buscar un lugar donde comprarlos y prepáralos desde tu cocina y con los ingredientes más frescos, partiendo desde la base. Con esta receta, aprende a preparar este plato clásico de Oriente Medio, que acompañamos con una salsa de yogur y ensalada de zanahoria, que aporta un toque fresco.",
+  "descriptionHTML": "<p>Si estás en casa y tienes antojo de comer falafel, olvídate de buscar un lugar donde comprarlos y prepáralos desde tu cocina y con los ingredientes más frescos, partiendo desde la base. Con esta receta, aprende a preparar este plato clásico de Oriente Medio, que acompañamos con una salsa de yogur y ensalada de zanahoria, que aporta un toque fresco.</p>",
+  "descriptionMarkdown": "Si estás en casa y tienes antojo de comer falafel, olvídate de buscar un lugar donde comprarlos y prepáralos desde tu cocina y con los ingredientes más frescos, partiendo desde la base. Con esta receta, aprende a preparar este plato clásico de Oriente Medio, que acompañamos con una salsa de yogur y ensalada de zanahoria, que aporta un toque fresco.",
+  "difficulty": 3,
+  "favoritesCount": 0,
+  "headline": "con ensalada fresca de rúcula y cintas de zanahoria",
+  "id": "6942e55a1101204cae756819",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R28_W03_ES_ESCVV16533-9_Mainhigh-269a4387.jpg",
+  "imagePath": "/image/HF_Y26_R28_W03_ES_ESCVV16533-9_Mainhigh-269a4387.jpg",
+  "ingredients": [
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "6340437141033266d7be951a",
+      "uuid": "ae95225f-9805-5f92-afa8-0649e7e90122",
+      "name": "Comino en polvo",
+      "type": "ground-cumin",
+      "slug": "comino-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "imagePath": "/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be951a-Comino en polvo.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6924890401ae5540a928075a",
+      "uuid": "b74dbad6-e2f0-51df-9a17-a9690de49ee1",
+      "name": "Yogur",
+      "type": "yogurt",
+      "slug": "yogur",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67f8f3ba652eef3af1c9d274-abd1871a.png",
+      "imagePath": "/ingredient/67f8f3ba652eef3af1c9d274-abd1871a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6924890401ae5540a928075a-Yogur.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "64da1f57934f39f8debdd4f2",
+      "uuid": "ea10ac84-1b7a-4b3f-be1a-72098002a37e",
+      "name": "Harina para el falafel",
+      "type": "flour-for-falafel",
+      "slug": "harina-para-el-falafel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64da1f57934f39f8debdd4f2-b7d0dfc2.png",
+      "imagePath": "/ingredient/64da1f57934f39f8debdd4f2-b7d0dfc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64da1f57934f39f8debdd4f2-Harina para el falafel.png"
+    },
+    {
+      "id": "634928a2e9568549b78497e1",
+      "uuid": "f099a1c2-6d5f-42a2-a188-cad2ad1b6d5f",
+      "name": "Aceite para freír",
+      "type": "sunflower-oil",
+      "slug": "aceite-para-freir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "imagePath": "/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634928a2e9568549b78497e1-Aceite para freír.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6942e55a1101204cae756819",
+  "name": "Falafel casero con salsa de yogur",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3531,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 844,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 53.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 48.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 21.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 23.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.48,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 674,
+  "slug": "falafel-casero-con-salsa-de-yogur",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nDeshoja y pica el perejil.\nPela y ralla el ajo.\nPela y pica la chalota.\nEscurre los garbanzos y colócalos en un bol.\nCon un pasapurés, aplasta los garbanzos hasta que quede una textura homogénea y espesa.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Deshoja y pica el <strong>perejil</strong>.</li>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Pela y pica la <strong>chalota</strong>.</li>\n<li>Escurre los <strong>garbanzos</strong> y colócalos en un bol.</li>\n<li>Con un pasapurés, aplasta los <strong>garbanzos</strong> hasta que quede una textura homogénea y espesa.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Deshoja y pica el <strong>perejil</strong>.</li>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Pela y pica la <strong>chalota</strong>.</li>\n<li>Escurre los <strong>garbanzos</strong> y colócalos en un bol.</li>\n<li>Con un pasapurés, aplasta los <strong>garbanzos</strong> hasta que quede una textura homogénea y espesa.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305393"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e55a1101204cae756819/step-069bf300.jpg",
+          "path": "/6942e55a1101204cae756819/step-069bf300.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/6942e55a1101204cae756819-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nAgrega al bol el ajo, la chalota, el comino y casi todo el perejil, reservando un poco para el emplatado.\nSalpimienta y mezcla bien.\nPela la zanahoria y divídela en dos partes.\nRalla la mitad de la zanahoria y añádela al bol con los garbanzos.\nCon el pelador, haz cintas de la zanahoria restante y reserva en una ensaladera.\n",
+      "instructionsHTML": "<ul>\n<li>Agrega al bol el <strong>ajo</strong>, la <strong>chalota</strong>, el <strong>comino</strong> y casi todo el <strong>perejil</strong>, reservando un poco para el emplatado.</li>\n<li><strong>Salpimienta</strong> y mezcla bien.</li>\n<li>Pela la <strong>zanahoria</strong> y divídela en dos partes.</li>\n<li>Ralla la mitad de la <strong>zanahoria</strong> y añádela al bol con los <strong>garbanzos</strong>.</li>\n<li>Con el pelador, haz cintas de la <strong>zanahoria</strong> restante y reserva en una ensaladera.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Agrega al bol el <strong>ajo</strong>, la <strong>chalota</strong>, el <strong>comino</strong> y casi todo el <strong>perejil</strong>, reservando un poco para el emplatado.</li>\n<li><strong>Salpimienta</strong> y mezcla bien.</li>\n<li>Pela la <strong>zanahoria</strong> y divídela en dos partes.</li>\n<li>Ralla la mitad de la <strong>zanahoria</strong> y añádela al bol con los <strong>garbanzos</strong>.</li>\n<li>Con el pelador, haz cintas de la <strong>zanahoria</strong> restante y reserva en una ensaladera.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5c0a9a5edbdd9fc57e863cd6",
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e55a1101204cae756819/step-405e1710.jpg",
+          "path": "/6942e55a1101204cae756819/step-405e1710.jpg",
+          "caption": "Combina los ingredientes",
+          "localImage": "/images/recipes/6942e55a1101204cae756819-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn el bol con los garbanzos, agrega la harina para el falafel y mezcla hasta conseguir una textura compacta.\nCon las manos, forma 8 bolas del mismo tamaño por persona.\nEn una sartén, calienta el aceite para freír a fuego medio.\nEn un plato hondo, agrega la harina y enharina los falafel.\n",
+      "instructionsHTML": "<ul>\n<li>En el bol con los <strong>garbanzos</strong>, agrega la <strong>harina para el falafel</strong> y mezcla hasta conseguir una textura compacta.</li>\n<li>Con las manos, forma 8 bolas del mismo tamaño por persona.</li>\n<li>En una sartén, calienta el <strong>aceite para freír</strong> a fuego medio.</li>\n<li>En un plato hondo, agrega la <strong>harina</strong> y enharina los <strong>falafel</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En el bol con los <strong>garbanzos</strong>, agrega la <strong>harina para el falafel</strong> y mezcla hasta conseguir una textura compacta.</li>\n<li>Con las manos, forma 8 bolas del mismo tamaño por persona.</li>\n<li>En una sartén, calienta el <strong>aceite para freír</strong> a fuego medio.</li>\n<li>En un plato hondo, agrega la <strong>harina</strong> y enharina los <strong>falafel</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539f",
+        "57e2674fb7e8697d4b305373"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e55a1101204cae756819/step-7c878420.jpg",
+          "path": "/6942e55a1101204cae756819/step-7c878420.jpg",
+          "caption": "Da forma a los falafels",
+          "localImage": "/images/recipes/6942e55a1101204cae756819-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCuando el aceite para freír esté caliente, agrega los falafel a la sartén y cocina 5-7 min a fuego medio.\nMueve con cuidado para que se cocinen uniformemente.\nLuego, colócalos en un plato con papel de cocina para retirar el exceso de aceite.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando el <strong>aceite para freír</strong> esté caliente, agrega los <strong>falafel</strong> a la sartén y cocina 5-7 min a fuego medio.</li>\n<li>Mueve con cuidado para que se cocinen uniformemente.</li>\n<li>Luego, colócalos en un plato con papel de cocina para retirar el exceso de aceite.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando el <strong>aceite para freír</strong> esté caliente, agrega los <strong>falafel</strong> a la sartén y cocina 5-7 min a fuego medio.</li>\n<li>Mueve con cuidado para que se cocinen uniformemente.</li>\n<li>Luego, colócalos en un plato con papel de cocina para retirar el exceso de aceite.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e55a1101204cae756819/step-b8a23c30.jpg",
+          "path": "/6942e55a1101204cae756819/step-b8a23c30.jpg",
+          "caption": "¡A la rica fritura!",
+          "localImage": "/images/recipes/6942e55a1101204cae756819-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn un bol pequeño, mezcla el yogur, un chorrito de aceite, el vinagre, sal y pimienta.\nCorta el tomate en cubitos pequeños.\nEn la ensaladera con la zanahoria, agrega el tomate, la rúcula, un chorrito de aceite, sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol pequeño, mezcla el <strong>yogur</strong>, un chorrito de <strong>aceite</strong>, el <strong>vinagre</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Corta el <strong>tomate</strong> en cubitos pequeños.</li>\n<li>En la ensaladera con la <strong>zanahoria,</strong> agrega el <strong>tomate,</strong> la <strong>rúcula,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol pequeño, mezcla el <strong>yogur</strong>, un chorrito de <strong>aceite</strong>, el <strong>vinagre</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Corta el <strong>tomate</strong> en cubitos pequeños.</li>\n<li>En la ensaladera con la <strong>zanahoria,</strong> agrega el <strong>tomate,</strong> la <strong>rúcula,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e55a1101204cae756819/step-d4df7940.jpg",
+          "path": "/6942e55a1101204cae756819/step-d4df7940.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/6942e55a1101204cae756819-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la ensalada a un lado de los platos y coloca los falafel caseros al otro lado.\nCubre los falafel con la salsa de yogur y decora el plato con el perejil picado restante al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve la <strong>ensalada</strong> a un lado de los platos y coloca los <strong>falafel</strong> caseros al otro lado.</li>\n<li>Cubre los <strong>falafel</strong> con la <strong>salsa de yogur</strong> y decora el plato con el <strong>perejil</strong> picado restante al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve la <strong>ensalada</strong> a un lado de los platos y coloca los <strong>falafel</strong> caseros al otro lado.</li>\n<li>Cubre los <strong>falafel</strong> con la <strong>salsa de yogur</strong> y decora el plato con el <strong>perejil</strong> picado restante al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e55a1101204cae756819/step-c7587750.jpg",
+          "path": "/6942e55a1101204cae756819/step-c7587750.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/6942e55a1101204cae756819-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCVV16533-11",
+  "updatedAt": "2026-03-06T09:09:05+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305393",
+      "type": "potato-masher",
+      "name": "Pasapurés"
+    },
+    {
+      "id": "5c0a9a5edbdd9fc57e863cd6",
+      "type": "box-greater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539f",
+      "type": "soupbowl",
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "2718cf2f-afe0-4566-b6f6-661320f790a8",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/falafel-casero-con-salsa-de-yogur-6942e55a1101204cae756819",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 760,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6924890401ae5540a928075a",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64da1f57934f39f8debdd4f2",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 0.5,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 1520,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6924890401ae5540a928075a",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64da1f57934f39f8debdd4f2",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 2280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6924890401ae5540a928075a",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64da1f57934f39f8debdd4f2",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 450,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 1.5,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6942e55a1101204cae756819-Falafel casero con salsa de yogur.jpg",
+  "localCard": "/pdf/6942e55a1101204cae756819-Falafel casero con salsa de yogur.pdf"
+}

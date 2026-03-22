@@ -1,0 +1,708 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/brochetas-pollo-lemongrass-berenjena-arroz-63ca9c23812a821893bf04fe-c227381e.pdf",
+  "category": null,
+  "clonedFrom": "6347ef6ebb36093c54997934",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-01-20T13:50:27+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ad",
+      "type": "japanese",
+      "name": "Japonesa",
+      "slug": "japonesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ad-3f36131f.jpg"
+    }
+  ],
+  "description": "Si quieres disfrutar de los sabores asiáticos de la forma más auténtica posible, cocina esta receta y saborea este pollo estilo asiático con salsa teriyaki desde la propia brocheta, que, en lugar de crearse sobre un palillo de madera, se prepara en un tallo de lemongrass.",
+  "descriptionHTML": "<p>Si quieres disfrutar de los sabores asiáticos de la forma más auténtica posible, cocina esta receta y saborea este pollo estilo asiático con salsa teriyaki desde la propia brocheta, que, en lugar de crearse sobre un palillo de madera, se prepara en un tallo de lemongrass.</p>",
+  "descriptionMarkdown": "Si quieres disfrutar de los sabores asiáticos de la forma más auténtica posible, cocina esta receta y saborea este pollo estilo asiático con salsa teriyaki desde la propia brocheta, que, en lugar de crearse sobre un palillo de madera, se prepara en un tallo de lemongrass.",
+  "difficulty": 1,
+  "favoritesCount": 24,
+  "headline": "acompañado de berenjenas asadas sobre arroz basmati",
+  "id": "63ca9c23812a821893bf04fe",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R05_W16_ES_ESCFC0093-2_Main_high-c2f51211.jpg",
+  "imagePath": "/image/HF_Y23_R05_W16_ES_ESCFC0093-2_Main_high-c2f51211.jpg",
+  "ingredients": [
+    {
+      "id": "6340436b2268bc1bff0d3c9f",
+      "uuid": "1fa6c253-440c-5c98-9e4b-65a57a89f8b1",
+      "name": "Berenjena",
+      "type": "aubergine",
+      "slug": "berenjena",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3c9f-Berenjena.png"
+    },
+    {
+      "id": "6340437b2268bc1bff0d3cd1",
+      "uuid": "9838d4d1-5c2e-4e68-a073-54d514ccfdb0",
+      "name": "Pechuga de pollo troceada",
+      "type": "chicken-breast-diced",
+      "slug": "pechuga-de-pollo-troceada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd1-Pechuga de pollo troceada.jpg"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "636b7f74371ed3efb1da61cd",
+      "uuid": "de1c411e-d847-53a1-916a-23d030518916",
+      "name": "Semillas de sésamo blancas",
+      "type": "white-sesame-seeds",
+      "slug": "semillas-de-sesamo-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "imagePath": "/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636b7f74371ed3efb1da61cd-Semillas de sésamo blancas.png"
+    },
+    {
+      "id": "63497e42ebf08332f1bff190",
+      "uuid": "bcfa42c0-e029-5d13-8331-0f471d6c79f8",
+      "name": "Salsa teriyaki",
+      "type": "teriyaki-sauce",
+      "slug": "salsa-teriyaki",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497e42ebf08332f1bff190-ae3d9109.png",
+      "imagePath": "/ingredient/63497e42ebf08332f1bff190-ae3d9109.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497e42ebf08332f1bff190-Salsa teriyaki.png"
+    },
+    {
+      "id": "63404373233160a36674ba0d",
+      "uuid": "e262a08e-a19b-555f-b9f3-9d01dce66e59",
+      "name": "Lemongrass",
+      "type": "lemongrass",
+      "slug": "lemongrass",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0d-b94dfee4.jpg",
+      "imagePath": "/ingredient/63404373233160a36674ba0d-b94dfee4.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0d-Lemongrass.jpg"
+    },
+    {
+      "id": "6340437941033266d7be952e",
+      "uuid": "5039a7c1-5de6-5cc1-995f-aebbb994e544",
+      "name": "Ajo tierno",
+      "type": "spring-onion",
+      "slug": "ajo-tierno",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "imagePath": "/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be952e-Ajo tierno.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/63ca9c23812a821893bf04fe",
+  "name": "Brochetas de pollo asiático con lemongrass",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 597,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2498,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 5.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 0.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 82.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 36.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.83,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 57,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 396,
+  "slug": "brochetas-de-pollo-asiatico-con-lemongrass",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 220ºC. Corta la berenjena en dados de 2 cm y colócala en una fuente grande para el horno. Agrega un chorrito de aceite y salpimienta. Mezcla para que la berenjena quede bien aderezada. Hornea a media altura durante 25-30 min, hasta que la berenjena quede tierna. Remueve a mitad de cocción.",
+      "instructionsHTML": "<p>Precalienta el horno a <span>220ºC</span>. Corta la <strong>berenjena</strong> en dados de 2 cm y colócala en una fuente grande para el horno. Agrega un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong>. Mezcla para que la <strong>berenjena</strong> quede bien aderezada. Hornea a media altura durante 25-30 min, hasta que la <strong>berenjena</strong> quede tierna. Remueve a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a <span>220ºC</span>. Corta la <strong>berenjena</strong> en dados de 2 cm y colócala en una fuente grande para el horno. Agrega un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong>. Mezcla para que la <strong>berenjena</strong> quede bien aderezada. Hornea a media altura durante 25-30 min, hasta que la <strong>berenjena</strong> quede tierna. Remueve a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e8675"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fe/step-9000e900.jpg",
+          "path": "/63ca9c23812a821893bf04fe/step-9000e900.jpg",
+          "caption": "Hornea la berenjena",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fe-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En un bol grande, mezcla la pechuga de pollo troceada con la mitad de la salsa teriyaki. Reserva en la nevera hasta el paso 4. Separa la parte blanca y la parte verde del ajo tierno. Corta ambas partes en rodajas finas y reserva la parte verde hasta el emplatado. Haz un ligero corte longitudinal en el lemongrass y retira las dos primeras capas algo más duras.",
+      "instructionsHTML": "<p>En un bol grande, mezcla la <strong>pechuga de pollo troceada</strong> con la mitad de la <strong>salsa teriyaki</strong>. Reserva en la nevera hasta el paso 4. Separa la parte blanca y la parte verde del <strong>ajo tierno</strong>. Corta ambas partes en rodajas finas y reserva la parte verde hasta el emplatado. Haz un ligero corte longitudinal en el <strong>lemongrass</strong> y retira las dos primeras capas algo más duras.</p>",
+      "instructionsMarkdown": "<p>En un bol grande, mezcla la <strong>pechuga de pollo troceada</strong> con la mitad de la <strong>salsa teriyaki</strong>. Reserva en la nevera hasta el paso 4. Separa la parte blanca y la parte verde del <strong>ajo tierno</strong>. Corta ambas partes en rodajas finas y reserva la parte verde hasta el emplatado. Haz un ligero corte longitudinal en el <strong>lemongrass</strong> y retira las dos primeras capas algo más duras.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fe/step-d71ee810.jpg",
+          "path": "/63ca9c23812a821893bf04fe/step-d71ee810.jpg",
+          "caption": "Marina la carne",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fe-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En un cazo, agrega un chorrito de aceite y la parte blanca del ajo tierno y cocina 1-2 min a fuego medio-alto. Luego, sube a fuego alto, llena el cazo con el agua (ver cantidad en ingredientes) y añade el arroz y sal al gusto. Cuando hierva, baja el fuego y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el arroz con la ayuda de un tenedor para separar los granos. Reserva el arroz en el cazo tapado.",
+      "instructionsHTML": "<p>En un cazo, agrega un chorrito de <strong>aceite</strong> y la parte blanca del <strong>ajo tierno</strong> y cocina 1-2 min a fuego medio-alto. Luego, sube a fuego alto, llena el cazo con el <strong>agua</strong> (ver cantidad en ingredientes) y añade el <strong>arroz</strong> y <strong>sal</strong> al gusto. Cuando hierva, baja el fuego y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos. Reserva el <strong>arroz</strong> en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>En un cazo, agrega un chorrito de <strong>aceite</strong> y la parte blanca del <strong>ajo tierno</strong> y cocina 1-2 min a fuego medio-alto. Luego, sube a fuego alto, llena el cazo con el <strong>agua</strong> (ver cantidad en ingredientes) y añade el <strong>arroz</strong> y <strong>sal</strong> al gusto. Cuando hierva, baja el fuego y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos. Reserva el <strong>arroz</strong> en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fe/step-a52e6f20.jpg",
+          "path": "/63ca9c23812a821893bf04fe/step-a52e6f20.jpg",
+          "caption": "Cuece el arroz",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fe-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Para preparar las brochetas de pollo, ensarta la mitad del pollo troceado en cada lemongrass. Hazlo desde la parte más fina del lemongrass para que sea más sencillo. Coloca las brochetas en la fuente para el horno junto a la berenjena y cocina 15 min, hasta que el pollo quede bien hecho. Da la vuelta a las brochetas a mitad de cocción.",
+      "instructionsHTML": "<p>Para preparar las <strong>brochetas de pollo</strong>, ensarta la mitad del <strong>pollo troceado</strong> en cada <strong>lemongrass</strong>. Hazlo desde la parte más fina del <strong>lemongrass</strong> para que sea más sencillo. <span>Coloca las <strong>brochetas</strong> en la fuente para el horno junto a la <strong>berenjena</strong> y cocina 15 min, hasta que el <strong>pollo</strong> quede bien hecho.</span> Da la vuelta a las <strong>brochetas</strong> a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>Para preparar las <strong>brochetas de pollo</strong>, ensarta la mitad del <strong>pollo troceado</strong> en cada <strong>lemongrass</strong>. Hazlo desde la parte más fina del <strong>lemongrass</strong> para que sea más sencillo. <span>Coloca las <strong>brochetas</strong> en la fuente para el horno junto a la <strong>berenjena</strong> y cocina 15 min, hasta que el <strong>pollo</strong> quede bien hecho.</span> Da la vuelta a las <strong>brochetas</strong> a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fe/step-b8b6d430.jpg",
+          "path": "/63ca9c23812a821893bf04fe/step-b8b6d430.jpg",
+          "caption": "Cocina las brochetas",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fe-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Una vez las brochetas de pollo y las berenjenas estén listas, retíralas del horno. Lava el bol en el que marinaste el pollo y, luego, agrega la berenjena asada y la salsa teriyaki restante. Mezcla bien para cubrir la berenjena.",
+      "instructionsHTML": "<p>Una vez las <strong>brochetas de pollo</strong> y las <strong>berenjenas</strong> estén listas, retíralas del horno. Lava el bol en el que marinaste el <strong>pollo</strong> y, luego, agrega la <strong>berenjena asada </strong>y la <strong>salsa teriyaki</strong> restante. Mezcla bien para cubrir la <strong>berenjena</strong>.</p>",
+      "instructionsMarkdown": "<p>Una vez las <strong>brochetas de pollo</strong> y las <strong>berenjenas</strong> estén listas, retíralas del horno. Lava el bol en el que marinaste el <strong>pollo</strong> y, luego, agrega la <strong>berenjena asada </strong>y la <strong>salsa teriyaki</strong> restante. Mezcla bien para cubrir la <strong>berenjena</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fe/step-3fd5df40.jpg",
+          "path": "/63ca9c23812a821893bf04fe/step-3fd5df40.jpg",
+          "caption": "Adereza la berenjena",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fe-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": " \nReparte el arroz basmati entre platos hondos y cubre con la berenjena en salsa teriyaki. Sirve sobre la berenjena las brochetas de pollo teriyaki. Espolvorea semillas de sésamo y la parte verde del ajo tierno al gusto.",
+      "instructionsHTML": "<p><div> </div>\n<div>Reparte el <strong>arroz basmati</strong> entre platos hondos y cubre con la <strong>berenjena</strong> en <strong>salsa teriyaki</strong>. Sirve sobre la <strong>berenjena</strong> las <strong>brochetas de pollo teriyaki</strong>. Espolvorea <strong>semillas de sésamo</strong> y la parte verde del <strong>ajo tierno</strong> al gusto.</div></p>",
+      "instructionsMarkdown": "<div> </div>\n<div>Reparte el <strong>arroz basmati</strong> entre platos hondos y cubre con la <strong>berenjena</strong> en <strong>salsa teriyaki</strong>. Sirve sobre la <strong>berenjena</strong> las <strong>brochetas de pollo teriyaki</strong>. Espolvorea <strong>semillas de sésamo</strong> y la parte verde del <strong>ajo tierno</strong> al gusto.</div>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c23812a821893bf04fe/step-4859b350.jpg",
+          "path": "/63ca9c23812a821893bf04fe/step-4859b350.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63ca9c23812a821893bf04fe-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCFC0093-2",
+  "updatedAt": "2025-06-12T13:33:49+00:00",
+  "utensils": [
+    {
+      "id": "59d49a9319279f8fe60e8675",
+      "type": "9x13-baking-dish",
+      "name": "Fuente grande para el horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    }
+  ],
+  "uuid": "c0b785b1-5427-4d83-8b54-8c7ff7182552",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/brochetas-de-pollo-asiatico-con-lemongrass-63ca9c23812a821893bf04fe",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 7.995,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497e42ebf08332f1bff190",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0d",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497e42ebf08332f1bff190",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0d",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63ca9c23812a821893bf04fe-Brochetas de pollo asiático con lemongrass.jpg",
+  "localCard": "/pdf/63ca9c23812a821893bf04fe-Brochetas de pollo asiático con lemongrass.pdf"
+}

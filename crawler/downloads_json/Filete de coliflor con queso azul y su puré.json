@@ -1,0 +1,872 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/filete-coliflor-azul-pure-champinones-6373c3586875fac468eeba84-96cfa4d7.pdf",
+  "category": null,
+  "clonedFrom": "6347ef444eacd7e8b5e77bf0",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-11-15T16:50:32+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b9",
+      "type": "middleeastern",
+      "name": "Oriente Medio",
+      "slug": "oriente-medio",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b9-28649f9a.jpg"
+    }
+  ],
+  "description": "¿Quién dijo que los filetes solo podían ser de ternera o pollo? Te proponemos una receta en la que fileteamos una coliflor y le añadimos el puré de sus floretes y una salsa de queso azul con champiñones. Lo acompañamos de patatas al romero y setas especiadas para que nadie eche de menos la carne.",
+  "descriptionHTML": "<p>¿Quién dijo que los filetes solo podían ser de ternera o pollo? Te proponemos una receta en la que fileteamos una coliflor y le añadimos el puré de sus floretes y una salsa de queso azul con champiñones. Lo acompañamos de patatas al romero y setas especiadas para que nadie eche de menos la carne.</p>",
+  "descriptionMarkdown": "¿Quién dijo que los filetes solo podían ser de ternera o pollo? Te proponemos una receta en la que fileteamos una coliflor y le añadimos el puré de sus floretes y una salsa de queso azul con champiñones. Lo acompañamos de patatas al romero y setas especiadas para que nadie eche de menos la carne.",
+  "difficulty": 2,
+  "favoritesCount": 50,
+  "headline": "acompañado de patatas al romero y setas especiadas",
+  "id": "6373c3586875fac468eeba84",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF210803_R19_W37_NL_R2820-3_MB_Main_low-0ce37ae5.jpg",
+  "imagePath": "/image/HF210803_R19_W37_NL_R2820-3_MB_Main_low-0ce37ae5.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f7",
+      "uuid": "0c719142-be77-4ddd-94a0-b6219698b827",
+      "name": "Champiñones",
+      "type": "champignon-mushrooms",
+      "slug": "champinones",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f7-Champiñones.png"
+    },
+    {
+      "id": "63bd9bcb6cc380016be793b8",
+      "uuid": "f1a7c3f3-6783-46af-87b2-df2fd87c6820",
+      "name": "Pimentón ahumado",
+      "type": "smoked-paprika",
+      "slug": "pimenton-ahumado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bd9bcb6cc380016be793b8-a175456b.png",
+      "imagePath": "/ingredient/63bd9bcb6cc380016be793b8-a175456b.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bd9bcb6cc380016be793b8-Pimentón ahumado.png"
+    },
+    {
+      "id": "6340437a41033266d7be9538",
+      "uuid": "017ac3c8-4d38-465e-b403-183db3270831",
+      "name": "Patatas baby",
+      "type": "baby-potatoes",
+      "slug": "patatas-baby",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9538-692b9950.jpg",
+      "imagePath": "/ingredient/6340437a41033266d7be9538-692b9950.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9538-Patatas baby.jpg"
+    },
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "6351196d34c59d5ef0faeb58",
+      "uuid": "39bcc210-2c4e-5d60-b33a-ac3e11cab204",
+      "name": "Mezcla de especias de Oriente Medio",
+      "type": "middle-eastern-style-spice-mix",
+      "slug": "mezcla-de-especias-de-oriente-medio",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6351196d34c59d5ef0faeb58-55638229.png",
+      "imagePath": "/ingredient/6351196d34c59d5ef0faeb58-55638229.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fe",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6351196d34c59d5ef0faeb58-Mezcla de especias de Oriente Medio.png"
+    },
+    {
+      "id": "6364e2c11c8a9adf8ea7f79d",
+      "uuid": "4b76e78b-72cc-5898-b33d-3ada326fa8ba",
+      "name": "Nueces peladas",
+      "type": "walnuts",
+      "slug": "nueces-peladas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "imagePath": "/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364e2c11c8a9adf8ea7f79d-Nueces peladas.png"
+    },
+    {
+      "id": "63404377233160a36674ba20",
+      "uuid": "040eb90c-dd30-595f-9558-4c6ff3d179ea",
+      "name": "Romero",
+      "type": "rosemary",
+      "slug": "romero",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba20-88a98239.png",
+      "imagePath": "/ingredient/63404377233160a36674ba20-88a98239.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba20-Romero.png"
+    },
+    {
+      "id": "6340436d41033266d7be950d",
+      "uuid": "f0f84390-2558-5ff5-bf3d-eee361857a09",
+      "name": "Coliflor",
+      "type": "cauliflower",
+      "slug": "coliflor",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d41033266d7be950d-6136a685.jpg",
+      "imagePath": "/ingredient/6340436d41033266d7be950d-6136a685.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d41033266d7be950d-Coliflor.jpg"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "6352b13f0f0324d2cd53b1bd",
+      "uuid": "20f72727-c8b3-5616-a31c-7b4594015052",
+      "name": "Queso azul",
+      "type": "blue-cheese",
+      "slug": "queso-azul",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352b13f0f0324d2cd53b1bd-35325c9c.png",
+      "imagePath": "/ingredient/6352b13f0f0324d2cd53b1bd-35325c9c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352b13f0f0324d2cd53b1bd-Queso azul.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6373c3586875fac468eeba84",
+  "name": "Filete de coliflor con queso azul y su puré",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 426,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1783,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 20.94,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 11.14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 40.62,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.07,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.71,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 18.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.33,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT45M",
+  "promotion": null,
+  "ratingsCount": 52,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 537,
+  "slug": "filete-de-coliflor-con-queso-azul-y-su-pure",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 200ºC. Limpia los champiñones con un paño húmedo y córtalos en cuartos. Pela y pica el ajo (ver cantidad en ingredientes). Mezcla en un bol los champiñones con el ajo y agrega el pimentón ahumado y un chorrito de aceite. Salpimienta al gusto y reserva.",
+      "instructionsHTML": "<p dir=\"ltr\">Precalienta el horno a 200ºC. Limpia los <strong>champiñones </strong>con un paño húmedo y córtalos en cuartos. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Mezcla en un bol los <strong>champiñones</strong> con el <strong>ajo</strong> y agrega el <strong>pimentón ahumado</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> al gusto y reserva.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Precalienta el horno a 200ºC. Limpia los <strong>champiñones </strong>con un paño húmedo y córtalos en cuartos. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Mezcla en un bol los <strong>champiñones</strong> con el <strong>ajo</strong> y agrega el <strong>pimentón ahumado</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> al gusto y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3586875fac468eeba84/step-9fd6e900.jpg",
+          "path": "/6373c3586875fac468eeba84/step-9fd6e900.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/6373c3586875fac468eeba84-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Deshoja el romero y pícalo fino. Lava las patatas y córtalas en gajos. En un bol, mezcla la patata con el romero y un chorrito de aceite. Salpimienta al gusto y extiende sobre la mitad de una bandeja de horno con papel de horno. Hornea las patatas durante 15 min. Luego, remueve las patatas y coloca los champiñones en la otra mitad de la bandeja. Cocina todo 15-25 min más, hasta que quede cocido. Reserva cuando esté listo.",
+      "instructionsHTML": "<p dir=\"ltr\">Deshoja el <strong>romero</strong> y pícalo fino. Lava las <strong>patatas</strong> y córtalas en gajos. En un bol, mezcla la <strong>patata</strong> con el <strong>romero</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> al gusto y extiende sobre la mitad de una bandeja de horno con papel de horno. Hornea las <strong>patatas</strong> durante 15 min. Luego, remueve las <strong>patatas</strong> y coloca los <strong>champiñones</strong> en la otra mitad de la bandeja. Cocina todo 15-25 min más, hasta que quede cocido. Reserva cuando esté listo.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Deshoja el <strong>romero</strong> y pícalo fino. Lava las <strong>patatas</strong> y córtalas en gajos. En un bol, mezcla la <strong>patata</strong> con el <strong>romero</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> al gusto y extiende sobre la mitad de una bandeja de horno con papel de horno. Hornea las <strong>patatas</strong> durante 15 min. Luego, remueve las <strong>patatas</strong> y coloca los <strong>champiñones</strong> en la otra mitad de la bandeja. Cocina todo 15-25 min más, hasta que quede cocido. Reserva cuando esté listo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3586875fac468eeba84/step-3c8cba10.jpg",
+          "path": "/6373c3586875fac468eeba84/step-3c8cba10.jpg",
+          "caption": "Hornea los vegetales",
+          "localImage": "/images/recipes/6373c3586875fac468eeba84-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una olla con tapa, pon a hervir abundante agua y una pizca de sal. Corta la coliflor en dos, desde los floretes hacia el tallo. De cada parte, corta una rodaja de 2 cm en la misma dirección. Reserva los filetes. Extrae del resto de la coliflor pequeños floretes y añádelos a la olla. Cocínalos, con la olla tapada, durante 10-12 min. Escurre y deja reposar en la olla sin tapar.",
+      "instructionsHTML": "<p dir=\"ltr\">En una olla con tapa, pon a hervir abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Corta la <strong>coliflor</strong> en dos, desde los floretes hacia el tallo. De cada parte, corta una rodaja de 2 cm en la misma dirección. Reserva los filetes. Extrae del resto de la <strong>coliflor</strong> pequeños floretes y añádelos a la olla. Cocínalos, con la olla tapada, durante 10-12 min. Escurre y deja reposar en la olla sin tapar.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una olla con tapa, pon a hervir abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Corta la <strong>coliflor</strong> en dos, desde los floretes hacia el tallo. De cada parte, corta una rodaja de 2 cm en la misma dirección. Reserva los filetes. Extrae del resto de la <strong>coliflor</strong> pequeños floretes y añádelos a la olla. Cocínalos, con la olla tapada, durante 10-12 min. Escurre y deja reposar en la olla sin tapar.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538",
+        "59d49a9319279f8fe60e8671",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3586875fac468eeba84/step-8bda2220.jpg",
+          "path": "/6373c3586875fac468eeba84/step-8bda2220.jpg",
+          "caption": "Prepara los filetes",
+          "localImage": "/images/recipes/6373c3586875fac468eeba84-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En una sartén con tapa, calienta a fuego medio un chorrito de aceite y, de forma opcional, la mantequilla (ver cantidad en ingredientes). Salpimienta los filetes de coliflor y, cuando el aceite esté caliente, añádelos a la sartén. Fríelos 1-3 min por lado, hasta que estén dorados. Reduce a fuego bajo, tapa la sartén y deja que los filetes se cocinen 8-10 min más. Dale la vuelta a mitad de cocción y rectifica de sal y pimienta. ",
+      "instructionsHTML": "<p dir=\"ltr\">En una sartén con tapa, calienta a fuego medio un chorrito de <strong>aceite</strong> y, de forma opcional, la <strong>mantequilla</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong> los <strong>filetes de coliflor</strong> y, cuando el <strong>aceite</strong> esté caliente, añádelos a la sartén. Fríelos 1-3 min por lado, hasta que estén dorados. Reduce a fuego bajo, tapa la sartén y deja que los <strong>filetes</strong> se cocinen 8-10 min más. Dale la vuelta a mitad de cocción y rectifica de <strong>sal</strong> y <strong>pimienta</strong>. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una sartén con tapa, calienta a fuego medio un chorrito de <strong>aceite</strong> y, de forma opcional, la <strong>mantequilla</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong> los <strong>filetes de coliflor</strong> y, cuando el <strong>aceite</strong> esté caliente, añádelos a la sartén. Fríelos 1-3 min por lado, hasta que estén dorados. Reduce a fuego bajo, tapa la sartén y deja que los <strong>filetes</strong> se cocinen 8-10 min más. Dale la vuelta a mitad de cocción y rectifica de <strong>sal</strong> y <strong>pimienta</strong>. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3586875fac468eeba84/step-a7184a30.jpg",
+          "path": "/6373c3586875fac468eeba84/step-a7184a30.jpg",
+          "caption": "Cocina la coliflor",
+          "localImage": "/images/recipes/6373c3586875fac468eeba84-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Mientras tanto, deshoja y pica finamente el perejil. En el recipiente del túrmix, mezcla los floretes de coliflor cocidos con la mitad del perejil, la mitad de la nata líquida (doble para 4p) y la mitad de las especias de Oriente Medio. Tritúralo con el túrmix hasta obtener una salsa suave y espesa. Agrega de nuevo el puré a la olla tapada y mantenlo caliente a fuego lento hasta que esté listo. Pruébalo y salpimienta en el caso que sea necesario.",
+      "instructionsHTML": "<p dir=\"ltr\">Mientras tanto, deshoja y pica finamente el <strong>perejil</strong>. En el recipiente del túrmix, mezcla los floretes de <strong>coliflor</strong> cocidos con la mitad del <strong>perejil</strong>, la mitad de la <strong>nata líquida</strong> (doble para 4p) y la mitad de las <strong>especias de Oriente Medio</strong>. Tritúralo con el túrmix hasta obtener una salsa suave y espesa. Agrega de nuevo el <strong>puré</strong> a la olla tapada y mantenlo caliente a fuego lento hasta que esté listo. Pruébalo y <strong>salpimienta</strong> en el caso que sea necesario.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Mientras tanto, deshoja y pica finamente el <strong>perejil</strong>. En el recipiente del túrmix, mezcla los floretes de <strong>coliflor</strong> cocidos con la mitad del <strong>perejil</strong>, la mitad de la <strong>nata líquida</strong> (doble para 4p) y la mitad de las <strong>especias de Oriente Medio</strong>. Tritúralo con el túrmix hasta obtener una salsa suave y espesa. Agrega de nuevo el <strong>puré</strong> a la olla tapada y mantenlo caliente a fuego lento hasta que esté listo. Pruébalo y <strong>salpimienta</strong> en el caso que sea necesario.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3586875fac468eeba84/step-409b8340.jpg",
+          "path": "/6373c3586875fac468eeba84/step-409b8340.jpg",
+          "caption": "Prepara el puré",
+          "localImage": "/images/recipes/6373c3586875fac468eeba84-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Desmenuza la mitad del queso azul (doble para 4p) y añádelo a un bol. Agrega el resto del perejil y los champiñones. Pica las nueces y añádelas también al bol. Mezcla todo bien. Divide el puré de coliflor entre los platos y coloca el filete de coliflor encima. Sirve las patatas a un lado y vierte la cobertura de queso azul con champiñones sobre los filetes de coliflor. Adorna con las especias del Medio Oriente restantes.",
+      "instructionsHTML": "<p dir=\"ltr\">Desmenuza la mitad del <strong>queso azul</strong> (doble para 4p) y añádelo a un bol. Agrega el resto del <strong>perejil</strong> y los <strong>champiñones</strong>. Pica las <strong>nueces</strong> y añádelas también al bol. Mezcla todo bien. Divide el <strong>puré de coliflor</strong> entre los platos y coloca el <strong>filete de coliflor</strong> encima. Sirve las <strong>patatas</strong> a un lado y vierte la cobertura de <strong>queso azul</strong> con <strong>champiñones</strong> sobre los <strong>filetes de coliflor</strong>. Adorna con las <strong>especias del Medio Oriente</strong> restantes.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Desmenuza la mitad del <strong>queso azul</strong> (doble para 4p) y añádelo a un bol. Agrega el resto del <strong>perejil</strong> y los <strong>champiñones</strong>. Pica las <strong>nueces</strong> y añádelas también al bol. Mezcla todo bien. Divide el <strong>puré de coliflor</strong> entre los platos y coloca el <strong>filete de coliflor</strong> encima. Sirve las <strong>patatas</strong> a un lado y vierte la cobertura de <strong>queso azul</strong> con <strong>champiñones</strong> sobre los <strong>filetes de coliflor</strong>. Adorna con las <strong>especias del Medio Oriente</strong> restantes.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3586875fac468eeba84/step-97211050.jpg",
+          "path": "/6373c3586875fac468eeba84/step-97211050.jpg",
+          "caption": "Acaba y emplata",
+          "localImage": "/images/recipes/6373c3586875fac468eeba84-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT40M",
+  "uniqueRecipeCode": "ESVCLV0014-6",
+  "updatedAt": "2025-11-24T21:58:00+00:00",
+  "utensils": [
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e8671",
+      "type": "medium-pot",
+      "name": "Olla mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "197449eb-d944-4029-a4e3-2521beb65401",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/filete-de-coliflor-con-queso-azul-y-su-pure-6373c3586875fac468eeba84",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63bd9bcb6cc380016be793b8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9538",
+          "amount": 320,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6351196d34c59d5ef0faeb58",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d41033266d7be950d",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6352b13f0f0324d2cd53b1bd",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 0.5,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63bd9bcb6cc380016be793b8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9538",
+          "amount": 640,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6351196d34c59d5ef0faeb58",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d41033266d7be950d",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6352b13f0f0324d2cd53b1bd",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6373c3586875fac468eeba84-Filete de coliflor con queso azul y su puré.jpg",
+  "localCard": "/pdf/6373c3586875fac468eeba84-Filete de coliflor con queso azul y su puré.pdf"
+}

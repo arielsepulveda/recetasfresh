@@ -1,0 +1,646 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "67a36b2da9a9128d6ac95157",
+  "canonicalLink": "https://www.hellofresh.es/recipes/bol-de-ensalada-de-espinacas-con-hummus-de-remolacha-y-zanahorias-67a36b2da9a9128d6ac95157",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6849324bb9b1c59f93d88ab4-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "67a36b2da9a9128d6ac95157",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-11T07:37:48+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "La remolacha comenzó a usarse en países como Rusia, Polonia o Ucrania, donde se convirtió en un ingrediente clave en platos tradicionales, como el borsch: una sopa que aprovecha su color y dulzor natural. En esta ocasión, utilizamos este curioso ingrediente en dos preparaciones para ofrecerte un plato colorido y original.",
+  "descriptionHTML": "<p>La remolacha comenzó a usarse en países como Rusia, Polonia o Ucrania, donde se convirtió en un ingrediente clave en platos tradicionales, como el borsch: una sopa que aprovecha su color y dulzor natural. En esta ocasión, utilizamos este curioso ingrediente en dos preparaciones para ofrecerte un plato colorido y original.</p>",
+  "descriptionMarkdown": "La remolacha comenzó a usarse en países como Rusia, Polonia o Ucrania, donde se convirtió en un ingrediente clave en platos tradicionales, como el borsch: una sopa que aprovecha su color y dulzor natural. En esta ocasión, utilizamos este curioso ingrediente en dos preparaciones para ofrecerte un plato colorido y original.",
+  "difficulty": 1,
+  "favoritesCount": 4,
+  "headline": "con zanahoria asada y aderezo de tomillo",
+  "id": "6849324bb9b1c59f93d88ab4",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R11_W22_ES_ESVCQV39900-2_Main_R_high-1cd71a32.jpg",
+  "imagePath": "/image/HF_Y25_R11_W22_ES_ESVCQV39900-2_Main_R_high-1cd71a32.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "64be8562a1aa6db20ea1184f",
+      "uuid": "1b7902f0-ec25-52cb-ab2d-d03b64525b3e",
+      "name": "Remolacha cocida",
+      "type": "cooked-beetroot",
+      "slug": "remolacha-cocida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64be8562a1aa6db20ea1184f-590d549e.png",
+      "imagePath": "/ingredient/64be8562a1aa6db20ea1184f-590d549e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64be8562a1aa6db20ea1184f-Remolacha cocida.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff179",
+      "uuid": "ebd2f698-4242-5deb-b767-d529fb84b42f",
+      "name": "Aceite de sésamo",
+      "type": "sesame-oil",
+      "slug": "aceite-de-sesamo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff179-Aceite de sésamo.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6849324bb9b1c59f93d88ab4",
+  "name": "Ensalada de garbanzos asados con hummus de remolacha",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1903,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 455,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 32.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 4.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 42.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 17,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 15.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 14.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.31,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 16,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 534,
+  "slug": "ensalada-de-garbanzos-asados-con-hummus-de-remolacha",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nPela la zanahoria y córtala por la mitad a lo largo. Corta en bastones de 1 cm de grosor.\nEscurre los garbanzos.\nColoca la mitad de los garbanzos en la mitad una bandeja de horno con papel de horno y adereza con un chorrito de aceite, sal y pimienta.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en bastones de 1 cm de grosor.</li>\n<li>Escurre los <strong>garbanzos</strong>.</li>\n<li>Coloca la mitad de los <strong>garbanzos</strong> en la mitad una bandeja de horno con papel de horno y adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en bastones de 1 cm de grosor.</li>\n<li>Escurre los <strong>garbanzos</strong>.</li>\n<li>Coloca la mitad de los <strong>garbanzos</strong> en la mitad una bandeja de horno con papel de horno y adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b305379",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849324bb9b1c59f93d88ab4/step-f5f9f800.jpg",
+          "path": "/6849324bb9b1c59f93d88ab4/step-f5f9f800.jpg",
+          "caption": "Prepara los garbanzos",
+          "localImage": "/images/recipes/6849324bb9b1c59f93d88ab4-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCorta la remolacha en dados de 1-2 cm.\nAgrega la mitad de la remolacha cortada y la zanahoria en la otra mitad de la bandeja de horno. Adereza con un chorrito de aceite, sal y salpimienta.\nHornea a media altura 20-25 min o hasta que los garbanzos estén crujientes. Remueve a mitad de cocción.\n",
+      "instructionsHTML": "<ul>\n<li>Corta la <strong>remolacha</strong> en dados de 1-2 cm.</li>\n<li>Agrega la mitad de la <strong>remolacha</strong> cortada y la <strong>zanahoria</strong> en la otra mitad de la bandeja de horno. Adereza con un chorrito de <strong>aceite, sal</strong> y <strong>salpimienta.</strong></li>\n<li>Hornea a media altura 20-25 min o hasta que los <strong>garbanzos</strong> estén crujientes. Remueve a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta la <strong>remolacha</strong> en dados de 1-2 cm.</li>\n<li>Agrega la mitad de la <strong>remolacha</strong> cortada y la <strong>zanahoria</strong> en la otra mitad de la bandeja de horno. Adereza con un chorrito de <strong>aceite, sal</strong> y <strong>salpimienta.</strong></li>\n<li>Hornea a media altura 20-25 min o hasta que los <strong>garbanzos</strong> estén crujientes. Remueve a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849324bb9b1c59f93d88ab4/step-9d859f10.jpg",
+          "path": "/6849324bb9b1c59f93d88ab4/step-9d859f10.jpg",
+          "caption": "Horneas las verduras y garbanzos",
+          "localImage": "/images/recipes/6849324bb9b1c59f93d88ab4-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una jarra medidora, agrega la remolacha cortada y los garbanzos restantes, el aceite de sésamo, sal y pimienta.\nTritura con un túrmix hasta obtener un hummus de remolacha homogéneo.\nPrueba y rectifica de sal.\n",
+      "instructionsHTML": "<ul>\n<li>En una jarra medidora, agrega la <strong>remolacha</strong> cortada y los <strong>garbanzos</strong> restantes, el <strong>aceite de sésamo, sal</strong> y <strong>pimienta.</strong></li>\n<li>Tritura con un túrmix hasta obtener un <strong>hummus</strong> de <strong>remolacha</strong> homogéneo.</li>\n<li>Prueba y rectifica de <strong>sal.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una jarra medidora, agrega la <strong>remolacha</strong> cortada y los <strong>garbanzos</strong> restantes, el <strong>aceite de sésamo, sal</strong> y <strong>pimienta.</strong></li>\n<li>Tritura con un túrmix hasta obtener un <strong>hummus</strong> de <strong>remolacha</strong> homogéneo.</li>\n<li>Prueba y rectifica de <strong>sal.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849324bb9b1c59f93d88ab4/step-6f73f020.jpg",
+          "path": "/6849324bb9b1c59f93d88ab4/step-6f73f020.jpg",
+          "caption": "Prepara el hummus",
+          "localImage": "/images/recipes/6849324bb9b1c59f93d88ab4-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn un bol, mezcla el tomillo, un chorrito de aceite, sal y pimienta.\nEn una ensaladera, agrega las espinacas, los garbanzos asados, la remolacha asada, sal y pimienta. Mezcla.\nSirve el hummus de remolacha en un lado de los platos y la ensalada al otro lado. Coloca la zanahoria asada al medio.\nAgrega el aceite de tomillo sobre el plato al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol, mezcla el <strong>tomillo,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>En una ensaladera, agrega las <strong>espinacas,</strong> los <strong>garbanzos</strong> asados, la <strong>remolacha</strong> asada, <strong>sal</strong> y <strong>pimienta.</strong> Mezcla.</li>\n<li>Sirve el <strong>hummus</strong> de <strong>remolacha</strong> en un lado de los platos y la <strong>ensalada</strong> al otro lado. Coloca la <strong>zanahoria</strong> asada al medio.</li>\n<li>Agrega el <strong>aceite</strong> de <strong>tomillo</strong> sobre el plato al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol, mezcla el <strong>tomillo,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>En una ensaladera, agrega las <strong>espinacas,</strong> los <strong>garbanzos</strong> asados, la <strong>remolacha</strong> asada, <strong>sal</strong> y <strong>pimienta.</strong> Mezcla.</li>\n<li>Sirve el <strong>hummus</strong> de <strong>remolacha</strong> en un lado de los platos y la <strong>ensalada</strong> al otro lado. Coloca la <strong>zanahoria</strong> asada al medio.</li>\n<li>Agrega el <strong>aceite</strong> de <strong>tomillo</strong> sobre el plato al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849324bb9b1c59f93d88ab4/step-d08ba030.jpg",
+          "path": "/6849324bb9b1c59f93d88ab4/step-d08ba030.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6849324bb9b1c59f93d88ab4-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegano",
+      "slug": "vegano",
+      "colorHandle": "vegan",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305316",
+      "type": "low-carb",
+      "name": "<50g carbohidratos",
+      "slug": "50g-carbohidratos",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "61bcc274f0aa2a6e79272a5a",
+      "type": "extra-vegetables",
+      "name": ">250g de vegetales",
+      "slug": "250g-de-vegetales",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESVCQV39900-3",
+  "updatedAt": "2026-01-21T17:19:09+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "8961624a-f8f9-4586-9f4d-a194d8192d1b",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ensalada-de-garbanzos-asados-con-hummus-de-remolacha-6849324bb9b1c59f93d88ab4",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 380,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 760,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 1140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6849324bb9b1c59f93d88ab4-Ensalada de garbanzos asados con hummus de remolacha.jpg",
+  "localCard": "/pdf/6849324bb9b1c59f93d88ab4-Ensalada de garbanzos asados con hummus de remolacha.pdf"
+}

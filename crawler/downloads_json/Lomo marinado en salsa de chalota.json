@@ -1,0 +1,832 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": "652e4eaac88a1f5ba6f4ede2",
+  "canonicalLink": "https://www.hellofresh.es/recipes/lomo-salsa-pure-coliflor-calabacin-652e4eaac88a1f5ba6f4ede2",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66e14400a3dfaa8a349ab624-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "66b1cf17a1293bffe8e011a9",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-24T14:13:21+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Para aquellas personas que buscan un plato diferente pero accesible y equilibrado, hemos desarrollado este lomo de cerdo bañado en salsa casera de chalota, que acompañamos con calabacín salteado y un cremoso puré de patata. Prueba a empapar el puré con la salsa, ¡no te arrepentirás!",
+  "descriptionHTML": "<p>Para aquellas personas que buscan un plato diferente pero accesible y equilibrado, hemos desarrollado este lomo de cerdo bañado en salsa casera de chalota, que acompañamos con calabacín salteado y un cremoso puré de patata. Prueba a empapar el puré con la salsa, ¡no te arrepentirás!</p>",
+  "descriptionMarkdown": "Para aquellas personas que buscan un plato diferente pero accesible y equilibrado, hemos desarrollado este lomo de cerdo bañado en salsa casera de chalota, que acompañamos con calabacín salteado y un cremoso puré de patata. Prueba a empapar el puré con la salsa, ¡no te arrepentirás!",
+  "difficulty": 1,
+  "favoritesCount": 10,
+  "headline": "con puré de patata y calabacín salteado",
+  "id": "66e14400a3dfaa8a349ab624",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R13_W48_ES_ESCLCP30943-3_Main__6high-4f8fbcb7.jpg",
+  "imagePath": "/image/HF_Y24_R13_W48_ES_ESCLCP30943-3_Main__6high-4f8fbcb7.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba14",
+      "uuid": "b90fb973-7391-5db2-8d37-b49301e3ecf4",
+      "name": "Lomo de cerdo",
+      "type": "pork-loin-steak",
+      "slug": "lomo-de-cerdo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba14-5d1cb67a.png",
+      "imagePath": "/ingredient/63404376233160a36674ba14-5d1cb67a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba14-Lomo de cerdo.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "688c99bd1cc5cea712812434",
+      "uuid": "7952646c-6ac7-54f6-bfe7-a0d92844971b",
+      "name": "Hierbas italianas secas",
+      "type": "dried-italian-herbs",
+      "slug": "hierbas-italianas-secas",
+      "country": "ES",
+      "imageLink": null,
+      "imagePath": null,
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      }
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/66e14400a3dfaa8a349ab624",
+  "name": "Lomo marinado en salsa de chalota",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3254,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 778,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 64.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 17.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 45.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 27.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.22,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 21,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 514,
+  "slug": "lomo-marinado-en-salsa-de-chalota",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela y pica el ajo (ver cantidad en ingredientes). En un bol grande, mezcla la mostaza, la mitad de las especias italianas y el ajo. Agrega el lomo de cerdo al bol, salpimienta y mezcla para que quede cubierto por el aderezo. Reserva hasta el paso 6.\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En un bol grande, mezcla la <strong>mostaza</strong>, la mitad de las <strong>especias italianas</strong> y el <strong>ajo</strong>. Agrega el <strong>lomo de cerdo</strong> al bol, <strong>salpimienta</strong> y mezcla para que quede cubierto por el aderezo. Reserva hasta el paso 6.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En un bol grande, mezcla la <strong>mostaza</strong>, la mitad de las <strong>especias italianas</strong> y el <strong>ajo</strong>. Agrega el <strong>lomo de cerdo</strong> al bol, <strong>salpimienta</strong> y mezcla para que quede cubierto por el aderezo. Reserva hasta el paso 6.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14400a3dfaa8a349ab624/step-9129c500.jpg",
+          "path": "/66e14400a3dfaa8a349ab624/step-9129c500.jpg",
+          "caption": "Marina el lomo",
+          "localImage": "/images/recipes/66e14400a3dfaa8a349ab624-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela las patatas y córtalas en dados de 2 cm. En una olla, agrega las patatas, cúbrelas con agua y añade una pizca de sal. Lleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas. Pela y pica finamente la chalota. Retira los extremos del calabacín y córtalo por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 1 cm.",
+      "instructionsHTML": "<p>Pela las <strong>patatas</strong> y córtalas en dados de 2 cm. En una olla, agrega las patatas, cúbrelas con agua y añade una pizca de sal. Lleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas. Pela y pica finamente la <strong>chalota</strong>. Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 1 cm.</p>",
+      "instructionsMarkdown": "<p>Pela las <strong>patatas</strong> y córtalas en dados de 2 cm. En una olla, agrega las patatas, cúbrelas con agua y añade una pizca de sal. Lleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas. Pela y pica finamente la <strong>chalota</strong>. Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 1 cm.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14400a3dfaa8a349ab624/step-4cf33010.jpg",
+          "path": "/66e14400a3dfaa8a349ab624/step-4cf33010.jpg",
+          "caption": "Cocina las patatas",
+          "localImage": "/images/recipes/66e14400a3dfaa8a349ab624-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén, calienta un chorrito de aceite a fuego medio-alto. Luego, agrega el calabacín y saltea 3-4 min. Añade el orégano (ver cantidad en ingredientes), salpimienta y remueve para que quede aderezado. Retira y reserva. En la sartén, calienta a fuego medio la mantequilla (ver cantidad en ingredientes) o un chorrito de aceite. Luego, agrega la chalota y cocina 1-2 min, hasta que se dore.",
+      "instructionsHTML": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Luego, agrega el <strong>calabacín</strong> y saltea 3-4 min. Añade el <strong>orégano</strong> (ver cantidad en ingredientes), <strong>salpimienta</strong> y remueve para que quede aderezado. Retira y reserva. En la sartén, calienta a fuego medio la <strong>mantequilla</strong> (ver cantidad en ingredientes) o un chorrito de <strong>aceite</strong>. Luego, agrega la <strong>chalota</strong> y cocina 1-2 min, hasta que se dore.</p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Luego, agrega el <strong>calabacín</strong> y saltea 3-4 min. Añade el <strong>orégano</strong> (ver cantidad en ingredientes), <strong>salpimienta</strong> y remueve para que quede aderezado. Retira y reserva. En la sartén, calienta a fuego medio la <strong>mantequilla</strong> (ver cantidad en ingredientes) o un chorrito de <strong>aceite</strong>. Luego, agrega la <strong>chalota</strong> y cocina 1-2 min, hasta que se dore.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14400a3dfaa8a349ab624/step-4fee2a20.jpg",
+          "path": "/66e14400a3dfaa8a349ab624/step-4fee2a20.jpg",
+          "caption": "Saltea el calabacín",
+          "localImage": "/images/recipes/66e14400a3dfaa8a349ab624-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando la chalota esté dorada, añade a la sartén las especias italianas restantes, el caldo de pollo y el agua (ver cantidad en ingredientes) y cocina a fuego alto 1-2 min, mientras remueves con varillas, hasta que la salsa se reduzca. Cuando esté lista, agrega la salsa a una jarra medidora y tritura con ayuda del túrmix, hasta que quede una salsa lisa.",
+      "instructionsHTML": "<p>Cuando la <strong>chalota</strong> esté dorada, añade a la sartén las <strong>especias italianas</strong> restantes, el <strong>caldo de pollo</strong> y el <strong>agua</strong> (ver cantidad en ingredientes) y cocina a fuego alto 1-2 min, mientras remueves con varillas, hasta que la <strong>salsa</strong> se reduzca. Cuando esté lista, agrega la <strong>salsa</strong> a una jarra medidora y tritura con ayuda del túrmix, hasta que quede una <strong>salsa</strong> lisa.</p>",
+      "instructionsMarkdown": "<p>Cuando la <strong>chalota</strong> esté dorada, añade a la sartén las <strong>especias italianas</strong> restantes, el <strong>caldo de pollo</strong> y el <strong>agua</strong> (ver cantidad en ingredientes) y cocina a fuego alto 1-2 min, mientras remueves con varillas, hasta que la <strong>salsa</strong> se reduzca. Cuando esté lista, agrega la <strong>salsa</strong> a una jarra medidora y tritura con ayuda del túrmix, hasta que quede una <strong>salsa</strong> lisa.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0",
+        "57e2674fb7e8697d4b305384"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14400a3dfaa8a349ab624/step-051a2530.jpg",
+          "path": "/66e14400a3dfaa8a349ab624/step-051a2530.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/66e14400a3dfaa8a349ab624-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando las patatas estén listas, escúrrelas con ayuda de un colador. Vuelve a poner las patatas en la olla y añade mantequilla al gusto o un chorrito de aceite, sal y pimienta al gusto. Con la ayuda de un pasapurés o un tenedor, aplasta las patatas hasta conseguir un puré. Resérvalo en la olla tapada.",
+      "instructionsHTML": "<p>Cuando las <strong>patatas</strong> estén listas, escúrrelas con ayuda de un colador. Vuelve a poner las <strong>patatas</strong> en la olla y añade <strong>mantequilla</strong> al gusto o un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong> al gusto. Con la ayuda de un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta conseguir un <strong>puré</strong>. Resérvalo en la olla tapada.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>patatas</strong> estén listas, escúrrelas con ayuda de un colador. Vuelve a poner las <strong>patatas</strong> en la olla y añade <strong>mantequilla</strong> al gusto o un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong> al gusto. Con la ayuda de un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta conseguir un <strong>puré</strong>. Resérvalo en la olla tapada.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14400a3dfaa8a349ab624/step-47094b40.jpg",
+          "path": "/66e14400a3dfaa8a349ab624/step-47094b40.jpg",
+          "caption": "Prepara el puré",
+          "localImage": "/images/recipes/66e14400a3dfaa8a349ab624-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "En la sartén, calienta un chorrito de aceite a fuego medio-alto. Luego, agrega el lomo marinado y cocina 1-2 min por lado. Sirve el puré de patata en platos junto al calabacín salteado. Finalmente, agrega el lomo marinado a los platos y cubre con la salsa casera de chalota.",
+      "instructionsHTML": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Luego, agrega el <strong>lomo marinado</strong> y cocina 1-2 min por lado. Sirve el <strong>puré de patata</strong> en platos junto al <strong>calabacín</strong> salteado. Finalmente, agrega el <strong>lomo marinado</strong> a los platos y cubre con la <strong>salsa casera de chalota</strong>.</p>",
+      "instructionsMarkdown": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Luego, agrega el <strong>lomo marinado</strong> y cocina 1-2 min por lado. Sirve el <strong>puré de patata</strong> en platos junto al <strong>calabacín</strong> salteado. Finalmente, agrega el <strong>lomo marinado</strong> a los platos y cubre con la <strong>salsa casera de chalota</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14400a3dfaa8a349ab624/step-653e1550.jpg",
+          "path": "/66e14400a3dfaa8a349ab624/step-653e1550.jpg",
+          "caption": "Cocina el lomo y emplata",
+          "localImage": "/images/recipes/66e14400a3dfaa8a349ab624-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCLCP30943-3",
+  "updatedAt": "2026-01-21T14:00:21+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    }
+  ],
+  "uuid": "baea8440-0b4f-4663-a603-ed8ad42a6ae7",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/lomo-marinado-en-salsa-de-chalota-66e14400a3dfaa8a349ab624",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c99bd1cc5cea712812434",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c99bd1cc5cea712812434",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 250,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "688c99bd1cc5cea712812434",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 9,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 450,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66e14400a3dfaa8a349ab624-Lomo marinado en salsa de chalota.jpg",
+  "localCard": "/pdf/66e14400a3dfaa8a349ab624-Lomo marinado en salsa de chalota.pdf",
+  "recipeStatus": {
+    "recipe": "Lomo marinado en salsa de chalota",
+    "url": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R13_W48_ES_ESCLCP30943-3_Main__6high-4f8fbcb7.jpg",
+    "success": 19,
+    "missing": [],
+    "status": "OK",
+    "synced_at": "2026-03-21T23:19:31.747Z"
+  }
+}

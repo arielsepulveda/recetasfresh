@@ -1,0 +1,650 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": "640f514cb1bd442c3cd15e1c",
+  "canonicalLink": "https://www.hellofresh.es/recipes/muslos-de-pollo-al-horno-a-la-barbacoa-640f514cb1bd442c3cd15e1c",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/65b1399bd1da3988cdd84f41.pdf",
+  "category": null,
+  "clonedFrom": "6347ef92bb36093c5499794c",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-03-14T07:29:00+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Americana",
+      "slug": "americana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg"
+    }
+  ],
+  "description": "Para los amantes del sabor tejano a barbacoa, hemos creado esta receta, en la que el pollo, las verduras y las patatas asadas van aderezadas con un sazón que hará brillar los ingredientes. Por si fuera poco, acompañamos el plato con una crema de salsa barbacoa, para que agregues y combines con el resto de ingredientes a tu gusto.",
+  "descriptionHTML": "<p>Para los amantes del sabor tejano a barbacoa, hemos creado esta receta, en la que el pollo, las verduras y las patatas asadas van aderezadas con un sazón que hará brillar los ingredientes. Por si fuera poco, acompañamos el plato con una crema de salsa barbacoa, para que agregues y combines con el resto de ingredientes a tu gusto.</p>",
+  "descriptionMarkdown": "Para los amantes del sabor tejano a barbacoa, hemos creado esta receta, en la que el pollo, las verduras y las patatas asadas van aderezadas con un sazón que hará brillar los ingredientes. Por si fuera poco, acompañamos el plato con una crema de salsa barbacoa, para que agregues y combines con el resto de ingredientes a tu gusto.",
+  "difficulty": 1,
+  "favoritesCount": 19,
+  "headline": "con verduras y patatas al horno",
+  "id": "65b1399bd1da3988cdd84f41",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R07_W30_ES_ESFC0134-5_Main_6_Replace_cutted_chicken_edit_high-a1f3c495.jpg",
+  "imagePath": "/image/HF_Y23_R07_W30_ES_ESFC0134-5_Main_6_Replace_cutted_chicken_edit_high-a1f3c495.jpg",
+  "ingredients": [
+    {
+      "id": "6340436e233160a36674b9f9",
+      "uuid": "43cf496e-b81e-45b7-977d-ba85227fed76",
+      "name": "Muslos de pollo deshuesados",
+      "type": "chicken-thighs",
+      "slug": "muslos-de-pollo-deshuesados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9f9-Muslos de pollo deshuesados.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404376233160a36674ba1b",
+      "uuid": "6b9b5891-6a0f-43b7-abac-f1d515dd2d91",
+      "name": "Pimiento rojo",
+      "type": "red-bell-pepper",
+      "slug": "pimiento-rojo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1b-Pimiento rojo.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "6340436c2268bc1bff0d3ca3",
+      "uuid": "f75c0a34-b8c9-4c80-b8f9-62d711a18d61",
+      "name": "Sazonador barbacoa",
+      "type": "bbq-rub",
+      "slug": "sazonador-barbacoa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c2268bc1bff0d3ca3-13b5238b.png",
+      "imagePath": "/ingredient/6340436c2268bc1bff0d3ca3-13b5238b.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c2268bc1bff0d3ca3-Sazonador barbacoa.png"
+    },
+    {
+      "id": "63497564ebf08332f1bff174",
+      "uuid": "b0bf78aa-aee2-54a8-9729-c47d4b7bb10a",
+      "name": "Salsa barbacoa",
+      "type": "bbq-sauce",
+      "slug": "salsa-barbacoa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497564ebf08332f1bff174-345e77db.png",
+      "imagePath": "/ingredient/63497564ebf08332f1bff174-345e77db.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497564ebf08332f1bff174-Salsa barbacoa.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/65b1399bd1da3988cdd84f41",
+  "name": "Muslos de pollo asados a la barbacoa",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2250,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 538,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 10.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 48.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 12.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 32.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.16,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 17,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 595,
+  "slug": "pollo-asado-barbacoa-verduras-patatas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En un bol grande, agrega los muslos de pollo, la mitad del sazonador barbacoa, un chorrito de aceite, sal y pimienta. Con las manos, extiende el aderezo por el pollo y reserva hasta el paso 4.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En un bol grande, agrega los <strong>muslos de pollo</strong>, la mitad del <strong>sazonador barbacoa, </strong>un chorrito de<strong> aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Con las manos, extiende el aderezo por el <strong>pollo</strong> y reserva hasta el paso 4.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En un bol grande, agrega los <strong>muslos de pollo</strong>, la mitad del <strong>sazonador barbacoa, </strong>un chorrito de<strong> aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Con las manos, extiende el aderezo por el <strong>pollo</strong> y reserva hasta el paso 4.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b1399bd1da3988cdd84f41/step-73aca900.jpg",
+          "path": "/65b1399bd1da3988cdd84f41/step-73aca900.jpg",
+          "caption": "Marina el pollo",
+          "localImage": "/images/recipes/65b1399bd1da3988cdd84f41-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta las patatas por la mitad a lo largo, luego, apoya la patata por la parte plana y corta en gajos de 1-2 cm de grosor. Corta el pimiento por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 2 cm. Retira los extremos del calabacín y córtalo por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm.",
+      "instructionsHTML": "<p dir=\"ltr\">Corta las <strong>patatas</strong> por la mitad a lo largo, luego, apoya la <strong>patata</strong> por la parte plana y corta en gajos de 1-2 cm de grosor. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 2 cm. Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Corta las <strong>patatas</strong> por la mitad a lo largo, luego, apoya la <strong>patata</strong> por la parte plana y corta en gajos de 1-2 cm de grosor. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 2 cm. Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b1399bd1da3988cdd84f41/step-0bc91a10.jpg",
+          "path": "/65b1399bd1da3988cdd84f41/step-0bc91a10.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/65b1399bd1da3988cdd84f41-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Coloca el calabacín, el pimiento y las patatas en una bandeja de horno con papel de horno y agrega el sazonador barbacoa restante, un chorrito de aceite, sal y pimienta. Mezcla para que quede bien aderezado y hornea durante 10 min.",
+      "instructionsHTML": "<p>Coloca el <strong>calabacín</strong>, el <strong>pimiento</strong> y las <strong>patatas</strong> en una bandeja de horno con papel de horno y agrega el <strong>sazonador barbacoa</strong> restante, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Mezcla para que quede bien aderezado y hornea durante 10 min.</p>",
+      "instructionsMarkdown": "<p>Coloca el <strong>calabacín</strong>, el <strong>pimiento</strong> y las <strong>patatas</strong> en una bandeja de horno con papel de horno y agrega el <strong>sazonador barbacoa</strong> restante, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Mezcla para que quede bien aderezado y hornea durante 10 min.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b1399bd1da3988cdd84f41/step-c1c2ab20.jpg",
+          "path": "/65b1399bd1da3988cdd84f41/step-c1c2ab20.jpg",
+          "caption": "Hornea las verduras",
+          "localImage": "/images/recipes/65b1399bd1da3988cdd84f41-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando las verduras se hayan horneado 10 min, dales la vuelta. Luego, agrega el pollo a la misma bandeja de horno, sobre las verduras, y cocina 15-17 min más, hasta que el pollo esté dorado y bien cocinado por dentro. Da la vuelta a mitad de cocción.",
+      "instructionsHTML": "<p>Cuando las <strong>verduras</strong> se hayan horneado 10 min, dales la vuelta. Luego, agrega el <strong>pollo</strong> a la misma bandeja de horno, sobre las <strong>verduras</strong>, y cocina 15-17 min más, hasta que el <strong>pollo</strong> esté dorado y bien cocinado por dentro. Da la vuelta a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>verduras</strong> se hayan horneado 10 min, dales la vuelta. Luego, agrega el <strong>pollo</strong> a la misma bandeja de horno, sobre las <strong>verduras</strong>, y cocina 15-17 min más, hasta que el <strong>pollo</strong> esté dorado y bien cocinado por dentro. Da la vuelta a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b1399bd1da3988cdd84f41/step-1a97d730.jpg",
+          "path": "/65b1399bd1da3988cdd84f41/step-1a97d730.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/65b1399bd1da3988cdd84f41-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En un bol pequeño, agrega la salsa barbacoa y el queso crema. Salpimienta, agrega un chorrito de aceite y remueve bien con ayuda de unas varillas, de forma que quede una salsa lisa.",
+      "instructionsHTML": "<p>En un bol pequeño, agrega la <strong>salsa barbacoa</strong> y el <strong>queso crema</strong>. <strong>Salpimienta</strong>, agrega un chorrito de <strong>aceite</strong> y remueve bien con ayuda de unas varillas, de forma que quede una <strong>salsa</strong> lisa.</p>",
+      "instructionsMarkdown": "<p>En un bol pequeño, agrega la <strong>salsa barbacoa</strong> y el <strong>queso crema</strong>. <strong>Salpimienta</strong>, agrega un chorrito de <strong>aceite</strong> y remueve bien con ayuda de unas varillas, de forma que quede una <strong>salsa</strong> lisa.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b1399bd1da3988cdd84f41/step-ff231b40.jpg",
+          "path": "/65b1399bd1da3988cdd84f41/step-ff231b40.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/65b1399bd1da3988cdd84f41-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Divide el pollo a la barbacoa, las verduras y las patatas asadas entre los platos. Sirve la crema de salsa barbacoa a un lado para acompañar tu plato al gusto.",
+      "instructionsHTML": "<p>Divide el <strong>pollo a la barbacoa</strong>, las <strong>verduras</strong> y las <strong>patatas asadas</strong> entre los platos. Sirve la <strong>crema de</strong> <strong>salsa barbacoa</strong> a un lado para acompañar tu plato al gusto.</p>",
+      "instructionsMarkdown": "<p>Divide el <strong>pollo a la barbacoa</strong>, las <strong>verduras</strong> y las <strong>patatas asadas</strong> entre los platos. Sirve la <strong>crema de</strong> <strong>salsa barbacoa</strong> a un lado para acompañar tu plato al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b1399bd1da3988cdd84f41/step-110aab50.jpg",
+          "path": "/65b1399bd1da3988cdd84f41/step-110aab50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/65b1399bd1da3988cdd84f41-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT10M",
+  "uniqueRecipeCode": "ESFC0134-13",
+  "updatedAt": "2026-01-21T14:00:04+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "67cb780a-17c0-4f3f-9f12-98f903d2d237",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-asado-barbacoa-verduras-patatas-65b1399bd1da3988cdd84f41",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca3",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63497564ebf08332f1bff174",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 560,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca3",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63497564ebf08332f1bff174",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 4,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/65b1399bd1da3988cdd84f41-Muslos de pollo asados a la barbacoa.jpg",
+  "localCard": "/pdf/65b1399bd1da3988cdd84f41-Muslos de pollo asados a la barbacoa.pdf"
+}

@@ -1,0 +1,635 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f4",
+      "name": "Crustáceos",
+      "type": "crustaceans",
+      "slug": "crustaceos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5de91db7c7d1a818111194b2",
+      "name": "Apio",
+      "type": "traces-of-celery",
+      "slug": "traces-of-apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": "67d149b580c6b791e1eb5add",
+  "canonicalLink": "https://www.hellofresh.es/recipes/gambas-con-perejil-acompanadas-de-verduras-y-arroz-67d149b580c6b791e1eb5add",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/682c9af5c4a648afcad03616-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "67d149b580c6b791e1eb5add",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-05-20T15:08:38+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "¿Tienes 15 minutos y un apetito voraz por sabores asiáticos? No solo te ofrecemos una receta tan rápida y que podrá calmar esas ansias de tu paladar, sino que además la preparamos con langostinos, un mix de verduras, muy conveniente para que no inviertas tiempo cortando, y un aderezo de soja.",
+  "descriptionHTML": "<p>¿Tienes 15 minutos y un apetito voraz por sabores asiáticos? No solo te ofrecemos una receta tan rápida y que podrá calmar esas ansias de tu paladar, sino que además la preparamos con langostinos, un mix de verduras, muy conveniente para que no inviertas tiempo cortando, y un aderezo de soja.</p>",
+  "descriptionMarkdown": "¿Tienes 15 minutos y un apetito voraz por sabores asiáticos? No solo te ofrecemos una receta tan rápida y que podrá calmar esas ansias de tu paladar, sino que además la preparamos con langostinos, un mix de verduras, muy conveniente para que no inviertas tiempo cortando, y un aderezo de soja.",
+  "difficulty": 1,
+  "favoritesCount": 12,
+  "headline": "con arroz largo",
+  "id": "682c9af5c4a648afcad03616",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R14_W27_ES_ESCQS41745-2_edit_Main_high-fe52194c.jpg",
+  "imagePath": "/image/HF_Y25_R14_W27_ES_ESCQS41745-2_edit_Main_high-fe52194c.jpg",
+  "ingredients": [
+    {
+      "id": "66aa10bd6afd9575ba9cc57d",
+      "uuid": "b827494b-b657-406f-8557-c5d9b08d31f2",
+      "name": "Arroz largo precocido",
+      "type": "long-rice-precooked",
+      "slug": "arroz-largo-precocido",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/66aa10bd6afd9575ba9cc57d-252037de.png",
+      "imagePath": "/ingredient/66aa10bd6afd9575ba9cc57d-252037de.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/66aa10bd6afd9575ba9cc57d-Arroz largo precocido.png"
+    },
+    {
+      "id": "687994717299475a5b057413",
+      "uuid": "59f7147d-a8af-5b80-b8fb-14d7319a4514",
+      "name": "Mix de vegetales",
+      "type": "vegetable-mix",
+      "slug": "mix-de-vegetales",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/668d4e951185a745c3dae83b-267b8adf.png",
+      "imagePath": "/ingredient/668d4e951185a745c3dae83b-267b8adf.png",
+      "shipped": true,
+      "allergens": [
+        "5de91db7c7d1a818111194b2",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/687994717299475a5b057413-Mix de vegetales.png"
+    },
+    {
+      "id": "63724760422e0b6ac4f85686",
+      "uuid": "0b18a29e-c9df-5b77-903e-c2e60206b65a",
+      "name": "Langostinos",
+      "type": "shrimps",
+      "slug": "langostinos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "imagePath": "/ingredient/63724760422e0b6ac4f85686-c97fdf9a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f4"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63724760422e0b6ac4f85686-Langostinos.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Exprés",
+    "handle": "super-quick",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/682c9af5c4a648afcad03616",
+  "name": "Bol de langostinos y verduras con vinagreta de soja",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1939,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 463,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 32.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 4.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 48.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 6.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 20.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.65,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT15M",
+  "promotion": null,
+  "ratingsCount": 29,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 400,
+  "slug": "bol-de-langostinos-y-verduras-con-vinagreta-de-soja",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nEn una sartén, calienta un chorrito de aceite a fuego medio. Agrega el arroz precocido y unas gotitas de agua y cocina 2 min, removiendo.\nRetira de la sartén.\n",
+      "instructionsHTML": "<p><strong>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</strong></p>\n<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>arroz precocido</strong> y unas gotitas de <strong>agua</strong> y cocina 2 min, removiendo.</li>\n<li>Retira de la sartén.</li>\n</ul>",
+      "instructionsMarkdown": "<p><strong>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</strong></p>\n<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>arroz precocido</strong> y unas gotitas de <strong>agua</strong> y cocina 2 min, removiendo.</li>\n<li>Retira de la sartén.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9af5c4a648afcad03616/step-70605900.jpg",
+          "path": "/682c9af5c4a648afcad03616/step-70605900.jpg",
+          "caption": "Calienta el arroz",
+          "localImage": "/images/recipes/682c9af5c4a648afcad03616-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio. Agrega el mix de verduras, salpimienta y cocina 6-8 min, removiendo.\nRetira de la sartén y reserva.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>mix de verduras</strong>, <strong>salpimienta</strong> y cocina 6-8 min, removiendo.</li>\n<li>Retira de la sartén y reserva.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>mix de verduras</strong>, <strong>salpimienta</strong> y cocina 6-8 min, removiendo.</li>\n<li>Retira de la sartén y reserva.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9af5c4a648afcad03616/step-0a0a3c10.jpg",
+          "path": "/682c9af5c4a648afcad03616/step-0a0a3c10.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/682c9af5c4a648afcad03616-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nPela y ralla el ajo.\nSeca y salpimienta los langostinos.\nEn la sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min. \nAgrega los langostinos y cocina 1-2 min, hasta que se doren.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.",
+      "instructionsHTML": "<ul>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Seca y <strong>salpimienta</strong> los <strong>langostinos</strong>.</li>\n<li>En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min. </li>\n<li>Agrega los <strong>langostinos</strong> y cocina 1-2 min, hasta que se doren.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Seca y <strong>salpimienta</strong> los <strong>langostinos</strong>.</li>\n<li>En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min. </li>\n<li>Agrega los <strong>langostinos</strong> y cocina 1-2 min, hasta que se doren.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9af5c4a648afcad03616/step-32a96d20.jpg",
+          "path": "/682c9af5c4a648afcad03616/step-32a96d20.jpg",
+          "caption": "Cocina los langostinos",
+          "localImage": "/images/recipes/682c9af5c4a648afcad03616-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn un bol, mezcla con varillas la salsa de soja y un chorrito generoso de aceite.\nSirve el arroz, las verduras y langostinos en platos, por separado.\nAgrega la vinagreta de soja al gusto sobre el plato.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol, mezcla con varillas la <strong>salsa de soja</strong> y un chorrito generoso de <strong>aceite.</strong></li>\n<li>Sirve el <strong>arroz,</strong> las <strong>verduras</strong> y <strong>langostinos</strong> en platos, por separado.</li>\n<li>Agrega la <strong>vinagreta de soja</strong> al gusto sobre el plato.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol, mezcla con varillas la <strong>salsa de soja</strong> y un chorrito generoso de <strong>aceite.</strong></li>\n<li>Sirve el <strong>arroz,</strong> las <strong>verduras</strong> y <strong>langostinos</strong> en platos, por separado.</li>\n<li>Agrega la <strong>vinagreta de soja</strong> al gusto sobre el plato.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9af5c4a648afcad03616/step-5c140830.jpg",
+          "path": "/682c9af5c4a648afcad03616/step-5c140830.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/682c9af5c4a648afcad03616-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "62163c70143a35226e03d85e",
+      "type": "super-quick",
+      "name": "Exprés",
+      "slug": "expres",
+      "colorHandle": "quickPrep",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305316",
+      "type": "low-carb",
+      "name": "<50g carbohidratos",
+      "slug": "50g-carbohidratos",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCQS41745-4",
+  "updatedAt": "2026-01-20T20:19:16+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "70186e04-2260-4514-b97d-a7ab74def5f9",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/bol-de-langostinos-y-verduras-con-vinagreta-de-soja-682c9af5c4a648afcad03616",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "66aa10bd6afd9575ba9cc57d",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "687994717299475a5b057413",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "66aa10bd6afd9575ba9cc57d",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "687994717299475a5b057413",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "66aa10bd6afd9575ba9cc57d",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "687994717299475a5b057413",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63724760422e0b6ac4f85686",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/682c9af5c4a648afcad03616-Bol de langostinos y verduras con vinagreta de soja.jpg",
+  "localCard": "/pdf/682c9af5c4a648afcad03616-Bol de langostinos y verduras con vinagreta de soja.pdf"
+}

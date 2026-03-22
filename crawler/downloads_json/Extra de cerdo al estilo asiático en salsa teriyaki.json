@@ -1,0 +1,942 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f8",
+      "name": "Cacahuetes",
+      "type": "peanuts",
+      "slug": "cacahuetes",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3,
+  "canonical": "63aaf2e992c25465fb350cd2",
+  "canonicalLink": "https://www.hellofresh.es/recipes/cerdo-al-estilo-asiatico-en-salsa-teriyaki-63aaf2e992c25465fb350cd2",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "68871ecd1cc5cea712803bf4",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-06T10:27:42+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "Si tu cuerpo te pide comida asiática, ya no tienes por qué buscar un restaurante. Puedes seguir nuestra receta y cocinar un cerdo con salsa teriyaki y servirlo sobre una cama de arroz basmati. Cuando termines tu plato espolvoreando cacahuetes troceados encima, te darás cuenta de lo fácil que es con HelloFresh.",
+  "descriptionHTML": "<p>Si tu cuerpo te pide comida asiática, ya no tienes por qué buscar un restaurante. Puedes seguir nuestra receta y cocinar un cerdo con salsa teriyaki y servirlo sobre una cama de arroz basmati. Cuando termines tu plato espolvoreando cacahuetes troceados encima, te darás cuenta de lo fácil que es con HelloFresh.</p>",
+  "descriptionMarkdown": "Si tu cuerpo te pide comida asiática, ya no tienes por qué buscar un restaurante. Puedes seguir nuestra receta y cocinar un cerdo con salsa teriyaki y servirlo sobre una cama de arroz basmati. Cuando termines tu plato espolvoreando cacahuetes troceados encima, te darás cuenta de lo fácil que es con HelloFresh.",
+  "difficulty": 1,
+  "favoritesCount": 10,
+  "headline": "con arroz, pak choi, cacahuetes y cilantro",
+  "id": "68932e1ecc90c7911daedbec",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/Q3_MOD_HF_Y20_R13_W37_ES_ESCLQFP0128_PHOTO05_Main__7high-91d07726.jpg",
+  "imagePath": "/image/Q3_MOD_HF_Y20_R13_W37_ES_ESCLQFP0128_PHOTO05_Main__7high-91d07726.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "6340437541033266d7be9524",
+      "uuid": "f76c5fff-a3b7-56d0-b342-50d61ca74613",
+      "name": "Pak choi",
+      "type": "pak-choi",
+      "slug": "pak-choi",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437541033266d7be9524-0efffda2.jpg",
+      "imagePath": "/ingredient/6340437541033266d7be9524-0efffda2.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437541033266d7be9524-Pak choi.jpg"
+    },
+    {
+      "id": "636bc5ee371ed3efb1da61da",
+      "uuid": "14c309a3-f0b6-54cd-bd8a-8616ef0b8482",
+      "name": "Cacahuetes salados",
+      "type": "salted-peanuts",
+      "slug": "cacahuetes-salados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636bc5ee371ed3efb1da61da-1367b68c.png",
+      "imagePath": "/ingredient/636bc5ee371ed3efb1da61da-1367b68c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f8",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636bc5ee371ed3efb1da61da-Cacahuetes salados.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "6855fa5f5baaf2916c050ba3",
+      "uuid": "bcfa42c0-e029-5d13-8331-0f471d6c79f8",
+      "name": "Salsa teriyaki",
+      "type": "teriyaki-sauce",
+      "slug": "salsa-teriyaki",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9533-86721cd3.png",
+      "imagePath": "/ingredient/6340437941033266d7be9533-86721cd3.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6855fa5f5baaf2916c050ba3-Salsa teriyaki.png"
+    },
+    {
+      "id": "64a7ea4148c7b9302c331446",
+      "uuid": "c732f542-c4b9-4bbd-b5bf-edc5078538be",
+      "name": "Cabeza de lomo",
+      "type": "pork-loin-head",
+      "slug": "cabeza-de-lomo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64a7ea4148c7b9302c331446-c04a2217.png",
+      "imagePath": "/ingredient/64a7ea4148c7b9302c331446-c04a2217.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64a7ea4148c7b9302c331446-Cabeza de lomo.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68932e1ecc90c7911daedbec",
+  "name": "Extra de cerdo al estilo asiático en salsa teriyaki",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4904,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1172,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 69.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 21.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 77.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 11.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0.3,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.31,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 2,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 547,
+  "slug": "extra-de-cerdo-al-estilo-asiatico-en-salsa-teriyaki",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nLlena un cazo con el agua para el arroz, añade el arroz y sal y lleva a ebullición con el cazo tapado.\nCuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.\nLuego, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Llena un cazo con el <strong>agua para el arroz</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li dir=\"ltr\">Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li dir=\"ltr\">Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Llena un cazo con el <strong>agua para el arroz</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li dir=\"ltr\">Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li dir=\"ltr\">Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68932e1ecc90c7911daedbec/step-6bc49800.jpg",
+          "path": "/68932e1ecc90c7911daedbec/step-6bc49800.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/68932e1ecc90c7911daedbec-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCorta el pak choi en trozos de 2 cm.\nPica los cacahuetes.\nDeshoja y pica el cilantro.\nRalla la piel de la lima y córtala en gajos.\nPela y ralla el ajo y el jengibre.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Corta el <strong>pak choi</strong> en trozos de 2 cm.</li>\n<li dir=\"ltr\">Pica los <strong>cacahuetes.</strong></li>\n<li dir=\"ltr\">Deshoja y pica el <strong>cilantro</strong>.</li>\n<li dir=\"ltr\">Ralla la piel de la <strong>lima</strong> y córtala en gajos.</li>\n<li dir=\"ltr\">Pela y <span><span>ralla</span> </span>el <strong>ajo</strong> y el <strong>jengibre</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Corta el <strong>pak choi</strong> en trozos de 2 cm.</li>\n<li dir=\"ltr\">Pica los <strong>cacahuetes.</strong></li>\n<li dir=\"ltr\">Deshoja y pica el <strong>cilantro</strong>.</li>\n<li dir=\"ltr\">Ralla la piel de la <strong>lima</strong> y córtala en gajos.</li>\n<li dir=\"ltr\">Pela y <span><span>ralla</span> </span>el <strong>ajo</strong> y el <strong>jengibre</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68932e1ecc90c7911daedbec/step-e5406f10.jpg",
+          "path": "/68932e1ecc90c7911daedbec/step-e5406f10.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/68932e1ecc90c7911daedbec-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn un bol, mezcla el ajo, el jengibre, la salsa teriyaki, el zumo de un gajo de lima por persona y agua para la salsa.\nCorta la cabeza de lomo en dados y cúbrelo con la harina.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En un bol, mezcla el <strong>ajo</strong>, el <strong>jengibre</strong>, la <strong>salsa teriyaki</strong>, el zumo de un gajo de <strong>lima</strong> por persona y <strong>agua para la salsa</strong>.</li>\n<li dir=\"ltr\">Corta la <strong>cabeza de lomo</strong><span> en dados y cúbrelo con la</span> <strong>harina</strong>.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En un bol, mezcla el <strong>ajo</strong>, el <strong>jengibre</strong>, la <strong>salsa teriyaki</strong>, el zumo de un gajo de <strong>lima</strong> por persona y <strong>agua para la salsa</strong>.</li>\n<li dir=\"ltr\">Corta la <strong>cabeza de lomo</strong><span> en dados y cúbrelo con la</span> <strong>harina</strong>.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68932e1ecc90c7911daedbec/step-faea9720.jpg",
+          "path": "/68932e1ecc90c7911daedbec/step-faea9720.jpg",
+          "caption": "Elabora la salsa",
+          "localImage": "/images/recipes/68932e1ecc90c7911daedbec-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego alto. Agrega el pak choi, salpimienta y saltea 3-4 min o hasta que se ablande, removiendo. Retira cuando esté listo.\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Saltea el cerdo 4-5 min o hasta que se dore.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego alto. Agrega el <strong>pak choi</strong>, <strong>salpimienta</strong> y saltea 3-4 min o hasta que se ablande, <span>removiendo. Retira cuando esté listo.</span></li>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Saltea el<strong> cerdo </strong>4-5 min o hasta que se dore.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego alto. Agrega el <strong>pak choi</strong>, <strong>salpimienta</strong> y saltea 3-4 min o hasta que se ablande, <span>removiendo. Retira cuando esté listo.</span></li>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Saltea el<strong> cerdo </strong>4-5 min o hasta que se dore.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68932e1ecc90c7911daedbec/step-41dc6830.jpg",
+          "path": "/68932e1ecc90c7911daedbec/step-41dc6830.jpg",
+          "caption": "Saltea las verduras y el cerdo",
+          "localImage": "/images/recipes/68932e1ecc90c7911daedbec-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando el cerdo esté dorado, reduce a fuego medio y agrega la salsa a la sartén. Cocina 2-3 min, removiendo.\nMientras tanto, en el cazo con el arroz, agrega la ralladura de lima, el pak choi, la mitad del cilantro y la mitad de los cacahuetes. Salpimienta y remueve.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Cuando el <strong>cerdo</strong> esté dorado, reduce a fuego medio y agrega la <strong>salsa</strong> a la sartén. Cocina 2-3 min, removiendo.</li>\n<li dir=\"ltr\">Mientras tanto, en el cazo con el <strong>arroz</strong>, agrega la ralladura de <strong>lima</strong>, el <strong>pak choi</strong>, la mitad del <strong>cilantro</strong> y la mitad de los <strong>cacahuetes</strong>. <strong>Salpimienta</strong> y remueve.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Cuando el <strong>cerdo</strong> esté dorado, reduce a fuego medio y agrega la <strong>salsa</strong> a la sartén. Cocina 2-3 min, removiendo.</li>\n<li dir=\"ltr\">Mientras tanto, en el cazo con el <strong>arroz</strong>, agrega la ralladura de <strong>lima</strong>, el <strong>pak choi</strong>, la mitad del <strong>cilantro</strong> y la mitad de los <strong>cacahuetes</strong>. <strong>Salpimienta</strong> y remueve.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68932e1ecc90c7911daedbec/step-30665340.jpg",
+          "path": "/68932e1ecc90c7911daedbec/step-30665340.jpg",
+          "caption": "Añade la salsa y cocina",
+          "localImage": "/images/recipes/68932e1ecc90c7911daedbec-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el arroz con pak choi en la base de los platos y cubre con el cerdo estilo asiático.\nVierte encima la salsa que haya quedado en la sartén y agrega los cacahuetes picados y el cilantro restante al gusto.\nAgrega los gajos de lima restantes a un lado para exprimir.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>arroz</strong> con <strong>pak choi</strong> en la base de los platos y cubre con el <strong>cerdo estilo asiático</strong>.</li>\n<li>Vierte encima la <strong>salsa</strong> que haya quedado en la sartén y agrega los <strong>cacahuetes</strong> picados y el <strong>cilantro</strong> restante al gusto.</li>\n<li>Agrega los gajos de <strong>lima</strong> restantes a un lado para exprimir.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>arroz</strong> con <strong>pak choi</strong> en la base de los platos y cubre con el <strong>cerdo estilo asiático</strong>.</li>\n<li>Vierte encima la <strong>salsa</strong> que haya quedado en la sartén y agrega los <strong>cacahuetes</strong> picados y el <strong>cilantro</strong> restante al gusto.</li>\n<li>Agrega los gajos de <strong>lima</strong> restantes a un lado para exprimir.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68932e1ecc90c7911daedbec/step-82bd1850.jpg",
+          "path": "/68932e1ecc90c7911daedbec/step-82bd1850.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/68932e1ecc90c7911daedbec-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCLQFP0128-DP-1-2",
+  "updatedAt": "2025-11-13T22:42:29+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "a1e38a35-560b-458b-bcfe-16d007dca58d",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/extra-de-cerdo-al-estilo-asiatico-en-salsa-teriyaki-68932e1ecc90c7911daedbec",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437541033266d7be9524",
+          "amount": 110,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6855fa5f5baaf2916c050ba3",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64a7ea4148c7b9302c331446",
+          "amount": 8,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437541033266d7be9524",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6855fa5f5baaf2916c050ba3",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64a7ea4148c7b9302c331446",
+          "amount": 16,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437541033266d7be9524",
+          "amount": 330,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6855fa5f5baaf2916c050ba3",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64a7ea4148c7b9302c331446",
+          "amount": 24,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68932e1ecc90c7911daedbec-Extra de cerdo al estilo asiático en salsa teriyaki.jpg"
+}

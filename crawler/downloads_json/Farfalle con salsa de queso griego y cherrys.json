@@ -1,0 +1,707 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/65b13976d1da3988cdd84ea5.pdf",
+  "category": null,
+  "clonedFrom": "6347ef6e4eacd7e8b5e77c02",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-03-20T11:20:36+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Esta receta se ha popularizado recientemente gracias a las redes sociales, en las que se empezaron a publicar videos que demostraban su facilísima preocupación y atractivo resultado, provocando que los usuarios de estas redes cocinaran este plato en masa. Para prepararlo, deberás hornear queso griego, tomates cherry y cebolla y... ¡ya lo tendrías! Solo falta mezclar con la pasta y disfrutar.",
+  "descriptionHTML": "<p>Esta receta se ha popularizado recientemente gracias a las redes sociales, en las que se empezaron a publicar videos que demostraban su facilísima preocupación y atractivo resultado, provocando que los usuarios de estas redes cocinaran este plato en masa. Para prepararlo, deberás hornear queso griego, tomates cherry y cebolla y... ¡ya lo tendrías! Solo falta mezclar con la pasta y disfrutar.</p>",
+  "descriptionMarkdown": "Esta receta se ha popularizado recientemente gracias a las redes sociales, en las que se empezaron a publicar videos que demostraban su facilísima preocupación y atractivo resultado, provocando que los usuarios de estas redes cocinaran este plato en masa. Para prepararlo, deberás hornear queso griego, tomates cherry y cebolla y... ¡ya lo tendrías! Solo falta mezclar con la pasta y disfrutar.",
+  "difficulty": 1,
+  "favoritesCount": 37,
+  "headline": "con nueces picadas y albahaca",
+  "id": "65b13976d1da3988cdd84ea5",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R08_W17_ES_ESFVV0070-4_Main_high-e90a84f2.jpg",
+  "imagePath": "/image/HF_Y24_R08_W17_ES_ESFVV0070-4_Main_high-e90a84f2.jpg",
+  "ingredients": [
+    {
+      "id": "6340436b233160a36674b9e9",
+      "uuid": "fae5ea17-1d10-5a79-acab-118ec738e69e",
+      "name": "Albahaca",
+      "type": "basil",
+      "slug": "albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "imagePath": "/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9e9-Albahaca.jpg"
+    },
+    {
+      "id": "634fd2e834c59d5ef0faeb46",
+      "uuid": "829ae3c1-0e5b-5eed-a428-235f7e0b90e3",
+      "name": "Farfalle",
+      "type": "farfalle",
+      "slug": "farfalle",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634fd2e834c59d5ef0faeb46-2be6a40d.png",
+      "imagePath": "/ingredient/634fd2e834c59d5ef0faeb46-2be6a40d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634fd2e834c59d5ef0faeb46-Farfalle.png"
+    },
+    {
+      "id": "634d280debf08332f1bff1a3",
+      "uuid": "8d052f30-746c-4518-b8be-f170e199c63b",
+      "name": "Queso griego",
+      "type": "greek-salad-cheese",
+      "slug": "queso-griego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d280debf08332f1bff1a3-f0b0fd50.png",
+      "imagePath": "/ingredient/634d280debf08332f1bff1a3-f0b0fd50.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d280debf08332f1bff1a3-Queso griego.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "6364e2c11c8a9adf8ea7f79d",
+      "uuid": "4b76e78b-72cc-5898-b33d-3ada326fa8ba",
+      "name": "Nueces peladas",
+      "type": "walnuts",
+      "slug": "nueces-peladas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "imagePath": "/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364e2c11c8a9adf8ea7f79d-Nueces peladas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/65b13976d1da3988cdd84ea5",
+  "name": "Farfalle con salsa de queso griego y cherrys",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2594,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 620,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 16.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 8.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 77.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 21,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.74,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 26,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 362,
+  "slug": "farfalle-salsa-queso-cherry-nueces",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela la cebolla, divídela en dos y córatala en tiras finas. Coloca la cebolla en una fuente de horno grande y añade encima el queso griego.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela la <strong>cebolla</strong>, divídela en dos y córatala en tiras finas. Coloca la <strong>cebolla</strong> en una fuente de horno grande y añade encima el <strong>queso griego</strong>.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela la <strong>cebolla</strong>, divídela en dos y córatala en tiras finas. Coloca la <strong>cebolla</strong> en una fuente de horno grande y añade encima el <strong>queso griego</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e8675"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b13976d1da3988cdd84ea5/step-170c7800.jpg",
+          "path": "/65b13976d1da3988cdd84ea5/step-170c7800.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/65b13976d1da3988cdd84ea5-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Agrega los tomates cherry sobre la cebolla, rodeando el queso griego. Cubre todo con un chorrito generoso de aceite y el orégano (ver cantidad en ingredientes). Hornea a media altura durante 20 min, hasta que los tomates estén tiernos y el queso griego se dore ligeramente.",
+      "instructionsHTML": "<p>Agrega los <strong>tomates cherry</strong> sobre la <strong>cebolla</strong>, rodeando el <strong>queso griego</strong>. Cubre todo con un chorrito generoso de <strong>aceite</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes). Hornea a media altura durante 20 min, hasta que los <strong>tomates</strong> estén tiernos y el <strong>queso griego</strong> se dore ligeramente.</p>",
+      "instructionsMarkdown": "<p>Agrega los <strong>tomates cherry</strong> sobre la <strong>cebolla</strong>, rodeando el <strong>queso griego</strong>. Cubre todo con un chorrito generoso de <strong>aceite</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes). Hornea a media altura durante 20 min, hasta que los <strong>tomates</strong> estén tiernos y el <strong>queso griego</strong> se dore ligeramente.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b13976d1da3988cdd84ea5/step-5eefb210.jpg",
+          "path": "/65b13976d1da3988cdd84ea5/step-5eefb210.jpg",
+          "caption": "Hornea los ingredientes",
+          "localImage": "/images/recipes/65b13976d1da3988cdd84ea5-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una olla, agrega abundante agua junto con una pizca de sal. Cubre con una tapa y lleva a ebullición. Cuando el agua hierva, añade los farfalle a la olla y cocina durante 12-13 min o hasta que queden tiernos. Cuando estén listos, escurre con ayuda de un colador y reserva.",
+      "instructionsHTML": "<p>En una olla, agrega abundante <strong>agua</strong> junto con una pizca de <strong>sal</strong>. Cubre con una tapa y lleva a ebullición. Cuando el <strong>agua</strong> hierva, añade los <strong>farfalle</strong> a la olla y cocina durante 12-13 min o hasta que queden tiernos. Cuando estén listos, escurre con ayuda de un colador y reserva.</p>",
+      "instructionsMarkdown": "<p>En una olla, agrega abundante <strong>agua</strong> junto con una pizca de <strong>sal</strong>. Cubre con una tapa y lleva a ebullición. Cuando el <strong>agua</strong> hierva, añade los <strong>farfalle</strong> a la olla y cocina durante 12-13 min o hasta que queden tiernos. Cuando estén listos, escurre con ayuda de un colador y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b13976d1da3988cdd84ea5/step-0bc70620.jpg",
+          "path": "/65b13976d1da3988cdd84ea5/step-0bc70620.jpg",
+          "caption": "Cuece la pasta",
+          "localImage": "/images/recipes/65b13976d1da3988cdd84ea5-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Con la base de un cazo, aplasta las nueces en su propia bolsa para picarlas. Deshoja y pica la mitad de la albahaca (doble para 4p).",
+      "instructionsHTML": "<p>Con la base de un cazo, aplasta las <strong>nueces</strong> en su propia bolsa para picarlas. Deshoja y pica la mitad de la <strong>albahaca</strong> (doble para 4p).</p>",
+      "instructionsMarkdown": "<p>Con la base de un cazo, aplasta las <strong>nueces</strong> en su propia bolsa para picarlas. Deshoja y pica la mitad de la <strong>albahaca</strong> (doble para 4p).</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b13976d1da3988cdd84ea5/step-26186830.jpg",
+          "path": "/65b13976d1da3988cdd84ea5/step-26186830.jpg",
+          "caption": "Pica las nueces",
+          "localImage": "/images/recipes/65b13976d1da3988cdd84ea5-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando los vegetales y el queso estén listos, saca la fuente del horno y agrega los farfalle cocidos y la mitad de la albahaca troceada. Presiona ligeramente el queso griego para deshacerlo y que se integre con la pasta. Remueve bien para integrar todos los ingredientes. Prueba y rectifica de sal y pimienta.",
+      "instructionsHTML": "<p>Cuando los <strong>vegetales</strong> y el <strong>queso</strong> estén listos, saca la fuente del horno y agrega los <strong>farfalle</strong> cocidos y la mitad de la <strong>albahaca</strong> troceada. Presiona ligeramente el <strong>queso griego</strong> para deshacerlo y que se integre con la <strong>pasta</strong>. Remueve bien para integrar todos los ingredientes. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "instructionsMarkdown": "<p>Cuando los <strong>vegetales</strong> y el <strong>queso</strong> estén listos, saca la fuente del horno y agrega los <strong>farfalle</strong> cocidos y la mitad de la <strong>albahaca</strong> troceada. Presiona ligeramente el <strong>queso griego</strong> para deshacerlo y que se integre con la <strong>pasta</strong>. Remueve bien para integrar todos los ingredientes. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b13976d1da3988cdd84ea5/step-0cb05440.jpg",
+          "path": "/65b13976d1da3988cdd84ea5/step-0cb05440.jpg",
+          "caption": "Combina los ingredientes",
+          "localImage": "/images/recipes/65b13976d1da3988cdd84ea5-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve los farfalle con queso griego y tomates cherry en platos y espolvorea la albahaca restante y las nueces picadas.",
+      "instructionsHTML": "<p>Sirve los <strong>farfalle</strong> con <strong>queso griego</strong> y <strong>tomates</strong> <strong>cherry</strong> en platos y espolvorea la <strong>albahaca</strong> restante y las <strong>nueces</strong> picadas.</p>",
+      "instructionsMarkdown": "<p>Sirve los <strong>farfalle</strong> con <strong>queso griego</strong> y <strong>tomates</strong> <strong>cherry</strong> en platos y espolvorea la <strong>albahaca</strong> restante y las <strong>nueces</strong> picadas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65b13976d1da3988cdd84ea5/step-70282550.jpg",
+          "path": "/65b13976d1da3988cdd84ea5/step-70282550.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/65b13976d1da3988cdd84ea5-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT10M",
+  "uniqueRecipeCode": "ESFVV0070-4",
+  "updatedAt": "2025-07-28T10:40:00+00:00",
+  "utensils": [
+    {
+      "id": "59d49a9319279f8fe60e8675",
+      "type": "9x13-baking-dish",
+      "name": "Fuente grande para el horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "eadb3236-f691-4a17-8a97-4238faa82be2",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/farfalle-salsa-queso-cherry-nueces-65b13976d1da3988cdd84ea5",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634fd2e834c59d5ef0faeb46",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d280debf08332f1bff1a3",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634fd2e834c59d5ef0faeb46",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d280debf08332f1bff1a3",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/65b13976d1da3988cdd84ea5-Farfalle con salsa de queso griego y cherrys.jpg",
+  "localCard": "/pdf/65b13976d1da3988cdd84ea5-Farfalle con salsa de queso griego y cherrys.pdf"
+}

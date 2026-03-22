@@ -1,0 +1,710 @@
+{
+  "active": true,
+  "allergens": [],
+  "averageRating": 3.7,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/649f375db823868e3893cf5b.pdf",
+  "category": null,
+  "clonedFrom": "63f773e16d1f74727a153be5",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-06-30T20:13:17+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b3",
+      "type": "thai",
+      "name": "Tailandesa",
+      "slug": "tailandesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b3-3b2b2add.jpg"
+    }
+  ],
+  "description": "¿Sabías que el curry no es solo una especia de sabor intenso que protagoniza numerosos platos asiáticos? Este alimento es bueno para la digestión, reduce la inflamación y fortalece el sistema inmunitario, por lo que probar esta receta es casi una recomendación médica.",
+  "descriptionHTML": "<p>¿Sabías que el curry no es solo una especia de sabor intenso que protagoniza numerosos platos asiáticos? Este alimento es bueno para la digestión, reduce la inflamación y fortalece el sistema inmunitario, por lo que probar esta receta es casi una recomendación médica.</p>",
+  "descriptionMarkdown": "¿Sabías que el curry no es solo una especia de sabor intenso que protagoniza numerosos platos asiáticos? Este alimento es bueno para la digestión, reduce la inflamación y fortalece el sistema inmunitario, por lo que probar esta receta es casi una recomendación médica.",
+  "difficulty": 1,
+  "favoritesCount": 37,
+  "headline": "con verduras sobre arroz basmati",
+  "id": "649f375db823868e3893cf5b",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R14_W40_ES_ESQC15026-2_Main__2high-b00cbd62.jpg",
+  "imagePath": "/image/HF_Y23_R14_W40_ES_ESQC15026-2_Main__2high-b00cbd62.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "6340437b41033266d7be953b",
+      "uuid": "4c668d5f-24c9-4c33-96ff-80536d73c126",
+      "name": "Muslos de pollo troceados",
+      "type": "chicken-thigh-diced",
+      "slug": "muslos-de-pollo-troceados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b41033266d7be953b-0ae13c49.png",
+      "imagePath": "/ingredient/6340437b41033266d7be953b-0ae13c49.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b41033266d7be953b-Muslos de pollo troceados.png"
+    },
+    {
+      "id": "6340436e233160a36674b9fd",
+      "uuid": "4be57e09-204f-50f6-abf5-a91e4a8099db",
+      "name": "Leche de coco",
+      "type": "coconut-milk",
+      "slug": "leche-de-coco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9fd-Leche de coco.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "63404377233160a36674ba1d",
+      "uuid": "4f875814-fdbf-55a8-9086-e62e84ed64b2",
+      "name": "Pasta de curry rojo tailandés",
+      "type": "red-thai-style-paste",
+      "slug": "pasta-de-curry-rojo-tailandes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1d-b071be67.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1d-b071be67.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1d-Pasta de curry rojo tailandés.png"
+    },
+    {
+      "id": "63404376233160a36674ba1b",
+      "uuid": "6b9b5891-6a0f-43b7-abac-f1d515dd2d91",
+      "name": "Pimiento rojo",
+      "type": "red-bell-pepper",
+      "slug": "pimiento-rojo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1b-Pimiento rojo.png"
+    },
+    {
+      "id": "63404379233160a36674ba27",
+      "uuid": "62332e06-1bd9-5362-a8bd-eb869fce3bea",
+      "name": "Mix de especias tailandesas",
+      "type": "thai-style-spice-blend",
+      "slug": "mix-de-especias-tailandesas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "imagePath": "/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba27-Mix de especias tailandesas.png"
+    },
+    {
+      "id": "6340436c41033266d7be950b",
+      "uuid": "9c185787-b4f8-5457-863b-da9d361fcd22",
+      "name": "Brócoli",
+      "type": "broccoli",
+      "slug": "brocoli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "imagePath": "/ingredient/6340436c41033266d7be950b-81d31f6a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be950b-Brócoli.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63c819826ab9cacaa3738cfc",
+      "uuid": "0fc5e86c-945a-4ac0-8ca1-a10af844bf99",
+      "name": "Agua para el curry",
+      "type": "water-for-curry",
+      "slug": "agua-para-el-curry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63c819826ab9cacaa3738cfc-e7cb82c1.png",
+      "imagePath": "/ingredient/63c819826ab9cacaa3738cfc-e7cb82c1.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63c819826ab9cacaa3738cfc-Agua para el curry.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/649f375db823868e3893cf5b",
+  "name": "Pollo al curry estilo tailandés",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 665,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2781,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 24.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 17.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 75.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 36.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.63,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT20M",
+  "promotion": null,
+  "ratingsCount": 33,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 557,
+  "slug": "pollo-al-curry-estilo-tailandes",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el agua para el arroz (ver cantidad en ingredientes), añade el arroz y sal y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el arroz con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375db823868e3893cf5b/step-4319d200.jpg",
+          "path": "/649f375db823868e3893cf5b/step-4319d200.jpg",
+          "caption": "Cuece el arroz",
+          "localImage": "/images/recipes/649f375db823868e3893cf5b-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta el pimiento por la mitad y quítale las semillas. Luego, córtalo en tiras finas de 0,5-1 cm de grosor. Corta el brócoli por la mitad, retira el tallo y corta una mitad (doble para 4p) en floretes medianos.",
+      "instructionsHTML": "<p>Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en tiras finas de 0,5-1 cm de grosor. Corta el <strong>brócoli</strong> por la mitad, retira el tallo y corta una mitad (doble para 4p) en floretes medianos.</p>",
+      "instructionsMarkdown": "<p>Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en tiras finas de 0,5-1 cm de grosor. Corta el <strong>brócoli</strong> por la mitad, retira el tallo y corta una mitad (doble para 4p) en floretes medianos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375db823868e3893cf5b/step-216d7210.jpg",
+          "path": "/649f375db823868e3893cf5b/step-216d7210.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/649f375db823868e3893cf5b-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén grande, calienta un chorrito de aceite a fuego medio. Una vez caliente, agrega los muslos de pollo troceados, salpimienta y cocina 3-4 min, hasta que estén dorados y bien cocinados en el interior.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega los <strong>muslos de pollo troceados</strong>, <strong>salpimienta</strong> y cocina 3-4 min, hasta que estén dorados y bien cocinados en el interior.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega los <strong>muslos de pollo troceados</strong>, <strong>salpimienta</strong> y cocina 3-4 min, hasta que estén dorados y bien cocinados en el interior.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375db823868e3893cf5b/step-faa0ce20.jpg",
+          "path": "/649f375db823868e3893cf5b/step-faa0ce20.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/649f375db823868e3893cf5b-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando el pollo esté dorado, agrega el pimiento y el brócoli a la sartén y saltea todo junto durante 2-3 min, removiendo frecuentemente, hasta que las verduras se doren. Salpimienta al gusto.",
+      "instructionsHTML": "<p>Cuando el <strong>pollo</strong> esté dorado, agrega el <strong>pimiento</strong> y el <strong>brócoli</strong> a la sartén y saltea todo junto durante 2-3 min, removiendo frecuentemente, hasta que las <strong>verduras</strong> se doren. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Cuando el <strong>pollo</strong> esté dorado, agrega el <strong>pimiento</strong> y el <strong>brócoli</strong> a la sartén y saltea todo junto durante 2-3 min, removiendo frecuentemente, hasta que las <strong>verduras</strong> se doren. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375db823868e3893cf5b/step-3580cf30.jpg",
+          "path": "/649f375db823868e3893cf5b/step-3580cf30.jpg",
+          "caption": "Agrega las verduras",
+          "localImage": "/images/recipes/649f375db823868e3893cf5b-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la sartén, añade la pasta de curry rojo, la leche de coco, el mix de especias tailandesas, y el agua para el curry (ver cantidad en ingredientes). Remueve y cocina 8-10 min con la tapa puesta, hasta que el curry espese.",
+      "instructionsHTML": "<p>En la sartén, añade la <strong>pasta de curry rojo</strong>, la <strong>leche de coco</strong>, el <strong>mix de especias tailandesas</strong>, y el <strong>agua para el curry</strong> (ver cantidad en ingredientes). Remueve y cocina 8-10 min con la tapa puesta, hasta que el <strong>curry</strong> espese.</p>",
+      "instructionsMarkdown": "<p>En la sartén, añade la <strong>pasta de curry rojo</strong>, la <strong>leche de coco</strong>, el <strong>mix de especias tailandesas</strong>, y el <strong>agua para el curry</strong> (ver cantidad en ingredientes). Remueve y cocina 8-10 min con la tapa puesta, hasta que el <strong>curry</strong> espese.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375db823868e3893cf5b/step-35743340.jpg",
+          "path": "/649f375db823868e3893cf5b/step-35743340.jpg",
+          "caption": "Prepara y sazona el curry",
+          "localImage": "/images/recipes/649f375db823868e3893cf5b-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Corta la lima en gajos. Cuando el curry esté listo, exprime dos gajos de lima (doble para 4p) sobre el curry. Salpimienta a gusto. Sirve el arroz en la base de los platos y cubre con el curry de pollo estilo thai. Sirve los gajos de lima restantes a un lado y añade su zumo al gusto.",
+      "instructionsHTML": "<p>Corta la <strong>lima</strong> en gajos. Cuando el <strong>curry</strong> esté listo, exprime dos gajos de <strong>lima</strong> (doble para 4p) sobre el <strong>curry</strong>. <strong>Salpimienta</strong> a gusto. Sirve el <strong>arroz</strong> en la base de los platos y cubre con el <strong>curry de pollo estilo thai</strong>. Sirve los <strong>gajos de lima</strong> restantes a un lado y añade su zumo al gusto.</p>",
+      "instructionsMarkdown": "<p>Corta la <strong>lima</strong> en gajos. Cuando el <strong>curry</strong> esté listo, exprime dos gajos de <strong>lima</strong> (doble para 4p) sobre el <strong>curry</strong>. <strong>Salpimienta</strong> a gusto. Sirve el <strong>arroz</strong> en la base de los platos y cubre con el <strong>curry de pollo estilo thai</strong>. Sirve los <strong>gajos de lima</strong> restantes a un lado y añade su zumo al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375db823868e3893cf5b/step-1d73f150.jpg",
+          "path": "/649f375db823868e3893cf5b/step-1d73f150.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/649f375db823868e3893cf5b-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESQC15026-2",
+  "updatedAt": "2025-09-08T18:21:20+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "b049e0b7-6b4f-41de-83e7-f697b1da8883",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-al-curry-estilo-tailandes-649f375db823868e3893cf5b",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437b41033266d7be953b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1d",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63c819826ab9cacaa3738cfc",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437b41033266d7be953b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1d",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c41033266d7be950b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63c819826ab9cacaa3738cfc",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/649f375db823868e3893cf5b-Pollo al curry estilo tailandés.jpg",
+  "localCard": "/pdf/649f375db823868e3893cf5b-Pollo al curry estilo tailandés.pdf"
+}

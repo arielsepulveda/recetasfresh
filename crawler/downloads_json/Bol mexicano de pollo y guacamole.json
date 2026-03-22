@@ -1,0 +1,756 @@
+{
+  "active": true,
+  "allergens": [],
+  "averageRating": 3.7,
+  "canonical": "63ed1100e1f41b99b9ea849d",
+  "canonicalLink": "https://www.hellofresh.es/recipes/bol-mexicano-de-pollo-con-guacamole-casero-63ed1100e1f41b99b9ea849d",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68d68a22d232ff05cfc4a8de-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "63ed1100e1f41b99b9ea849d",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-20T09:47:53+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "La gastronomía mexicana destaca en el mundo por su intensidad, variedad y creatividad. Sus chiles, hierbas, maíz y salsas aportan combinaciones de sabores y texturas únicas, llenas de color y carácter. Descubre este plato en el que se captura esa esencia, siendo una auténtica representación de los sabores y matices de México.",
+  "descriptionHTML": "<p>La gastronomía mexicana destaca en el mundo por su intensidad, variedad y creatividad. Sus chiles, hierbas, maíz y salsas aportan combinaciones de sabores y texturas únicas, llenas de color y carácter. Descubre este plato en el que se captura esa esencia, siendo una auténtica representación de los sabores y matices de México.</p>",
+  "descriptionMarkdown": "La gastronomía mexicana destaca en el mundo por su intensidad, variedad y creatividad. Sus chiles, hierbas, maíz y salsas aportan combinaciones de sabores y texturas únicas, llenas de color y carácter. Descubre este plato en el que se captura esa esencia, siendo una auténtica representación de los sabores y matices de México.",
+  "difficulty": 2,
+  "favoritesCount": 4,
+  "headline": "con pico de gallo, frijoles y arroz",
+  "id": "68d68a22d232ff05cfc4a8de",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R27_W52_ES_ESQCC14864-2_edit_lime_Main_high-99bf476e.jpg",
+  "imagePath": "/image/HF_Y25_R27_W52_ES_ESQCC14864-2_edit_lime_Main_high-99bf476e.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "6671a06877d4ed4ef24a239a",
+      "uuid": "04e5d056-bb09-43d9-b7ef-94a027495381",
+      "name": "Pulpa de aguacate",
+      "type": "avocado-spread",
+      "slug": "pulpa-de-aguacate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6671a06877d4ed4ef24a239a-c5137cc5.png",
+      "imagePath": "/ingredient/6671a06877d4ed4ef24a239a-c5137cc5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6671a06877d4ed4ef24a239a-Pulpa de aguacate.png"
+    },
+    {
+      "id": "6340437b2268bc1bff0d3cd1",
+      "uuid": "9838d4d1-5c2e-4e68-a073-54d514ccfdb0",
+      "name": "Pechuga de pollo troceada",
+      "type": "chicken-breast-diced",
+      "slug": "pechuga-de-pollo-troceada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd1-Pechuga de pollo troceada.jpg"
+    },
+    {
+      "id": "63404373233160a36674ba0f",
+      "uuid": "a9702fdb-e742-5fe0-b221-974c1ea5db87",
+      "name": "Mix de especias mexicanas",
+      "type": "mexican-spice",
+      "slug": "mix-de-especias-mexicanas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0f-Mix de especias mexicanas.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ef",
+      "uuid": "11942477-1287-5ed7-9c1d-44d046f6cf89",
+      "name": "Alubias negras",
+      "type": "black-beans",
+      "slug": "alubias-negras",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ef-adf39cf4.jpg",
+      "imagePath": "/ingredient/6340436c233160a36674b9ef-adf39cf4.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ef-Alubias negras.jpg"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68d68a22d232ff05cfc4a8de",
+  "name": "Bol mexicano de pollo y guacamole",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3221,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 770,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 34.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 83.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 4.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 10.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 49,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.42,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 18,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 509,
+  "slug": "bol-mexicano-de-pollo-y-guacamole",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nLlena un cazo con el agua, añade el arroz y sal y lleva a ebullición con el cazo tapado.\nCuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.\nLuego, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a22d232ff05cfc4a8de/step-8d418000.jpg",
+          "path": "/68d68a22d232ff05cfc4a8de/step-8d418000.jpg",
+          "caption": "Arroz en marcha",
+          "localImage": "/images/recipes/68d68a22d232ff05cfc4a8de-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCorta el tomate en daditos.\nPela la cebolla y córtala en cubitos.\nDeshoja y pica el cilantro.\nCorta la lima en gajos.\nEn un bol, agrega la cebolla picada, el tomate, 2/3 del cilantro picado, el zumo de un gajo de lima, sal y pimienta. Mezcla bien.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Corta el <strong>tomate</strong> en daditos.</li>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en cubitos.</li>\n<li dir=\"ltr\">Deshoja y pica el <strong>cilantro</strong>.</li>\n<li dir=\"ltr\">Corta la <strong>lima</strong> en gajos.</li>\n<li dir=\"ltr\">En un bol, agrega la <strong>cebolla</strong> picada, el <strong>tomate,</strong> 2/3 del <strong>cilantro</strong> picado, el zumo de un gajo de <strong>lima, sal</strong> y <strong>pimienta.</strong> Mezcla bien.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Corta el <strong>tomate</strong> en daditos.</li>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en cubitos.</li>\n<li dir=\"ltr\">Deshoja y pica el <strong>cilantro</strong>.</li>\n<li dir=\"ltr\">Corta la <strong>lima</strong> en gajos.</li>\n<li dir=\"ltr\">En un bol, agrega la <strong>cebolla</strong> picada, el <strong>tomate,</strong> 2/3 del <strong>cilantro</strong> picado, el zumo de un gajo de <strong>lima, sal</strong> y <strong>pimienta.</strong> Mezcla bien.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a22d232ff05cfc4a8de/step-73621010.jpg",
+          "path": "/68d68a22d232ff05cfc4a8de/step-73621010.jpg",
+          "caption": "Da vida al pico de gallo",
+          "localImage": "/images/recipes/68d68a22d232ff05cfc4a8de-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nColoca la pulpa de aguacate en un bol.\nAñade el zumo de dos gajos de lima, sal y pimienta y mezcla.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Coloca la <strong>pulpa de aguacate</strong> en un bol.</li>\n<li dir=\"ltr\">Añade el zumo de dos gajos de <strong>lima</strong>, <strong>sal</strong> y <strong>pimienta</strong> y mezcla.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Coloca la <strong>pulpa de aguacate</strong> en un bol.</li>\n<li dir=\"ltr\">Añade el zumo de dos gajos de <strong>lima</strong>, <strong>sal</strong> y <strong>pimienta</strong> y mezcla.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a22d232ff05cfc4a8de/step-2b4baf20.jpg",
+          "path": "/68d68a22d232ff05cfc4a8de/step-2b4baf20.jpg",
+          "caption": "Adereza el guacamole",
+          "localImage": "/images/recipes/68d68a22d232ff05cfc4a8de-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio. Agrega el pollo, la mitad de las especias mexicanas, sal y pimienta y cocina 5 min, removiendo, hasta que esté dorado y cocinado.\nReserva fuera de la sartén.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>pollo</strong>, la mitad de las <strong>especias mexicanas</strong>, <strong>sal</strong> y<strong> pimienta</strong> y cocina 5 min, removiendo, hasta que esté dorado y cocinado.</li>\n<li dir=\"ltr\">Reserva fuera de la sartén.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>pollo</strong>, la mitad de las <strong>especias mexicanas</strong>, <strong>sal</strong> y<strong> pimienta</strong> y cocina 5 min, removiendo, hasta que esté dorado y cocinado.</li>\n<li dir=\"ltr\">Reserva fuera de la sartén.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a22d232ff05cfc4a8de/step-bb4de130.jpg",
+          "path": "/68d68a22d232ff05cfc4a8de/step-bb4de130.jpg",
+          "caption": "Pollo al fuego",
+          "localImage": "/images/recipes/68d68a22d232ff05cfc4a8de-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEscurre y lava las alubias negras.\nEn la sartén, calienta un chorrito de aceite a fuego medio. Agrega las alubias negras y las especias mexicanas restantes y saltea 1-2 min, removiendo.\n",
+      "instructionsHTML": "<ul>\n<li>Escurre y lava las <strong>alubias negras.</strong></li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega las <strong>alubias negras</strong> y las <strong>especias mexicanas</strong> restantes y saltea 1-2 min, removiendo.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Escurre y lava las <strong>alubias negras.</strong></li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega las <strong>alubias negras</strong> y las <strong>especias mexicanas</strong> restantes y saltea 1-2 min, removiendo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a22d232ff05cfc4a8de/step-dedea140.jpg",
+          "path": "/68d68a22d232ff05cfc4a8de/step-dedea140.jpg",
+          "caption": "Turno de las alubias",
+          "localImage": "/images/recipes/68d68a22d232ff05cfc4a8de-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el arroz en platos y agrega encima el pollo, las alubias negras y el pico de gallo, por separado.\nAgrega encima guacamole y cilantro al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>arroz</strong> en platos y agrega encima el <strong>pollo,</strong> las <strong>alubias negras</strong> y el <strong>pico</strong> <strong>de gallo,</strong> por separado.</li>\n<li>Agrega encima <strong>guacamole</strong> y <strong>cilantro</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>arroz</strong> en platos y agrega encima el <strong>pollo,</strong> las <strong>alubias negras</strong> y el <strong>pico</strong> <strong>de gallo,</strong> por separado.</li>\n<li>Agrega encima <strong>guacamole</strong> y <strong>cilantro</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a22d232ff05cfc4a8de/step-8ab0c650.jpg",
+          "path": "/68d68a22d232ff05cfc4a8de/step-8ab0c650.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68d68a22d232ff05cfc4a8de-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESQCC14864-2",
+  "updatedAt": "2026-01-14T11:35:15+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "3bbbaca0-f2ad-4dba-9234-6e7d0a3a3cd2",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/bol-mexicano-de-pollo-y-guacamole-68d68a22d232ff05cfc4a8de",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ef",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ef",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6671a06877d4ed4ef24a239a",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 900,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ef",
+          "amount": 1170,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68d68a22d232ff05cfc4a8de-Bol mexicano de pollo y guacamole.jpg",
+  "localCard": "/pdf/68d68a22d232ff05cfc4a8de-Bol mexicano de pollo y guacamole.pdf"
+}

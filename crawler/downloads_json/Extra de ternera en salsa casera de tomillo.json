@@ -1,0 +1,870 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 2.9,
+  "canonical": "689af53dcc90c7911db0293e",
+  "canonicalLink": "https://www.hellofresh.es/recipes/filete-de-ternera-patatas-fritas-de-verduras-y-brocoli-con-salsa-de-chalota-y-tomillo-689af53dcc90c7911db0293e",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "69282bc056f60405d9113971",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-01T16:22:57+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterránea ",
+      "slug": "mediterranea ",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg"
+    }
+  ],
+  "description": "¿Sabías que la patata y el boniato son de los mejores carbohidratos que podemos incluir en nuestra dieta? Aportan energía, dulzor natural y una textura reconfortante. En esta receta los servimos asados, acompañando ternera en salsa de tomillo y una ensalada, creando un plato completo, sabroso y saludable.",
+  "descriptionHTML": "<p>¿Sabías que la patata y el boniato son de los mejores carbohidratos que podemos incluir en nuestra dieta? Aportan energía, dulzor natural y una textura reconfortante. En esta receta los servimos asados, acompañando ternera en salsa de tomillo y una ensalada, creando un plato completo, sabroso y saludable.</p>",
+  "descriptionMarkdown": "¿Sabías que la patata y el boniato son de los mejores carbohidratos que podemos incluir en nuestra dieta? Aportan energía, dulzor natural y una textura reconfortante. En esta receta los servimos asados, acompañando ternera en salsa de tomillo y una ensalada, creando un plato completo, sabroso y saludable.",
+  "difficulty": 1,
+  "favoritesCount": 3,
+  "headline": "con patatas y boniatos al horno y ensalada fresca",
+  "id": "692dc0e1126207051adcbdd0",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R18_W02_ES_ESCFCLB49101-3_Main_R_high-0e7910d6.jpg",
+  "imagePath": "/image/HF_Y26_R18_W02_ES_ESCFCLB49101-3_Main_R_high-0e7910d6.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340437941033266d7be9531",
+      "uuid": "61a2604a-ad14-5a3c-b00f-f81d58cb0c90",
+      "name": "Boniato",
+      "type": "sweet-potato",
+      "slug": "boniato",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "imagePath": "/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9531-Boniato.png"
+    },
+    {
+      "id": "63404373233160a36674ba0e",
+      "uuid": "acaf37ce-a5ff-5a2d-bf8b-c1bd51eb83ba",
+      "name": "Especias mediterráneas",
+      "type": "mediterranean-spice-mix",
+      "slug": "especias-mediterraneas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0e-3aaa1fde.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0e-3aaa1fde.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0e-Especias mediterráneas.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "6340437741033266d7be952b",
+      "uuid": "26c839a7-90d5-5ab1-808a-7f16c7526471",
+      "name": "Filete de ternera",
+      "type": "rump-steak",
+      "slug": "filete-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "imagePath": "/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437741033266d7be952b-Filete de ternera.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "6340437841033266d7be952c",
+      "uuid": "827bd110-c089-50ac-9b7a-346ec7b98257",
+      "name": "Mezclum",
+      "type": "salad-mix",
+      "slug": "mezclum",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "imagePath": "/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437841033266d7be952c-Mezclum.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "6401c00b62bd092a213120b4",
+      "uuid": "72c3cf55-faca-413f-8642-cb185c54528d",
+      "name": "Harina",
+      "type": "flour-in-tsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401c00b62bd092a213120b4-632ba9f0.png",
+      "imagePath": "/ingredient/6401c00b62bd092a213120b4-632ba9f0.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401c00b62bd092a213120b4-Harina.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/692dc0e1126207051adcbdd0",
+  "name": "Extra de ternera en salsa casera de tomillo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3069,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 733,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 41.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 12.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 48.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 57.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.27,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 8,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 538,
+  "slug": "extra-de-ternera-en-salsa-casera-de-tomillo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC. \nCorta las patatas y el boniato en bastones de 1 cm de grosor y 3-4 cm de largo.\nColoca en una bandeja de horno con papel de horno y adereza con un chorrito de aceite, las especias mediterráneas, sal y pimienta.\nMezcla y hornea a media altura 20-25 min o hasta que estén dorados y tiernos. Da la vuelta a mitad de cocción.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC. </li>\n<li>Corta las <strong>patatas</strong> y el <strong>boniato</strong> en bastones de 1 cm de grosor y 3-4 cm de largo.</li>\n<li>Coloca en una bandeja de horno con papel de horno y adereza con un chorrito de <strong>aceite</strong>, las <strong>especias mediterráneas, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y hornea a media altura 20-25 min o hasta que estén dorados y tiernos. Da la vuelta a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC. </li>\n<li>Corta las <strong>patatas</strong> y el <strong>boniato</strong> en bastones de 1 cm de grosor y 3-4 cm de largo.</li>\n<li>Coloca en una bandeja de horno con papel de horno y adereza con un chorrito de <strong>aceite</strong>, las <strong>especias mediterráneas, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y hornea a media altura 20-25 min o hasta que estén dorados y tiernos. Da la vuelta a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/692dc0e1126207051adcbdd0/step-a4956900.jpg",
+          "path": "/692dc0e1126207051adcbdd0/step-a4956900.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/692dc0e1126207051adcbdd0-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y pica la chalota.\nPela y pica el ajo.\nEn una sartén, agrega un chorrito de aceite, el ajo y la chalota. Calienta a fuego medio y cocina 2-3 min, removiendo, hasta que se doren.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y pica la <strong>chalota.</strong></li>\n<li>Pela y pica el <strong>ajo.</strong></li>\n<li>En una sartén, agrega un chorrito de <strong>aceite,</strong> el <strong>ajo</strong> y la <strong>chalota.</strong> Calienta a fuego medio y cocina 2-3 min, removiendo, hasta que se doren.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y pica la <strong>chalota.</strong></li>\n<li>Pela y pica el <strong>ajo.</strong></li>\n<li>En una sartén, agrega un chorrito de <strong>aceite,</strong> el <strong>ajo</strong> y la <strong>chalota.</strong> Calienta a fuego medio y cocina 2-3 min, removiendo, hasta que se doren.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/692dc0e1126207051adcbdd0/step-73a33110.jpg",
+          "path": "/692dc0e1126207051adcbdd0/step-73a33110.jpg",
+          "caption": "Mise en place",
+          "localImage": "/images/recipes/692dc0e1126207051adcbdd0-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, agrega la harina y cocina 1 min, removiendo. Añade el tomillo seco al gusto.\nAgrega el caldo de ternera y el agua y cocina 2-3 min, mientras mezclas con varillas, hasta que la salsa se reduzca.\nAñade la mantequilla y deja que se derrita.\nRetira y reserva la salsa en un bol.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, agrega la <strong>harina</strong> y cocina 1 min, removiendo. Añade el <strong>tomillo seco</strong> al gusto.</li>\n<li>Agrega el <strong>caldo de ternera</strong> y el <strong>agua</strong> y cocina 2-3 min, mientras mezclas con varillas, hasta que la <strong>salsa</strong> se reduzca.</li>\n<li>Añade la <strong>mantequilla</strong> y deja que se derrita.</li>\n<li>Retira y reserva la salsa en un bol.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, agrega la <strong>harina</strong> y cocina 1 min, removiendo. Añade el <strong>tomillo seco</strong> al gusto.</li>\n<li>Agrega el <strong>caldo de ternera</strong> y el <strong>agua</strong> y cocina 2-3 min, mientras mezclas con varillas, hasta que la <strong>salsa</strong> se reduzca.</li>\n<li>Añade la <strong>mantequilla</strong> y deja que se derrita.</li>\n<li>Retira y reserva la salsa en un bol.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305384"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/692dc0e1126207051adcbdd0/step-1b566b20.jpg",
+          "path": "/692dc0e1126207051adcbdd0/step-1b566b20.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/692dc0e1126207051adcbdd0-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nLimpia la sartén.\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Añade la ternera, salpimienta y cocina 1 min por lado o hasta que esté cocinada.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Limpia la sartén.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Añade la <strong>ternera, salpimienta</strong> y cocina 1 min por lado o hasta que esté cocinada.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Limpia la sartén.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Añade la <strong>ternera, salpimienta</strong> y cocina 1 min por lado o hasta que esté cocinada.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/692dc0e1126207051adcbdd0/step-52b68630.jpg",
+          "path": "/692dc0e1126207051adcbdd0/step-52b68630.jpg",
+          "caption": "Carne al fuego",
+          "localImage": "/images/recipes/692dc0e1126207051adcbdd0-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn una ensaladera, mezcla con varillas el vinagre balsámico, un chorrito de aceite, sal y pimienta.\nAñade el mezclum y mezcla bien.\n",
+      "instructionsHTML": "<ul>\n<li>En una ensaladera, mezcla con varillas el <strong>vinagre balsámico,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Añade el <strong>mezclum</strong> y mezcla bien.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una ensaladera, mezcla con varillas el <strong>vinagre balsámico,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Añade el <strong>mezclum</strong> y mezcla bien.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/692dc0e1126207051adcbdd0/step-513f1f40.jpg",
+          "path": "/692dc0e1126207051adcbdd0/step-513f1f40.jpg",
+          "caption": "Que no falte el verde",
+          "localImage": "/images/recipes/692dc0e1126207051adcbdd0-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve las patatas y boniatos, la ensalada y la ternera en platos, por separado.\nCubre la ternera con la salsa.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve las <strong>patatas</strong> y <strong>boniatos,</strong> la <strong>ensalada</strong> y la <strong>ternera</strong> en platos, por separado.</li>\n<li>Cubre la <strong>ternera</strong> con la <strong>salsa.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve las <strong>patatas</strong> y <strong>boniatos,</strong> la <strong>ensalada</strong> y la <strong>ternera</strong> en platos, por separado.</li>\n<li>Cubre la <strong>ternera</strong> con la <strong>salsa.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/692dc0e1126207051adcbdd0/step-fbdaeb50.jpg",
+          "path": "/692dc0e1126207051adcbdd0/step-fbdaeb50.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/692dc0e1126207051adcbdd0-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCFCLB49101-DP-1-3",
+  "updatedAt": "2026-01-21T14:01:35+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    }
+  ],
+  "uuid": "36e3955b-2ad0-44cd-a63e-49f4f800c5f0",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/extra-de-ternera-en-salsa-casera-de-tomillo-692dc0e1126207051adcbdd0",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401c00b62bd092a213120b4",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 1000,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401c00b62bd092a213120b4",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 1500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401c00b62bd092a213120b4",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/692dc0e1126207051adcbdd0-Extra de ternera en salsa casera de tomillo.jpg"
+}

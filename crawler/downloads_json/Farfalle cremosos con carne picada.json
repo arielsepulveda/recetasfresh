@@ -1,0 +1,671 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "6409f9cecda96bb6528b8fa4",
+  "canonicalLink": "https://www.hellofresh.es/recipes/farfalle-cremosos-con-carne-picada-6409f9cecda96bb6528b8fa4",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/farfalle-carne-picada-espinacas-638a20d716676f814583bbe2-74986a2b.pdf",
+  "category": null,
+  "clonedFrom": "6347ef6e4eacd7e8b5e77c03",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-02T15:59:19+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "No hace falta que te digamos que las opciones que nos ofrece la pasta son inagotables. Pero, ¿quién dijo que no podamos disfrutarlas todas? Como tenemos intención de intentarlo, en esta ocasión de ofrecemos unos farfalle con una cremosa salsa, carne picada y espinacas. Espolvorea tanto queso como prefieras por encima y disfruta de un plato que nunca falla.",
+  "descriptionHTML": "<p>No hace falta que te digamos que las opciones que nos ofrece la pasta son inagotables. Pero, ¿quién dijo que no podamos disfrutarlas todas? Como tenemos intención de intentarlo, en esta ocasión de ofrecemos unos farfalle con una cremosa salsa, carne picada y espinacas. Espolvorea tanto queso como prefieras por encima y disfruta de un plato que nunca falla.</p>",
+  "descriptionMarkdown": "No hace falta que te digamos que las opciones que nos ofrece la pasta son inagotables. Pero, ¿quién dijo que no podamos disfrutarlas todas? Como tenemos intención de intentarlo, en esta ocasión de ofrecemos unos farfalle con una cremosa salsa, carne picada y espinacas. Espolvorea tanto queso como prefieras por encima y disfruta de un plato que nunca falla.",
+  "difficulty": 1,
+  "favoritesCount": 21,
+  "headline": "con espinacas, chili rojo y queso rallado",
+  "id": "638a20d716676f814583bbe2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF191007_R05_W46_NL_R0548_Main_high-357f5359.jpg",
+  "imagePath": "/image/HF191007_R05_W46_NL_R0548_Main_high-357f5359.jpg",
+  "ingredients": [
+    {
+      "id": "634fd2e834c59d5ef0faeb46",
+      "uuid": "829ae3c1-0e5b-5eed-a428-235f7e0b90e3",
+      "name": "Farfalle",
+      "type": "farfalle",
+      "slug": "farfalle",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634fd2e834c59d5ef0faeb46-2be6a40d.png",
+      "imagePath": "/ingredient/634fd2e834c59d5ef0faeb46-2be6a40d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634fd2e834c59d5ef0faeb46-Farfalle.png"
+    },
+    {
+      "id": "636ee2296875fac468eeb9ce",
+      "uuid": "b2d33c6c-dcf6-5212-8de8-f75bd59d77c0",
+      "name": "Carne de ternera y cerdo picada",
+      "type": "mixed-mince-pork-beef",
+      "slug": "carne-de-ternera-y-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636ee2296875fac468eeb9ce-f949fe5e.png",
+      "imagePath": "/ingredient/636ee2296875fac468eeb9ce-f949fe5e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636ee2296875fac468eeb9ce-Carne de ternera y cerdo picada.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63493a08ebf08332f1bff15d",
+      "uuid": "bd338898-c991-4bcf-ac07-74fe7e736c4f",
+      "name": "Queso rallado",
+      "type": "grated-cheese-mix",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "imagePath": "/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63493a08ebf08332f1bff15d-Queso rallado.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "6340437641033266d7be9528",
+      "uuid": "2904fadb-88de-569e-9c92-a87c61848fdb",
+      "name": "Chile",
+      "type": "red-chilli",
+      "slug": "chile",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9528-12333c56.png",
+      "imagePath": "/ingredient/6340437641033266d7be9528-12333c56.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9528-Chile.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/638a20d716676f814583bbe2",
+  "name": "Farfalle cremosos con carne picada",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 759,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3176,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 33.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 19.17,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 72.81,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 39.27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.16,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 71,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 359,
+  "slug": "farfalle-cremosos-con-carne-picada",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "En una olla, agrega abundante agua y una pizca de sal y lleva a ebullición con la olla tapada. Pela la cebolla y corta una mitad (doble para 4p) en tiras finas. Pela y pica el ajo (ver cantidad en ingredientes). Retira las semillas de la mitad del chili rojo (doble para 4p), luego, córtalo en rodajas muy finas.\n \nRECUERDA: Lávate bien las manos después de manipular el chili.",
+      "instructionsHTML": "<p>En una olla, agrega abundante <strong>agua</strong> y una pizca de <strong>sal</strong> y lleva a ebullición con la olla tapada. Pela la <strong>cebolla </strong>y corta una mitad (doble para 4p) en tiras finas. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Retira las semillas de la mitad del <strong>chili rojo</strong> (doble para 4p), luego, córtalo en rodajas muy finas.</p>\n<p> </p>\n<p>RECUERDA: Lávate bien las manos después de manipular el chili.</p>",
+      "instructionsMarkdown": "<p>En una olla, agrega abundante <strong>agua</strong> y una pizca de <strong>sal</strong> y lleva a ebullición con la olla tapada. Pela la <strong>cebolla </strong>y corta una mitad (doble para 4p) en tiras finas. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Retira las semillas de la mitad del <strong>chili rojo</strong> (doble para 4p), luego, córtalo en rodajas muy finas.</p>\n<p> </p>\n<p>RECUERDA: Lávate bien las manos después de manipular el chili.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d716676f814583bbe2/step-d4e15f00.jpg",
+          "path": "/638a20d716676f814583bbe2/step-d4e15f00.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/638a20d716676f814583bbe2-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Agrega la pasta a la olla cuando el agua hierva. Cocina los farfalle durante 12-13 min, hasta que estén tiernos. Reserva el agua para la salsa (ver cantidad en ingredientes) en un bol. Luego, escurre y reserva. En una sartén grande, calienta un chorrito de aceite a fuego medio. Agrega la carne picada y sofríe durante 3 min. Añade la cebolla, el ajo y chili rojo al gusto y cocina durante 4-5 min más, hasta que la cebolla se ablande.",
+      "instructionsHTML": "<p>Agrega la <strong>pasta</strong> a la olla cuando el <strong>agua</strong> hierva. Cocina los <strong>farfalle</strong> durante 12-13 min, hasta que estén tiernos. <span>Reserva el <strong>agua para la salsa</strong> (ver cantidad en ingredientes) en un bol.</span> Luego, escurre y reserva. En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>carne picada</strong> y sofríe durante 3 min. Añade la <strong>cebolla</strong>, el <strong>ajo</strong> y <strong>chili rojo</strong> al gusto y cocina durante 4-5 min más, hasta que la <strong>cebolla</strong> se ablande.</p>",
+      "instructionsMarkdown": "<p>Agrega la <strong>pasta</strong> a la olla cuando el <strong>agua</strong> hierva. Cocina los <strong>farfalle</strong> durante 12-13 min, hasta que estén tiernos. <span>Reserva el <strong>agua para la salsa</strong> (ver cantidad en ingredientes) en un bol.</span> Luego, escurre y reserva. En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>carne picada</strong> y sofríe durante 3 min. Añade la <strong>cebolla</strong>, el <strong>ajo</strong> y <strong>chili rojo</strong> al gusto y cocina durante 4-5 min más, hasta que la <strong>cebolla</strong> se ablande.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b305380",
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d716676f814583bbe2/step-40598010.jpg",
+          "path": "/638a20d716676f814583bbe2/step-40598010.jpg",
+          "caption": "Cuece la pasta y cocina la carne",
+          "localImage": "/images/recipes/638a20d716676f814583bbe2-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Agrega las espinacas a la sartén con la carne picada y baja el fuego. Cocina mientras remueves hasta que las espinacas se reduzcan. Agrega el queso crema, el agua para la salsa y la mitad del queso rallado. Remueve bien y cocina 1-2 min, hasta que la salsa espese. Agrega los farfalle cocidos a la sartén y salpimienta a tu gusto. Remueve bien para que la pasta quede bien cubierta por la salsa.",
+      "instructionsHTML": "<p>Agrega las <strong>espinacas</strong> a la sartén con la <strong>carne picada</strong> y baja el fuego. Cocina mientras remueves hasta que las <strong>espinacas</strong> se reduzcan. Agrega<strong> </strong><span>el <strong>queso crema,</strong> el <strong>agua para la salsa</strong></span><strong> </strong>y la mitad del <strong>queso rallado</strong>. Remueve<span> <span>bien y cocina 1-2 min, hasta que la salsa espese</span></span>. Agrega los <strong>farfalle</strong> cocidos a la sartén y <strong>salpimienta</strong> a tu gusto. <span><span>Remueve bien</span> </span>para que la <strong>pasta</strong> quede bien cubierta por la <strong>salsa</strong>.</p>",
+      "instructionsMarkdown": "<p>Agrega las <strong>espinacas</strong> a la sartén con la <strong>carne picada</strong> y baja el fuego. Cocina mientras remueves hasta que las <strong>espinacas</strong> se reduzcan. Agrega<strong> </strong><span>el <strong>queso crema,</strong> el <strong>agua para la salsa</strong></span><strong> </strong>y la mitad del <strong>queso rallado</strong>. Remueve<span> <span>bien y cocina 1-2 min, hasta que la salsa espese</span></span>. Agrega los <strong>farfalle</strong> cocidos a la sartén y <strong>salpimienta</strong> a tu gusto. <span><span>Remueve bien</span> </span>para que la <strong>pasta</strong> quede bien cubierta por la <strong>salsa</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d716676f814583bbe2/step-f16e0920.jpg",
+          "path": "/638a20d716676f814583bbe2/step-f16e0920.jpg",
+          "caption": "Agrega las espinacas y la pasta",
+          "localImage": "/images/recipes/638a20d716676f814583bbe2-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Divide los farfalle con carne picada entre los platos y espolvorea el queso rallado restante.",
+      "instructionsHTML": "<p>Divide los <strong>farfalle </strong>con<strong> carne picada</strong> entre los platos y espolvorea el <strong>queso rallado</strong> restante.</p>",
+      "instructionsMarkdown": "<p>Divide los <strong>farfalle </strong>con<strong> carne picada</strong> entre los platos y espolvorea el <strong>queso rallado</strong> restante.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d716676f814583bbe2/step-6c58c230.jpg",
+          "path": "/638a20d716676f814583bbe2/step-6c58c230.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/638a20d716676f814583bbe2-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCFQP0083-2",
+  "updatedAt": "2025-08-26T13:00:14+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "d2e03d40-5d5a-4c27-9858-5b827ec0abad",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/farfalle-cremosos-con-carne-picada-638a20d716676f814583bbe2",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "634fd2e834c59d5ef0faeb46",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 4,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "634fd2e834c59d5ef0faeb46",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 8,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/638a20d716676f814583bbe2-Farfalle cremosos con carne picada.jpg",
+  "localCard": "/pdf/638a20d716676f814583bbe2-Farfalle cremosos con carne picada.pdf"
+}

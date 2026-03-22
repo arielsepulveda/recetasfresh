@@ -1,0 +1,693 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": "63ca9c4ef3cad3f4f35bef91",
+  "canonicalLink": "https://www.hellofresh.es/recipes/bol-mexicano-de-heura-con-guacamole-casero-63ca9c4ef3cad3f4f35bef91",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/650192e9786cce2df0e08399.pdf",
+  "category": null,
+  "clonedFrom": "63497a84971d5eddb3ff71b0",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-10-13T12:22:05+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "Escoge esta receta y déjate enamorar por la variada y excitante gastronomía mexicana, esta vez, de forma apta para vegetarianos, pues utilizamos un sustitutivo de la carne creado a partir de proteína de soja y lo acompañamos con judías salteadas, pico de gallo y un refrescante guacamole casero.",
+  "descriptionHTML": "<p>Escoge esta receta y déjate enamorar por la variada y excitante gastronomía mexicana, esta vez, de forma apta para vegetarianos, pues utilizamos un sustitutivo de la carne creado a partir de proteína de soja y lo acompañamos con judías salteadas, pico de gallo y un refrescante guacamole casero.</p>",
+  "descriptionMarkdown": "Escoge esta receta y déjate enamorar por la variada y excitante gastronomía mexicana, esta vez, de forma apta para vegetarianos, pues utilizamos un sustitutivo de la carne creado a partir de proteína de soja y lo acompañamos con judías salteadas, pico de gallo y un refrescante guacamole casero.",
+  "difficulty": 1,
+  "favoritesCount": 22,
+  "headline": "con pico de gallo, judías rojas y arroz basmati",
+  "id": "650192e9786cce2df0e08399",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R09_W17_ES_ESVV2001-113384-2_edit_beans_Main_high-4754584f.jpg",
+  "imagePath": "/image/HF_Y23_R09_W17_ES_ESVV2001-113384-2_edit_beans_Main_high-4754584f.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca1",
+      "uuid": "4842611c-bce4-5a00-9f96-af40c63b6310",
+      "name": "Aguacate",
+      "type": "avocado",
+      "slug": "aguacate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca1-44575d96.jpg",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca1-44575d96.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca1-Aguacate.jpg"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "6364ec6550d7477cd4c1cbbf",
+      "uuid": "8fb19217-d717-417c-b34b-0cbf15d7e5ea",
+      "name": "Heura",
+      "type": "plant-based-meat-heura",
+      "slug": "heura",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ec6550d7477cd4c1cbbf-5c38d234.png",
+      "imagePath": "/ingredient/6364ec6550d7477cd4c1cbbf-5c38d234.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ec6550d7477cd4c1cbbf-Heura.png"
+    },
+    {
+      "id": "63404373233160a36674ba0f",
+      "uuid": "a9702fdb-e742-5fe0-b221-974c1ea5db87",
+      "name": "Mix de especias mexicanas",
+      "type": "mexican-spice",
+      "slug": "mix-de-especias-mexicanas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0f-Mix de especias mexicanas.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "6340437641033266d7be9529",
+      "uuid": "385f8e87-917f-5c02-88d9-33bcfc3a3d73",
+      "name": "Judías rojas",
+      "type": "red-kidney-beans",
+      "slug": "judias-rojas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9529-60c44c18.jpg",
+      "imagePath": "/ingredient/6340437641033266d7be9529-60c44c18.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9529-Judías rojas.jpg"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/650192e9786cce2df0e08399",
+  "name": "Bol mexicano de heura con guacamole casero",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3088,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 738,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 20.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 3.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 101.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 14.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 33.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.57,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 26,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 513,
+  "slug": "bol-heura-guacamole-pico-judias-arroz",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el agua (ver cantidad en ingredientes), añade el arroz y sal al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el arroz con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192e9786cce2df0e08399/step-d5b89300.jpg",
+          "path": "/650192e9786cce2df0e08399/step-d5b89300.jpg",
+          "caption": "Cuece el arroz",
+          "localImage": "/images/recipes/650192e9786cce2df0e08399-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta el tomate por la mitad, luego, corta en cubos pequeños. Pela y pica la chalota. Corta medio limón (doble para 4p) en 4 gajos. En un bol, mezcla la chalota y el tomate. Añade al bol el zumo de un gajo de limón (doble para 4p). Sazona el pico de gallo con sal y pimienta.",
+      "instructionsHTML": "<p><span>Corta el <strong>tomate</strong> por la mitad, luego, corta en cubos pequeños. Pela y pica la <strong>chalota</strong>. Corta medio <strong>limón</strong> (doble para 4p) en 4 gajos. En un bol, mezcla la <strong>chalota</strong> y el <strong>tomate</strong>. Añade al bol el zumo de un gajo de <strong>limón</strong> (doble para 4p). Sazona el <strong>pico de gallo</strong> con <strong>sal</strong> y <strong>pimienta</strong>.</span></p>",
+      "instructionsMarkdown": "<p><span>Corta el <strong>tomate</strong> por la mitad, luego, corta en cubos pequeños. Pela y pica la <strong>chalota</strong>. Corta medio <strong>limón</strong> (doble para 4p) en 4 gajos. En un bol, mezcla la <strong>chalota</strong> y el <strong>tomate</strong>. Añade al bol el zumo de un gajo de <strong>limón</strong> (doble para 4p). Sazona el <strong>pico de gallo</strong> con <strong>sal</strong> y <strong>pimienta</strong>.</span></p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192e9786cce2df0e08399/step-52da0310.jpg",
+          "path": "/650192e9786cce2df0e08399/step-52da0310.jpg",
+          "caption": "Prepara el pico de gallo",
+          "localImage": "/images/recipes/650192e9786cce2df0e08399-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Corta el aguacate por la mitad y retira el hueso. Saca la pulpa con una cuchara y agrégala a un bol. Aplasta con ayuda de un tenedor. Luego, añade el zumo de dos gajos de limón (doble para 4p), sal y pimienta y mezcla bien, hasta que los ingredientes queden integrados.",
+      "instructionsHTML": "<p>Corta el <strong>aguacate</strong> por la mitad y retira el hueso. Saca la pulpa con una cuchara y agrégala a un bol. Aplasta con ayuda de un tenedor. Luego, añade el zumo de dos gajos de <strong>limón</strong> (doble para 4p), <strong>sal</strong> y <strong>pimienta</strong> y mezcla bien, hasta que los ingredientes queden integrados.</p>",
+      "instructionsMarkdown": "<p>Corta el <strong>aguacate</strong> por la mitad y retira el hueso. Saca la pulpa con una cuchara y agrégala a un bol. Aplasta con ayuda de un tenedor. Luego, añade el zumo de dos gajos de <strong>limón</strong> (doble para 4p), <strong>sal</strong> y <strong>pimienta</strong> y mezcla bien, hasta que los ingredientes queden integrados.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192e9786cce2df0e08399/step-beba8020.jpg",
+          "path": "/650192e9786cce2df0e08399/step-beba8020.jpg",
+          "caption": "Prepara el guacamole",
+          "localImage": "/images/recipes/650192e9786cce2df0e08399-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Lava y escurre las judías rojas con ayuda del colador. En una sartén, calienta a fuego medio un chorrito de aceite. Agrega las judías y la mitad de las especias mexicanas y saltea 1-2 min, removiendo ocasionalmente. Salpimienta al gusto. Retira de la sartén y reserva. ",
+      "instructionsHTML": "<p>Lava y escurre las <strong>judías rojas</strong> con ayuda del colador. En una sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Agrega las <strong>judías</strong> y la mitad de las <strong>especias mexicanas</strong> y saltea 1-2 min, removiendo ocasionalmente. <strong>Salpimienta</strong> al gusto. Retira de la sartén y reserva. </p>",
+      "instructionsMarkdown": "<p>Lava y escurre las <strong>judías rojas</strong> con ayuda del colador. En una sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Agrega las <strong>judías</strong> y la mitad de las <strong>especias mexicanas</strong> y saltea 1-2 min, removiendo ocasionalmente. <strong>Salpimienta</strong> al gusto. Retira de la sartén y reserva. </p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192e9786cce2df0e08399/step-f9975930.jpg",
+          "path": "/650192e9786cce2df0e08399/step-f9975930.jpg",
+          "caption": "Saltea las judías",
+          "localImage": "/images/recipes/650192e9786cce2df0e08399-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En un bol, mezcla la heura junto con las especias mexicanas restantes, un chorrito de aceite y sal y pimienta al gusto. En la sartén, calienta a fuego medio un chorrito de aceite. Una vez caliente, agrega la heura y saltea durante 5 min, hasta que quede dorada.",
+      "instructionsHTML": "<p>En un bol, mezcla la <strong>heura</strong> junto con las <strong>especias mexicanas</strong> restantes, un chorrito de <strong>aceite</strong> y <strong>sal</strong> y <strong>pimienta</strong> al gusto. En la sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Una vez caliente, agrega la <strong>heura</strong> y saltea durante 5 min, hasta que quede dorada.</p>",
+      "instructionsMarkdown": "<p>En un bol, mezcla la <strong>heura</strong> junto con las <strong>especias mexicanas</strong> restantes, un chorrito de <strong>aceite</strong> y <strong>sal</strong> y <strong>pimienta</strong> al gusto. En la sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Una vez caliente, agrega la <strong>heura</strong> y saltea durante 5 min, hasta que quede dorada.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192e9786cce2df0e08399/step-d07a2e40.jpg",
+          "path": "/650192e9786cce2df0e08399/step-d07a2e40.jpg",
+          "caption": "Saltea la heura",
+          "localImage": "/images/recipes/650192e9786cce2df0e08399-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el arroz basmati en boles y agrega la heura salteada, las judías rojas y el pico de gallo alrededor del arroz. Luego, agrega una cucharada de guacamole encima. Agrega zumo de limón sobre el plato a tu gusto.",
+      "instructionsHTML": "<p><span>Sirve el <strong>arroz basmati</strong> en boles y agrega la <strong>heura </strong>salteada, las <strong>judías rojas</strong> y el <strong>pico de</strong> <strong>gallo</strong> alrededor del <strong>arroz</strong>. Luego, agrega una cucharada de <strong>guacamole</strong> encima. Agrega <strong>zumo de limón</strong> sobre el plato a tu gusto.</span></p>",
+      "instructionsMarkdown": "<p><span>Sirve el <strong>arroz basmati</strong> en boles y agrega la <strong>heura </strong>salteada, las <strong>judías rojas</strong> y el <strong>pico de</strong> <strong>gallo</strong> alrededor del <strong>arroz</strong>. Luego, agrega una cucharada de <strong>guacamole</strong> encima. Agrega <strong>zumo de limón</strong> sobre el plato a tu gusto.</span></p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192e9786cce2df0e08399/step-0970ea50.jpg",
+          "path": "/650192e9786cce2df0e08399/step-0970ea50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/650192e9786cce2df0e08399-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESVV2001-113384-3",
+  "updatedAt": "2026-01-23T15:19:10+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538e",
+      "type": "mixingbowl",
+      "name": "Bol para mezclar"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    }
+  ],
+  "uuid": "0a32d4fa-3d85-4582-8731-5b639858e378",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/bol-heura-guacamole-pico-judias-arroz-650192e9786cce2df0e08399",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca1",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6364ec6550d7477cd4c1cbbf",
+          "amount": 160,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9529",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca1",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6364ec6550d7477cd4c1cbbf",
+          "amount": 320,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437641033266d7be9529",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/650192e9786cce2df0e08399-Bol mexicano de heura con guacamole casero.jpg",
+  "localCard": "/pdf/650192e9786cce2df0e08399-Bol mexicano de heura con guacamole casero.pdf"
+}

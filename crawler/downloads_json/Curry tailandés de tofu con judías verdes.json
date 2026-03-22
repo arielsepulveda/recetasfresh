@@ -1,0 +1,772 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.7,
+  "canonical": "635fb8c95ebcac2718d2fef1",
+  "canonicalLink": "https://www.hellofresh.es/recipes/curry-tailandes-de-tofu-635fb8c95ebcac2718d2fef1",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/677d53741a8cfa26226210dc-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347efe5e9568549b78497be",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-01-07T16:16:53+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b3",
+      "type": "thai",
+      "name": "Tailandesa",
+      "slug": "tailandesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b3-3b2b2add.jpg"
+    }
+  ],
+  "description": "Explora la gastronomía tailandesa desde tu propia cocina con este curry de tofu con verduras servido sobre arroz jazmín. La intensidad del curry se compensa con el sabor suave del tofu y el arroz en esta receta vegetariana potenciada por el picante. Añadimos lima para un toque ácido que mejorará tus bocados.",
+  "descriptionHTML": "<p>Explora la gastronomía tailandesa desde tu propia cocina con este curry de tofu con verduras servido sobre arroz jazmín. La intensidad del curry se compensa con el sabor suave del tofu y el arroz en esta receta vegetariana potenciada por el picante. Añadimos lima para un toque ácido que mejorará tus bocados.</p>",
+  "descriptionMarkdown": "Explora la gastronomía tailandesa desde tu propia cocina con este curry de tofu con verduras servido sobre arroz jazmín. La intensidad del curry se compensa con el sabor suave del tofu y el arroz en esta receta vegetariana potenciada por el picante. Añadimos lima para un toque ácido que mejorará tus bocados.",
+  "difficulty": 1,
+  "favoritesCount": 9,
+  "headline": "acompañado de arroz jazmín",
+  "id": "677d53741a8cfa26226210dc",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R10_W04_ES_ESCQVV0056-10_MAIN_6_high-159d56f3.jpg",
+  "imagePath": "/image/HF_Y25_R10_W04_ES_ESCQVV0056-10_MAIN_6_high-159d56f3.jpg",
+  "ingredients": [
+    {
+      "id": "63404371233160a36674ba05",
+      "uuid": "0af471b0-f5b6-53c8-bf79-1fa315f20bf3",
+      "name": "Judías verdes",
+      "type": "green-beans",
+      "slug": "judias-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba05-1e297429.png",
+      "imagePath": "/ingredient/63404371233160a36674ba05-1e297429.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba05-Judías verdes.png"
+    },
+    {
+      "id": "663dd43a5e4dcee2f122a3d9",
+      "uuid": "5efbe02d-9aa7-530e-bbb6-d3f77a8d6e9d",
+      "name": "Tofu",
+      "type": "tofu",
+      "slug": "tofu",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/663dd43a5e4dcee2f122a3d9-60345e10.png",
+      "imagePath": "/ingredient/663dd43a5e4dcee2f122a3d9-60345e10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/663dd43a5e4dcee2f122a3d9-Tofu.png"
+    },
+    {
+      "id": "63404377233160a36674ba1d",
+      "uuid": "4f875814-fdbf-55a8-9086-e62e84ed64b2",
+      "name": "Pasta de curry rojo tailandés",
+      "type": "red-thai-style-paste",
+      "slug": "pasta-de-curry-rojo-tailandes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1d-b071be67.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1d-b071be67.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1d-Pasta de curry rojo tailandés.png"
+    },
+    {
+      "id": "6340437241033266d7be951d",
+      "uuid": "ff045bdb-fe2c-58b4-bd0c-c0ccbddd8a2d",
+      "name": "Arroz jazmín",
+      "type": "jasmine-rice",
+      "slug": "arroz-jazmin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "imagePath": "/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437241033266d7be951d-Arroz jazmín.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "63404379233160a36674ba27",
+      "uuid": "62332e06-1bd9-5362-a8bd-eb869fce3bea",
+      "name": "Mix de especias tailandesas",
+      "type": "thai-style-spice-blend",
+      "slug": "mix-de-especias-tailandesas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "imagePath": "/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba27-Mix de especias tailandesas.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340436e233160a36674b9fd",
+      "uuid": "4be57e09-204f-50f6-abf5-a91e4a8099db",
+      "name": "Leche de coco",
+      "type": "coconut-milk",
+      "slug": "leche-de-coco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9fd-Leche de coco.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/677d53741a8cfa26226210dc",
+  "name": "Curry tailandés de tofu con judías verdes",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2771,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 662,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 31.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 77.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 22.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.36,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 24,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 434,
+  "slug": "curry-tailandes-de-tofu-con-judias-verdes",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el agua para el arroz (ver cantidad en ingredientes) y añade sal. Tápalo y llévalo a ebullición. Cuando hierva, añade el arroz, baja a fuego medio-bajo y tápalo. Cocina 12 min y remueve de vez en cuando. Luego, déjalo reposar con la tapa al menos 10 min. Después, remueve el arroz y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes) y añade <strong>sal</strong>. Tápalo y llévalo a ebullición. Cuando hierva, añade el <strong>arroz,</strong> baja a fuego medio-bajo y tápalo. Cocina 12 min y remueve de vez en cuando. Luego, déjalo reposar con la tapa al menos 10 min. Después, remueve el <strong>arroz</strong> y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes) y añade <strong>sal</strong>. Tápalo y llévalo a ebullición. Cuando hierva, añade el <strong>arroz,</strong> baja a fuego medio-bajo y tápalo. Cocina 12 min y remueve de vez en cuando. Luego, déjalo reposar con la tapa al menos 10 min. Después, remueve el <strong>arroz</strong> y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53741a8cfa26226210dc/step-1291d700.jpg",
+          "path": "/677d53741a8cfa26226210dc/step-1291d700.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/677d53741a8cfa26226210dc-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Mientras tanto, seca el tofu y córtalo en dados de 2 cm. Retira las puntas de las judías verdes y córtalas en tercios. Pela la zanahoria y córtala por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Pela y ralla el ajo (ver cantidad en ingredientes). Ralla la piel de la mitad de la lima (doble para 4p) y corta la lima en gajos.",
+      "instructionsHTML": "<p dir=\"ltr\">Mientras tanto, seca el <strong>tofu</strong> y córtalo en dados de 2 cm. Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios. Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Ralla la piel de la mitad de la <strong>lima</strong> (doble para 4p) y corta la <strong>lima</strong> en gajos.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Mientras tanto, seca el <strong>tofu</strong> y córtalo en dados de 2 cm. Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios. Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Ralla la piel de la mitad de la <strong>lima</strong> (doble para 4p) y corta la <strong>lima</strong> en gajos.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53741a8cfa26226210dc/step-7d9fb610.jpg",
+          "path": "/677d53741a8cfa26226210dc/step-7d9fb610.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/677d53741a8cfa26226210dc-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min. Agrega el tofu y cocina 5-6 min, removiendo, hasta que se dore. Agrega la zanahoria y las judías verdes, salpimienta y saltea 3-4 min, hasta que se ablanden. Luego, añade el mix de especias tailandesas y cocina 1 min, removiendo.",
+      "instructionsHTML": "<p dir=\"ltr\">En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Agrega el <strong>tofu</strong> y cocina 5-6 min, removiendo, hasta que se dore. Agrega la <strong>zanahoria</strong> y las<strong> judías verdes</strong>, <strong>salpimienta</strong> y saltea 3-4 min, hasta que se ablanden. Luego, añade el <strong>mix de especias tailandesas</strong> y cocina 1 min, removiendo.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Agrega el <strong>tofu</strong> y cocina 5-6 min, removiendo, hasta que se dore. Agrega la <strong>zanahoria</strong> y las<strong> judías verdes</strong>, <strong>salpimienta</strong> y saltea 3-4 min, hasta que se ablanden. Luego, añade el <strong>mix de especias tailandesas</strong> y cocina 1 min, removiendo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53741a8cfa26226210dc/step-edf5af20.jpg",
+          "path": "/677d53741a8cfa26226210dc/step-edf5af20.jpg",
+          "caption": "Saltea las verduras y el tofu",
+          "localImage": "/images/recipes/677d53741a8cfa26226210dc-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la sartén, añade la leche de coco, la pasta de curry rojo y el agua para la salsa (ver cantidad en ingredientes). Mezcla bien y lleva a ebullición. Cuando hierva, baja a fuego medio-bajo y cocina 7-8 min, removiendo ocasionalmente, hasta que el curry espese un poco.",
+      "instructionsHTML": "<p dir=\"ltr\">En la sartén, añade la <strong>leche de coco</strong>, la <strong>pasta de curry rojo</strong> y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes). Mezcla bien y lleva a ebullición. Cuando hierva, baja a fuego medio-bajo y cocina 7-8 min, removiendo ocasionalmente, hasta que el <strong>curry</strong> espese un poco.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En la sartén, añade la <strong>leche de coco</strong>, la <strong>pasta de curry rojo</strong> y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes). Mezcla bien y lleva a ebullición. Cuando hierva, baja a fuego medio-bajo y cocina 7-8 min, removiendo ocasionalmente, hasta que el <strong>curry</strong> espese un poco.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53741a8cfa26226210dc/step-6877ed30.jpg",
+          "path": "/677d53741a8cfa26226210dc/step-6877ed30.jpg",
+          "caption": "Prepara el curry",
+          "localImage": "/images/recipes/677d53741a8cfa26226210dc-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando esté listo, retira el curry del fuego. Agrega un chorrito de zumo de lima, luego, prueba el curry y sazona al gusto con sal, pimienta y más jugo de lima si es necesario. En el cazo con el arroz, agrega la ralladura de lima y mezcla bien.",
+      "instructionsHTML": "<p dir=\"ltr\">Cuando esté listo, retira el <strong>curry</strong> del fuego. Agrega un chorrito de zumo de <strong>lima</strong>, luego, prueba el <strong>curry</strong> y sazona al gusto con <strong>sal</strong>, <strong>pimienta</strong> y más jugo de <strong>lima</strong> si es necesario. En el cazo con el <strong>arroz,</strong> agrega la <strong>ralladura de lima</strong> y mezcla bien.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Cuando esté listo, retira el <strong>curry</strong> del fuego. Agrega un chorrito de zumo de <strong>lima</strong>, luego, prueba el <strong>curry</strong> y sazona al gusto con <strong>sal</strong>, <strong>pimienta</strong> y más jugo de <strong>lima</strong> si es necesario. En el cazo con el <strong>arroz,</strong> agrega la <strong>ralladura de lima</strong> y mezcla bien.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53741a8cfa26226210dc/step-ed27c940.jpg",
+          "path": "/677d53741a8cfa26226210dc/step-ed27c940.jpg",
+          "caption": "Agrega lima al curry",
+          "localImage": "/images/recipes/677d53741a8cfa26226210dc-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Reparte el arroz jazmín con ralladura de lima entre los platos y cubre con el curry de tofu y verduras. Sirve los gajos de lima restantes al lado para exprimirlos.",
+      "instructionsHTML": "<p>Reparte el <strong>arroz jazmín</strong> con <strong>ralladura de lima</strong> entre los platos y cubre con el <strong>curry de</strong> <strong>tofu</strong> y<strong> verduras</strong>. Sirve los gajos de <strong>lima</strong> restantes al lado para exprimirlos.</p>",
+      "instructionsMarkdown": "<p>Reparte el <strong>arroz jazmín</strong> con <strong>ralladura de lima</strong> entre los platos y cubre con el <strong>curry de</strong> <strong>tofu</strong> y<strong> verduras</strong>. Sirve los gajos de <strong>lima</strong> restantes al lado para exprimirlos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53741a8cfa26226210dc/step-8676d250.jpg",
+          "path": "/677d53741a8cfa26226210dc/step-8676d250.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/677d53741a8cfa26226210dc-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCQVV0056-12",
+  "updatedAt": "2026-01-21T17:18:54+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "47c803b9-2c35-4519-97f9-1193e42ca29f",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/curry-tailandes-de-tofu-con-judias-verdes-677d53741a8cfa26226210dc",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1d",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 180,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1d",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 360,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/677d53741a8cfa26226210dc-Curry tailandés de tofu con judías verdes.jpg",
+  "localCard": "/pdf/677d53741a8cfa26226210dc-Curry tailandés de tofu con judías verdes.pdf"
+}

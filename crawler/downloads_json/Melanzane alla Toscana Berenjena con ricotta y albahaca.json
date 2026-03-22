@@ -1,0 +1,746 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "66fbc93f4c6de2e4afe6718a",
+  "canonicalLink": "https://www.hellofresh.es/recipes/berenjenas-a-la-toscana-con-tomate-seco-y-ricotta-66fbc93f4c6de2e4afe6718a",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68fb939e493c3115e3722716-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "66bb8e03a68bc448dd44efd6",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-24T14:56:31+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterránea ",
+      "slug": "mediterranea ",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg"
+    }
+  ],
+  "description": "Este plato de berenjenas es típico de la Toscana, una región italiana asociada a las historias románticas y los paisajes indescriptibles, pero también a las recetas exquisitas. Su sabor delicado y textura cremosa te harán sentir en el mismísimo San Giminiano, ¡así que no dejes pasar la oportunidad!",
+  "descriptionHTML": "<p>Este plato de berenjenas es típico de la Toscana, una región italiana asociada a las historias románticas y los paisajes indescriptibles, pero también a las recetas exquisitas. Su sabor delicado y textura cremosa te harán sentir en el mismísimo San Giminiano, ¡así que no dejes pasar la oportunidad!</p>",
+  "descriptionMarkdown": "Este plato de berenjenas es típico de la Toscana, una región italiana asociada a las historias románticas y los paisajes indescriptibles, pero también a las recetas exquisitas. Su sabor delicado y textura cremosa te harán sentir en el mismísimo San Giminiano, ¡así que no dejes pasar la oportunidad!",
+  "difficulty": 1,
+  "favoritesCount": 2,
+  "headline": "con quinoa tricolor con cherrys y espinacas",
+  "id": "68fb939e493c3115e3722716",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R13_W49_ES_ESCLVV31326-5_edit_Main_high-fa5f497f.jpg",
+  "imagePath": "/image/HF_Y25_R13_W49_ES_ESCLVV31326-5_edit_Main_high-fa5f497f.jpg",
+  "ingredients": [
+    {
+      "id": "6340436b2268bc1bff0d3c9f",
+      "uuid": "1fa6c253-440c-5c98-9e4b-65a57a89f8b1",
+      "name": "Berenjena",
+      "type": "aubergine",
+      "slug": "berenjena",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3c9f-Berenjena.png"
+    },
+    {
+      "id": "660c47363f0f2e6d306d88d8",
+      "uuid": "0e397890-0271-5886-930f-388b82971540",
+      "name": "Quinoa tricolor",
+      "type": "tri-colour-quinoa",
+      "slug": "quinoa-tricolor",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/660c47363f0f2e6d306d88d8-19905dba.png",
+      "imagePath": "/ingredient/660c47363f0f2e6d306d88d8-19905dba.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/660c47363f0f2e6d306d88d8-Quinoa tricolor.png"
+    },
+    {
+      "id": "6340436b233160a36674b9e9",
+      "uuid": "fae5ea17-1d10-5a79-acab-118ec738e69e",
+      "name": "Albahaca",
+      "type": "basil",
+      "slug": "albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "imagePath": "/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9e9-Albahaca.jpg"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "636e0b21422e0b6ac4f8566a",
+      "uuid": "61fb57cc-94fe-5487-bee9-dd647927307a",
+      "name": "Ricotta italiana",
+      "type": "ricotta-cheese",
+      "slug": "ricotta-italiana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636e0b21422e0b6ac4f8566a-8e4304e7.png",
+      "imagePath": "/ingredient/636e0b21422e0b6ac4f8566a-8e4304e7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636e0b21422e0b6ac4f8566a-Ricotta italiana.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68fb939e493c3115e3722716",
+  "name": "Melanzane alla Toscana: Berenjena con ricotta y albahaca",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2660,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 636,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 34.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 13.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 70,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 24.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.76,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 525,
+  "slug": "melanzane-alla-toscana-berenjena-con-ricotta-y-tomate-seco",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nRetira el extremo de la berenjena y, para poder apoyarla, retira una lámina fina de un lado de la berenjena.\nApoya la berenjena por la parte plana y corta láminas de 0,5 cm.\nAgrega sal y deja reposar en un bol al menos 10 min.\n\nSABÍAS QUE: Cuando se agrega sal a la berenjena y se deja reposar se consigue que la verdura sude, eliminando así parte de su amargor.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Retira el extremo de la <strong>berenjena</strong> y, para poder apoyarla, retira una lámina fina de un lado de la berenjena.</li>\n<li>Apoya la <strong>berenjena</strong> por la parte plana y corta láminas de 0,5 cm.</li>\n<li>Agrega <strong>sal</strong> y deja reposar en un bol al menos 10 min.</li>\n</ul>\n<p>SABÍAS QUE: Cuando se agrega sal a la berenjena y se deja reposar se consigue que la verdura sude, eliminando así parte de su amargor.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Retira el extremo de la <strong>berenjena</strong> y, para poder apoyarla, retira una lámina fina de un lado de la berenjena.</li>\n<li>Apoya la <strong>berenjena</strong> por la parte plana y corta láminas de 0,5 cm.</li>\n<li>Agrega <strong>sal</strong> y deja reposar en un bol al menos 10 min.</li>\n</ul>\n<p>SABÍAS QUE: Cuando se agrega sal a la berenjena y se deja reposar se consigue que la verdura sude, eliminando así parte de su amargor.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939e493c3115e3722716/step-e04ecc00.jpg",
+          "path": "/68fb939e493c3115e3722716/step-e04ecc00.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68fb939e493c3115e3722716-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn un cazo, agrega el agua, una pizca de sal y la quinoa tricolor.\nLleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado.\nUna vez listo, remueve y deja reposar con la tapa puesta hasta el momento de servir.\n",
+      "instructionsHTML": "<ul>\n<li>En un cazo, agrega el <strong>agua</strong>, una pizca de <strong>sal</strong> y la <strong>quinoa tricolor.</strong></li>\n<li>Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado.</li>\n<li>Una vez listo, remueve y deja reposar con la tapa puesta hasta el momento de servir.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un cazo, agrega el <strong>agua</strong>, una pizca de <strong>sal</strong> y la <strong>quinoa tricolor.</strong></li>\n<li>Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado.</li>\n<li>Una vez listo, remueve y deja reposar con la tapa puesta hasta el momento de servir.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939e493c3115e3722716/step-ff5b6510.jpg",
+          "path": "/68fb939e493c3115e3722716/step-ff5b6510.jpg",
+          "caption": "Quinoa en marcha",
+          "localImage": "/images/recipes/68fb939e493c3115e3722716-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nDeshoja y pica la albahaca.\nCorta el tomate en cubos pequeños.\nPica finamente la mitad de las espinacas.\nEn un bol, agrega la albahaca, el tomate, las espinacas picadas, la ricotta, sal y pimienta. Mezcla bien.\n",
+      "instructionsHTML": "<ul>\n<li>Deshoja y pica la <strong>albahaca</strong>.</li>\n<li>Corta el <strong>tomate</strong> en cubos pequeños.</li>\n<li>Pica finamente la mitad de las <strong>espinacas</strong>.</li>\n<li>En un bol, agrega la <strong>albahaca,</strong> el <strong>tomate</strong>, las <strong>espinacas</strong> picadas, la <strong>ricotta, sal</strong> y <strong>pimienta. </strong>Mezcla bien.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Deshoja y pica la <strong>albahaca</strong>.</li>\n<li>Corta el <strong>tomate</strong> en cubos pequeños.</li>\n<li>Pica finamente la mitad de las <strong>espinacas</strong>.</li>\n<li>En un bol, agrega la <strong>albahaca,</strong> el <strong>tomate</strong>, las <strong>espinacas</strong> picadas, la <strong>ricotta, sal</strong> y <strong>pimienta. </strong>Mezcla bien.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939e493c3115e3722716/step-3092d320.jpg",
+          "path": "/68fb939e493c3115e3722716/step-3092d320.jpg",
+          "caption": "¡Que no falte relleno!",
+          "localImage": "/images/recipes/68fb939e493c3115e3722716-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nRetira el exceso de sal de las berenjenas con agua y sécalas con papel de cocina.\nEn una sartén, calienta un chorrito de aceite a fuego medio. Cocina las láminas de berenjena 2 min por lado, hasta que queden tiernas y doradas.\nRetira la berenjena y reserva. \n",
+      "instructionsHTML": "<ul>\n<li>Retira el exceso de <strong>sal</strong> de las <strong>berenjenas</strong> con <strong>agua</strong> y sécalas con papel de cocina.</li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina las láminas de <strong>berenjena</strong> 2 min por lado, hasta que queden tiernas y doradas.</li>\n<li>Retira la <strong>berenjena</strong> y reserva. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Retira el exceso de <strong>sal</strong> de las <strong>berenjenas</strong> con <strong>agua</strong> y sécalas con papel de cocina.</li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina las láminas de <strong>berenjena</strong> 2 min por lado, hasta que queden tiernas y doradas.</li>\n<li>Retira la <strong>berenjena</strong> y reserva. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939e493c3115e3722716/step-22179a30.jpg",
+          "path": "/68fb939e493c3115e3722716/step-22179a30.jpg",
+          "caption": "Berenjenas al fuego",
+          "localImage": "/images/recipes/68fb939e493c3115e3722716-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nPela y pica el ajo.\nCorta los tomates cherry por la mitad. \nEn la sartén, agrega un chorrito generoso de aceite y el ajo picado. Cocina a fuego medio 1-2 min.\nAgrega los tomates cherry, salpimienta y saltea 2-3 min, removiendo.\nAgrega las espinacas restantes y cocina 2-3 min.\nAñade la quinoa tricolor y cocina 1 min, removiendo para combinar\nPrueba y salpimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Corta los <strong>tomates cherry</strong> por la mitad. </li>\n<li>En la sartén, agrega un chorrito generoso de <strong>aceite</strong> y el <strong>ajo</strong> picado. Cocina a fuego medio 1-2 min.</li>\n<li>Agrega los <strong>tomates cherry</strong>, <strong>salpimienta</strong> y saltea 2-3 min, removiendo.</li>\n<li>Agrega las <strong>espinacas</strong> restantes y cocina 2-3 min.</li>\n<li>Añade la <strong>quinoa tricolor</strong> y cocina 1 min, removiendo para combinar</li>\n<li>Prueba y <strong>salpimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Corta los <strong>tomates cherry</strong> por la mitad. </li>\n<li>En la sartén, agrega un chorrito generoso de <strong>aceite</strong> y el <strong>ajo</strong> picado. Cocina a fuego medio 1-2 min.</li>\n<li>Agrega los <strong>tomates cherry</strong>, <strong>salpimienta</strong> y saltea 2-3 min, removiendo.</li>\n<li>Agrega las <strong>espinacas</strong> restantes y cocina 2-3 min.</li>\n<li>Añade la <strong>quinoa tricolor</strong> y cocina 1 min, removiendo para combinar</li>\n<li>Prueba y <strong>salpimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939e493c3115e3722716/step-46b00040.jpg",
+          "path": "/68fb939e493c3115e3722716/step-46b00040.jpg",
+          "caption": "Combina todo",
+          "localImage": "/images/recipes/68fb939e493c3115e3722716-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nExtiende las láminas de berenjena en una superficie plana y coloca un poco del relleno de ricotta en el extremo de las láminas.\nEnrolla cada lámina de berenjena para obtener un rollito relleno de ricotta.\nSírvelos en platos y acompaña con la quinoa tricolor con tomates y espinacas.\n",
+      "instructionsHTML": "<ul>\n<li>Extiende las láminas de <strong>berenjena</strong> en una superficie plana y coloca un poco del relleno de <strong>ricotta</strong> en el extremo de las láminas.</li>\n<li>Enrolla cada lámina de <strong>berenjena</strong> para obtener un rollito relleno de <strong>ricotta.</strong></li>\n<li>Sírvelos en platos y acompaña con la <strong>quinoa tricolor</strong> con <strong>tomates</strong> y <strong>espinacas.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Extiende las láminas de <strong>berenjena</strong> en una superficie plana y coloca un poco del relleno de <strong>ricotta</strong> en el extremo de las láminas.</li>\n<li>Enrolla cada lámina de <strong>berenjena</strong> para obtener un rollito relleno de <strong>ricotta.</strong></li>\n<li>Sírvelos en platos y acompaña con la <strong>quinoa tricolor</strong> con <strong>tomates</strong> y <strong>espinacas.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939e493c3115e3722716/step-40316950.jpg",
+          "path": "/68fb939e493c3115e3722716/step-40316950.jpg",
+          "caption": "Prepara los rollitos y emplata",
+          "localImage": "/images/recipes/68fb939e493c3115e3722716-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCLVV31326-6",
+  "updatedAt": "2026-01-08T11:26:03+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538e",
+      "type": "mixingbowl",
+      "name": "Bol para mezclar"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "89018ed2-eb82-46b9-aa4e-1c99c26e523e",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/melanzane-alla-toscana-berenjena-con-ricotta-y-tomate-seco-68fb939e493c3115e3722716",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "660c47363f0f2e6d306d88d8",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636e0b21422e0b6ac4f8566a",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "660c47363f0f2e6d306d88d8",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636e0b21422e0b6ac4f8566a",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "660c47363f0f2e6d306d88d8",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636e0b21422e0b6ac4f8566a",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 375,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 900,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68fb939e493c3115e3722716-Melanzane alla Toscana Berenjena con ricotta y albahaca.jpg",
+  "localCard": "/pdf/68fb939e493c3115e3722716-Melanzane alla Toscana Berenjena con ricotta y albahaca.pdf"
+}

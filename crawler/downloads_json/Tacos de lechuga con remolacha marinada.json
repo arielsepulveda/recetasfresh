@@ -1,0 +1,756 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 2.8,
+  "canonical": "6655bfce3c6f67065179f195",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ssam-remolacha-queso-griego-6655bfce3c6f67065179f195",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66b335f01047ce9880458327-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "65c253b8770ae9faa0797de4",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-19T07:03:35+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "¿Conoces las propiedades de la remolacha? Es rica en nutrientes como fibra, potasio, vitamina C y antioxidantes, además, beneficia la salud cardiovascular al reducir la presión arterial. Por otra parte, su contenido en fibra promueve la salud digestiva y puede ayudar en la pérdida de peso al aumentar la sensación de saciedad.",
+  "descriptionHTML": "<p>¿Conoces las propiedades de la remolacha? Es rica en nutrientes como fibra, potasio, vitamina C y antioxidantes, además, beneficia la salud cardiovascular al reducir la presión arterial. Por otra parte, su contenido en fibra promueve la salud digestiva y puede ayudar en la pérdida de peso al aumentar la sensación de saciedad.</p>",
+  "descriptionMarkdown": "¿Conoces las propiedades de la remolacha? Es rica en nutrientes como fibra, potasio, vitamina C y antioxidantes, además, beneficia la salud cardiovascular al reducir la presión arterial. Por otra parte, su contenido en fibra promueve la salud digestiva y puede ayudar en la pérdida de peso al aumentar la sensación de saciedad.",
+  "difficulty": 1,
+  "favoritesCount": 16,
+  "headline": "con queso griego, almendras tostadas y menta",
+  "id": "66b335f01047ce9880458327",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R11_W29_ES_ESCQVV22754-2_Main_high-862e0785.jpg",
+  "imagePath": "/image/HF_Y24_R11_W29_ES_ESCQVV22754-2_Main_high-862e0785.jpg",
+  "ingredients": [
+    {
+      "id": "64be8562a1aa6db20ea1184f",
+      "uuid": "1b7902f0-ec25-52cb-ab2d-d03b64525b3e",
+      "name": "Remolacha cocida",
+      "type": "cooked-beetroot",
+      "slug": "remolacha-cocida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64be8562a1aa6db20ea1184f-590d549e.png",
+      "imagePath": "/ingredient/64be8562a1aa6db20ea1184f-590d549e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64be8562a1aa6db20ea1184f-Remolacha cocida.png"
+    },
+    {
+      "id": "6340436b41033266d7be9505",
+      "uuid": "9a94a307-a64d-5b85-962a-663dff0b143e",
+      "name": "Cogollos de lechuga",
+      "type": "baby-gem-lettuce",
+      "slug": "cogollos-de-lechuga",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9505-Cogollos de lechuga.png"
+    },
+    {
+      "id": "634d5daaebf08332f1bff1a8",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "imagePath": "/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d5daaebf08332f1bff1a8-Salsa de soja.png"
+    },
+    {
+      "id": "63da221bdb1fd0bc84bb9736",
+      "uuid": "ba743c71-aa0e-56f6-9a65-1dc7cd42dbb5",
+      "name": "Almendras laminadas",
+      "type": "flaked-almonds",
+      "slug": "almendras-laminadas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da221bdb1fd0bc84bb9736-bc41fdd0.png",
+      "imagePath": "/ingredient/63da221bdb1fd0bc84bb9736-bc41fdd0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da221bdb1fd0bc84bb9736-Almendras laminadas.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "634043732268bc1bff0d3cb9",
+      "uuid": "bf396f23-64e6-52fb-9c2a-f3ea6e6a53f3",
+      "name": "Menta",
+      "type": "mint",
+      "slug": "menta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043732268bc1bff0d3cb9-1c90d3e8.png",
+      "imagePath": "/ingredient/634043732268bc1bff0d3cb9-1c90d3e8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043732268bc1bff0d3cb9-Menta.png"
+    },
+    {
+      "id": "63c6c4e85d055dd6f722b0c2",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "imagePath": "/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63c6c4e85d055dd6f722b0c2-Mayonesa.png"
+    },
+    {
+      "id": "634d280debf08332f1bff1a3",
+      "uuid": "8d052f30-746c-4518-b8be-f170e199c63b",
+      "name": "Queso griego",
+      "type": "greek-salad-cheese",
+      "slug": "queso-griego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d280debf08332f1bff1a3-f0b0fd50.png",
+      "imagePath": "/ingredient/634d280debf08332f1bff1a3-f0b0fd50.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d280debf08332f1bff1a3-Queso griego.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Exprés",
+    "handle": "super-quick",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/66b335f01047ce9880458327",
+  "name": "Tacos de lechuga con remolacha marinada",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1909,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 456,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 34.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 10.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 28.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 22.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 17.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.69,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT15M",
+  "promotion": null,
+  "ratingsCount": 20,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 482,
+  "slug": "tacos-lechuga-remolacha-queso",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Corta la remolacha en dados pequeños de 0,5 cm. Pela y pica la chalota. En un bol grande, agrega la remolacha, la chalota, la mayonesa, la salsa de soja y un chorrito de aceite. Salpimienta al gusto, remueve y reserva hasta el emplatado.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Corta la <strong>remolacha</strong> en dados pequeños de 0,5 cm. Pela y pica la <strong>chalota</strong>. En un bol grande, agrega la <strong>remolacha</strong>, la <strong>chalota</strong>, la <strong>mayonesa</strong>, la <strong>salsa de soja</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> al gusto, remueve y reserva hasta el emplatado.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Corta la <strong>remolacha</strong> en dados pequeños de 0,5 cm. Pela y pica la <strong>chalota</strong>. En un bol grande, agrega la <strong>remolacha</strong>, la <strong>chalota</strong>, la <strong>mayonesa</strong>, la <strong>salsa de soja</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> al gusto, remueve y reserva hasta el emplatado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f01047ce9880458327/step-3b930c00.jpg",
+          "path": "/66b335f01047ce9880458327/step-3b930c00.jpg",
+          "caption": "Marina la remolacha",
+          "localImage": "/images/recipes/66b335f01047ce9880458327-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Calienta una sartén a fuego medio sin aceite. Agrega las almendras y tuesta 1-2 min, mientras remueves, hasta que se doren. Luego, retira de la sartén. Deshoja y pica finamente la mitad de la menta (doble para 4p).",
+      "instructionsHTML": "<p>Calienta una sartén a fuego medio sin aceite. Agrega las <strong>almendras</strong> y tuesta 1-2 min, mientras remueves, hasta que se doren. Luego, retira de la sartén. Deshoja y pica finamente la mitad de la <strong>menta</strong> (doble para 4p).</p>",
+      "instructionsMarkdown": "<p>Calienta una sartén a fuego medio sin aceite. Agrega las <strong>almendras</strong> y tuesta 1-2 min, mientras remueves, hasta que se doren. Luego, retira de la sartén. Deshoja y pica finamente la mitad de la <strong>menta</strong> (doble para 4p).</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f01047ce9880458327/step-5b4a1610.jpg",
+          "path": "/66b335f01047ce9880458327/step-5b4a1610.jpg",
+          "caption": "Tuesta las almendras",
+          "localImage": "/images/recipes/66b335f01047ce9880458327-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Desmenuza el queso griego con las manos. Corta el extremo de los cogollos de lechuga y separa las hojas, de forma que queden 7-9 por persona. Corta el corazón de los cogollos de lechuga por la mitad, luego, corta en tiras finas y agrégalas al bol con la remolacha marinada. Remueve para aderezar.",
+      "instructionsHTML": "<p>Desmenuza el <strong>queso griego</strong> con las manos. Corta el extremo de los <strong>cogollos de lechuga</strong> y separa las hojas, de forma que queden 7-9 por persona. Corta el corazón de los <strong>cogollos de lechuga</strong> por la mitad, luego, corta en tiras finas y agrégalas al bol con la <strong>remolacha</strong> marinada. Remueve para aderezar.</p>",
+      "instructionsMarkdown": "<p>Desmenuza el <strong>queso griego</strong> con las manos. Corta el extremo de los <strong>cogollos de lechuga</strong> y separa las hojas, de forma que queden 7-9 por persona. Corta el corazón de los <strong>cogollos de lechuga</strong> por la mitad, luego, corta en tiras finas y agrégalas al bol con la <strong>remolacha</strong> marinada. Remueve para aderezar.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f01047ce9880458327/step-4428a920.jpg",
+          "path": "/66b335f01047ce9880458327/step-4428a920.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/66b335f01047ce9880458327-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Sobre cada hoja de lechuga, añade remolacha marinada y queso griego. Luego, agrega almendras tostadas y menta picada al gusto.\nSABÍAS QUE: Sumergir durante unos minutos los cogollos de lechuga en agua con hielo ayuda a que estos recuperen su característica textura crujiente.",
+      "instructionsHTML": "<p>Sobre cada <strong>hoja de lechuga</strong>, añade <strong>remolacha</strong> marinada y <strong>queso griego</strong>. Luego, agrega <strong>almendras</strong> tostadas y <strong>menta</strong> picada al gusto.</p>\n<p>SABÍAS QUE: Sumergir durante unos minutos los cogollos de lechuga en agua con hielo ayuda a que estos recuperen su característica textura crujiente.</p>",
+      "instructionsMarkdown": "<p>Sobre cada <strong>hoja de lechuga</strong>, añade <strong>remolacha</strong> marinada y <strong>queso griego</strong>. Luego, agrega <strong>almendras</strong> tostadas y <strong>menta</strong> picada al gusto.</p>\n<p>SABÍAS QUE: Sumergir durante unos minutos los cogollos de lechuga en agua con hielo ayuda a que estos recuperen su característica textura crujiente.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f01047ce9880458327/step-8fdf6430.jpg",
+          "path": "/66b335f01047ce9880458327/step-8fdf6430.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/66b335f01047ce9880458327-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "62163c70143a35226e03d85e",
+      "type": "super-quick",
+      "name": "Exprés",
+      "slug": "expres",
+      "colorHandle": "quickPrep",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCQVV22754-5",
+  "updatedAt": "2025-11-11T08:50:47+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "d7a8147e-f5ea-4c4b-8bae-dfc020d5620f",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/tacos-lechuga-remolacha-queso-66b335f01047ce9880458327",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63da221bdb1fd0bc84bb9736",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d280debf08332f1bff1a3",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 1000,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 440,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63da221bdb1fd0bc84bb9736",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d280debf08332f1bff1a3",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66b335f01047ce9880458327-Tacos de lechuga con remolacha marinada.jpg",
+  "localCard": "/pdf/66b335f01047ce9880458327-Tacos de lechuga con remolacha marinada.pdf"
+}

@@ -1,0 +1,894 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f8",
+      "name": "Cacahuetes",
+      "type": "peanuts",
+      "slug": "cacahuetes",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 2.9,
+  "canonical": "6797c47c5fbdb4aa73bc8267",
+  "canonicalLink": "https://www.hellofresh.es/recipes/tataki-de-entrecot-de-ternera-con-ponzu-y-ensalada-asiatica-6797c47c5fbdb4aa73bc8267",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68a4b0e37e1f6c64ca67547f-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6797c47c5fbdb4aa73bc8267",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-19T17:14:11+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "Elegante y sabroso, el tataki de ternera es un bocado que sorprende por su contraste: exterior dorado, interior jugoso. Esta técnica japonesa, originaria de la región de Tosa, busca resaltar el sabor puro de la carne con una cocción mínima y cortes precisos, casi ceremoniales.",
+  "descriptionHTML": "<p>Elegante y sabroso, el tataki de ternera es un bocado que sorprende por su contraste: exterior dorado, interior jugoso. Esta técnica japonesa, originaria de la región de Tosa, busca resaltar el sabor puro de la carne con una cocción mínima y cortes precisos, casi ceremoniales.</p>",
+  "descriptionMarkdown": "Elegante y sabroso, el tataki de ternera es un bocado que sorprende por su contraste: exterior dorado, interior jugoso. Esta técnica japonesa, originaria de la región de Tosa, busca resaltar el sabor puro de la carne con una cocción mínima y cortes precisos, casi ceremoniales.",
+  "difficulty": 1,
+  "favoritesCount": 2,
+  "headline": "con chile y ensalada de canónigos y cacahuetes",
+  "id": "68a4b0e37e1f6c64ca67547f",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R22_W33_ES_ESSPB39491-2_Main__11_add_tomato_edit_high-ce394065.jpg",
+  "imagePath": "/image/HF_Y25_R22_W33_ES_ESSPB39491-2_Main__11_add_tomato_edit_high-ce394065.jpg",
+  "ingredients": [
+    {
+      "id": "64d2495a2a63efcc605eb56f",
+      "uuid": "4aac0598-076a-5652-89fd-5076ac921db4",
+      "name": "Entrecot de ternera",
+      "type": "steak",
+      "slug": "entrecot-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64d2495a2a63efcc605eb56f-086d2066.jpg",
+      "imagePath": "/ingredient/64d2495a2a63efcc605eb56f-086d2066.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64d2495a2a63efcc605eb56f-Entrecot de ternera.jpg"
+    },
+    {
+      "id": "66f6779e409e10e80694a8a2",
+      "uuid": "e3d17a31-dc7d-43e6-9d11-4f47e31b8102",
+      "name": "Cebolleta",
+      "type": "green-onion",
+      "slug": "cebolleta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/66f6779e409e10e80694a8a2-6cadf58e.png",
+      "imagePath": "/ingredient/66f6779e409e10e80694a8a2-6cadf58e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/66f6779e409e10e80694a8a2-Cebolleta.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "634043732268bc1bff0d3cb6",
+      "uuid": "2d495436-fcfc-468b-aaf8-dbb3a7c1018e",
+      "name": "Canónigos",
+      "type": "lambs-lettuce",
+      "slug": "canonigos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043732268bc1bff0d3cb6-96d82224.jpg",
+      "imagePath": "/ingredient/634043732268bc1bff0d3cb6-96d82224.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043732268bc1bff0d3cb6-Canónigos.jpg"
+    },
+    {
+      "id": "636bc5ee371ed3efb1da61da",
+      "uuid": "14c309a3-f0b6-54cd-bd8a-8616ef0b8482",
+      "name": "Cacahuetes salados",
+      "type": "salted-peanuts",
+      "slug": "cacahuetes-salados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636bc5ee371ed3efb1da61da-1367b68c.png",
+      "imagePath": "/ingredient/636bc5ee371ed3efb1da61da-1367b68c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f8",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636bc5ee371ed3efb1da61da-Cacahuetes salados.png"
+    },
+    {
+      "id": "6340437641033266d7be9528",
+      "uuid": "2904fadb-88de-569e-9c92-a87c61848fdb",
+      "name": "Chile",
+      "type": "red-chilli",
+      "slug": "chile",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9528-12333c56.png",
+      "imagePath": "/ingredient/6340437641033266d7be9528-12333c56.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9528-Chile.png"
+    },
+    {
+      "id": "6797564089d6104200fdc4c2",
+      "uuid": "5054c961-daa9-5d12-b3c4-5aa49343e0c4",
+      "name": "Ponzu",
+      "type": "ponzu",
+      "slug": "ponzu",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6797564089d6104200fdc4c2-f8551273.png",
+      "imagePath": "/ingredient/6797564089d6104200fdc4c2-f8551273.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6797564089d6104200fdc4c2-Ponzu.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff179",
+      "uuid": "ebd2f698-4242-5deb-b767-d529fb84b42f",
+      "name": "Aceite de sésamo",
+      "type": "sesame-oil",
+      "slug": "aceite-de-sesamo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff179-Aceite de sésamo.png"
+    },
+    {
+      "id": "660c9e473f0f2e6d306d9c5e",
+      "uuid": "b2650fbb-77ee-5228-a70d-a2f8d7a9b5d5",
+      "name": "Semillas de sésamo negras",
+      "type": "black-sesame-seeds",
+      "slug": "semillas-de-sesamo-negras",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/660c9e473f0f2e6d306d9c5e-17818691.png",
+      "imagePath": "/ingredient/660c9e473f0f2e6d306d9c5e-17818691.png",
+      "shipped": true,
+      "allergens": [
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/660c9e473f0f2e6d306d9c5e-Semillas de sésamo negras.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    },
+    {
+      "id": "659bbfbac7596f421e543157",
+      "uuid": "85a6c457-ddf6-4b16-ab8f-55316c4ddc02",
+      "name": "Vinagre para aderezar",
+      "type": "vinegar-for-salad",
+      "slug": "vinagre-para-aderezar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/659bbfbac7596f421e543157-faf37314.png",
+      "imagePath": "/ingredient/659bbfbac7596f421e543157-faf37314.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/659bbfbac7596f421e543157-Vinagre para aderezar.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Premium",
+    "handle": "premium",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68a4b0e37e1f6c64ca67547f",
+  "name": "Tataki de entrecot de ternera con aderezo de ponzu ",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2567,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 613,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 49.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 11.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 16.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 5.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 45.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.05,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 7,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 444,
+  "slug": "tataki-de-entrecot-de-ternera-con-aderezo-de-ponzu",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nSaca los entrecots de ternera de la nevera.\nPela la cebolleta y separa la parte verde. Corta ambas partes en tiras finas.\nEn un bol, agrega la parte blanca de la cebolleta, el vinagre y un chorrito de aceite.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Saca los <strong>entrecots de ternera</strong> de la nevera.</li>\n<li>Pela la <strong>cebolleta</strong> y separa la parte verde. Corta ambas partes en tiras finas.</li>\n<li>En un bol, agrega la parte blanca de la <strong>cebolleta,</strong> el <strong>vinagre</strong> y un chorrito de <strong>aceite</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Saca los <strong>entrecots de ternera</strong> de la nevera.</li>\n<li>Pela la <strong>cebolleta</strong> y separa la parte verde. Corta ambas partes en tiras finas.</li>\n<li>En un bol, agrega la parte blanca de la <strong>cebolleta,</strong> el <strong>vinagre</strong> y un chorrito de <strong>aceite</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e37e1f6c64ca67547f/step-2ab2b500.jpg",
+          "path": "/68a4b0e37e1f6c64ca67547f/step-2ab2b500.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68a4b0e37e1f6c64ca67547f-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una ensaladera, mezcla el vinagre para aderezar, un chorrito de aceite, sal y pimienta. \nCorta los tomates cherry por la mitad.\nAñade los canónigos, los cacahuetes, los tomates cherry y la mitad de la cebolleta aliñada. Mezcla.\nCorta el chile en rodajas finas.\nEn un bol pequeño, mezcla el ponzu y el aceite de sésamo.\n\nRECUERDA: Utiliza guantes para manipular el chile y lávate las manos y los utensilios después.",
+      "instructionsHTML": "<ul>\n<li>En una ensaladera, mezcla el <strong>vinagre para aderezar</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> </li>\n<li>Corta los<strong> tomates cherry</strong> por la mitad.</li>\n<li>Añade los <strong>canónigos</strong>, los <strong>cacahuetes</strong>, los <strong>tomates cherry</strong> y la mitad de la <strong>cebolleta</strong> aliñada. Mezcla.</li>\n<li>Corta el <strong>chile</strong> en rodajas finas.</li>\n<li>En un bol pequeño, mezcla el <strong>ponzu</strong> y el <strong>aceite de sésamo</strong>.</li>\n</ul>\n<p>RECUERDA: Utiliza guantes para manipular el chile y lávate las manos y los utensilios después.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En una ensaladera, mezcla el <strong>vinagre para aderezar</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> </li>\n<li>Corta los<strong> tomates cherry</strong> por la mitad.</li>\n<li>Añade los <strong>canónigos</strong>, los <strong>cacahuetes</strong>, los <strong>tomates cherry</strong> y la mitad de la <strong>cebolleta</strong> aliñada. Mezcla.</li>\n<li>Corta el <strong>chile</strong> en rodajas finas.</li>\n<li>En un bol pequeño, mezcla el <strong>ponzu</strong> y el <strong>aceite de sésamo</strong>.</li>\n</ul>\n<p>RECUERDA: Utiliza guantes para manipular el chile y lávate las manos y los utensilios después.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e37e1f6c64ca67547f/step-a0ca4f10.jpg",
+          "path": "/68a4b0e37e1f6c64ca67547f/step-a0ca4f10.jpg",
+          "caption": "Que no falte el verde",
+          "localImage": "/images/recipes/68a4b0e37e1f6c64ca67547f-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCubre ambos lados del entrecot de ternera con las semillas de sésamo negras, presionando ligeramente.\nEn una sartén antiadherente, calienta un chorrito de aceite a fuego medio. Cocina la ternera 45 segundos por lado, debe quedar prácticamente cruda por dentro para conseguir el tataki.\nCorta el entrecot en tiras de 1 cm de grosor.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Cubre ambos lados del <strong>entrecot de ternera</strong> con las <strong>semillas de sésamo negras,</strong> presionando ligeramente.</li>\n<li>En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina la <strong>ternera</strong> 45 segundos por lado, debe quedar prácticamente cruda por dentro para conseguir el <strong>tataki.</strong></li>\n<li>Corta el <strong>entrecot</strong> en tiras de 1 cm de grosor.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Cubre ambos lados del <strong>entrecot de ternera</strong> con las <strong>semillas de sésamo negras,</strong> presionando ligeramente.</li>\n<li>En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina la <strong>ternera</strong> 45 segundos por lado, debe quedar prácticamente cruda por dentro para conseguir el <strong>tataki.</strong></li>\n<li>Corta el <strong>entrecot</strong> en tiras de 1 cm de grosor.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e37e1f6c64ca67547f/step-cabda920.jpg",
+          "path": "/68a4b0e37e1f6c64ca67547f/step-cabda920.jpg",
+          "caption": "Entrecot al fuego",
+          "localImage": "/images/recipes/68a4b0e37e1f6c64ca67547f-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCon la cebolleta aliñada restante, crea una base en un plato y coloca encima el entrecot.\nAgrega el aderezo de ponzu, chili rojo al gusto y la parte verde de la cebolleta sobre el entrecot.\nSirve la ensalada a un lado como acompañamiento.\n",
+      "instructionsHTML": "<ul>\n<li>Con la <strong>cebolleta</strong> aliñada restante, crea una base en un plato y coloca encima el <strong>entrecot.</strong></li>\n<li>Agrega el <strong>aderezo</strong> de <strong>ponzu, chili rojo</strong> al gusto y la parte verde de la <strong>cebolleta</strong> sobre el <strong>entrecot.</strong></li>\n<li>Sirve la <strong>ensalada</strong> a un lado como acompañamiento.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Con la <strong>cebolleta</strong> aliñada restante, crea una base en un plato y coloca encima el <strong>entrecot.</strong></li>\n<li>Agrega el <strong>aderezo</strong> de <strong>ponzu, chili rojo</strong> al gusto y la parte verde de la <strong>cebolleta</strong> sobre el <strong>entrecot.</strong></li>\n<li>Sirve la <strong>ensalada</strong> a un lado como acompañamiento.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e37e1f6c64ca67547f/step-0d9d4830.jpg",
+          "path": "/68a4b0e37e1f6c64ca67547f/step-0d9d4830.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68a4b0e37e1f6c64ca67547f-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESSPB39491-6",
+  "updatedAt": "2026-01-29T17:48:57+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    }
+  ],
+  "uuid": "65b4044a-c7a2-4be9-a686-f94af4fc1487",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/tataki-de-entrecot-de-ternera-con-aderezo-de-ponzu-68a4b0e37e1f6c64ca67547f",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 340,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "66f6779e409e10e80694a8a2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb6",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6797564089d6104200fdc4c2",
+          "amount": 45,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "659bbfbac7596f421e543157",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 680,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "66f6779e409e10e80694a8a2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb6",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6797564089d6104200fdc4c2",
+          "amount": 90,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "659bbfbac7596f421e543157",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "64d2495a2a63efcc605eb56f",
+          "amount": 1020,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "66f6779e409e10e80694a8a2",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 375,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb6",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6797564089d6104200fdc4c2",
+          "amount": 135,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 6,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "659bbfbac7596f421e543157",
+          "amount": 6,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68a4b0e37e1f6c64ca67547f-Tataki de entrecot de ternera con aderezo de ponzu.jpg",
+  "localCard": "/pdf/68a4b0e37e1f6c64ca67547f-Tataki de entrecot de ternera con aderezo de ponzu.pdf"
+}

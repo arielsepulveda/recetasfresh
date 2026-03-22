@@ -1,0 +1,842 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f4",
+      "name": "Crustáceos",
+      "type": "crustaceans",
+      "slug": "crustaceos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5fdcacf19520e811397b51c9",
+      "name": "Moluscos",
+      "type": "traces-of-molluscs",
+      "slug": "traces-of-moluscos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf974c30006c4d667f88f1",
+      "name": "Pescado",
+      "type": "traces-of-fish",
+      "slug": "traces-of-pescado",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "64256ab72e8f18047b34f227",
+  "canonicalLink": "https://www.hellofresh.es/recipes/curry-de-gambas-64256ab72e8f18047b34f227",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "68e8dd9e908d7cf716b82d3e",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-15T08:53:25+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "India",
+      "slug": "india",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg"
+    }
+  ],
+  "description": "¿Has oído hablar del Aloo Jhinga? Este plato viene del norte de la India y combina langostinos jugosos con patatas, todo bañado en especias aromáticas que despiertan los sentidos. Nació en la cocina casera, donde se aprovechaban ingredientes frescos del día, y hoy sorprende por su mezcla de texturas que hace cada bocado una pequeña aventura.",
+  "descriptionHTML": "<p>¿Has oído hablar del Aloo Jhinga? Este plato viene del norte de la India y combina langostinos jugosos con patatas, todo bañado en especias aromáticas que despiertan los sentidos. Nació en la cocina casera, donde se aprovechaban ingredientes frescos del día, y hoy sorprende por su mezcla de texturas que hace cada bocado una pequeña aventura.</p>",
+  "descriptionMarkdown": "¿Has oído hablar del Aloo Jhinga? Este plato viene del norte de la India y combina langostinos jugosos con patatas, todo bañado en especias aromáticas que despiertan los sentidos. Nació en la cocina casera, donde se aprovechaban ingredientes frescos del día, y hoy sorprende por su mezcla de texturas que hace cada bocado una pequeña aventura.",
+  "difficulty": 1,
+  "favoritesCount": 4,
+  "headline": "con manzana, huevo rallado y cilantro",
+  "id": "68ef61049a6dfb54e98281cb",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R19_W47_ES_ESCF15668-4_Main_7_high-9db8d695.jpg",
+  "imagePath": "/image/HF_Y25_R19_W47_ES_ESCF15668-4_Main_7_high-9db8d695.jpg",
+  "ingredients": [
+    {
+      "id": "63bd7c429039b2fdf4578e62",
+      "uuid": "0b18a29e-c9df-5b77-903e-c2e60206b65a",
+      "name": "Langostinos",
+      "type": "shrimps",
+      "slug": "langostinos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bd7c429039b2fdf4578e62-56f60655.png",
+      "imagePath": "/ingredient/63bd7c429039b2fdf4578e62-56f60655.png",
+      "shipped": true,
+      "allergens": [
+        "5fdcacf19520e811397b51c9",
+        "57962a07b7e8697d4b305303",
+        "5b0532aaae08b52eb9420552",
+        "5acf974c30006c4d667f88f1",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f4"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bd7c429039b2fdf4578e62-Langostinos.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "63497cbcebf08332f1bff18e",
+      "uuid": "27b39d19-2dcd-5d9b-a4bf-6239da23b0a0",
+      "name": "Pasta de curry Rogan Josh",
+      "type": "rogan-josh-curry-paste",
+      "slug": "pasta-de-curry-rogan-josh",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497cbcebf08332f1bff18e-9d0543e3.png",
+      "imagePath": "/ingredient/63497cbcebf08332f1bff18e-9d0543e3.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497cbcebf08332f1bff18e-Pasta de curry Rogan Josh.png"
+    },
+    {
+      "id": "6340436e233160a36674b9fd",
+      "uuid": "4be57e09-204f-50f6-abf5-a91e4a8099db",
+      "name": "Leche de coco",
+      "type": "coconut-milk",
+      "slug": "leche-de-coco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9fd-Leche de coco.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca0",
+      "uuid": "e2769482-364e-53c8-97cc-79b0d2b33e8a",
+      "name": "Manzana",
+      "type": "apple",
+      "slug": "manzana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca0-Manzana.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68ef61049a6dfb54e98281cb",
+  "name": "Aloo Jhinga: curry con extra de langostinos con patatas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2815,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 673,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 33.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 43.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.99,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 677,
+  "slug": "aloo-jhinga-curry-con-extra-de-langostinos-con-patatas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nSeca los langostinos y salpimienta.\nEn una olla, calienta un chorrito de aceite a fuego medio-alto. Cocina los langostinos 1-2 min, hasta que se doren.\nRetira de la olla y reserva.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Seca los <strong>langostinos</strong> y <strong>salpimienta.</strong></li>\n<li dir=\"ltr\">En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina los <strong>langostinos</strong> 1-2 min, hasta que se doren.</li>\n<li dir=\"ltr\">Retira de la olla y reserva.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Seca los <strong>langostinos</strong> y <strong>salpimienta.</strong></li>\n<li dir=\"ltr\">En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina los <strong>langostinos</strong> 1-2 min, hasta que se doren.</li>\n<li dir=\"ltr\">Retira de la olla y reserva.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68ef61049a6dfb54e98281cb/step-757c0700.jpg",
+          "path": "/68ef61049a6dfb54e98281cb/step-757c0700.jpg",
+          "caption": "Langostinos al fuego",
+          "localImage": "/images/recipes/68ef61049a6dfb54e98281cb-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y pica la chalota.\nPela las patatas y córtalas en dados de 2 cm.\nDeshoja y pica el cilantro.\nPela y ralla la zanahoria.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Pela y pica la<strong> chalota</strong>.</li>\n<li dir=\"ltr\">Pela las <strong>patatas</strong> y córtalas en dados de 2 cm.</li>\n<li dir=\"ltr\">Deshoja y pica el <strong>cilantro.</strong></li>\n<li dir=\"ltr\">Pela y ralla la <strong>zanahoria.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Pela y pica la<strong> chalota</strong>.</li>\n<li dir=\"ltr\">Pela las <strong>patatas</strong> y córtalas en dados de 2 cm.</li>\n<li dir=\"ltr\">Deshoja y pica el <strong>cilantro.</strong></li>\n<li dir=\"ltr\">Pela y ralla la <strong>zanahoria.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5c0a9a5edbdd9fc57e863cd6",
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68ef61049a6dfb54e98281cb/step-9d76d610.jpg",
+          "path": "/68ef61049a6dfb54e98281cb/step-9d76d610.jpg",
+          "caption": "Cuchillo en mano",
+          "localImage": "/images/recipes/68ef61049a6dfb54e98281cb-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la olla, calienta un chorrito de aceite a fuego medio. Cocina la chalota y la zanahoria 2-3 min.\nAgrega la pasta de curry Rogan Josh, la patata, la leche de coco y el agua y cocina a fuego medio-alto 20-22 min, removiendo ocasionalmente, hasta que la patata esté tierna.\nSalpimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina la <strong>chalota</strong> y la <strong>zanahoria</strong> 2-3 min.</li>\n<li dir=\"ltr\">Agrega la <strong>pasta de curry Rogan Josh</strong>, la <strong>patata,</strong> la <strong>leche de coco</strong> y el <strong>agua</strong> y cocina a fuego medio-alto 20-22 min, removiendo ocasionalmente, hasta que la <strong>patata</strong> esté tierna.</li>\n<li dir=\"ltr\"><strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina la <strong>chalota</strong> y la <strong>zanahoria</strong> 2-3 min.</li>\n<li dir=\"ltr\">Agrega la <strong>pasta de curry Rogan Josh</strong>, la <strong>patata,</strong> la <strong>leche de coco</strong> y el <strong>agua</strong> y cocina a fuego medio-alto 20-22 min, removiendo ocasionalmente, hasta que la <strong>patata</strong> esté tierna.</li>\n<li dir=\"ltr\"><strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68ef61049a6dfb54e98281cb/step-75c54b20.jpg",
+          "path": "/68ef61049a6dfb54e98281cb/step-75c54b20.jpg",
+          "caption": "Dale forma al curry",
+          "localImage": "/images/recipes/68ef61049a6dfb54e98281cb-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nMientras tanto, agrega suficiente agua para hervir los huevos y lleva a ebullición.\nCuando hierva, añade los huevos y cocina a fuego medio 12 min.\nCuando estén listos, escurre el agua y cubre los huevos con agua fría.\nUna vez hayan perdido temperatura, pela los huevos y rállalos.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Mientras tanto, agrega suficiente <strong>agua</strong> para hervir los <strong>huevos</strong> y lleva a ebullición.</li>\n<li dir=\"ltr\">Cuando hierva, añade los <strong>huevos</strong> y cocina a fuego medio 12 min.</li>\n<li dir=\"ltr\">Cuando estén listos, escurre el <strong>agua</strong> y cubre los <strong>huevos</strong> con <strong>agua</strong> fría.</li>\n<li dir=\"ltr\">Una vez hayan perdido temperatura, pela los <strong>huevos</strong> y rállalos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Mientras tanto, agrega suficiente <strong>agua</strong> para hervir los <strong>huevos</strong> y lleva a ebullición.</li>\n<li dir=\"ltr\">Cuando hierva, añade los <strong>huevos</strong> y cocina a fuego medio 12 min.</li>\n<li dir=\"ltr\">Cuando estén listos, escurre el <strong>agua</strong> y cubre los <strong>huevos</strong> con <strong>agua</strong> fría.</li>\n<li dir=\"ltr\">Una vez hayan perdido temperatura, pela los <strong>huevos</strong> y rállalos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538c",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68ef61049a6dfb54e98281cb/step-c2c4f930.jpg",
+          "path": "/68ef61049a6dfb54e98281cb/step-c2c4f930.jpg",
+          "caption": "Huevos en marcha",
+          "localImage": "/images/recipes/68ef61049a6dfb54e98281cb-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando queden 2 min para que el curry esté listo, agrega los langostinos a la olla y cocina el tiempo restante.\nRalla la manzana y reserva en un bol. \n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Cuando queden 2 min para que el <strong>curry</strong> esté listo, agrega los <strong>langostinos</strong> a la olla y cocina el tiempo restante.</li>\n<li dir=\"ltr\">Ralla la<strong> manzana </strong>y reserva en un bol. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Cuando queden 2 min para que el <strong>curry</strong> esté listo, agrega los <strong>langostinos</strong> a la olla y cocina el tiempo restante.</li>\n<li dir=\"ltr\">Ralla la<strong> manzana </strong>y reserva en un bol. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5c0a9a5edbdd9fc57e863cd6"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68ef61049a6dfb54e98281cb/step-c5c2bc40.jpg",
+          "path": "/68ef61049a6dfb54e98281cb/step-c5c2bc40.jpg",
+          "caption": "Agrega los langostinos",
+          "localImage": "/images/recipes/68ef61049a6dfb54e98281cb-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el curry de langostinos en platos y añade encima el huevo, la manzana y el cilantro.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Sirve el <strong>curry</strong> de <strong>langostinos</strong> en platos y añade encima el <strong>huevo,</strong> la <strong>manzana</strong> y el <strong>cilantro.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Sirve el <strong>curry</strong> de <strong>langostinos</strong> en platos y añade encima el <strong>huevo,</strong> la <strong>manzana</strong> y el <strong>cilantro.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68ef61049a6dfb54e98281cb/step-369b1e50.jpg",
+          "path": "/68ef61049a6dfb54e98281cb/step-369b1e50.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68ef61049a6dfb54e98281cb-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCF15668-DP-1-2",
+  "updatedAt": "2026-01-21T17:19:39+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "5c0a9a5edbdd9fc57e863cd6",
+      "type": "box-greater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "53c9e8bf-1233-4715-bc46-970e26dcd4da",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/aloo-jhinga-curry-con-extra-de-langostinos-con-patatas-68ef61049a6dfb54e98281cb",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63bd7c429039b2fdf4578e62",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63497cbcebf08332f1bff18e",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 180,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63bd7c429039b2fdf4578e62",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63497cbcebf08332f1bff18e",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 360,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63bd7c429039b2fdf4578e62",
+          "amount": 900,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63497cbcebf08332f1bff18e",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 540,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 450,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 3,
+          "unit": "unit"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68ef61049a6dfb54e98281cb-Aloo Jhinga curry con extra de langostinos con patatas.jpg"
+}

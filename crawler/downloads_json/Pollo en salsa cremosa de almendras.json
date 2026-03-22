@@ -1,0 +1,773 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.5,
+  "canonical": "6584baaa600988fb9c067a48",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-salsa-almendras-arroz-6584baaa600988fb9c067a48",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66b335f465c5bf01517d3647-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6390a08905fc26d5313f23cf",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-19T07:19:20+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Aunque en esta receta utilizamos las almendras para aportar una gran textura y sabor a la salsa, ¿sabías que consumir almendras es muy beneficioso para tu salud? Son antioxidantes, regulan el azúcar en sangre y ayudan a controlar el peso. Además, son buenas para el corazón, la vista y la piel. ¿Necesitas más razones para pedir esta receta?",
+  "descriptionHTML": "<p>Aunque en esta receta utilizamos las almendras para aportar una gran textura y sabor a la salsa, ¿sabías que consumir almendras es muy beneficioso para tu salud? Son antioxidantes, regulan el azúcar en sangre y ayudan a controlar el peso. Además, son buenas para el corazón, la vista y la piel. ¿Necesitas más razones para pedir esta receta?</p>",
+  "descriptionMarkdown": "Aunque en esta receta utilizamos las almendras para aportar una gran textura y sabor a la salsa, ¿sabías que consumir almendras es muy beneficioso para tu salud? Son antioxidantes, regulan el azúcar en sangre y ayudan a controlar el peso. Además, son buenas para el corazón, la vista y la piel. ¿Necesitas más razones para pedir esta receta?",
+  "difficulty": 1,
+  "favoritesCount": 25,
+  "headline": "con verduras y arroz",
+  "id": "66b335f465c5bf01517d3647",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R18_W43_ES_ESCC13936-11_oregano_edit_Main_high-34d346c5.jpg",
+  "imagePath": "/image/HF_Y24_R18_W43_ES_ESCC13936-11_oregano_edit_Main_high-34d346c5.jpg",
+  "ingredients": [
+    {
+      "id": "6340437b2268bc1bff0d3cd1",
+      "uuid": "9838d4d1-5c2e-4e68-a073-54d514ccfdb0",
+      "name": "Pechuga de pollo troceada",
+      "type": "chicken-breast-diced",
+      "slug": "pechuga-de-pollo-troceada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd1-Pechuga de pollo troceada.jpg"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63da221bdb1fd0bc84bb9736",
+      "uuid": "ba743c71-aa0e-56f6-9a65-1dc7cd42dbb5",
+      "name": "Almendras laminadas",
+      "type": "flaked-almonds",
+      "slug": "almendras-laminadas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da221bdb1fd0bc84bb9736-bc41fdd0.png",
+      "imagePath": "/ingredient/63da221bdb1fd0bc84bb9736-bc41fdd0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da221bdb1fd0bc84bb9736-Almendras laminadas.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "6633472d270adf4f95c57fc5",
+      "uuid": "21a1020d-ac88-52c7-a9e3-531ddd24a275",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6633472d270adf4f95c57fc5-f6ab4a06.png",
+      "imagePath": "/ingredient/6633472d270adf4f95c57fc5-f6ab4a06.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6633472d270adf4f95c57fc5-Leche.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/66b335f465c5bf01517d3647",
+  "name": "Pollo en salsa cremosa de almendras",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3162,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 756,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 6.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 74.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 8.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 43.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.26,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 10,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 569,
+  "slug": "pollo-salsa-almendras-arroz",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el agua (ver cantidad en ingredientes), añade el arroz y sal al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el arroz para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f465c5bf01517d3647/step-4b795d00.jpg",
+          "path": "/66b335f465c5bf01517d3647/step-4b795d00.jpg",
+          "caption": "Cuece el arroz",
+          "localImage": "/images/recipes/66b335f465c5bf01517d3647-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Retira los extremos del calabacín y córtalo por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Calienta una sartén a fuego medio sin aceite. Agrega las almendras y tuesta 1-2 min, mientras remueves, hasta que se doren. Retira del fuego y reserva en un bol. ",
+      "instructionsHTML": "<p dir=\"ltr\">Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Calienta una sartén a fuego medio sin aceite. Agrega las <strong>almendras</strong> y tuesta 1-2 min, mientras remueves, hasta que se doren. Retira del fuego y reserva en un bol. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Calienta una sartén a fuego medio sin aceite. Agrega las <strong>almendras</strong> y tuesta 1-2 min, mientras remueves, hasta que se doren. Retira del fuego y reserva en un bol. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375",
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f465c5bf01517d3647/step-cd322f10.jpg",
+          "path": "/66b335f465c5bf01517d3647/step-cd322f10.jpg",
+          "caption": "Tuesta las almendras",
+          "localImage": "/images/recipes/66b335f465c5bf01517d3647-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la sartén, calienta un chorrito de aceite a fuego medio. Cocina el calabacín 5-6 min, removiendo, hasta que se dore. Salpimienta y reserva fuera de la sartén. En la sartén, calienta un chorrito de aceite a fuego medio. Agrega el pollo, salpimienta y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior. Retira de la sartén y reserva.\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda. ",
+      "instructionsHTML": "<p dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>calabacín</strong> 5-6 min, removiendo, hasta que se dore. <strong>Salpimienta</strong> y reserva fuera de la sartén. En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>pollo</strong>, <strong>salpimienta</strong> y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior. Retira de la sartén y reserva.</p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>calabacín</strong> 5-6 min, removiendo, hasta que se dore. <strong>Salpimienta</strong> y reserva fuera de la sartén. En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>pollo</strong>, <strong>salpimienta</strong> y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior. Retira de la sartén y reserva.</p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda. </p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f465c5bf01517d3647/step-1e98a620.jpg",
+          "path": "/66b335f465c5bf01517d3647/step-1e98a620.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/66b335f465c5bf01517d3647-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Mientras se cocina el pollo, pela y pica el ajo (ver cantidad en ingredientes). Pela y pica la chalota. En la sartén, agrega un chorrito de aceite junto con el ajo y la chalota. Calienta a fuego medio y cocina 2-3 min o hasta que se doren. Agrega la leche y el caldo de pollo en polvo, salpimienta y cocina a fuego medio-alto 2 min, removiendo ocasionalmente, hasta que la salsa espese.",
+      "instructionsHTML": "<p dir=\"ltr\">Mientras se cocina el <strong>pollo,</strong> pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela y pica la <strong>chalota</strong>. En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y la <strong>chalota</strong>. Calienta a fuego medio y cocina 2-3 min o hasta que se doren. <span>Agrega la <strong>leche</strong> y el <strong>caldo de pollo</strong> en polvo, <strong>salpimienta</strong> y cocina a fuego medio-alto 2 min, removiendo ocasionalmente, hasta que la <strong>salsa</strong> espese.</span></p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Mientras se cocina el <strong>pollo,</strong> pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela y pica la <strong>chalota</strong>. En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y la <strong>chalota</strong>. Calienta a fuego medio y cocina 2-3 min o hasta que se doren. <span>Agrega la <strong>leche</strong> y el <strong>caldo de pollo</strong> en polvo, <strong>salpimienta</strong> y cocina a fuego medio-alto 2 min, removiendo ocasionalmente, hasta que la <strong>salsa</strong> espese.</span></p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f465c5bf01517d3647/step-38907e30.jpg",
+          "path": "/66b335f465c5bf01517d3647/step-38907e30.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/66b335f465c5bf01517d3647-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Vierte la salsa en la jarra medidora y agrega casi todas almendras, reservando unas pocas para el emplatado. Tritura con un túrmix hasta que quede una salsa lisa. Vuelve a poner la salsa en la sartén, añade el pollo y cocina a fuego medio 1-2 min, cubriendo el pollo con la salsa, hasta que la salsa espese. Prueba y rectifica de sal y pimienta.",
+      "instructionsHTML": "<p dir=\"ltr\">Vierte la <strong>salsa</strong> en la jarra medidora y agrega casi todas <strong>almendras</strong>, reservando unas pocas para el emplatado. Tritura con un túrmix hasta que quede una <strong>salsa</strong> lisa. <span>Vuelve a poner la <strong>salsa</strong> en la sartén, añade el <strong>pollo</strong> y cocina a fuego medio 1-2 min, cubriendo el <strong>pollo</strong> con la <strong>salsa, </strong>hasta que la <strong>salsa</strong> espese. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</span></p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Vierte la <strong>salsa</strong> en la jarra medidora y agrega casi todas <strong>almendras</strong>, reservando unas pocas para el emplatado. Tritura con un túrmix hasta que quede una <strong>salsa</strong> lisa. <span>Vuelve a poner la <strong>salsa</strong> en la sartén, añade el <strong>pollo</strong> y cocina a fuego medio 1-2 min, cubriendo el <strong>pollo</strong> con la <strong>salsa, </strong>hasta que la <strong>salsa</strong> espese. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</span></p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f465c5bf01517d3647/step-5428ff40.jpg",
+          "path": "/66b335f465c5bf01517d3647/step-5428ff40.jpg",
+          "caption": "Tritura la salsa",
+          "localImage": "/images/recipes/66b335f465c5bf01517d3647-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el arroz en un lado de los platos y coloca al otro lado el calabacín salteado y el pollo en salsa de almendras. Acaba añadiendo las almendras reservadas y el orégano (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p dir=\"ltr\">Sirve el <strong>arroz</strong> en un lado de los platos y coloca al otro lado el <strong>calabacín</strong> salteado y el <strong>pollo</strong> en <strong>salsa de almendras</strong>. Acaba añadiendo las <strong>almendras</strong> reservadas y el <strong>orégano</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Sirve el <strong>arroz</strong> en un lado de los platos y coloca al otro lado el <strong>calabacín</strong> salteado y el <strong>pollo</strong> en <strong>salsa de almendras</strong>. Acaba añadiendo las <strong>almendras</strong> reservadas y el <strong>orégano</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f465c5bf01517d3647/step-5b596450.jpg",
+          "path": "/66b335f465c5bf01517d3647/step-5b596450.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/66b335f465c5bf01517d3647-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305321",
+      "type": "high-protein",
+      "name": "Proteico",
+      "slug": "proteico",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCC13936-11",
+  "updatedAt": "2025-11-11T08:50:47+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "04ca37a4-6fd2-4bed-bba9-ee7d2b574c2c",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-salsa-almendras-arroz-66b335f465c5bf01517d3647",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63da221bdb1fd0bc84bb9736",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6633472d270adf4f95c57fc5",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63da221bdb1fd0bc84bb9736",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6633472d270adf4f95c57fc5",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66b335f465c5bf01517d3647-Pollo en salsa cremosa de almendras.jpg",
+  "localCard": "/pdf/66b335f465c5bf01517d3647-Pollo en salsa cremosa de almendras.pdf"
+}

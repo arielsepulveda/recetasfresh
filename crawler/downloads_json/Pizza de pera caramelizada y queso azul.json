@@ -1,0 +1,621 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 2.7,
+  "canonical": "65d8b0d8700746d2fe52077a",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pizza-pera-queso-azul-65d8b0d8700746d2fe52077a",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6616b8cb9064812f61712c5f-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "65a78ce7cbafa858007b6e8b",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-04-23T14:14:07+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "Aunque el uso de frutas en platos salados es común en diversas gastronomías desde hace tiempo, añadir pera a la pizza es producto del desarrollo de la gastronomía contemporánea (al menos fuera de Italia). En esta receta, cubrimos las bases de pizza con queso y añadimos la pera caramelizada y queso azul para crear una combinación explosiva e intensa.",
+  "descriptionHTML": "<p>Aunque el uso de frutas en platos salados es común en diversas gastronomías desde hace tiempo, añadir pera a la pizza es producto del desarrollo de la gastronomía contemporánea (al menos fuera de Italia). En esta receta, cubrimos las bases de pizza con queso y añadimos la pera caramelizada y queso azul para crear una combinación explosiva e intensa.</p>",
+  "descriptionMarkdown": "Aunque el uso de frutas en platos salados es común en diversas gastronomías desde hace tiempo, añadir pera a la pizza es producto del desarrollo de la gastronomía contemporánea (al menos fuera de Italia). En esta receta, cubrimos las bases de pizza con queso y añadimos la pera caramelizada y queso azul para crear una combinación explosiva e intensa.",
+  "difficulty": 1,
+  "favoritesCount": 13,
+  "headline": "con base de queso",
+  "id": "6616b8cb9064812f61712c5f",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R10_W19_ES_ESCVV22133-2_edit_cheese_Main_high-92ef25a6.jpg",
+  "imagePath": "/image/HF_Y24_R10_W19_ES_ESCVV22133-2_edit_cheese_Main_high-92ef25a6.jpg",
+  "ingredients": [
+    {
+      "id": "63497d88971d5eddb3ff71b2",
+      "uuid": "ca2eb932-2be6-58fe-9c2b-05bd27036489",
+      "name": "Base de pizza",
+      "type": "pizza-bases",
+      "slug": "base-de-pizza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b2-Base de pizza.png"
+    },
+    {
+      "id": "6352b13f0f0324d2cd53b1bd",
+      "uuid": "20f72727-c8b3-5616-a31c-7b4594015052",
+      "name": "Queso azul",
+      "type": "blue-cheese",
+      "slug": "queso-azul",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352b13f0f0324d2cd53b1bd-35325c9c.png",
+      "imagePath": "/ingredient/6352b13f0f0324d2cd53b1bd-35325c9c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352b13f0f0324d2cd53b1bd-Queso azul.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "634043752268bc1bff0d3cc2",
+      "uuid": "97ef93ce-ab9e-5f68-9948-93c496545795",
+      "name": "Pera",
+      "type": "pear",
+      "slug": "pera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043752268bc1bff0d3cc2-6164f404.png",
+      "imagePath": "/ingredient/634043752268bc1bff0d3cc2-6164f404.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043752268bc1bff0d3cc2-Pera.png"
+    },
+    {
+      "id": "6364e2c11c8a9adf8ea7f79d",
+      "uuid": "4b76e78b-72cc-5898-b33d-3ada326fa8ba",
+      "name": "Nueces peladas",
+      "type": "walnuts",
+      "slug": "nueces-peladas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "imagePath": "/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364e2c11c8a9adf8ea7f79d-Nueces peladas.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "65e82a30545eccde381b9827",
+      "uuid": "f7c0ae76-8a84-419c-900b-28bac337d8dc",
+      "name": "Leche",
+      "type": "milk-in-drizzle",
+      "slug": "leche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65e82a30545eccde381b9827-63b98a27.png",
+      "imagePath": "/ingredient/65e82a30545eccde381b9827-63b98a27.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65e82a30545eccde381b9827-Leche.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6616b8cb9064812f61712c5f",
+  "name": "Pizza de pera caramelizada y queso azul",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3541,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 846,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 37.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 18.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 84.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 2.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 26.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.2,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 7,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 330,
+  "slug": "pizza-pera-queso-azul",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Coloca las bases de pizza en un bandeja de horno con papel de horno y hornea a altura media 8 min, hasta que se doren ligeramente. Mientras tanto, corta la pera por la mitad y retira el corazón. Luego, corta en láminas finas.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Coloca las <strong>bases de pizza</strong> en un bandeja de horno con papel de horno y hornea a altura media 8 min, hasta que se doren ligeramente. Mientras tanto, corta la <strong>pera</strong> por la mitad y retira el corazón. Luego, corta en láminas finas.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Coloca las <strong>bases de pizza</strong> en un bandeja de horno con papel de horno y hornea a altura media 8 min, hasta que se doren ligeramente. Mientras tanto, corta la <strong>pera</strong> por la mitad y retira el corazón. Luego, corta en láminas finas.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8cb9064812f61712c5f/step-55094e00.jpg",
+          "path": "/6616b8cb9064812f61712c5f/step-55094e00.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/6616b8cb9064812f61712c5f-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén, agrega la mantequilla (ver cantidad en ingredientes) y calienta a fuego medio, hasta que se derrita. Luego, agrega la pera y cocina 2 min, removiendo ocasionalmente. Añade el azúcar (ver cantidad en ingredientes) y cocina 2-3 min o hasta que la pera se oscurezca y quede caramelizada, mientras remueves.",
+      "instructionsHTML": "<p>En una sartén, agrega la <strong>mantequilla</strong> (ver cantidad en ingredientes) y calienta a fuego medio, hasta que se derrita. Luego, agrega la <strong>pera</strong> y cocina 2 min, removiendo ocasionalmente. Añade el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina 2-3 min o hasta que la <strong>pera</strong> se oscurezca y quede caramelizada, mientras remueves.</p>",
+      "instructionsMarkdown": "<p>En una sartén, agrega la <strong>mantequilla</strong> (ver cantidad en ingredientes) y calienta a fuego medio, hasta que se derrita. Luego, agrega la <strong>pera</strong> y cocina 2 min, removiendo ocasionalmente. Añade el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina 2-3 min o hasta que la <strong>pera</strong> se oscurezca y quede caramelizada, mientras remueves.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8cb9064812f61712c5f/step-fd32f810.jpg",
+          "path": "/6616b8cb9064812f61712c5f/step-fd32f810.jpg",
+          "caption": "Carameliza la pera",
+          "localImage": "/images/recipes/6616b8cb9064812f61712c5f-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En un bol, mezcla el queso crema con un chorrito de leche, para diluirlo ligeramente. Desmenuza el queso azul en trozos medianos. Cuando las bases de pizza se hayan dorado ligeramente, sácalas del horno. Reparte el queso crema entre las bases de pizza con ayuda de una cuchara, dejando 1 cm del borde sin cubrir. Luego, añade el queso azul y la pera caramelizada.",
+      "instructionsHTML": "<p>En un bol, mezcla el <strong>queso crema</strong> con un chorrito de <strong>leche</strong>, para diluirlo ligeramente. Desmenuza el <strong>queso azul</strong> en trozos medianos. Cuando las <strong>bases de pizza</strong> se hayan dorado ligeramente, sácalas del horno. Reparte el <strong>queso crema</strong> entre las <strong>bases de pizza</strong> con ayuda de una cuchara, dejando 1 cm del borde sin cubrir. Luego, añade el <strong>queso azul</strong> y la <strong>pera</strong> caramelizada.</p>",
+      "instructionsMarkdown": "<p>En un bol, mezcla el <strong>queso crema</strong> con un chorrito de <strong>leche</strong>, para diluirlo ligeramente. Desmenuza el <strong>queso azul</strong> en trozos medianos. Cuando las <strong>bases de pizza</strong> se hayan dorado ligeramente, sácalas del horno. Reparte el <strong>queso crema</strong> entre las <strong>bases de pizza</strong> con ayuda de una cuchara, dejando 1 cm del borde sin cubrir. Luego, añade el <strong>queso azul</strong> y la <strong>pera</strong> caramelizada.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8cb9064812f61712c5f/step-4f4d5720.jpg",
+          "path": "/6616b8cb9064812f61712c5f/step-4f4d5720.jpg",
+          "caption": "Prepara las pizzas",
+          "localImage": "/images/recipes/6616b8cb9064812f61712c5f-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Hornea las pizzas en la parte superior del horno durante 5-6 min o hasta que los quesos se fundan y la pizza se dore. Mientras tanto, con la base de un cazo, aplasta las nueces en su propia bolsa para picarlas. Cuando las pizzas estén listas, sírvelas en platos y agrega encima las nueces picadas.",
+      "instructionsHTML": "<p>Hornea las <strong>pizzas</strong> en la parte superior del horno durante 5-6 min o hasta que los <strong>quesos</strong> se fundan y la <strong>pizza</strong> se dore. Mientras tanto, con la base de un cazo, aplasta las <strong>nueces</strong> en su propia bolsa para picarlas. Cuando las <strong>pizzas</strong> estén listas, sírvelas en platos y agrega encima las <strong>nueces</strong> picadas.</p>",
+      "instructionsMarkdown": "<p>Hornea las <strong>pizzas</strong> en la parte superior del horno durante 5-6 min o hasta que los <strong>quesos</strong> se fundan y la <strong>pizza</strong> se dore. Mientras tanto, con la base de un cazo, aplasta las <strong>nueces</strong> en su propia bolsa para picarlas. Cuando las <strong>pizzas</strong> estén listas, sírvelas en platos y agrega encima las <strong>nueces</strong> picadas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8cb9064812f61712c5f/step-5848ec30.jpg",
+          "path": "/6616b8cb9064812f61712c5f/step-5848ec30.jpg",
+          "caption": "Hornea y emplata",
+          "localImage": "/images/recipes/6616b8cb9064812f61712c5f-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCVV22133-4",
+  "updatedAt": "2025-11-24T21:58:02+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    }
+  ],
+  "uuid": "138b513a-af34-42fc-b6d0-a318cd7aabdf",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pizza-pera-queso-azul-6616b8cb9064812f61712c5f",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352b13f0f0324d2cd53b1bd",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "634043752268bc1bff0d3cc2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "65e82a30545eccde381b9827",
+          "amount": 1,
+          "unit": "un chorrito"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352b13f0f0324d2cd53b1bd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 6,
+          "unit": "paquete"
+        },
+        {
+          "id": "634043752268bc1bff0d3cc2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "65e82a30545eccde381b9827",
+          "amount": 1,
+          "unit": "un chorrito"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6616b8cb9064812f61712c5f-Pizza de pera caramelizada y queso azul.jpg",
+  "localCard": "/pdf/6616b8cb9064812f61712c5f-Pizza de pera caramelizada y queso azul.pdf"
+}

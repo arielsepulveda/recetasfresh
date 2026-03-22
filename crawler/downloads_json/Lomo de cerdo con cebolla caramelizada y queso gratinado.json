@@ -1,0 +1,673 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/lomo-cebolla-queso-patatas-judias-63aaf3987409f63ef1b32fbc-bf2650ce.pdf",
+  "category": null,
+  "clonedFrom": "6347ef6e4eacd7e8b5e77bfe",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-27T13:31:04+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Un lomo de cerdo acompañado de patatas y judías suena bien, pero ¿qué te parece si le añadimos cebolla caramelizada y queso fundido? Además, completamos con unas patatas al horno sanas y sabrosas y unas judías verdes salteadas con ajos, de forma que el plato queda repleto de color y sabor sin dejar de contribuir a una dieta equilibrada.",
+  "descriptionHTML": "<p>Un lomo de cerdo acompañado de patatas y judías suena bien, pero ¿qué te parece si le añadimos cebolla caramelizada y queso fundido? Además, completamos con unas patatas al horno sanas y sabrosas y unas judías verdes salteadas con ajos, de forma que el plato queda repleto de color y sabor sin dejar de contribuir a una dieta equilibrada.</p>",
+  "descriptionMarkdown": "Un lomo de cerdo acompañado de patatas y judías suena bien, pero ¿qué te parece si le añadimos cebolla caramelizada y queso fundido? Además, completamos con unas patatas al horno sanas y sabrosas y unas judías verdes salteadas con ajos, de forma que el plato queda repleto de color y sabor sin dejar de contribuir a una dieta equilibrada.",
+  "difficulty": 1,
+  "favoritesCount": 21,
+  "headline": "acompañado de patatas al horno y judías verdes",
+  "id": "63aaf3987409f63ef1b32fbc",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221011_R01_W47_ES_MB_Main_cheeddar_high-662d5309.jpg",
+  "imagePath": "/image/HF221011_R01_W47_ES_MB_Main_cheeddar_high-662d5309.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba14",
+      "uuid": "b90fb973-7391-5db2-8d37-b49301e3ecf4",
+      "name": "Lomo de cerdo",
+      "type": "pork-loin-steak",
+      "slug": "lomo-de-cerdo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba14-5d1cb67a.png",
+      "imagePath": "/ingredient/63404376233160a36674ba14-5d1cb67a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba14-Lomo de cerdo.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404371233160a36674ba05",
+      "uuid": "0af471b0-f5b6-53c8-bf79-1fa315f20bf3",
+      "name": "Judías verdes",
+      "type": "green-beans",
+      "slug": "judias-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba05-1e297429.png",
+      "imagePath": "/ingredient/63404371233160a36674ba05-1e297429.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba05-Judías verdes.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "63493a08ebf08332f1bff15d",
+      "uuid": "bd338898-c991-4bcf-ac07-74fe7e736c4f",
+      "name": "Queso rallado",
+      "type": "grated-cheese-mix",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "imagePath": "/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63493a08ebf08332f1bff15d-Queso rallado.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/63aaf3987409f63ef1b32fbc",
+  "name": "Lomo de cerdo con cebolla caramelizada y queso gratinado",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 627,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2623,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 33.15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 11.93,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 43.79,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 5.47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 29.51,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.23,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 70,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 448,
+  "slug": "lomo-de-cerdo-con-cebolla-caramelizada-y-queso-gratinado",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 200ºC. Corta las patatas en gajos de 2 cm de ancho. Ponlas en una bandeja de horno con papel de horno. Agrega un chorrito de aceite, sal y pimienta al gusto y mezcla bien. Hornea las patatas en el estante medio del horno durante 25-30 min o hasta que estén doradas. Da la vuelta a mitad de cocción.",
+      "instructionsHTML": "<p>Precalienta el horno a 200ºC. Corta las <strong>patatas</strong> en gajos de 2 cm de ancho. Ponlas en una bandeja de horno con papel de horno. Agrega<strong> </strong>un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto y mezcla bien. Hornea las <strong>patatas</strong> en el estante medio del horno durante 25-30 min o hasta que estén doradas. Da la vuelta a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 200ºC. Corta las <strong>patatas</strong> en gajos de 2 cm de ancho. Ponlas en una bandeja de horno con papel de horno. Agrega<strong> </strong>un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto y mezcla bien. Hornea las <strong>patatas</strong> en el estante medio del horno durante 25-30 min o hasta que estén doradas. Da la vuelta a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf3987409f63ef1b32fbc/step-911cda00.jpg",
+          "path": "/63aaf3987409f63ef1b32fbc/step-911cda00.jpg",
+          "caption": "Hornea las patatas",
+          "localImage": "/images/recipes/63aaf3987409f63ef1b32fbc-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela la cebolla y corta una mitad (doble para 4p) en rodajas finas. Calienta un chorrito de aceite en una sartén a fuego medio. Una vez caliente, añade la cebolla, sal y pimienta y cocina 8-10 min, hasta que esté blanda y caramelizada. Remueve constantemente. Añade el vinagre balsámico con el azúcar (ver cantidad en ingredientes) y cocina durante 1 min, hasta que el líquido se haya evaporado. Reserva en un bol. ",
+      "instructionsHTML": "<p dir=\"ltr\">Pela la <strong>cebolla</strong> y corta una mitad (doble para 4p) en rodajas finas. Calienta un chorrito de <strong>aceite</strong> en una sartén a fuego medio. Una vez caliente, añade la <strong>cebolla</strong>, <strong>sal</strong> y <strong>pimienta</strong> y cocina 8-10 min, hasta que esté blanda y caramelizada. Remueve constantemente. Añade el <strong>vinagre balsámico</strong> con el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina durante 1 min, hasta que el líquido se haya evaporado. Reserva en un bol. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pela la <strong>cebolla</strong> y corta una mitad (doble para 4p) en rodajas finas. Calienta un chorrito de <strong>aceite</strong> en una sartén a fuego medio. Una vez caliente, añade la <strong>cebolla</strong>, <strong>sal</strong> y <strong>pimienta</strong> y cocina 8-10 min, hasta que esté blanda y caramelizada. Remueve constantemente. Añade el <strong>vinagre balsámico</strong> con el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina durante 1 min, hasta que el líquido se haya evaporado. Reserva en un bol. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375",
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf3987409f63ef1b32fbc/step-145a1e10.jpg",
+          "path": "/63aaf3987409f63ef1b32fbc/step-145a1e10.jpg",
+          "caption": "Carameliza la cebolla",
+          "localImage": "/images/recipes/63aaf3987409f63ef1b32fbc-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Salpimienta los lomos de cerdo. En la misma sartén que has utilizado para la cebolla, calienta un chorrito de aceite a fuego medio. Una vez caliente, añade los lomos de cerdo. Cocina 1 min por lado, hasta que los lomos de cerdo se doren. Retira de la sartén y colócalos en una bandeja de horno con papel de horno.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>Salpimienta los <strong>lomos de cerdo</strong>. En la misma sartén que has utilizado para la <strong>cebolla</strong>, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, añade los <strong>lomos de cerdo</strong>. Cocina 1 min por lado, hasta que los <strong>lomos de cerdo</strong> se doren. Retira de la sartén y colócalos en una bandeja de horno con papel de horno.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>Salpimienta los <strong>lomos de cerdo</strong>. En la misma sartén que has utilizado para la <strong>cebolla</strong>, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, añade los <strong>lomos de cerdo</strong>. Cocina 1 min por lado, hasta que los <strong>lomos de cerdo</strong> se doren. Retira de la sartén y colócalos en una bandeja de horno con papel de horno.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf3987409f63ef1b32fbc/step-e5df0820.jpg",
+          "path": "/63aaf3987409f63ef1b32fbc/step-e5df0820.jpg",
+          "caption": "Cocina el lomo",
+          "localImage": "/images/recipes/63aaf3987409f63ef1b32fbc-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Coloca la cebolla caramelizada encima de cada lomo de cerdo y, luego, añade la mitad del queso rallado (doble para 4p) por encima, presionando un poco para que se adhiera a la carne. Cuando le queden unos pocos minutos a las patatas, mete el lomo de cerdo en el estante superior del horno y cocina durante 4-6 min, hasta que el queso se gratine.",
+      "instructionsHTML": "<p dir=\"ltr\">Coloca la <strong>cebolla caramelizada</strong> encima de cada <strong>lomo de cerdo</strong> y, luego, añade la mitad del <strong>queso rallado</strong> (doble para 4p) por encima, presionando un poco para que se adhiera a la carne. Cuando le queden unos pocos minutos a las <strong>patatas</strong>, mete el <strong>lomo de cerdo</strong> en el estante superior del horno y cocina durante 4-6 min, hasta que el <strong>queso</strong> se gratine.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Coloca la <strong>cebolla caramelizada</strong> encima de cada <strong>lomo de cerdo</strong> y, luego, añade la mitad del <strong>queso rallado</strong> (doble para 4p) por encima, presionando un poco para que se adhiera a la carne. Cuando le queden unos pocos minutos a las <strong>patatas</strong>, mete el <strong>lomo de cerdo</strong> en el estante superior del horno y cocina durante 4-6 min, hasta que el <strong>queso</strong> se gratine.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf3987409f63ef1b32fbc/step-d0d9c930.jpg",
+          "path": "/63aaf3987409f63ef1b32fbc/step-d0d9c930.jpg",
+          "caption": "Gratina el queso",
+          "localImage": "/images/recipes/63aaf3987409f63ef1b32fbc-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Pela y pica el ajo (ver cantidad en ingredientes). Retira las puntas de las judías verdes y córtalas en tercios. En la misma sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. A continuación, añade las judías verdes y el agua (ver cantidad en ingredientes) y cocina durante 8-10 min o hasta que se ablanden. Salpimienta al gusto.",
+      "instructionsHTML": "<p dir=\"ltr\">Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios. En la misma sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. A continuación, añade las <strong>judías verdes</strong> y el <strong>agua</strong> (ver cantidad en ingredientes) y cocina durante 8-10 min o hasta que se ablanden. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios. En la misma sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. A continuación, añade las <strong>judías verdes</strong> y el <strong>agua</strong> (ver cantidad en ingredientes) y cocina durante 8-10 min o hasta que se ablanden. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf3987409f63ef1b32fbc/step-187ee540.jpg",
+          "path": "/63aaf3987409f63ef1b32fbc/step-187ee540.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/63aaf3987409f63ef1b32fbc-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Una vez que todo esté listo, sirve el lomo de cerdo y acompaña con las patatas y judías verdes.",
+      "instructionsHTML": "<p dir=\"ltr\">Una vez que todo esté listo, sirve el <strong>lomo de cerdo</strong> y acompaña con las <strong>patatas</strong> y <strong>judías verdes</strong>.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Una vez que todo esté listo, sirve el <strong>lomo de cerdo</strong> y acompaña con las <strong>patatas</strong> y <strong>judías verdes</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf3987409f63ef1b32fbc/step-88be4750.jpg",
+          "path": "/63aaf3987409f63ef1b32fbc/step-88be4750.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63aaf3987409f63ef1b32fbc-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCP0069-6",
+  "updatedAt": "2026-01-21T13:59:42+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    }
+  ],
+  "uuid": "b19814d9-baed-4cd9-8a4d-1b0264963119",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/lomo-de-cerdo-con-cebolla-caramelizada-y-queso-gratinado-63aaf3987409f63ef1b32fbc",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba14",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63aaf3987409f63ef1b32fbc-Lomo de cerdo con cebolla caramelizada y queso gratinado.jpg",
+  "localCard": "/pdf/63aaf3987409f63ef1b32fbc-Lomo de cerdo con cebolla caramelizada y queso gratinado.pdf"
+}

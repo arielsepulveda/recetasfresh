@@ -1,0 +1,592 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 2.7,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/65d8b0f2e15fd4f7b093a47c.pdf",
+  "category": null,
+  "clonedFrom": "65cb8e0508f1b9082fbcc71e",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-04-22T13:35:22+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "El queso y la mermelada se complementan entre sí, ya que el queso ofrece un sabor salado, intenso y cremoso que contrasta con la dulzura y frescura de la mermelada. En este caso, combinamos estos ingredientes sobre unas tostadas con pollo crujiente vegano y rodajas de calabacín tostadas.",
+  "descriptionHTML": "<p>El queso y la mermelada se complementan entre sí, ya que el queso ofrece un sabor salado, intenso y cremoso que contrasta con la dulzura y frescura de la mermelada. En este caso, combinamos estos ingredientes sobre unas tostadas con pollo crujiente vegano y rodajas de calabacín tostadas.</p>",
+  "descriptionMarkdown": "El queso y la mermelada se complementan entre sí, ya que el queso ofrece un sabor salado, intenso y cremoso que contrasta con la dulzura y frescura de la mermelada. En este caso, combinamos estos ingredientes sobre unas tostadas con pollo crujiente vegano y rodajas de calabacín tostadas.",
+  "difficulty": 1,
+  "favoritesCount": 13,
+  "headline": "con calabacín a la plancha y mermelada de fresa",
+  "id": "65d8b0f2e15fd4f7b093a47c",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R11_W21_ES_ESQFVV22986-2_Main__4high-6f581d16.jpg",
+  "imagePath": "/image/HF_Y24_R11_W21_ES_ESQFVV22986-2_Main__4high-6f581d16.jpg",
+  "ingredients": [
+    {
+      "id": "6348219ebb36093c54997964",
+      "uuid": "1f59d4e9-83f7-5dac-abec-916f5f2c6d99",
+      "name": "Tortillas de trigo",
+      "type": "6-pack-tortilla",
+      "slug": "tortillas-de-trigo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6348219ebb36093c54997964-209def95.png",
+      "imagePath": "/ingredient/6348219ebb36093c54997964-209def95.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6348219ebb36093c54997964-Tortillas de trigo.png"
+    },
+    {
+      "id": "653a6af02fab1d7bab109e7c",
+      "uuid": "b1d9dc0e-8cc8-4cf3-ae46-bf5c10fcbc5f",
+      "name": "Mermelada de fresa",
+      "type": "strawberry-jelly",
+      "slug": "mermelada-de-fresa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/653a6af02fab1d7bab109e7c-a37b55e9.png",
+      "imagePath": "/ingredient/653a6af02fab1d7bab109e7c-a37b55e9.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/653a6af02fab1d7bab109e7c-Mermelada de fresa.png"
+    },
+    {
+      "id": "636e0b21422e0b6ac4f8566a",
+      "uuid": "61fb57cc-94fe-5487-bee9-dd647927307a",
+      "name": "Ricotta italiana",
+      "type": "ricotta-cheese",
+      "slug": "ricotta-italiana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636e0b21422e0b6ac4f8566a-8e4304e7.png",
+      "imagePath": "/ingredient/636e0b21422e0b6ac4f8566a-8e4304e7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636e0b21422e0b6ac4f8566a-Ricotta italiana.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "65e97a8f66550533301e73c6",
+      "uuid": "61ac5f0c-71fe-4396-8e35-0ba67b80433b",
+      "name": "Escalope empanado vegano",
+      "type": "plant-based-breaded-chicken",
+      "slug": "escalope-empanado-vegano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65e97a8f66550533301e73c6-be7f320b.png",
+      "imagePath": "/ingredient/65e97a8f66550533301e73c6-be7f320b.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65e97a8f66550533301e73c6-Escalope empanado vegano.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/65d8b0f2e15fd4f7b093a47c",
+  "name": "Tostadas de pollo vegano con base de ricotta",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3151,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 753,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 29.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 14.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 65,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 20.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 34.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.72,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 16,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 525,
+  "slug": "tostadas-pollo-vegano-ricotta-calabacin",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 200ºC. Retira los extremos del calabacín y córtalo en rodajas de 1 cm de grosor. En una sartén antiadherente, calienta un chorrito de aceite a fuego medio. Luego, agrega el calabacín y cocina 3 min por lado, hasta que quede tierno y dorado. Salpimienta y reserva fuera de la sartén.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 200ºC. Retira los extremos del <strong>calabacín</strong> y córtalo en rodajas de 1 cm de grosor. En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Luego, agrega el <strong>calabacín</strong> y cocina 3 min por lado, hasta que quede tierno y dorado. <strong>Salpimienta</strong> y reserva fuera de la sartén.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 200ºC. Retira los extremos del <strong>calabacín</strong> y córtalo en rodajas de 1 cm de grosor. En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Luego, agrega el <strong>calabacín</strong> y cocina 3 min por lado, hasta que quede tierno y dorado. <strong>Salpimienta</strong> y reserva fuera de la sartén.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0f2e15fd4f7b093a47c/step-ef395800.jpg",
+          "path": "/65d8b0f2e15fd4f7b093a47c/step-ef395800.jpg",
+          "caption": "Cocina el calabacín",
+          "localImage": "/images/recipes/65d8b0f2e15fd4f7b093a47c-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Coloca las tortillas de trigo en una bandeja de horno con papel de horno y pinta ambos lados con aceite con un pincel de cocina. Hornea en la parte superior del horno 6 min, girando a mitad de cocción, hasta que queden doradas y crujientes. Coloca la ricotta en un bol y adereza con un chorrito de aceite y el orégano (ver cantidad en ingredientes). Salpimienta y mezcla bien.",
+      "instructionsHTML": "<p>Coloca las <strong>tortillas de trigo</strong> en una bandeja de horno con papel de horno y pinta ambos lados con <strong>aceite</strong> con un pincel de cocina. Hornea en la parte superior del horno 6 min, girando a mitad de cocción, hasta que queden doradas y crujientes. Coloca la <strong>ricotta</strong> en un bol y adereza con un chorrito de <strong>aceite</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong> y mezcla bien.</p>",
+      "instructionsMarkdown": "<p>Coloca las <strong>tortillas de trigo</strong> en una bandeja de horno con papel de horno y pinta ambos lados con <strong>aceite</strong> con un pincel de cocina. Hornea en la parte superior del horno 6 min, girando a mitad de cocción, hasta que queden doradas y crujientes. Coloca la <strong>ricotta</strong> en un bol y adereza con un chorrito de <strong>aceite</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong> y mezcla bien.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b305394",
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0f2e15fd4f7b093a47c/step-c7580010.jpg",
+          "path": "/65d8b0f2e15fd4f7b093a47c/step-c7580010.jpg",
+          "caption": "Prepara las tostadas",
+          "localImage": "/images/recipes/65d8b0f2e15fd4f7b093a47c-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Calienta la sartén antiadherente a fuego medio. Una vez caliente, agrega los escalopes de pollo vegano y cocina 3 min por lado, hasta que queden doradas y crujientes. Luego, corta cada escalope en 9 tiras finas.",
+      "instructionsHTML": "<p>Calienta la sartén antiadherente a fuego medio. Una vez caliente, agrega los <strong>escalopes de pollo vegano</strong> y cocina 3 min por lado, hasta que queden doradas y crujientes. Luego, corta cada <strong>escalope</strong> en <span>9</span> tiras finas.</p>",
+      "instructionsMarkdown": "<p>Calienta la sartén antiadherente a fuego medio. Una vez caliente, agrega los <strong>escalopes de pollo vegano</strong> y cocina 3 min por lado, hasta que queden doradas y crujientes. Luego, corta cada <strong>escalope</strong> en <span>9</span> tiras finas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0f2e15fd4f7b093a47c/step-467dd020.jpg",
+          "path": "/65d8b0f2e15fd4f7b093a47c/step-467dd020.jpg",
+          "caption": "Cocina la hamburguesa",
+          "localImage": "/images/recipes/65d8b0f2e15fd4f7b093a47c-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En un bol pequeño, agrega la mermelada de fresa y un chorrito de agua. Mezcla bien para que quede una salsa homogénea y menos espesa. Sobre las tostadas, agrega una base de ricotta, luego, añade las rodajas de calabacín y las tiras de escalope vegano de pollo. Acaba agregando la mermelada de fresa al gusto.",
+      "instructionsHTML": "<p>En un bol pequeño, agrega la <strong>mermelada de fresa</strong> y un chorrito de <strong>agua</strong>. Mezcla bien para que quede una <strong>salsa</strong> homogénea y menos espesa. Sobre las <strong>tostadas</strong>, agrega una base de <strong>ricotta</strong>, luego, añade las rodajas de <strong>calabacín</strong> y las tiras de<strong> escalope vegano de pollo</strong>. Acaba agregando la <strong>mermelada de fresa</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>En un bol pequeño, agrega la <strong>mermelada de fresa</strong> y un chorrito de <strong>agua</strong>. Mezcla bien para que quede una <strong>salsa</strong> homogénea y menos espesa. Sobre las <strong>tostadas</strong>, agrega una base de <strong>ricotta</strong>, luego, añade las rodajas de <strong>calabacín</strong> y las tiras de<strong> escalope vegano de pollo</strong>. Acaba agregando la <strong>mermelada de fresa</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0f2e15fd4f7b093a47c/step-6fb4a630.jpg",
+          "path": "/65d8b0f2e15fd4f7b093a47c/step-6fb4a630.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/65d8b0f2e15fd4f7b093a47c-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESQFVV22986-2",
+  "updatedAt": "2025-06-12T14:26:46+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305394",
+      "type": "brush",
+      "name": "Pincel"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "31ec7d62-5499-46d8-9e9e-0f03cd9995f3",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/tostadas-pollo-vegano-ricotta-calabacin-65d8b0f2e15fd4f7b093a47c",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "653a6af02fab1d7bab109e7c",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636e0b21422e0b6ac4f8566a",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65e97a8f66550533301e73c6",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "653a6af02fab1d7bab109e7c",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636e0b21422e0b6ac4f8566a",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65e97a8f66550533301e73c6",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/65d8b0f2e15fd4f7b093a47c-Tostadas de pollo vegano con base de ricotta.jpg",
+  "localCard": "/pdf/65d8b0f2e15fd4f7b093a47c-Tostadas de pollo vegano con base de ricotta.pdf"
+}

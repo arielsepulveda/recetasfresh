@@ -1,0 +1,738 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/ternera-mexicana-queso-patatas-guacamole-63aaf39ad624bae7112f5a1c-b8f1e769.pdf",
+  "category": null,
+  "clonedFrom": "6347ef6ebb36093c54997931",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-27T13:31:06+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "Con este plato al estilo mexicano con base de carne, tomate y pimiento reunirás a toda la familia en la mesa. El toque del quesito fundido y la frescura del guacamole casero hará que nadie quiera levantarse hasta que el plato esté limpio.",
+  "descriptionHTML": "<p>Con este plato al estilo mexicano con base de carne, tomate y pimiento reunirás a toda la familia en la mesa. El toque del quesito fundido y la frescura del guacamole casero hará que nadie quiera levantarse hasta que el plato esté limpio.</p>",
+  "descriptionMarkdown": "Con este plato al estilo mexicano con base de carne, tomate y pimiento reunirás a toda la familia en la mesa. El toque del quesito fundido y la frescura del guacamole casero hará que nadie quiera levantarse hasta que el plato esté limpio.",
+  "difficulty": 1,
+  "favoritesCount": 47,
+  "headline": "con base de patatas y guacamole casero",
+  "id": "63aaf39ad624bae7112f5a1c",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R08_W11_ES_ESVVCL13449-2_classic_Main_1_high-58fc83fb.jpg",
+  "imagePath": "/image/HF_Y23_R08_W11_ES_ESVVCL13449-2_classic_Main_1_high-58fc83fb.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c2268bc1bff0d3ca4",
+      "uuid": "edb45406-e818-56a4-b9b9-2022a79d3087",
+      "name": "Carne de ternera picada",
+      "type": "beef-mince",
+      "slug": "carne-de-ternera-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c2268bc1bff0d3ca4-2bd5c4ce.png",
+      "imagePath": "/ingredient/6340436c2268bc1bff0d3ca4-2bd5c4ce.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c2268bc1bff0d3ca4-Carne de ternera picada.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca1",
+      "uuid": "4842611c-bce4-5a00-9f96-af40c63b6310",
+      "name": "Aguacate",
+      "type": "avocado",
+      "slug": "aguacate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca1-44575d96.jpg",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca1-44575d96.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca1-Aguacate.jpg"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "6340437b2268bc1bff0d3cd0",
+      "uuid": "9e1d590f-1201-4c56-9e9a-1d9eec58f630",
+      "name": "Pimiento rojo italiano",
+      "type": "pointed-bell-pepper-red",
+      "slug": "pimiento-rojo-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd0-52e3cd0d.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd0-52e3cd0d.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd0-Pimiento rojo italiano.jpg"
+    },
+    {
+      "id": "6340437a41033266d7be9534",
+      "uuid": "c7440604-41b7-5ef5-b2b3-8f83c31bccf9",
+      "name": "Tomate concentrado",
+      "type": "tomato-puree",
+      "slug": "tomate-concentrado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "imagePath": "/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9534-Tomate concentrado.jpg"
+    },
+    {
+      "id": "63493a08ebf08332f1bff15d",
+      "uuid": "bd338898-c991-4bcf-ac07-74fe7e736c4f",
+      "name": "Queso rallado",
+      "type": "grated-cheese-mix",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "imagePath": "/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63493a08ebf08332f1bff15d-Queso rallado.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "63404373233160a36674ba0f",
+      "uuid": "a9702fdb-e742-5fe0-b221-974c1ea5db87",
+      "name": "Mix de especias mexicanas",
+      "type": "mexican-spice",
+      "slug": "mix-de-especias-mexicanas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0f-5487f1e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0f-Mix de especias mexicanas.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/63aaf39ad624bae7112f5a1c",
+  "name": "Ternera a la mexicana con queso fundido",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 657,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2750,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 26.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 51.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 5.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 36.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.47,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT45M",
+  "promotion": null,
+  "ratingsCount": 81,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 536,
+  "slug": "ternera-a-la-mexicana-con-queso-fundido",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 200ºC. Corta las patatas en dados de 2 cm. Colócalos en una bandeja de horno y agrega un chorrito de aceite, sal y pimienta. Mezcla bien para que las patatas queden aderezadas y extiende en una sola capa. Cocina en el estante superior del horno durante 25-30 min, hasta que estén doradas. Da la vuelta a mitad cocción.",
+      "instructionsHTML": "<p>Precalienta el horno a 200ºC. Corta las <strong>patatas</strong> en dados de 2 cm. Colócalos en una bandeja de horno y agrega un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Mezcla bien para que las <strong>patatas</strong> queden aderezadas y extiende en una sola capa. Cocina en el estante superior del horno durante 25-30 min, hasta que estén doradas. Da la vuelta a mitad cocción.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 200ºC. Corta las <strong>patatas</strong> en dados de 2 cm. Colócalos en una bandeja de horno y agrega un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Mezcla bien para que las <strong>patatas</strong> queden aderezadas y extiende en una sola capa. Cocina en el estante superior del horno durante 25-30 min, hasta que estén doradas. Da la vuelta a mitad cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39ad624bae7112f5a1c/step-baa9d200.jpg",
+          "path": "/63aaf39ad624bae7112f5a1c/step-baa9d200.jpg",
+          "caption": "Hornea las patatas",
+          "localImage": "/images/recipes/63aaf39ad624bae7112f5a1c-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Mientras se hornean las patatas, corta el pimiento por la mitad y retira las semillas. Luego, córtalo en trozos de 2 cm. Pela y pica finamente el ajo (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p>Mientras se hornean las <strong>patatas</strong>, corta el <strong>pimiento</strong> por la mitad y retira las semillas. Luego, córtalo en trozos de 2 cm. Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p>Mientras se hornean las <strong>patatas</strong>, corta el <strong>pimiento</strong> por la mitad y retira las semillas. Luego, córtalo en trozos de 2 cm. Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39ad624bae7112f5a1c/step-bf4bd410.jpg",
+          "path": "/63aaf39ad624bae7112f5a1c/step-bf4bd410.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/63aaf39ad624bae7112f5a1c-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la carne de ternera y cocina 4-5 min, mientras remueves y desmenuzas bien la carne. Una vez la carne esté dorada, agrega el pimiento y cocina 5-7 min, hasta que se ablande. Salpimienta al gusto.\n \n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p><div>En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la <strong>carne de ternera</strong> y cocina 4-5 min, mientras remueves y desmenuzas bien la <strong>carne</strong>. Una vez la <strong>carne</strong> esté dorada, agrega el <strong>pimiento</strong> y cocina 5-7 min, hasta que se ablande. <strong>Salpimienta</strong> al gusto.</div>\n<div> </div>\n<div> </div>\n<div>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</div></p>",
+      "instructionsMarkdown": "<div>En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la <strong>carne de ternera</strong> y cocina 4-5 min, mientras remueves y desmenuzas bien la <strong>carne</strong>. Una vez la <strong>carne</strong> esté dorada, agrega el <strong>pimiento</strong> y cocina 5-7 min, hasta que se ablande. <strong>Salpimienta</strong> al gusto.</div>\n<div> </div>\n<div> </div>\n<div>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</div>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39ad624bae7112f5a1c/step-8f229020.jpg",
+          "path": "/63aaf39ad624bae7112f5a1c/step-8f229020.jpg",
+          "caption": "Cocina la carne y el pimiento",
+          "localImage": "/images/recipes/63aaf39ad624bae7112f5a1c-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Agrega las especias mexicanas a la sartén y cocina 1 min. Luego, añade el tomate concentrado y el agua (ver cantidad en ingredientes). Agrega el caldo de ternera en polvo y lleva a ebullición. Luego, baja el fuego y cocina 12-15 min, hasta que la salsa espese. Salpimienta al gusto.",
+      "instructionsHTML": "<p>Agrega las <strong>especias mexicanas</strong> a la sartén y cocina 1 min. Luego, añade el <strong>tomate concentrado</strong> y el <strong>agua</strong> (ver cantidad en ingredientes). Agrega el <strong>caldo de ternera</strong> en polvo y lleva a ebullición. Luego, baja el fuego y cocina 12-15 min, hasta que la <strong>salsa</strong> espese. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Agrega las <strong>especias mexicanas</strong> a la sartén y cocina 1 min. Luego, añade el <strong>tomate concentrado</strong> y el <strong>agua</strong> (ver cantidad en ingredientes). Agrega el <strong>caldo de ternera</strong> en polvo y lleva a ebullición. Luego, baja el fuego y cocina 12-15 min, hasta que la <strong>salsa</strong> espese. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39ad624bae7112f5a1c/step-7df6fe30.jpg",
+          "path": "/63aaf39ad624bae7112f5a1c/step-7df6fe30.jpg",
+          "caption": "Agrega la salsa y cocina",
+          "localImage": "/images/recipes/63aaf39ad624bae7112f5a1c-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Corta la lima en gajos. Corta el aguacate por la mitad y retira el hueso. Saca la pulpa con una cuchara y agrégala a un bol. Aplasta con ayuda de un tenedor. Luego, añade el zumo de dos gajos de lima (doble para 4p), sal y pimienta y mezcla bien, hasta que los ingredientes queden integrados.",
+      "instructionsHTML": "<p>Corta la <strong>lima</strong> en gajos. Corta el <strong>aguacate</strong> por la mitad y retira el hueso. Saca la pulpa con una cuchara y agrégala a un bol. Aplasta con ayuda de un tenedor. Luego, añade el zumo de dos gajos de <strong>lima</strong> (doble para 4p), <strong>sal</strong> y <strong>pimienta</strong> y mezcla bien, hasta que los ingredientes queden integrados.</p>",
+      "instructionsMarkdown": "<p>Corta la <strong>lima</strong> en gajos. Corta el <strong>aguacate</strong> por la mitad y retira el hueso. Saca la pulpa con una cuchara y agrégala a un bol. Aplasta con ayuda de un tenedor. Luego, añade el zumo de dos gajos de <strong>lima</strong> (doble para 4p), <strong>sal</strong> y <strong>pimienta</strong> y mezcla bien, hasta que los ingredientes queden integrados.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39ad624bae7112f5a1c/step-57c95940.jpg",
+          "path": "/63aaf39ad624bae7112f5a1c/step-57c95940.jpg",
+          "caption": "Prepara el guacamole",
+          "localImage": "/images/recipes/63aaf39ad624bae7112f5a1c-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Agrega las patatas horneadas en la base de una fuente para el horno y agrega encima la salsa de tomate y carne. Cubre con la mitad del queso rallado (doble para 4p). Coloca en el estante superior del horno y cocina 10-12 min, hasta que el queso esté dorado y las patatas cocidas. Cuando esté listo, sirve en platos y agrega una cucharada de guacamole.",
+      "instructionsHTML": "<p>Agrega las <strong>patatas</strong> horneadas en la base de una fuente para el horno y agrega encima la <strong>salsa de tomate</strong> y <strong>carne</strong>. Cubre con la mitad del <strong>queso rallado</strong> (doble para 4p). Coloca en el estante superior del horno y cocina 10-12 min, hasta que el <strong>queso</strong> esté dorado y las <strong>patatas</strong> cocidas. Cuando esté listo, sirve en platos y agrega una cucharada de <strong>guacamole</strong>.</p>",
+      "instructionsMarkdown": "<p>Agrega las <strong>patatas</strong> horneadas en la base de una fuente para el horno y agrega encima la <strong>salsa de tomate</strong> y <strong>carne</strong>. Cubre con la mitad del <strong>queso rallado</strong> (doble para 4p). Coloca en el estante superior del horno y cocina 10-12 min, hasta que el <strong>queso</strong> esté dorado y las <strong>patatas</strong> cocidas. Cuando esté listo, sirve en platos y agrega una cucharada de <strong>guacamole</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39ad624bae7112f5a1c/step-1908ef50.jpg",
+          "path": "/63aaf39ad624bae7112f5a1c/step-1908ef50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63aaf39ad624bae7112f5a1c-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESFB0079-3",
+  "updatedAt": "2026-02-05T09:09:20+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    }
+  ],
+  "uuid": "9d808b15-aa24-45e3-9e25-5133831273a8",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ternera-a-la-mexicana-con-queso-fundido-63aaf39ad624bae7112f5a1c",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca1",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd0",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca1",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd0",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0f",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63aaf39ad624bae7112f5a1c-Ternera a la mexicana con queso fundido.jpg",
+  "localCard": "/pdf/63aaf39ad624bae7112f5a1c-Ternera a la mexicana con queso fundido.pdf"
+}

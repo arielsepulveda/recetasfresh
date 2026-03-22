@@ -1,0 +1,777 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": "64c0fa63a1aa6db20ea12a22",
+  "canonicalLink": "https://www.hellofresh.es/recipes/guiso-de-garbanzos-y-setas-64c0fa63a1aa6db20ea12a22",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66e1441e323c9f705cd02eb3-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347ef44bb36093c5499791d",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-24T13:57:33+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Descubre este plato que podría haberse cocinado en una cocina española tradicional, pero que tiene su origen en la humilde y variada comida toscana. Esta receta es nuestra versión de la \"ribollita\", que es la palabra italiana para \"re-cocido\", obteniendo así un estofado con sabor a paciencia y tradición.",
+  "descriptionHTML": "<p>Descubre este plato que podría haberse cocinado en una cocina española tradicional, pero que tiene su origen en la humilde y variada comida toscana. Esta receta es nuestra versión de la &quot;ribollita&quot;, que es la palabra italiana para &quot;re-cocido&quot;, obteniendo así un estofado con sabor a paciencia y tradición.</p>",
+  "descriptionMarkdown": "Descubre este plato que podría haberse cocinado en una cocina española tradicional, pero que tiene su origen en la humilde y variada comida toscana. Esta receta es nuestra versión de la \"ribollita\", que es la palabra italiana para \"re-cocido\", obteniendo así un estofado con sabor a paciencia y tradición.",
+  "difficulty": 1,
+  "favoritesCount": 20,
+  "headline": "con espinacas y queso italiano curado",
+  "id": "66e1441e323c9f705cd02eb3",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R08_W43_ES_ESQCLVV0049-3_edit_pan_Main_high-2dd60840.jpg",
+  "imagePath": "/image/HF_Y23_R08_W43_ES_ESQCLVV0049-3_edit_pan_Main_high-2dd60840.jpg",
+  "ingredients": [
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f7",
+      "uuid": "0c719142-be77-4ddd-94a0-b6219698b827",
+      "name": "Champiñones",
+      "type": "champignon-mushrooms",
+      "slug": "champinones",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f7-Champiñones.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "64afc5bc565e2133abaa58a3",
+      "uuid": "27bdf929-2223-5877-8919-3bd93eb85c24",
+      "name": "Passata de tomate",
+      "type": "tomato-passata",
+      "slug": "passata-de-tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "imagePath": "/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64afc5bc565e2133abaa58a3-Passata de tomate.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/66e1441e323c9f705cd02eb3",
+  "name": "Estofado de garbanzos y setas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2000,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 478,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 29.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 6.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 45.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 16.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 22.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.53,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 34,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 664,
+  "slug": "guiso-de-garbanzos-y-setas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la zanahoria y córtala por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Pela la cebolla, divídela en dos y córtala en daditos. Pela y pica finamente el ajo (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Pela la <strong>cebolla,</strong> divídela en dos y córtala en daditos. Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Luego, corta cada mitad en medias lunas de 0,5-1 cm. Pela la <strong>cebolla,</strong> divídela en dos y córtala en daditos. Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441e323c9f705cd02eb3/step-90aaa400.jpg",
+          "path": "/66e1441e323c9f705cd02eb3/step-90aaa400.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/66e1441e323c9f705cd02eb3-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una olla, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la cebolla y la zanahoria junto con una pizca de sal y cocina 4-5 min, removiendo ocasionalmente, hasta que queden transparentes.",
+      "instructionsHTML": "<p>En una olla, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la <strong>cebolla</strong> y la <strong>zanahoria</strong> junto con una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo ocasionalmente, hasta que queden transparentes.</p>",
+      "instructionsMarkdown": "<p>En una olla, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la <strong>cebolla</strong> y la <strong>zanahoria</strong> junto con una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo ocasionalmente, hasta que queden transparentes.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441e323c9f705cd02eb3/step-0a2f3a10.jpg",
+          "path": "/66e1441e323c9f705cd02eb3/step-0a2f3a10.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/66e1441e323c9f705cd02eb3-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Mientras tanto, limpia los champiñones con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los champiñones. Luego, córtalos en cuartos. Cuando las verduras estén tiernas, agrega a la olla los champiñones y un chorrito de aceite y cocina a fuego alto durante 2 min, mientras remueves.",
+      "instructionsHTML": "<p>Mientras tanto, limpia los <strong>champiñones</strong> con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los <strong>champiñones</strong>. Luego, córtalos en cuartos. <span>Cuando las <strong>verduras</strong> estén tiernas, agrega a la olla los <strong>champiñones</strong> y un chorrito de <strong>aceite</strong> y cocina a fuego alto durante 2 min, mientras remueves.</span></p>",
+      "instructionsMarkdown": "<p>Mientras tanto, limpia los <strong>champiñones</strong> con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los <strong>champiñones</strong>. Luego, córtalos en cuartos. <span>Cuando las <strong>verduras</strong> estén tiernas, agrega a la olla los <strong>champiñones</strong> y un chorrito de <strong>aceite</strong> y cocina a fuego alto durante 2 min, mientras remueves.</span></p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441e323c9f705cd02eb3/step-f21a4720.jpg",
+          "path": "/66e1441e323c9f705cd02eb3/step-f21a4720.jpg",
+          "caption": "Agrega los champiñones",
+          "localImage": "/images/recipes/66e1441e323c9f705cd02eb3-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Escurre los garbanzos con un colador. En la olla, agrega los garbanzos, la passata de tomate, el caldo vegetal en polvo y el agua (ver cantidad en ingredientes). Reduce el fuego a medio y cocina 17-20 min, hasta que el estofado espese.",
+      "instructionsHTML": "<p><span>Escurre los <strong>garbanzos</strong> con un colador. En la olla, agrega los <strong>garbanzos</strong>, la<strong> passata de tomate</strong>, el <strong>caldo vegetal</strong> en polvo y el <strong>agua</strong> (ver cantidad en ingredientes). Reduce el fuego a medio y cocina 17-20 min, hasta que el <strong>estofado</strong> espese.</span></p>",
+      "instructionsMarkdown": "<p><span>Escurre los <strong>garbanzos</strong> con un colador. En la olla, agrega los <strong>garbanzos</strong>, la<strong> passata de tomate</strong>, el <strong>caldo vegetal</strong> en polvo y el <strong>agua</strong> (ver cantidad en ingredientes). Reduce el fuego a medio y cocina 17-20 min, hasta que el <strong>estofado</strong> espese.</span></p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441e323c9f705cd02eb3/step-45ca5030.jpg",
+          "path": "/66e1441e323c9f705cd02eb3/step-45ca5030.jpg",
+          "caption": "Prepara el estofado",
+          "localImage": "/images/recipes/66e1441e323c9f705cd02eb3-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Luego, agrega las espinacas y cocina 1-2 min, hasta que se ablanden y reduzcan su tamaño. Prueba el estofado y rectifica de sal y pimienta.",
+      "instructionsHTML": "<p>Luego, agrega las <strong>espinacas</strong> y cocina 1-2 min, hasta que se ablanden y reduzcan su tamaño. Prueba el <strong>estofado</strong> y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></p>",
+      "instructionsMarkdown": "<p>Luego, agrega las <strong>espinacas</strong> y cocina 1-2 min, hasta que se ablanden y reduzcan su tamaño. Prueba el <strong>estofado</strong> y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441e323c9f705cd02eb3/step-2602a140.jpg",
+          "path": "/66e1441e323c9f705cd02eb3/step-2602a140.jpg",
+          "caption": "Agrega las espinacas",
+          "localImage": "/images/recipes/66e1441e323c9f705cd02eb3-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el estofado de garbanzos en platos hondos y espolvorea sobre los platos el queso italiano curado.",
+      "instructionsHTML": "<p>Sirve el <strong>estofado</strong> de <strong>garbanzos</strong> en platos hondos y espolvorea sobre los platos el <strong>queso italiano curado</strong>.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>estofado</strong> de <strong>garbanzos</strong> en platos hondos y espolvorea sobre los platos el <strong>queso italiano curado</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e1441e323c9f705cd02eb3/step-4239b150.jpg",
+          "path": "/66e1441e323c9f705cd02eb3/step-4239b150.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/66e1441e323c9f705cd02eb3-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305312",
+      "type": "one-pot",
+      "name": "Una olla",
+      "slug": "una-olla",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "6566f7d63bae852974651021",
+      "type": "prepped-in-10",
+      "name": "Preparación en 10'",
+      "slug": "preparacion-en-10",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "61bcc274f0aa2a6e79272a5a",
+      "type": "extra-vegetables",
+      "name": ">250g de vegetales",
+      "slug": "250g-de-vegetales",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305316",
+      "type": "low-carb",
+      "name": "<50g carbohidratos",
+      "slug": "50g-carbohidratos",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT10M",
+  "uniqueRecipeCode": "ESQCLVV0049-7",
+  "updatedAt": "2026-01-21T17:18:46+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "fafbfdfc-66b0-4a0b-a3ab-67d6e153b788",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/guiso-de-garbanzos-y-setas-66e1441e323c9f705cd02eb3",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 210,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 420,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66e1441e323c9f705cd02eb3-Estofado de garbanzos y setas.jpg",
+  "localCard": "/pdf/66e1441e323c9f705cd02eb3-Estofado de garbanzos y setas.pdf"
+}

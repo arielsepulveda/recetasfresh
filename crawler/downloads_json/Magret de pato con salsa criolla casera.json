@@ -1,0 +1,682 @@
+{
+  "active": true,
+  "allergens": [],
+  "averageRating": 0,
+  "canonical": "6849336256532819dcc1a288",
+  "canonicalLink": "https://www.hellofresh.es/recipes/magret-de-pato-con-chutney-de-mango-6849336256532819dcc1a288",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6942e5630a853ea815820e30-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6849336256532819dcc1a288",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-17T17:16:20+00:00",
+  "cuisines": [
+    {
+      "id": "69009956134b3822590df8a7",
+      "type": "latin-american",
+      "name": "Latin American",
+      "slug": ""
+    }
+  ],
+  "description": "La salsa criolla nace en Latinoamérica como un aliño fresco y vibrante que realza cualquier plato. Con un magret de pato alcanza la perfección: la jugosidad de la carne se equilibra con la frescura y acidez de la salsa, creando una combinación sorprendente que convierte cada bocado en una experiencia casi celestial.",
+  "descriptionHTML": "<p>La salsa criolla nace en Latinoamérica como un aliño fresco y vibrante que realza cualquier plato. Con un magret de pato alcanza la perfección: la jugosidad de la carne se equilibra con la frescura y acidez de la salsa, creando una combinación sorprendente que convierte cada bocado en una experiencia casi celestial.</p>",
+  "descriptionMarkdown": "La salsa criolla nace en Latinoamérica como un aliño fresco y vibrante que realza cualquier plato. Con un magret de pato alcanza la perfección: la jugosidad de la carne se equilibra con la frescura y acidez de la salsa, creando una combinación sorprendente que convierte cada bocado en una experiencia casi celestial.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con parmentier de boniato y judías verdes",
+  "id": "6942e5630a853ea815820e30",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R22_W44_ES_ESSGD46074-5_Main_duck_pieces_a_bit_thinner_edit_high-d4faa07d.jpg",
+  "imagePath": "/image/HF_Y25_R22_W44_ES_ESSGD46074-5_Main_duck_pieces_a_bit_thinner_edit_high-d4faa07d.jpg",
+  "ingredients": [
+    {
+      "id": "6340437941033266d7be9531",
+      "uuid": "61a2604a-ad14-5a3c-b00f-f81d58cb0c90",
+      "name": "Boniato",
+      "type": "sweet-potato",
+      "slug": "boniato",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "imagePath": "/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9531-Boniato.png"
+    },
+    {
+      "id": "64a7e18748c7b9302c331400",
+      "uuid": "46cca08f-f498-4c34-a420-52b8866fd658",
+      "name": "Magret de pato",
+      "type": "duck-fillet",
+      "slug": "magret-de-pato",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64a7e18748c7b9302c331400-2643c2d0.jpeg",
+      "imagePath": "/ingredient/64a7e18748c7b9302c331400-2643c2d0.jpeg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64a7e18748c7b9302c331400-Magret de pato.jpeg"
+    },
+    {
+      "id": "6340437b233160a36674ba30",
+      "uuid": "e20d37da-83ce-490d-aeae-12ac9d3aa296",
+      "name": "Pimiento verde italiano",
+      "type": "pointed-bell-pepper-green",
+      "slug": "pimiento-verde-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "imagePath": "/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b233160a36674ba30-Pimiento verde italiano.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "65030faa270f68660e1a8c50",
+      "uuid": "45a2cf71-9f91-4985-9a59-b35c04a0af37",
+      "name": "Judías verdes",
+      "type": "round-green-beans",
+      "slug": "judias-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65030faa270f68660e1a8c50-d22f5c78.png",
+      "imagePath": "/ingredient/65030faa270f68660e1a8c50-d22f5c78.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65030faa270f68660e1a8c50-Judías verdes.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "65b9f37ed1da3988cdd8ea2e",
+      "uuid": "2172102e-c765-43f0-a8ee-369a17e6ad6f",
+      "name": "Vinagre",
+      "type": "vinegar-in-tbsp",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "imagePath": "/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65b9f37ed1da3988cdd8ea2e-Vinagre.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Premium",
+    "handle": "premium",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/6942e5630a853ea815820e30",
+  "name": "Magret de pato con salsa criolla casera",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3924,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 938,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 70.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 22.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 61.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 19.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 9.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 35.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.42,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 605,
+  "slug": "magret-de-pato-con-salsa-criolla-casera",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nPela y corta el boniato en dados de 2 cm.\nEn una olla, agrega el boniato, cubre con agua y añade una pizca de sal.\nLleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela y corta el <strong>boniato</strong> en dados de 2 cm.</li>\n<li>En una olla, agrega el <strong>boniato,</strong> cubre con <strong>agua</strong> y añade una pizca de <strong>sal</strong>.</li>\n<li>Lleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela y corta el <strong>boniato</strong> en dados de 2 cm.</li>\n<li>En una olla, agrega el <strong>boniato,</strong> cubre con <strong>agua</strong> y añade una pizca de <strong>sal</strong>.</li>\n<li>Lleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5630a853ea815820e30/step-ef648f00.jpg",
+          "path": "/6942e5630a853ea815820e30/step-ef648f00.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/6942e5630a853ea815820e30-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nHaz cortes a diagonales en ambas direcciones sobre la piel del magret de pato.\nCalienta una sartén a fuego medio-alto sin aceite. Cocina el pato 2-3 min por la parte de la piel y 1 min más por la otra parte, hasta que quede bien dorado.\nColoca el pato con la piel hacia arriba en una para horno y salpimienta. Hornea el pato a media altura durante 10-12 min.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Haz cortes a diagonales en ambas direcciones sobre la piel del <strong>magret de pato</strong>.</li>\n<li>Calienta una sartén a fuego medio-alto sin aceite. Cocina el <strong>pato</strong> 2-3 min por la parte de la piel y 1 min más por la otra parte, hasta que quede bien dorado.</li>\n<li>Coloca el <strong>pato</strong> con la piel hacia arriba en una para horno y <strong>salpimienta.</strong> Hornea el pato a media altura durante 10-12 min.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Haz cortes a diagonales en ambas direcciones sobre la piel del <strong>magret de pato</strong>.</li>\n<li>Calienta una sartén a fuego medio-alto sin aceite. Cocina el <strong>pato</strong> 2-3 min por la parte de la piel y 1 min más por la otra parte, hasta que quede bien dorado.</li>\n<li>Coloca el <strong>pato</strong> con la piel hacia arriba en una para horno y <strong>salpimienta.</strong> Hornea el pato a media altura durante 10-12 min.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367",
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5630a853ea815820e30/step-214fb810.jpg",
+          "path": "/6942e5630a853ea815820e30/step-214fb810.jpg",
+          "caption": "Magret al fuego",
+          "localImage": "/images/recipes/6942e5630a853ea815820e30-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCorta el pimiento en cubitos pequeños.\nPela la cebolla y corta en daditos pequeños.\nCorta los tomates en cubos pequeños.\nEn un bol grande, agrega los vegetales, un chorrito generoso de aceite, el vinagre, sal y pimienta.\nMezcla y reserva en la nevera.\n",
+      "instructionsHTML": "<ul>\n<li>Corta el <strong>pimiento</strong> en cubitos pequeños.</li>\n<li>Pela la <strong>cebolla</strong> y corta en daditos pequeños.</li>\n<li>Corta los <strong>tomates</strong> en cubos pequeños.</li>\n<li>En un bol grande, agrega los <strong>vegetales,</strong> un chorrito generoso de <strong>aceite</strong>, el <strong>vinagre</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Mezcla y reserva en la nevera.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta el <strong>pimiento</strong> en cubitos pequeños.</li>\n<li>Pela la <strong>cebolla</strong> y corta en daditos pequeños.</li>\n<li>Corta los <strong>tomates</strong> en cubos pequeños.</li>\n<li>En un bol grande, agrega los <strong>vegetales,</strong> un chorrito generoso de <strong>aceite</strong>, el <strong>vinagre</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Mezcla y reserva en la nevera.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5630a853ea815820e30/step-0af55a20.jpg",
+          "path": "/6942e5630a853ea815820e30/step-0af55a20.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/6942e5630a853ea815820e30-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nRetira las puntas de las judías verdes y córtalas en tercios.\nRetira el exceso de grasa de la sartén, luego, calienta un chorrito de aceite a fuego alto.\nAgrega las judías verdes, salpimienta y saltea 1-2 min.\nAgrega un chorrito de agua y cocina a fuego medio tapado 4-5 min.\n",
+      "instructionsHTML": "<ul>\n<li>Retira las puntas de las <strong>judías verdes </strong>y córtalas en tercios.</li>\n<li>Retira el exceso de grasa de la sartén, luego, calienta un chorrito de <strong>aceite</strong> a fuego alto.</li>\n<li>Agrega las <strong>judías verdes, salpimienta</strong> y saltea 1-2 min.</li>\n<li>Agrega un chorrito de <strong>agua</strong> y cocina a fuego medio tapado 4-5 min.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Retira las puntas de las <strong>judías verdes </strong>y córtalas en tercios.</li>\n<li>Retira el exceso de grasa de la sartén, luego, calienta un chorrito de <strong>aceite</strong> a fuego alto.</li>\n<li>Agrega las <strong>judías verdes, salpimienta</strong> y saltea 1-2 min.</li>\n<li>Agrega un chorrito de <strong>agua</strong> y cocina a fuego medio tapado 4-5 min.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5630a853ea815820e30/step-69113d30.jpg",
+          "path": "/6942e5630a853ea815820e30/step-69113d30.jpg",
+          "caption": "¡Al rico salteado!",
+          "localImage": "/images/recipes/6942e5630a853ea815820e30-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando el boniato esté listo, escúrrelo y colócalo en una jarra medidora.\nAgrega un chorrito de aceite, la mantequilla, sal y pimienta al gusto. Tritura con un túrmix hasta conseguir un puré cremoso.\nCorta el magret de pato en tiras finas.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando el <strong>boniato</strong> esté listo, escúrrelo y colócalo en una jarra medidora.</li>\n<li>Agrega un chorrito de <strong>aceite,</strong> la <strong>mantequilla, sal</strong> y <strong>pimienta</strong> al gusto. Tritura con un túrmix hasta conseguir un <strong>puré</strong> cremoso.</li>\n<li>Corta el <strong>magret de pato</strong> en tiras finas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando el <strong>boniato</strong> esté listo, escúrrelo y colócalo en una jarra medidora.</li>\n<li>Agrega un chorrito de <strong>aceite,</strong> la <strong>mantequilla, sal</strong> y <strong>pimienta</strong> al gusto. Tritura con un túrmix hasta conseguir un <strong>puré</strong> cremoso.</li>\n<li>Corta el <strong>magret de pato</strong> en tiras finas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5630a853ea815820e30/step-699ef240.jpg",
+          "path": "/6942e5630a853ea815820e30/step-699ef240.jpg",
+          "caption": "Tritura bien",
+          "localImage": "/images/recipes/6942e5630a853ea815820e30-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el parmentier de boniato en la base de los platos y agrega encima el magret de pato y las judías verdes, por separado.\nCubre el pato con la salsa criolla.\n\nSABÍAS QUE: Los cortes que se realizan en la piel del pato sirven para liberar el exceso de grasa y conseguir una piel más crujiente.",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>parmentier</strong> de <strong>boniato</strong> en la base de los platos y agrega encima el <strong>magret de pato</strong> y las <strong>judías verdes,</strong> por separado.</li>\n<li>Cubre el <strong>pato</strong> con la <strong>salsa criolla</strong>.</li>\n</ul>\n<p>SABÍAS QUE: Los cortes que se realizan en la piel del pato sirven para liberar el exceso de grasa y conseguir una piel más crujiente.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>parmentier</strong> de <strong>boniato</strong> en la base de los platos y agrega encima el <strong>magret de pato</strong> y las <strong>judías verdes,</strong> por separado.</li>\n<li>Cubre el <strong>pato</strong> con la <strong>salsa criolla</strong>.</li>\n</ul>\n<p>SABÍAS QUE: Los cortes que se realizan en la piel del pato sirven para liberar el exceso de grasa y conseguir una piel más crujiente.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5630a853ea815820e30/step-bdad3050.jpg",
+          "path": "/6942e5630a853ea815820e30/step-bdad3050.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/6942e5630a853ea815820e30-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESSGD46074-6",
+  "updatedAt": "2026-03-06T09:19:05+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "cc569e29-079b-4eeb-827b-dd9a47340798",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/magret-de-pato-con-salsa-criolla-casera-6942e5630a853ea815820e30",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64a7e18748c7b9302c331400",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65030faa270f68660e1a8c50",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64a7e18748c7b9302c331400",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65030faa270f68660e1a8c50",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64a7e18748c7b9302c331400",
+          "amount": 900,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65030faa270f68660e1a8c50",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6942e5630a853ea815820e30-Magret de pato con salsa criolla casera.jpg",
+  "localCard": "/pdf/6942e5630a853ea815820e30-Magret de pato con salsa criolla casera.pdf"
+}

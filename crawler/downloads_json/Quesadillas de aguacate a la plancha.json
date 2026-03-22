@@ -1,0 +1,625 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 2.9,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/quesadillas-aguacate-cebolla-pera-638a20cd16676f814583bbdd-2fe59ddc.pdf",
+  "category": null,
+  "clonedFrom": "63514c6874b20ffb740efe13",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-02T15:59:09+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "Las quesadillas son un plato muy versátil de origen mexicano caracterizado por rellenar las tortillas de trigo o maíz con queso. Además del queso, puede añadirse carne, gambas, verduras, o todo junto. En este caso, te ofrecemos una versión vegetariana de las quesadillas, en la que acompañamos el queso con aguacate a la plancha y cebolla encurtida.",
+  "descriptionHTML": "<p>Las quesadillas son un plato muy versátil de origen mexicano caracterizado por rellenar las tortillas de trigo o maíz con queso. Además del queso, puede añadirse carne, gambas, verduras, o todo junto. En este caso, te ofrecemos una versión vegetariana de las quesadillas, en la que acompañamos el queso con aguacate a la plancha y cebolla encurtida.</p>",
+  "descriptionMarkdown": "Las quesadillas son un plato muy versátil de origen mexicano caracterizado por rellenar las tortillas de trigo o maíz con queso. Además del queso, puede añadirse carne, gambas, verduras, o todo junto. En este caso, te ofrecemos una versión vegetariana de las quesadillas, en la que acompañamos el queso con aguacate a la plancha y cebolla encurtida.",
+  "difficulty": 1,
+  "favoritesCount": 55,
+  "headline": "con cebolla encurtida y ensalada de pera",
+  "id": "638a20cd16676f814583bbdd",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R09_W07_ES_ESVQ13435-2_Main_high-bdfca7bd.jpg",
+  "imagePath": "/image/HF_Y23_R09_W07_ES_ESVQ13435-2_Main_high-bdfca7bd.jpg",
+  "ingredients": [
+    {
+      "id": "6348219ebb36093c54997964",
+      "uuid": "1f59d4e9-83f7-5dac-abec-916f5f2c6d99",
+      "name": "Tortillas de trigo",
+      "type": "6-pack-tortilla",
+      "slug": "tortillas-de-trigo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6348219ebb36093c54997964-209def95.png",
+      "imagePath": "/ingredient/6348219ebb36093c54997964-209def95.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6348219ebb36093c54997964-Tortillas de trigo.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca1",
+      "uuid": "4842611c-bce4-5a00-9f96-af40c63b6310",
+      "name": "Aguacate",
+      "type": "avocado",
+      "slug": "aguacate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca1-44575d96.jpg",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca1-44575d96.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca1-Aguacate.jpg"
+    },
+    {
+      "id": "6340436d233160a36674b9f3",
+      "uuid": "7e69f80c-67d4-45b1-a3bd-d76e5d9e539b",
+      "name": "Maíz dulce",
+      "type": "canned-corn",
+      "slug": "maiz-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f3-Maíz dulce.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "63493a08ebf08332f1bff15d",
+      "uuid": "bd338898-c991-4bcf-ac07-74fe7e736c4f",
+      "name": "Queso rallado",
+      "type": "grated-cheese-mix",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "imagePath": "/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63493a08ebf08332f1bff15d-Queso rallado.png"
+    },
+    {
+      "id": "634043752268bc1bff0d3cc2",
+      "uuid": "97ef93ce-ab9e-5f68-9948-93c496545795",
+      "name": "Pera",
+      "type": "pear",
+      "slug": "pera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043752268bc1bff0d3cc2-6164f404.png",
+      "imagePath": "/ingredient/634043752268bc1bff0d3cc2-6164f404.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043752268bc1bff0d3cc2-Pera.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/638a20cd16676f814583bbdd",
+  "name": "Quesadillas de aguacate a la plancha",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 814,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3407,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 51.06,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 17.59,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 69.32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.43,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.05,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 24.32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.29,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 41,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 526,
+  "slug": "quesadillas-de-aguacate-a-la-plancha",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Corta la pera en cubitos. Pela la cebolla y corta una mitad (doble para 4p) en tiras finitas. Exprime el zumo de media lima (doble para 4p) en un bol mediano. Corta el resto de la lima a gajos. Añade la cebolla al bol junto con el azúcar (ver cantidad en ingredientes) y reserva. Escurre el maíz con ayuda de un colador.",
+      "instructionsHTML": "<p>Corta la <strong>pera</strong> en cubitos. Pela la <strong>cebolla </strong>y corta una mitad (doble para 4p) en tiras finitas. Exprime el zumo de media <strong>lima</strong> (doble para 4p) en un bol mediano. Corta el resto de la <strong>lima</strong> a gajos. Añade la <strong>cebolla</strong> al bol junto con el <strong>azúcar</strong> (ver cantidad en ingredientes) y reserva. Escurre el <strong>maíz</strong> con ayuda de un colador.</p>",
+      "instructionsMarkdown": "<p>Corta la <strong>pera</strong> en cubitos. Pela la <strong>cebolla </strong>y corta una mitad (doble para 4p) en tiras finitas. Exprime el zumo de media <strong>lima</strong> (doble para 4p) en un bol mediano. Corta el resto de la <strong>lima</strong> a gajos. Añade la <strong>cebolla</strong> al bol junto con el <strong>azúcar</strong> (ver cantidad en ingredientes) y reserva. Escurre el <strong>maíz</strong> con ayuda de un colador.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20cd16676f814583bbdd/step-dbecf200.jpg",
+          "path": "/638a20cd16676f814583bbdd/step-dbecf200.jpg",
+          "caption": "Prepara la cebolla encurtida",
+          "localImage": "/images/recipes/638a20cd16676f814583bbdd-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta los aguacates por la mitad y retira el hueso. Con la ayuda de una cuchara, saca la pulpa y córtala en tiras de 2 cm de grosor. Pon una sartén a calentar a fuego medio-alto con un chorrito de aceite. Una vez caliente, pon el aguacate y cocina durante 1-2 min, hasta que quede dorado por ambas partes. Salpimienta al gusto. Reserva fuera de la sartén.",
+      "instructionsHTML": "<p>Corta los <strong>aguacates</strong> por la mitad y retira el hueso. Con la ayuda de una cuchara, saca la pulpa y córtala en tiras de 2 cm de grosor. Pon una sartén a calentar a fuego medio-alto con un chorrito de <strong>aceite</strong>. Una vez caliente, pon el <strong>aguacate</strong> y cocina durante 1-2 min, hasta que quede dorado por ambas partes. <strong>Salpimienta</strong> al gusto. Reserva fuera de la sartén.</p>",
+      "instructionsMarkdown": "<p>Corta los <strong>aguacates</strong> por la mitad y retira el hueso. Con la ayuda de una cuchara, saca la pulpa y córtala en tiras de 2 cm de grosor. Pon una sartén a calentar a fuego medio-alto con un chorrito de <strong>aceite</strong>. Una vez caliente, pon el <strong>aguacate</strong> y cocina durante 1-2 min, hasta que quede dorado por ambas partes. <strong>Salpimienta</strong> al gusto. Reserva fuera de la sartén.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20cd16676f814583bbdd/step-29b35310.jpg",
+          "path": "/638a20cd16676f814583bbdd/step-29b35310.jpg",
+          "caption": "Marca el aguacate",
+          "localImage": "/images/recipes/638a20cd16676f814583bbdd-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Limpia la sartén del aguacate. Ponla de nuevo a calentar a fuego medio sin aceite. Una vez caliente, agrega una tortilla mexicana. Cúbrela con parte del queso rallado, cebolla encurtida, maíz y aguacate. Dóblala por la mitad y cocina por ambas partes 1-2 min, hasta que se dore un poco. Repite el mismo proceso para todas las tortillas.",
+      "instructionsHTML": "<p>Limpia la sartén del <strong>aguacate</strong>. Ponla de nuevo a calentar a fuego medio sin <strong>aceite</strong>. Una vez caliente, agrega una <strong>tortilla mexicana</strong>. Cúbrela con parte del <strong>queso rallado</strong>, <strong>cebolla encurtida</strong>, <strong>maíz</strong> y <strong>aguacate</strong>. Dóblala por la mitad y cocina por ambas partes 1-2 min, hasta que se dore un poco. Repite el mismo proceso para todas las <strong>tortillas</strong>.</p>",
+      "instructionsMarkdown": "<p>Limpia la sartén del <strong>aguacate</strong>. Ponla de nuevo a calentar a fuego medio sin <strong>aceite</strong>. Una vez caliente, agrega una <strong>tortilla mexicana</strong>. Cúbrela con parte del <strong>queso rallado</strong>, <strong>cebolla encurtida</strong>, <strong>maíz</strong> y <strong>aguacate</strong>. Dóblala por la mitad y cocina por ambas partes 1-2 min, hasta que se dore un poco. Repite el mismo proceso para todas las <strong>tortillas</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20cd16676f814583bbdd/step-624ef320.jpg",
+          "path": "/638a20cd16676f814583bbdd/step-624ef320.jpg",
+          "caption": "Prepara las quesadillas",
+          "localImage": "/images/recipes/638a20cd16676f814583bbdd-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En un bol grande, añade el mezclum, la pera cortada y un chorrito de aceite y salpimienta al gusto. Coloca las quesadillas en platos y sirve la ensalada en el bol para acompañar.",
+      "instructionsHTML": "<p>En un bol grande, añade el <strong>mezclum</strong>, la <strong>pera</strong> cortada y un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong> al gusto. Coloca las <strong>quesadillas</strong> en platos y sirve la <strong>ensalada</strong> en el bol para acompañar.</p>",
+      "instructionsMarkdown": "<p>En un bol grande, añade el <strong>mezclum</strong>, la <strong>pera</strong> cortada y un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong> al gusto. Coloca las <strong>quesadillas</strong> en platos y sirve la <strong>ensalada</strong> en el bol para acompañar.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20cd16676f814583bbdd/step-c8ae2d30.jpg",
+          "path": "/638a20cd16676f814583bbdd/step-c8ae2d30.jpg",
+          "caption": "Emplata",
+          "localImage": "/images/recipes/638a20cd16676f814583bbdd-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESVQ13435-2",
+  "updatedAt": "2025-08-06T09:49:09+00:00",
+  "utensils": [
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    }
+  ],
+  "uuid": "d1571751-b2d5-4167-91ea-25466218abf6",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/quesadillas-de-aguacate-a-la-plancha-638a20cd16676f814583bbdd",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca1",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043752268bc1bff0d3cc2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca1",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043752268bc1bff0d3cc2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/638a20cd16676f814583bbdd-Quesadillas de aguacate a la plancha.jpg",
+  "localCard": "/pdf/638a20cd16676f814583bbdd-Quesadillas de aguacate a la plancha.pdf"
+}

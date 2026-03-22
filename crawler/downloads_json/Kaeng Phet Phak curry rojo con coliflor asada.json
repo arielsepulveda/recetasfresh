@@ -1,0 +1,887 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 2.4,
+  "canonical": "6458df66572079217b737e28",
+  "canonicalLink": "https://www.hellofresh.es/recipes/curry-de-verduras-al-estilo-tailandes-6458df66572079217b737e28",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68f22cd6a267a9c2fb00362b-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347ef6ee9568549b7849798",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-17T11:47:35+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b3",
+      "type": "thai",
+      "name": "Tailandesa",
+      "slug": "tailandesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b3-3b2b2add.jpg"
+    }
+  ],
+  "description": "Nuestro curry de verduras tailandés es una deliciosa opción vegetariana que facilita el consumo de más verduras y te permite explorar parte de la gastronomía asiática. Cocina esta receta y contribuye a llevar una dieta más equilibrada a la vez que pruebas sabores más atrevidos.",
+  "descriptionHTML": "<p>Nuestro curry de verduras tailandés es una deliciosa opción vegetariana que facilita el consumo de más verduras y te permite explorar parte de la gastronomía asiática. Cocina esta receta y contribuye a llevar una dieta más equilibrada a la vez que pruebas sabores más atrevidos.</p>",
+  "descriptionMarkdown": "Nuestro curry de verduras tailandés es una deliciosa opción vegetariana que facilita el consumo de más verduras y te permite explorar parte de la gastronomía asiática. Cocina esta receta y contribuye a llevar una dieta más equilibrada a la vez que pruebas sabores más atrevidos.",
+  "difficulty": 1,
+  "favoritesCount": 3,
+  "headline": "con arroz jazmín y cilantro fresco",
+  "id": "68f22cd6a267a9c2fb00362b",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF210629_R20_W32_UK_R3247-11__MB_Main_remove_the_baby_corn_high-3a38cef6.jpg",
+  "imagePath": "/image/HF210629_R20_W32_UK_R3247-11__MB_Main_remove_the_baby_corn_high-3a38cef6.jpg",
+  "ingredients": [
+    {
+      "id": "63bbfe06bc019e6ee3f1ab84",
+      "uuid": "c4ac6805-11a7-55c4-be5e-68aaa3c0f835",
+      "name": "Floretes de coliflor",
+      "type": "cauliflower-florets",
+      "slug": "floretes-de-coliflor",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bbfe06bc019e6ee3f1ab84-22b9bb05.png",
+      "imagePath": "/ingredient/63bbfe06bc019e6ee3f1ab84-22b9bb05.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bbfe06bc019e6ee3f1ab84-Floretes de coliflor.png"
+    },
+    {
+      "id": "63404379233160a36674ba27",
+      "uuid": "62332e06-1bd9-5362-a8bd-eb869fce3bea",
+      "name": "Mix de especias tailandesas",
+      "type": "thai-style-spice-blend",
+      "slug": "mix-de-especias-tailandesas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "imagePath": "/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba27-Mix de especias tailandesas.png"
+    },
+    {
+      "id": "6340437241033266d7be951d",
+      "uuid": "ff045bdb-fe2c-58b4-bd0c-c0ccbddd8a2d",
+      "name": "Arroz jazmín",
+      "type": "jasmine-rice",
+      "slug": "arroz-jazmin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "imagePath": "/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437241033266d7be951d-Arroz jazmín.png"
+    },
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "6340437541033266d7be9524",
+      "uuid": "f76c5fff-a3b7-56d0-b342-50d61ca74613",
+      "name": "Pak choi",
+      "type": "pak-choi",
+      "slug": "pak-choi",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437541033266d7be9524-0efffda2.jpg",
+      "imagePath": "/ingredient/6340437541033266d7be9524-0efffda2.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437541033266d7be9524-Pak choi.jpg"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "63404377233160a36674ba1d",
+      "uuid": "4f875814-fdbf-55a8-9086-e62e84ed64b2",
+      "name": "Pasta de curry rojo tailandés",
+      "type": "red-thai-style-paste",
+      "slug": "pasta-de-curry-rojo-tailandes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1d-b071be67.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1d-b071be67.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1d-Pasta de curry rojo tailandés.png"
+    },
+    {
+      "id": "6340436e233160a36674b9fd",
+      "uuid": "4be57e09-204f-50f6-abf5-a91e4a8099db",
+      "name": "Leche de coco",
+      "type": "coconut-milk",
+      "slug": "leche-de-coco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9fd-Leche de coco.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68f22cd6a267a9c2fb00362b",
+  "name": "Kaeng Phet Phak: curry rojo con coliflor asada",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2555,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 611,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 31.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 15.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 85.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 9.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 17.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.97,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 10,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 594,
+  "slug": "curry-de-verduras-al-estilo-tailandes",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nColoca los floretes de coliflor en una fuente para horno y agrega las especias tailandesas, un chorrito de aceite, sal y pimienta.\nMezcla y hornea en el estante medio-alto 20-25 min, hasta que la coliflor quede dorada y tierna. Remueve a mitad de cocción.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 220ºC.</li>\n<li dir=\"ltr\">Coloca los <strong>floretes de coliflor</strong> en una fuente para horno y agrega las<strong> especias tailandesas</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Mezcla y hornea en el estante medio-alto 20-25 min, hasta que la coliflor quede dorada y tierna. Remueve a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 220ºC.</li>\n<li dir=\"ltr\">Coloca los <strong>floretes de coliflor</strong> en una fuente para horno y agrega las<strong> especias tailandesas</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Mezcla y hornea en el estante medio-alto 20-25 min, hasta que la coliflor quede dorada y tierna. Remueve a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f22cd6a267a9c2fb00362b/step-5d28bf00.jpg",
+          "path": "/68f22cd6a267a9c2fb00362b/step-5d28bf00.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68f22cd6a267a9c2fb00362b-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nLlena un cazo con el agua para el arroz y añade sal. Tápalo y llévalo a ebullición.\nCuando hierva, añade el arroz y cocina a fuego a medio-bajo 12 min. Remueve ocasionalmente.\nUna vez cocinado, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<ul>\n<li>Llena un cazo con el <strong>agua para el arroz</strong> y añade <strong>sal.</strong> Tápalo y llévalo a ebullición.</li>\n<li>Cuando hierva, añade el <strong>arroz</strong> y cocina a fuego a medio-bajo 12 min. Remueve ocasionalmente.</li>\n<li>Una vez cocinado, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Llena un cazo con el <strong>agua para el arroz</strong> y añade <strong>sal.</strong> Tápalo y llévalo a ebullición.</li>\n<li>Cuando hierva, añade el <strong>arroz</strong> y cocina a fuego a medio-bajo 12 min. Remueve ocasionalmente.</li>\n<li>Una vez cocinado, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f22cd6a267a9c2fb00362b/step-4f354010.jpg",
+          "path": "/68f22cd6a267a9c2fb00362b/step-4f354010.jpg",
+          "caption": "Arroz en marcha",
+          "localImage": "/images/recipes/68f22cd6a267a9c2fb00362b-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nMientras se cocina el arroz, corta el pimiento en cuadrados de 1-2 cm.\nSepara las hojas del pak choi y corta a lo ancho en trozos de 2 cm.\nRalla la piel de la mitad de la lima, luego, córtala en gajos.\nDeshoja el cilantro y corta en trozos grandes.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Mientras se cocina el <strong>arroz</strong>, corta el <strong>pimiento</strong> en cuadrados de 1-2 cm.</li>\n<li dir=\"ltr\">Separa las hojas del <strong>pak choi</strong> y corta a lo ancho en trozos de 2 cm.</li>\n<li dir=\"ltr\">Ralla la piel de la mitad de la <strong>lima</strong>, luego, córtala en gajos.</li>\n<li dir=\"ltr\">Deshoja el <strong>cilantro</strong> y corta en trozos grandes.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Mientras se cocina el <strong>arroz</strong>, corta el <strong>pimiento</strong> en cuadrados de 1-2 cm.</li>\n<li dir=\"ltr\">Separa las hojas del <strong>pak choi</strong> y corta a lo ancho en trozos de 2 cm.</li>\n<li dir=\"ltr\">Ralla la piel de la mitad de la <strong>lima</strong>, luego, córtala en gajos.</li>\n<li dir=\"ltr\">Deshoja el <strong>cilantro</strong> y corta en trozos grandes.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f22cd6a267a9c2fb00362b/step-d4158d20.jpg",
+          "path": "/68f22cd6a267a9c2fb00362b/step-d4158d20.jpg",
+          "caption": "Mise en place",
+          "localImage": "/images/recipes/68f22cd6a267a9c2fb00362b-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio-alto. Agrega el pimiento y una pizca de sal y cocina 5-6 min, removiendo, hasta que empiece a ablandarse.\nAgrega la pasta de curry rojo y cocina 1 min.\nAñade el pak choi, la leche de coco y el agua para la salsa y lleva a ebullición.\nCuando hierva, cocina a fuego medio-bajo 6-7 min, hasta que el curry espese.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>pimiento</strong> y una pizca de <strong>sal</strong> y cocina 5-6 min, removiendo, hasta que empiece a ablandarse.</li>\n<li dir=\"ltr\">Agrega la <strong>pasta de curry rojo</strong> y cocina 1 min.</li>\n<li dir=\"ltr\">Añade el <strong>pak choi</strong>, la <strong>leche de coco</strong> y el <strong>agua para la salsa</strong> y lleva a ebullición.</li>\n<li dir=\"ltr\">Cuando hierva, cocina a fuego medio-bajo 6-7 min, hasta que el <strong>curry</strong> espese.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>pimiento</strong> y una pizca de <strong>sal</strong> y cocina 5-6 min, removiendo, hasta que empiece a ablandarse.</li>\n<li dir=\"ltr\">Agrega la <strong>pasta de curry rojo</strong> y cocina 1 min.</li>\n<li dir=\"ltr\">Añade el <strong>pak choi</strong>, la <strong>leche de coco</strong> y el <strong>agua para la salsa</strong> y lleva a ebullición.</li>\n<li dir=\"ltr\">Cuando hierva, cocina a fuego medio-bajo 6-7 min, hasta que el <strong>curry</strong> espese.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f22cd6a267a9c2fb00362b/step-4f8d8830.jpg",
+          "path": "/68f22cd6a267a9c2fb00362b/step-4f8d8830.jpg",
+          "caption": "Da vida al curry",
+          "localImage": "/images/recipes/68f22cd6a267a9c2fb00362b-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando la coliflor esté lista, agrégala al curry y remueve para cubrir con la salsa.\nRetira del fuego y agrega la salsa de soja, zumo de lima al gusto sobre el curry, sal y pimienta. Remueve.\nEn el cazo del arroz, agrega la ralladura de lima y la mitad del cilantro y remueve.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Cuando la <strong>coliflor</strong> esté lista, agrégala al <strong>curry</strong> y remueve para cubrir con la <strong>salsa</strong>.</li>\n<li dir=\"ltr\">Retira del fuego y agrega la <strong>salsa de soja</strong>,<strong> </strong><strong>zumo de lima</strong> al gusto sobre el <strong>curry, sal</strong> y<strong> pimienta</strong>. Remueve.</li>\n<li dir=\"ltr\">En el cazo del <strong>arroz</strong>, agrega la ralladura de <strong>lima</strong> y la mitad del <strong>cilantro</strong> y remueve.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Cuando la <strong>coliflor</strong> esté lista, agrégala al <strong>curry</strong> y remueve para cubrir con la <strong>salsa</strong>.</li>\n<li dir=\"ltr\">Retira del fuego y agrega la <strong>salsa de soja</strong>,<strong> </strong><strong>zumo de lima</strong> al gusto sobre el <strong>curry, sal</strong> y<strong> pimienta</strong>. Remueve.</li>\n<li dir=\"ltr\">En el cazo del <strong>arroz</strong>, agrega la ralladura de <strong>lima</strong> y la mitad del <strong>cilantro</strong> y remueve.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f22cd6a267a9c2fb00362b/step-49deae40.jpg",
+          "path": "/68f22cd6a267a9c2fb00362b/step-49deae40.jpg",
+          "caption": "Combina todo",
+          "localImage": "/images/recipes/68f22cd6a267a9c2fb00362b-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el arroz con lima y cilantro en platos y cubre con el curry de verduras.\nEspolvorea el cilantro restante al gusto y agrega los gajos de lima restantes para exprimir al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>arroz</strong> con <strong>lima</strong> y <strong>cilantro</strong> en platos y cubre con el <strong>curry de verduras</strong>.</li>\n<li>Espolvorea el <strong>cilantro</strong> restante al gusto y agrega los gajos de <strong>lima</strong> restantes para exprimir al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>arroz</strong> con <strong>lima</strong> y <strong>cilantro</strong> en platos y cubre con el <strong>curry de verduras</strong>.</li>\n<li>Espolvorea el <strong>cilantro</strong> restante al gusto y agrega los gajos de <strong>lima</strong> restantes para exprimir al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68f22cd6a267a9c2fb00362b/step-a72cb250.jpg",
+          "path": "/68f22cd6a267a9c2fb00362b/step-a72cb250.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68f22cd6a267a9c2fb00362b-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegano",
+      "slug": "vegano",
+      "colorHandle": "vegan",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESVCLV0060-9",
+  "updatedAt": "2026-01-26T13:46:33+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "5d912385-6cf3-486d-89b2-f1ab3d99c155",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/curry-de-verduras-al-estilo-tailandes-68f22cd6a267a9c2fb00362b",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63bbfe06bc019e6ee3f1ab84",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437541033266d7be9524",
+          "amount": 110,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1d",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 180,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 80,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63bbfe06bc019e6ee3f1ab84",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437541033266d7be9524",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1d",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 360,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 160,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63bbfe06bc019e6ee3f1ab84",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437541033266d7be9524",
+          "amount": 330,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1d",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 540,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 900,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 240,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68f22cd6a267a9c2fb00362b-Kaeng Phet Phak curry rojo con coliflor asada.jpg",
+  "localCard": "/pdf/68f22cd6a267a9c2fb00362b-Kaeng Phet Phak curry rojo con coliflor asada.pdf"
+}

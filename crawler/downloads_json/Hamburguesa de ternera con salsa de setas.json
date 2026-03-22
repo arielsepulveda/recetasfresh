@@ -1,0 +1,707 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": "6373c33d6875fac468eeba6d",
+  "canonicalLink": "https://www.hellofresh.es/recipes/hamburguesa-de-ternera-con-salsa-de-setas-6373c33d6875fac468eeba6d",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "6347ef6ebb36093c54997928",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-11-15T16:50:26+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "Dale un lavado de cara a la hamburguesa con esta receta en la que se sirve la carne en el plato y se cubre con una salsa cremosa de setas que hará que no eches de menos el ketchup. Como acompañamiento, cocina unos bastones de zanahoria asados y puré de patata, alternativas más saludables a las habituales patatas fritas.",
+  "descriptionHTML": "<p>Dale un lavado de cara a la hamburguesa con esta receta en la que se sirve la carne en el plato y se cubre con una salsa cremosa de setas que hará que no eches de menos el ketchup. Como acompañamiento, cocina unos bastones de zanahoria asados y puré de patata, alternativas más saludables a las habituales patatas fritas.</p>",
+  "descriptionMarkdown": "Dale un lavado de cara a la hamburguesa con esta receta en la que se sirve la carne en el plato y se cubre con una salsa cremosa de setas que hará que no eches de menos el ketchup. Como acompañamiento, cocina unos bastones de zanahoria asados y puré de patata, alternativas más saludables a las habituales patatas fritas.",
+  "difficulty": 1,
+  "favoritesCount": 29,
+  "headline": "acompañada de zanahorias asadas y puré de patata",
+  "id": "6373c3526875fac468eeba7d",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF200814_R211_CW38_FR_RFR16681727-1_main_high-adbc065f.jpg",
+  "imagePath": "/image/HF200814_R211_CW38_FR_RFR16681727-1_main_high-adbc065f.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404376233160a36674ba19",
+      "uuid": "87dc56ae-88e0-530d-bd62-be00baab053b",
+      "name": "Portobello",
+      "type": "portobello-mushroom",
+      "slug": "portobello",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba19-66c19148.png",
+      "imagePath": "/ingredient/63404376233160a36674ba19-66c19148.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba19-Portobello.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "63e3d43351d720b4af41cbc6",
+      "uuid": "edb45406-e818-56a4-b9b9-2022a79d3087",
+      "name": "Carne de ternera picada",
+      "type": "beef-mince",
+      "slug": "carne-de-ternera-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63e3d43351d720b4af41cbc6-a778829a.png",
+      "imagePath": "/ingredient/63e3d43351d720b4af41cbc6-a778829a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63e3d43351d720b4af41cbc6-Carne de ternera picada.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6373c3526875fac468eeba7d",
+  "name": "Hamburguesa de ternera con salsa de setas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 766,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3207,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 22.89,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 12.75,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 96.85,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 17.61,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.36,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 40.66,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.13,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 91,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 911,
+  "slug": "hamburguesa-de-ternera-con-salsa-de-setas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 200°C. Pela la zanahoria y córtala en bastones de 1 cm. Extiende la zanahoria en una bandeja de horno con papel de horno. Añade un chorrito de aceite de oliva por encima, salpimienta y mezcla bien. Hornea 20-25 min, removiendo a mitad de la cocción.",
+      "instructionsHTML": "<p dir=\"ltr\">Precalienta el horno a 200°C. Pela la <strong>zanahoria</strong> y córtala en bastones de 1 cm. Extiende la <strong>zanahoria</strong> en una bandeja de horno con papel de horno. Añade un chorrito de <strong>aceite de oliva</strong> por encima, <strong>salpimienta</strong> y mezcla bien. Hornea 20-25 min, removiendo a mitad de la cocción.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Precalienta el horno a 200°C. Pela la <strong>zanahoria</strong> y córtala en bastones de 1 cm. Extiende la <strong>zanahoria</strong> en una bandeja de horno con papel de horno. Añade un chorrito de <strong>aceite de oliva</strong> por encima, <strong>salpimienta</strong> y mezcla bien. Hornea 20-25 min, removiendo a mitad de la cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3526875fac468eeba7d/step-c57e3300.jpg",
+          "path": "/6373c3526875fac468eeba7d/step-c57e3300.jpg",
+          "caption": "Hornea la zanahoria",
+          "localImage": "/images/recipes/6373c3526875fac468eeba7d-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Limpia las setas portobello con un papel de cocina húmedo y córtalas en dados pequeños. Pela y corta las patatas en cuadrados uniformes. Pela y pica el ajo. Pela y pica la chalota. Deshoja el perejil y pícalo.",
+      "instructionsHTML": "<p dir=\"ltr\">Limpia las <strong>setas portobello</strong> con un papel de cocina húmedo y córtalas en dados pequeños. Pela y corta las <strong>patatas</strong> en cuadrados uniformes. Pela y pica el <strong>ajo</strong>. Pela y pica la <strong>chalota</strong>. Deshoja el <strong>perejil</strong> y pícalo.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Limpia las <strong>setas portobello</strong> con un papel de cocina húmedo y córtalas en dados pequeños. Pela y corta las <strong>patatas</strong> en cuadrados uniformes. Pela y pica el <strong>ajo</strong>. Pela y pica la <strong>chalota</strong>. Deshoja el <strong>perejil</strong> y pícalo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3526875fac468eeba7d/step-deddbe10.jpg",
+          "path": "/6373c3526875fac468eeba7d/step-deddbe10.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/6373c3526875fac468eeba7d-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En un cazo mediano, añade agua y una pizca de sal y calienta a fuego alto. Hierve las patatas 12-15 min o hasta que estén blandas. Una vez tengas las patatas cocidas, pásalas por el pasapurés o tritúralas con la ayuda de un tenedor. Agrega la mantequilla (ver cantidad en ingredientes) de forma opcional y la mitad de la nata líquida para que quede suave. Agrega el ajo, sal y pimienta al gusto. ",
+      "instructionsHTML": "<p dir=\"ltr\">En un cazo mediano, añade <strong>agua</strong> y una pizca de <strong>sal</strong> y calienta a fuego alto. Hierve las <strong>patatas</strong> 12-15 min o hasta que estén blandas. Una vez tengas las <strong>patatas</strong> cocidas, pásalas por el pasapurés o tritúralas con la ayuda de un tenedor. Agrega la <strong>mantequilla</strong> (ver cantidad en ingredientes) de forma opcional y la mitad de la <strong>nata líquida</strong> para que quede suave. Agrega el <strong>ajo</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En un cazo mediano, añade <strong>agua</strong> y una pizca de <strong>sal</strong> y calienta a fuego alto. Hierve las <strong>patatas</strong> 12-15 min o hasta que estén blandas. Una vez tengas las <strong>patatas</strong> cocidas, pásalas por el pasapurés o tritúralas con la ayuda de un tenedor. Agrega la <strong>mantequilla</strong> (ver cantidad en ingredientes) de forma opcional y la mitad de la <strong>nata líquida</strong> para que quede suave. Agrega el <strong>ajo</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305393",
+        "57e2674fb7e8697d4b30538c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3526875fac468eeba7d/step-a72ac820.jpg",
+          "path": "/6373c3526875fac468eeba7d/step-a72ac820.jpg",
+          "caption": "Prepara el puré",
+          "localImage": "/images/recipes/6373c3526875fac468eeba7d-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Pon en un bol la carne picada y salpimienta al gusto. Mezcla bien y forma hamburguesas de unos 2 cm de grosor. En una sartén, calienta un chorrito de aceite de oliva y cocina las hamburguesas 4 min por cada lado, hasta que estén bien doradas por fuera y cocidas por dentro. Reserva en un plato y cubre con papel de aluminio para mantenerlas calientes.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">Pon en un bol la <strong>carne picada</strong> y <strong>salpimienta</strong> al gusto. Mezcla bien y forma <strong>hamburguesas</strong> de unos 2 cm de grosor. En una sartén, calienta un chorrito de <strong>aceite de oliva </strong>y cocina las <strong>hamburguesas</strong> 4 min por cada lado, hasta que estén bien doradas por fuera y cocidas por dentro. Reserva en un plato y cubre con papel de aluminio para mantenerlas calientes.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pon en un bol la <strong>carne picada</strong> y <strong>salpimienta</strong> al gusto. Mezcla bien y forma <strong>hamburguesas</strong> de unos 2 cm de grosor. En una sartén, calienta un chorrito de <strong>aceite de oliva </strong>y cocina las <strong>hamburguesas</strong> 4 min por cada lado, hasta que estén bien doradas por fuera y cocidas por dentro. Reserva en un plato y cubre con papel de aluminio para mantenerlas calientes.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b",
+        "57e2674fb7e8697d4b305366",
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3526875fac468eeba7d/step-173e2630.jpg",
+          "path": "/6373c3526875fac468eeba7d/step-173e2630.jpg",
+          "caption": "Cocina las hamburguesas",
+          "localImage": "/images/recipes/6373c3526875fac468eeba7d-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Pon una sartén al fuego. Agrega un chorrito de aceite y la chalota y cocina 2-3 min a fuego bajo. Luego, sube el fuego y cocina las setas 3-4 min, hasta que estén doradas. Agrega sal al gusto y desglasa con el vinagre de vino tinto (ver cantidad en ingredientes). Cocina 1 min, hasta que el vinagre se evapore por completo. Añade la nata líquida restante con la mitad del perejil picado. Salpimienta y remueve bien. Cocina todo junto 1 min.",
+      "instructionsHTML": "<p dir=\"ltr\">Pon una sartén al fuego. Agrega un chorrito de <strong>aceite</strong> y la <strong>chalota </strong>y cocina 2-3 min a fuego bajo. Luego, sube el fuego y cocina las <strong>setas</strong> 3-4 min, hasta que estén doradas. Agrega <strong>sal</strong> al gusto y desglasa con el <strong>vinagre de vino tinto </strong>(ver cantidad en ingredientes). Cocina 1 min, hasta que el <strong>vinagre</strong> se evapore por completo. Añade la <strong>nata líquida</strong> restante con la mitad del <strong>perejil</strong> picado. <strong>Salpimienta</strong> y remueve bien. Cocina todo junto 1 min.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pon una sartén al fuego. Agrega un chorrito de <strong>aceite</strong> y la <strong>chalota </strong>y cocina 2-3 min a fuego bajo. Luego, sube el fuego y cocina las <strong>setas</strong> 3-4 min, hasta que estén doradas. Agrega <strong>sal</strong> al gusto y desglasa con el <strong>vinagre de vino tinto </strong>(ver cantidad en ingredientes). Cocina 1 min, hasta que el <strong>vinagre</strong> se evapore por completo. Añade la <strong>nata líquida</strong> restante con la mitad del <strong>perejil</strong> picado. <strong>Salpimienta</strong> y remueve bien. Cocina todo junto 1 min.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3526875fac468eeba7d/step-afa22040.jpg",
+          "path": "/6373c3526875fac468eeba7d/step-afa22040.jpg",
+          "caption": "Elabora la salsa",
+          "localImage": "/images/recipes/6373c3526875fac468eeba7d-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve las hamburguesas junto con el puré en platos. Coloca la zanahoria a un lado. Vierte la salsa de la sartén sobre la hamburguesa y adorna con el perejil restante.",
+      "instructionsHTML": "<p>Sirve las <strong>hamburguesas</strong> junto con el <strong>puré</strong> en platos. Coloca la <strong>zanahoria</strong> a un lado. Vierte la <strong>salsa</strong> de la sartén sobre la <strong>hamburguesa</strong> y adorna con el <strong>perejil</strong> restante.</p>",
+      "instructionsMarkdown": "<p>Sirve las <strong>hamburguesas</strong> junto con el <strong>puré</strong> en platos. Coloca la <strong>zanahoria</strong> a un lado. Vierte la <strong>salsa</strong> de la sartén sobre la <strong>hamburguesa</strong> y adorna con el <strong>perejil</strong> restante.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6373c3526875fac468eeba7d/step-bed47d50.jpg",
+          "path": "/6373c3526875fac468eeba7d/step-bed47d50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6373c3526875fac468eeba7d-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCFB0066-6",
+  "updatedAt": "2026-02-05T09:09:36+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305393",
+      "type": "potato-masher",
+      "name": "Pasapurés"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305366",
+      "type": "aluminumfoil",
+      "name": "Papel de aluminio"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    }
+  ],
+  "uuid": "7208651e-aa95-4d9a-af31-2918161f457d",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/hamburguesa-de-ternera-con-salsa-de-setas-6373c3526875fac468eeba7d",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63e3d43351d720b4af41cbc6",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63e3d43351d720b4af41cbc6",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 8,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6373c3526875fac468eeba7d-Hamburguesa de ternera con salsa de setas.jpg"
+}

@@ -1,0 +1,1044 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d40474cf27d2f79d901",
+      "name": "Cebada",
+      "type": "barley",
+      "slug": "cebada",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5de91d27f4c17e42c17aef94",
+      "name": "Mostaza",
+      "type": "traces-of-mustard",
+      "slug": "traces-of-mostaza",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "659e8605aa12a55eb353780c",
+  "canonicalLink": "https://www.hellofresh.es/recipes/chapata-solomillo-cerdo-chimichurri-cebolla-rucula-659e8605aa12a55eb353780c",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/666c26f577d4ed4ef249d79d-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6569a20e2db9273db6a3c676",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-07-31T11:59:02+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Este no es un bocadillo cualquiera, aunque eso ya has podido intuirlo por su apetitoso aspecto y su atractivo nombre. Prepara este bocadillo de solomillo de cerdo con cebolla caramelizada, nuestro chimichurri casero y rúcula aderezada, que servimos en una crujiente y ligera chapata de cerveza con un toque de mostaza.",
+  "descriptionHTML": "<p>Este no es un bocadillo cualquiera, aunque eso ya has podido intuirlo por su apetitoso aspecto y su atractivo nombre. Prepara este bocadillo de solomillo de cerdo con cebolla caramelizada, nuestro chimichurri casero y rúcula aderezada, que servimos en una crujiente y ligera chapata de cerveza con un toque de mostaza.</p>",
+  "descriptionMarkdown": "Este no es un bocadillo cualquiera, aunque eso ya has podido intuirlo por su apetitoso aspecto y su atractivo nombre. Prepara este bocadillo de solomillo de cerdo con cebolla caramelizada, nuestro chimichurri casero y rúcula aderezada, que servimos en una crujiente y ligera chapata de cerveza con un toque de mostaza.",
+  "difficulty": 1,
+  "favoritesCount": 13,
+  "headline": "con cebolla caramelizada y rúcula aliñada",
+  "id": "666c26f577d4ed4ef249d79d",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R21_W10_ES_ESSGSFP21059-2_Main_high-576291d0.jpg",
+  "imagePath": "/image/HF_Y24_R21_W10_ES_ESSGSFP21059-2_Main_high-576291d0.jpg",
+  "ingredients": [
+    {
+      "id": "664be44cdb12ba3a5e10097f",
+      "uuid": "bd5c7043-7153-4145-8d15-dcae964901b4",
+      "name": "Chapata de cerveza",
+      "type": "beer-ciabatta",
+      "slug": "chapata-de-cerveza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/664be44cdb12ba3a5e10097f-d4c3e3b5.jpg",
+      "imagePath": "/ingredient/664be44cdb12ba3a5e10097f-d4c3e3b5.jpg",
+      "shipped": true,
+      "allergens": [
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b305303",
+        "5acf97b7ae08b54d88061162",
+        "5de91d27f4c17e42c17aef94",
+        "5b0532aaae08b52eb9420552",
+        "57962a07b7e8697d4b3052f3",
+        "60368d89cdbdf450236ad8cd",
+        "60368d40474cf27d2f79d901",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/664be44cdb12ba3a5e10097f-Chapata de cerveza.jpg"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "6340436e233160a36674b9fa",
+      "uuid": "dbc8bc5d-daac-50e9-8161-afdb361d627a",
+      "name": "Chili en escamas",
+      "type": "chilli-flakes",
+      "slug": "chili-en-escamas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9fa-120c91e1.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9fa-120c91e1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9fa-Chili en escamas.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "64ac09b048c7b9302c3319fd",
+      "uuid": "994ef755-08a0-500c-af81-78dc16cbfe7e",
+      "name": "Solomillo de cerdo",
+      "type": "pork-tenderloin",
+      "slug": "solomillo-de-cerdo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64ac09b048c7b9302c3319fd-b0f72a9d.png",
+      "imagePath": "/ingredient/64ac09b048c7b9302c3319fd-b0f72a9d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64ac09b048c7b9302c3319fd-Solomillo de cerdo.png"
+    },
+    {
+      "id": "659c8d3fc7596f421e5449b1",
+      "uuid": "7a4c3ae4-ca74-4022-aa86-32db0c83d59f",
+      "name": "Queso rallado",
+      "type": "grated-cheese",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/659c8d3fc7596f421e5449b1-d8f6d2b4.png",
+      "imagePath": "/ingredient/659c8d3fc7596f421e5449b1-d8f6d2b4.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/659c8d3fc7596f421e5449b1-Queso rallado.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "6613b8e0c415e877911873ef",
+      "uuid": "5038e977-bfc7-5be1-8557-6046aec8bd26",
+      "name": "Mostaza en grano",
+      "type": "wholegrain-mustard",
+      "slug": "mostaza-en-grano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6613b8e0c415e877911873ef-1ae02666.png",
+      "imagePath": "/ingredient/6613b8e0c415e877911873ef-1ae02666.png",
+      "shipped": true,
+      "allergens": [
+        "5de91d27f4c17e42c17aef94",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6613b8e0c415e877911873ef-Mostaza en grano.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "6450b971a7de25dd4f194163",
+      "uuid": "e8b4474a-caeb-43ea-870a-2b5963671f04",
+      "name": "Aceite para la salsa",
+      "type": "oil-for-the-sauce-tbsp",
+      "slug": "aceite-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6450b971a7de25dd4f194163-c451ce6e.png",
+      "imagePath": "/ingredient/6450b971a7de25dd4f194163-c451ce6e.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6450b971a7de25dd4f194163-Aceite para la salsa.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    },
+    {
+      "id": "659bbfbac7596f421e543157",
+      "uuid": "85a6c457-ddf6-4b16-ab8f-55316c4ddc02",
+      "name": "Vinagre para aderezar",
+      "type": "vinegar-for-salad",
+      "slug": "vinagre-para-aderezar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/659bbfbac7596f421e543157-faf37314.png",
+      "imagePath": "/ingredient/659bbfbac7596f421e543157-faf37314.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/659bbfbac7596f421e543157-Vinagre para aderezar.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/666c26f577d4ed4ef249d79d",
+  "name": "Chapata de solomillo de cerdo con chimichurri",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3756,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 898,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 42.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 11.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 81.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 14.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 5.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 40.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.3,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 7,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 442,
+  "slug": "chapata-de-solomillo-de-cerdo-con-chimichurri",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la cebolla, divídela en dos y córtala en tiras finas. Deshoja y pica el cilantro. Pela y pica la chalota. Pela el ajo (ver cantidad en ingredientes) y aplástalo con la hoja de un cuchillo.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. Deshoja y pica el <strong>cilantro</strong>. Pela y pica la <strong>chalota</strong>. Pela el <strong>ajo</strong> (ver cantidad en ingredientes) y aplástalo con la hoja de un cuchillo.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. Deshoja y pica el <strong>cilantro</strong>. Pela y pica la <strong>chalota</strong>. Pela el <strong>ajo</strong> (ver cantidad en ingredientes) y aplástalo con la hoja de un cuchillo.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/666c26f577d4ed4ef249d79d/step-364b2200.jpg",
+          "path": "/666c26f577d4ed4ef249d79d/step-364b2200.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/666c26f577d4ed4ef249d79d-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén, calienta un chorrito de aceite a fuego medio-alto. Una vez caliente, agrega la cebolla y una pizca de sal y cocina 2-3 min, removiendo ocasionalmente. Luego, añade el vinagre balsámico y el azúcar (ver cantidad en ingredientes) y cocina a fuego medio-bajo 5-6 min más, removiendo frecuentemente. Cuando esté lista, reserva en un bol.",
+      "instructionsHTML": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 2-3 min, removiendo ocasionalmente. Luego, añade el <strong>vinagre balsámico</strong> y el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina a fuego medio-bajo 5-6 min más, removiendo frecuentemente. Cuando esté lista, reserva en un bol.</p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 2-3 min, removiendo ocasionalmente. Luego, añade el <strong>vinagre balsámico</strong> y el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina a fuego medio-bajo 5-6 min más, removiendo frecuentemente. Cuando esté lista, reserva en un bol.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/666c26f577d4ed4ef249d79d/step-2cafbf10.jpg",
+          "path": "/666c26f577d4ed4ef249d79d/step-2cafbf10.jpg",
+          "caption": "Carameliza la cebolla",
+          "localImage": "/images/recipes/666c26f577d4ed4ef249d79d-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En un bol, agrega el cilantro, la chalota, el chili en escamas, el aceite para la salsa, el vinagre de vino tinto y el orégano (ver cantidad en ingredientes de los 3). Salpimienta y mezcla bien.",
+      "instructionsHTML": "<p>En un bol, agrega el <strong>cilantro</strong>, la <strong>chalota</strong>, el <strong>chili en escamas</strong>, el <strong>aceite para la salsa</strong>, el <strong>vinagre de vino tinto</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes de los 3). <strong>Salpimienta</strong> y mezcla bien.</p>",
+      "instructionsMarkdown": "<p>En un bol, agrega el <strong>cilantro</strong>, la <strong>chalota</strong>, el <strong>chili en escamas</strong>, el <strong>aceite para la salsa</strong>, el <strong>vinagre de vino tinto</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes de los 3). <strong>Salpimienta</strong> y mezcla bien.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/666c26f577d4ed4ef249d79d/step-be3c5620.jpg",
+          "path": "/666c26f577d4ed4ef249d79d/step-be3c5620.jpg",
+          "caption": "Prepara el chimichurri",
+          "localImage": "/images/recipes/666c26f577d4ed4ef249d79d-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la sartén, agrega un chorrito de aceite, la mantequilla (ver cantidad en ingredientes) y el ajo aplastado. Cocina a fuego medio 1-2 min, hasta que la mantequilla se derrita y el ajo se dore. Luego, agrega el solomillo de cerdo y cocina 6-8 min, girándolo para que se dore por todas partes.\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong>, la <strong>mantequilla</strong> (ver cantidad en ingredientes) y el <strong>ajo</strong> aplastado. Cocina a fuego medio 1-2 min, hasta que la <strong>mantequilla</strong> se derrita y el <strong>ajo</strong> se dore. Luego, agrega el <strong>solomillo de cerdo</strong> y cocina 6-8 min, girándolo para que se dore por todas partes.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong>, la <strong>mantequilla</strong> (ver cantidad en ingredientes) y el <strong>ajo</strong> aplastado. Cocina a fuego medio 1-2 min, hasta que la <strong>mantequilla</strong> se derrita y el <strong>ajo</strong> se dore. Luego, agrega el <strong>solomillo de cerdo</strong> y cocina 6-8 min, girándolo para que se dore por todas partes.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/666c26f577d4ed4ef249d79d/step-234d6f30.jpg",
+          "path": "/666c26f577d4ed4ef249d79d/step-234d6f30.jpg",
+          "caption": "Cocina la carne",
+          "localImage": "/images/recipes/666c26f577d4ed4ef249d79d-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Sobre los solomillos de cerdo, reparte la mitad del queso rallado (doble para 4p), tapa la sartén y cocina a fuego medio-bajo 3-4 min más, hasta que el queso se derrita y el cerdo quede bien cocinado en el interior. Mientras tanto, en una ensaladera, añade el vinagre para aderezar (ver cantidad en ingredientes) y un chorrito de aceite. Agrega la rúcula, salpimienta y mezcla bien para aderezarla.",
+      "instructionsHTML": "<p>Sobre los <strong>solomillos de cerdo</strong>, reparte la mitad del <strong>queso rallado</strong> (doble para 4p), tapa la sartén y cocina a fuego medio-bajo 3-4 min más, hasta que el <strong>queso</strong> se derrita y el <strong>cerdo</strong> quede bien cocinado en el interior. Mientras tanto, en una ensaladera, añade el<strong> vinagre para aderezar</strong> (ver cantidad en ingredientes) y un chorrito de <span><strong>aceite</strong></span>. Agrega la <strong>rúcula</strong>, <strong>salpimienta</strong> y mezcla bien para aderezarla.</p>",
+      "instructionsMarkdown": "<p>Sobre los <strong>solomillos de cerdo</strong>, reparte la mitad del <strong>queso rallado</strong> (doble para 4p), tapa la sartén y cocina a fuego medio-bajo 3-4 min más, hasta que el <strong>queso</strong> se derrita y el <strong>cerdo</strong> quede bien cocinado en el interior. Mientras tanto, en una ensaladera, añade el<strong> vinagre para aderezar</strong> (ver cantidad en ingredientes) y un chorrito de <span><strong>aceite</strong></span>. Agrega la <strong>rúcula</strong>, <strong>salpimienta</strong> y mezcla bien para aderezarla.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/666c26f577d4ed4ef249d79d/step-6227fc40.jpg",
+          "path": "/666c26f577d4ed4ef249d79d/step-6227fc40.jpg",
+          "caption": "Adereza la rúcula",
+          "localImage": "/images/recipes/666c26f577d4ed4ef249d79d-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Abre el pan de chapata y tuéstalo en la tostadora hasta que esté ligeramente dorado. Corta el solomillo de cerdo en rodajas de 1-2 cm. Sobre la base de los panes, agrega la mostaza en grano y coloca encima el solomillo de cerdo. Añade sobre el cerdo la cebolla caramelizada y chimichurri al gusto. Por último, añade rúcula y tapa el bocadillo. Sirve la rúcula restante junto a la chapata como acompañamiento.",
+      "instructionsHTML": "<p>Abre el <strong>pan de chapata</strong> y tuéstalo en la tostadora hasta que esté ligeramente dorado. Corta el <strong>solomillo de cerdo</strong> en rodajas de 1-2 cm. Sobre la base de los <strong>panes</strong>, agrega la <strong>mostaza en grano</strong> y coloca encima el <strong>solomillo de cerdo</strong>. Añade sobre el <strong>cerdo</strong> la <strong>cebolla caramelizada</strong> y <strong>chimichurri</strong> al gusto. Por último, añade <strong>rúcula</strong> y tapa el <strong>bocadillo</strong>. Sirve la <strong>rúcula</strong> restante junto a la <strong>chapata</strong> como acompañamiento.</p>",
+      "instructionsMarkdown": "<p>Abre el <strong>pan de chapata</strong> y tuéstalo en la tostadora hasta que esté ligeramente dorado. Corta el <strong>solomillo de cerdo</strong> en rodajas de 1-2 cm. Sobre la base de los <strong>panes</strong>, agrega la <strong>mostaza en grano</strong> y coloca encima el <strong>solomillo de cerdo</strong>. Añade sobre el <strong>cerdo</strong> la <strong>cebolla caramelizada</strong> y <strong>chimichurri</strong> al gusto. Por último, añade <strong>rúcula</strong> y tapa el <strong>bocadillo</strong>. Sirve la <strong>rúcula</strong> restante junto a la <strong>chapata</strong> como acompañamiento.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/666c26f577d4ed4ef249d79d/step-6f52d950.jpg",
+          "path": "/666c26f577d4ed4ef249d79d/step-6f52d950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/666c26f577d4ed4ef249d79d-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESSGSFP21059-6",
+  "updatedAt": "2025-08-14T17:45:34+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "b64446d0-e96f-4064-b9a9-bc0096a3277e",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/chapata-de-solomillo-de-cerdo-con-chimichurri-666c26f577d4ed4ef249d79d",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "664be44cdb12ba3a5e10097f",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e233160a36674b9fa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64ac09b048c7b9302c3319fd",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "659c8d3fc7596f421e5449b1",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6613b8e0c415e877911873ef",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "659bbfbac7596f421e543157",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "664be44cdb12ba3a5e10097f",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e233160a36674b9fa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "64ac09b048c7b9302c3319fd",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "659c8d3fc7596f421e5449b1",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6613b8e0c415e877911873ef",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "659bbfbac7596f421e543157",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/666c26f577d4ed4ef249d79d-Chapata de solomillo de cerdo con chimichurri.jpg",
+  "localCard": "/pdf/666c26f577d4ed4ef249d79d-Chapata de solomillo de cerdo con chimichurri.pdf"
+}

@@ -1,0 +1,886 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "66b335dda1293bffe8e02d43",
+  "canonicalLink": "https://www.hellofresh.es/recipes/burrata-verduras-salsa-cherry-lentejas-66b335dda1293bffe8e02d43",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/688a78401cc5cea71280bb1a-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "665854df5a85f962299717a4",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-07-30T19:53:37+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterránea ",
+      "slug": "mediterranea ",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg"
+    }
+  ],
+  "description": "La vegetación de cada territorio no solo define su paisaje, sino que tiene mucha importancia en la gastronomía. Mientras que el romero y el tomillo se asocian a la comida española, la albahaca está presente en una gran variedad de platos italianos. En esta ocasión, combinamos la albahaca y la burrata en un plato diferente y completo.",
+  "descriptionHTML": "<p>La vegetación de cada territorio no solo define su paisaje, sino que tiene mucha importancia en la gastronomía. Mientras que el romero y el tomillo se asocian a la comida española, la albahaca está presente en una gran variedad de platos italianos. En esta ocasión, combinamos la albahaca y la burrata en un plato diferente y completo.</p>",
+  "descriptionMarkdown": "La vegetación de cada territorio no solo define su paisaje, sino que tiene mucha importancia en la gastronomía. Mientras que el romero y el tomillo se asocian a la comida española, la albahaca está presente en una gran variedad de platos italianos. En esta ocasión, combinamos la albahaca y la burrata en un plato diferente y completo.",
+  "difficulty": 1,
+  "favoritesCount": 15,
+  "headline": "con vinagreta de ajo asado y albahaca",
+  "id": "688a78401cc5cea71280bb1a",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R11_W42_ES_ESVCLV27677-3_Main_high-765358db.jpg",
+  "imagePath": "/image/HF_Y25_R11_W42_ES_ESVCLV27677-3_Main_high-765358db.jpg",
+  "ingredients": [
+    {
+      "id": "6340436b2268bc1bff0d3c9f",
+      "uuid": "1fa6c253-440c-5c98-9e4b-65a57a89f8b1",
+      "name": "Berenjena",
+      "type": "aubergine",
+      "slug": "berenjena",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3c9f-Berenjena.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404373233160a36674ba0e",
+      "uuid": "acaf37ce-a5ff-5a2d-bf8b-c1bd51eb83ba",
+      "name": "Especias mediterráneas",
+      "type": "mediterranean-spice-mix",
+      "slug": "especias-mediterraneas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0e-3aaa1fde.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0e-3aaa1fde.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0e-Especias mediterráneas.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f0",
+      "uuid": "49d1ae88-5dea-5aa5-be78-86a06abe0582",
+      "name": "Lentejas",
+      "type": "brown-lentils",
+      "slug": "lentejas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f0-Lentejas.png"
+    },
+    {
+      "id": "6340436b233160a36674b9e9",
+      "uuid": "fae5ea17-1d10-5a79-acab-118ec738e69e",
+      "name": "Albahaca",
+      "type": "basil",
+      "slug": "albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "imagePath": "/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9e9-Albahaca.jpg"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "6451269fe915ac78ee7c67ec",
+      "uuid": "859a77cd-1f8a-5303-ab71-50625ff579c6",
+      "name": "Burrata italiana",
+      "type": "burrata",
+      "slug": "burrata-italiana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6451269fe915ac78ee7c67ec-844c68ff.png",
+      "imagePath": "/ingredient/6451269fe915ac78ee7c67ec-844c68ff.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6451269fe915ac78ee7c67ec-Burrata italiana.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/688a78401cc5cea71280bb1a",
+  "name": "Burrata Lovers: con verduras y lentejas crujientes",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2478,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 592,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 41,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 14.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 51.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 16.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 23.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.84,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT45M",
+  "promotion": null,
+  "ratingsCount": 42,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 725,
+  "slug": "burrata-sobre-verduras-asadas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nRetira los extremos del calabacín y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.\nPela la cebolla y córtala en tiras finas.\nRetira el tallo de la berenjena y córtala en dados de 1-2 cm.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Retira el tallo de la <strong>berenjena</strong> y córtala en dados de 1-2 cm.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Retira el tallo de la <strong>berenjena</strong> y córtala en dados de 1-2 cm.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78401cc5cea71280bb1a/step-420b0200.jpg",
+          "path": "/688a78401cc5cea71280bb1a/step-420b0200.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/688a78401cc5cea71280bb1a-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nColoca todas las verduras en una fuente de horno y agrega las especias mediterráneas, un chorrito generoso de aceite, sal y pimienta. Remueve bien.\nAgrega el ajo sin pelar a la fuente.\nHorna a media altura 10 min.\n",
+      "instructionsHTML": "<ul>\n<li>Coloca todas las <strong>verduras</strong> en una fuente de horno y agrega las <strong>especias mediterráneas,</strong> un chorrito generoso de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Remueve bien.</li>\n<li>Agrega el <strong>ajo</strong> sin pelar a la fuente.</li>\n<li>Horna a media altura 10 min.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca todas las <strong>verduras</strong> en una fuente de horno y agrega las <strong>especias mediterráneas,</strong> un chorrito generoso de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Remueve bien.</li>\n<li>Agrega el <strong>ajo</strong> sin pelar a la fuente.</li>\n<li>Horna a media altura 10 min.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78401cc5cea71280bb1a/step-db1ce610.jpg",
+          "path": "/688a78401cc5cea71280bb1a/step-db1ce610.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/688a78401cc5cea71280bb1a-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEscurre las lentejas y colócalas en una bandeja de horno con papel de horno.\nAdereza con un chorrito de aceite, sal y pimienta y remueve.\nHornea en el estante superior 15-20 min.\nDeshoja y pica la albahaca.\n",
+      "instructionsHTML": "<ul>\n<li>Escurre las <strong>lentejas</strong> y colócalas en una bandeja de horno con papel de horno.</li>\n<li>Adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong> y remueve.</li>\n<li>Hornea en el estante superior 15-20 min.</li>\n<li>Deshoja y pica la <strong>albahaca</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Escurre las <strong>lentejas</strong> y colócalas en una bandeja de horno con papel de horno.</li>\n<li>Adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong> y remueve.</li>\n<li>Hornea en el estante superior 15-20 min.</li>\n<li>Deshoja y pica la <strong>albahaca</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78401cc5cea71280bb1a/step-02d8a320.jpg",
+          "path": "/688a78401cc5cea71280bb1a/step-02d8a320.jpg",
+          "caption": "Mise en place",
+          "localImage": "/images/recipes/688a78401cc5cea71280bb1a-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCuando las verduras se hayan horneado 10 min, agrega los tomates cherry a la fuente de horno y mezcla.\nHornea 10 min más o hasta que las verduras queden tiernas y doradas.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando las <strong>verduras</strong> se hayan horneado 10 min, agrega los <strong>tomates cherry</strong> a la fuente de horno y mezcla.</li>\n<li>Hornea 10 min más o hasta que las <strong>verduras</strong> queden tiernas y doradas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando las <strong>verduras</strong> se hayan horneado 10 min, agrega los <strong>tomates cherry</strong> a la fuente de horno y mezcla.</li>\n<li>Hornea 10 min más o hasta que las <strong>verduras</strong> queden tiernas y doradas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78401cc5cea71280bb1a/step-fe5f4230.jpg",
+          "path": "/688a78401cc5cea71280bb1a/step-fe5f4230.jpg",
+          "caption": "Añade los cherry",
+          "localImage": "/images/recipes/688a78401cc5cea71280bb1a-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nUna vez las verduras estén listas, retira el ajo.\nRetira la piel y coloca la pulpa en un bol junto con un chorrito de aceite, el vinagre balsámico, sal y pimienta.\nTritura la pulpa del ajo con un tenedor y remueve.\nEscurre la burrata.\n",
+      "instructionsHTML": "<ul>\n<li>Una vez las verduras estén listas, retira el <strong>ajo.</strong></li>\n<li>Retira la piel y coloca la pulpa en un bol junto con un chorrito de <strong>aceite,</strong> el <strong>vinagre balsámico</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Tritura la pulpa del <strong>ajo</strong> con un tenedor y remueve.</li>\n<li>Escurre la <strong>burrata</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Una vez las verduras estén listas, retira el <strong>ajo.</strong></li>\n<li>Retira la piel y coloca la pulpa en un bol junto con un chorrito de <strong>aceite,</strong> el <strong>vinagre balsámico</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Tritura la pulpa del <strong>ajo</strong> con un tenedor y remueve.</li>\n<li>Escurre la <strong>burrata</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78401cc5cea71280bb1a/step-06a43c40.jpg",
+          "path": "/688a78401cc5cea71280bb1a/step-06a43c40.jpg",
+          "caption": "Prepara la vinagreta",
+          "localImage": "/images/recipes/688a78401cc5cea71280bb1a-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve las verduras asadas en platos y cubre con las lentejas crujientes.\nAñade encima la burrata y adereza con la vinagreta de ajo asado y la albahaca picada.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve las <strong>verduras</strong> asadas en platos y cubre con las <strong>lentejas </strong>crujientes.</li>\n<li>Añade encima la <strong>burrata</strong> y adereza con la <strong>vinagreta</strong> de <strong>ajo</strong> asado y la <strong>albahaca</strong> picada.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve las <strong>verduras</strong> asadas en platos y cubre con las <strong>lentejas </strong>crujientes.</li>\n<li>Añade encima la <strong>burrata</strong> y adereza con la <strong>vinagreta</strong> de <strong>ajo</strong> asado y la <strong>albahaca</strong> picada.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/688a78401cc5cea71280bb1a/step-0fc0a150.jpg",
+          "path": "/688a78401cc5cea71280bb1a/step-0fc0a150.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/688a78401cc5cea71280bb1a-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano",
+        "veggie"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart",
+        "lowcalorie"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido",
+        "quickcook"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "672238b3b9eda7328f4d5c45",
+      "type": "oven-only",
+      "name": "Solo horno",
+      "slug": "solo-horno",
+      "colorHandle": null,
+      "preferences": [
+        "Fácil y rápido",
+        "quickcook"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESVCLV27677-3",
+  "updatedAt": "2025-11-18T07:35:20+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    }
+  ],
+  "uuid": "ca00ac19-3577-436f-992a-5195b4ec5e72",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/burrata-sobre-verduras-asadas-688a78401cc5cea71280bb1a",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6451269fe915ac78ee7c67ec",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6451269fe915ac78ee7c67ec",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 5,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 1170,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6451269fe915ac78ee7c67ec",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": null,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": null,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": null,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 1170,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6451269fe915ac78ee7c67ec",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/688a78401cc5cea71280bb1a-Burrata Lovers con verduras y lentejas crujientes.jpg",
+  "localCard": "/pdf/688a78401cc5cea71280bb1a-Burrata Lovers con verduras y lentejas crujientes.pdf"
+}

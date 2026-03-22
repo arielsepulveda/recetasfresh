@@ -1,0 +1,722 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "63f785b1bde4da4f3e242b3c",
+  "canonicalLink": "https://www.hellofresh.es/recipes/heura-al-horno-con-verduras-asadas-63f785b1bde4da4f3e242b3c",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6584bac2c6869ff77feaece2.pdf",
+  "category": null,
+  "clonedFrom": "63c6c6049dc1b01144aed879",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-02-26T08:40:33+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Solo necesitas 15 minutos para poder preparar esta receta completa, sabrosa y vegetariana, como es esta heura al horno con verduras y tomates cherry asados, aderezada con una vinagreta de especias con ajo asado. Aunque sea un plato variado y lleno de sabor, no tendrás que preocuparte de que contenga demasiadas calorías y podrás centrarte en disfrutar.",
+  "descriptionHTML": "<p>Solo necesitas 15 minutos para poder preparar esta receta completa, sabrosa y vegetariana, como es esta heura al horno con verduras y tomates cherry asados, aderezada con una vinagreta de especias con ajo asado. Aunque sea un plato variado y lleno de sabor, no tendrás que preocuparte de que contenga demasiadas calorías y podrás centrarte en disfrutar.</p>",
+  "descriptionMarkdown": "Solo necesitas 15 minutos para poder preparar esta receta completa, sabrosa y vegetariana, como es esta heura al horno con verduras y tomates cherry asados, aderezada con una vinagreta de especias con ajo asado. Aunque sea un plato variado y lleno de sabor, no tendrás que preocuparte de que contenga demasiadas calorías y podrás centrarte en disfrutar.",
+  "difficulty": 1,
+  "favoritesCount": 23,
+  "headline": "aderezada con vinagreta de comino, cilantro y ajo asado",
+  "id": "6584bac2c6869ff77feaece2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R08_W19_ES_ESCLQV14347-2_Main__high-275f7733.jpg",
+  "imagePath": "/image/HF_Y23_R08_W19_ES_ESCLQV14347-2_Main__high-275f7733.jpg",
+  "ingredients": [
+    {
+      "id": "6364ec6550d7477cd4c1cbbf",
+      "uuid": "8fb19217-d717-417c-b34b-0cbf15d7e5ea",
+      "name": "Heura",
+      "type": "plant-based-meat-heura",
+      "slug": "heura",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ec6550d7477cd4c1cbbf-5c38d234.png",
+      "imagePath": "/ingredient/6364ec6550d7477cd4c1cbbf-5c38d234.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ec6550d7477cd4c1cbbf-Heura.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340437141033266d7be951a",
+      "uuid": "ae95225f-9805-5f92-afa8-0649e7e90122",
+      "name": "Comino en polvo",
+      "type": "ground-cumin",
+      "slug": "comino-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "imagePath": "/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be951a-Comino en polvo.png"
+    },
+    {
+      "id": "63404371233160a36674ba07",
+      "uuid": "a2445ef6-879b-507a-b804-233fcd496933",
+      "name": "Cilantro en polvo",
+      "type": "ground-coriander",
+      "slug": "cilantro-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba07-23a72c16.png",
+      "imagePath": "/ingredient/63404371233160a36674ba07-23a72c16.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba07-Cilantro en polvo.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "6340437b2268bc1bff0d3cd0",
+      "uuid": "9e1d590f-1201-4c56-9e9a-1d9eec58f630",
+      "name": "Pimiento rojo italiano",
+      "type": "pointed-bell-pepper-red",
+      "slug": "pimiento-rojo-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd0-52e3cd0d.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd0-52e3cd0d.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd0-Pimiento rojo italiano.jpg"
+    },
+    {
+      "id": "6340436e41033266d7be950e",
+      "uuid": "b443c50a-b3b3-510c-93ac-01d6610777a3",
+      "name": "Cebollino",
+      "type": "chives",
+      "slug": "cebollino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "imagePath": "/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be950e-Cebollino.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6584bac2c6869ff77feaece2",
+  "name": "Heura al horno con verduras asadas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2024,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 484,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 6.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 1.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 50.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 8.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 21.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.54,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 21,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 501,
+  "slug": "heura-al-horno-con-verduras-asadas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela el ajo (ver cantidad en ingredientes). Corta las patatas por la mitad, luego, corta en gajos de 1-2 cm de grosor. Corta el pimiento por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 2-3 cm. Pela la cebolla, divídela en dos y córtala en tiras de 2 cm. Luego, separa las capas de la cebolla.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela el <strong>ajo</strong> (ver cantidad en ingredientes). Corta las <strong>patatas</strong> por la mitad, luego, corta en gajos de 1-2 cm de grosor. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 2-3 cm. Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras de 2 cm. Luego, separa las capas de la <strong>cebolla</strong>.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Pela el <strong>ajo</strong> (ver cantidad en ingredientes). Corta las <strong>patatas</strong> por la mitad, luego, corta en gajos de 1-2 cm de grosor. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 2-3 cm. Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras de 2 cm. Luego, separa las capas de la <strong>cebolla</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584bac2c6869ff77feaece2/step-cbf7b500.jpg",
+          "path": "/6584bac2c6869ff77feaece2/step-cbf7b500.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/6584bac2c6869ff77feaece2-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una bandeja de horno con papel de horno, coloca el pimiento, la cebolla, la patata y los ajos pelados. Agrega encima un chorrito de aceite y salpimienta. Luego, mezcla para que los vegetales queden bien aderezados. Colócalos en una sola capa de la bandeja y hornea a media altura durante 15-20 min.",
+      "instructionsHTML": "<p>En una bandeja de horno con papel de horno, coloca el <strong>pimiento</strong>, la <strong>cebolla</strong>, la <strong>patata</strong> y los <strong>ajos</strong> pelados. Agrega encima un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong>. Luego, mezcla para que los <strong>vegetales</strong> queden bien aderezados. Colócalos en una sola capa de la bandeja y hornea a media altura durante 15-20 min.</p>",
+      "instructionsMarkdown": "<p>En una bandeja de horno con papel de horno, coloca el <strong>pimiento</strong>, la <strong>cebolla</strong>, la <strong>patata</strong> y los <strong>ajos</strong> pelados. Agrega encima un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong>. Luego, mezcla para que los <strong>vegetales</strong> queden bien aderezados. Colócalos en una sola capa de la bandeja y hornea a media altura durante 15-20 min.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584bac2c6869ff77feaece2/step-099e4b10.jpg",
+          "path": "/6584bac2c6869ff77feaece2/step-099e4b10.jpg",
+          "caption": "Hornea las verduras",
+          "localImage": "/images/recipes/6584bac2c6869ff77feaece2-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En un bol pequeño, agrega el comino en polvo, el cilantro en polvo, el vinagre balsámico y un chorrito de aceite. Salpimienta y remueve bien.",
+      "instructionsHTML": "<p>En un bol pequeño, agrega el <strong>comino en polvo</strong>, el <strong>cilantro en polvo</strong>, el <strong>vinagre balsámico</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y remueve bien.</p>",
+      "instructionsMarkdown": "<p>En un bol pequeño, agrega el <strong>comino en polvo</strong>, el <strong>cilantro en polvo</strong>, el <strong>vinagre balsámico</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y remueve bien.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584bac2c6869ff77feaece2/step-6492ab20.jpg",
+          "path": "/6584bac2c6869ff77feaece2/step-6492ab20.jpg",
+          "caption": "Prepara la vinagreta",
+          "localImage": "/images/recipes/6584bac2c6869ff77feaece2-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando las verduras se hayan horneado 15-20 min, dales la vuelta. Luego, agrega la heura y los tomates cherry sobre las verduras en la bandeja de horno y mezcla bien. Cocina todo junto 10-15 min más, hasta que las verduras estén tiernas.",
+      "instructionsHTML": "<p>Cuando las <strong>verduras</strong> se hayan horneado 15-20 min, dales la vuelta. Luego, agrega la <strong>heura</strong> y los <strong>tomates cherry</strong> sobre las <strong>verduras</strong> en la bandeja de horno y mezcla bien. Cocina todo junto 10-15 min más, hasta que las <strong>verduras</strong> estén tiernas.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>verduras</strong> se hayan horneado 15-20 min, dales la vuelta. Luego, agrega la <strong>heura</strong> y los <strong>tomates cherry</strong> sobre las <strong>verduras</strong> en la bandeja de horno y mezcla bien. Cocina todo junto 10-15 min más, hasta que las <strong>verduras</strong> estén tiernas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584bac2c6869ff77feaece2/step-7f2a6d30.jpg",
+          "path": "/6584bac2c6869ff77feaece2/step-7f2a6d30.jpg",
+          "caption": "Hornea la heura",
+          "localImage": "/images/recipes/6584bac2c6869ff77feaece2-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando las verduras estén listas, retira los dientes de ajo de la bandeja de horno y agrégalos al bol pequeño con la vinagreta. Con ayuda de un tenedor, aplástalos y remueve bien, de forma que se integren con el vinagre y las especias.",
+      "instructionsHTML": "<p>Cuando las <strong>verduras</strong> estén listas, retira los <strong>dientes de ajo</strong> de la bandeja de horno y agrégalos al bol pequeño con la <strong>vinagreta</strong>. Con ayuda de un tenedor, aplástalos y remueve bien, de forma que se integren con el <strong>vinagre</strong> y las <strong>especias</strong>.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>verduras</strong> estén listas, retira los <strong>dientes de ajo</strong> de la bandeja de horno y agrégalos al bol pequeño con la <strong>vinagreta</strong>. Con ayuda de un tenedor, aplástalos y remueve bien, de forma que se integren con el <strong>vinagre</strong> y las <strong>especias</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584bac2c6869ff77feaece2/step-330c5440.jpg",
+          "path": "/6584bac2c6869ff77feaece2/step-330c5440.jpg",
+          "caption": "Acaba la vinagreta",
+          "localImage": "/images/recipes/6584bac2c6869ff77feaece2-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Pica finamente la mitad del cebollino (doble para 4p). Sirve las verduras asadas en la base de los platos y coloca la heura encima. Agrega la vinagreta de comino y ajo asado sobre el plato y espolvorea el cebollino picado a tu gusto.",
+      "instructionsHTML": "<p>Pica finamente la mitad del <strong>cebollino</strong> (doble para 4p). Sirve las <strong>verduras</strong> asadas en la base de los platos y coloca la <strong>heura</strong> encima. Agrega la <strong>vinagreta de comino y ajo asado</strong> sobre el plato y espolvorea el <strong>cebollino</strong> picado a tu gusto.</p>",
+      "instructionsMarkdown": "<p>Pica finamente la mitad del <strong>cebollino</strong> (doble para 4p). Sirve las <strong>verduras</strong> asadas en la base de los platos y coloca la <strong>heura</strong> encima. Agrega la <strong>vinagreta de comino y ajo asado</strong> sobre el plato y espolvorea el <strong>cebollino</strong> picado a tu gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6584bac2c6869ff77feaece2/step-33a5eb50.jpg",
+          "path": "/6584bac2c6869ff77feaece2/step-33a5eb50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6584bac2c6869ff77feaece2-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegano",
+      "slug": "vegano",
+      "colorHandle": "vegan",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCLQV14347-4",
+  "updatedAt": "2026-01-29T17:58:12+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "64c2d556-8ae2-4389-8d9d-acb381d2b1ea",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/heura-al-horno-con-verduras-asadas-6584bac2c6869ff77feaece2",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6364ec6550d7477cd4c1cbbf",
+          "amount": 160,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404371233160a36674ba07",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd0",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6364ec6550d7477cd4c1cbbf",
+          "amount": 320,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404371233160a36674ba07",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd0",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 4,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6584bac2c6869ff77feaece2-Heura al horno con verduras asadas.jpg",
+  "localCard": "/pdf/6584bac2c6869ff77feaece2-Heura al horno con verduras asadas.pdf"
+}

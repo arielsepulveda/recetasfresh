@@ -1,0 +1,747 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": "65d8b0f5e15fd4f7b093a48e",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pato-naranja-patatas-judias-verdes-65d8b0f5e15fd4f7b093a48e",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/677d53771a8cfa26226210f7-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6568470502bcfeab65559478",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-01-07T16:16:56+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "El pato a la naranja se popularizó gracias al chef francés Auguste Escoffier, quien lo incluyó en su famoso libro de cocina \"Le Guide Culinaire\". Sin embargo, la idea de combinar carne de pato con naranjas tiene antecedentes aún más antiguos, ya que las naranjas y las aves de caza eran ingredientes comunes en la cocina mediterránea durante siglos.",
+  "descriptionHTML": "<p>El pato a la naranja se popularizó gracias al chef francés Auguste Escoffier, quien lo incluyó en su famoso libro de cocina &quot;Le Guide Culinaire&quot;. Sin embargo, la idea de combinar carne de pato con naranjas tiene antecedentes aún más antiguos, ya que las naranjas y las aves de caza eran ingredientes comunes en la cocina mediterránea durante siglos.</p>",
+  "descriptionMarkdown": "El pato a la naranja se popularizó gracias al chef francés Auguste Escoffier, quien lo incluyó en su famoso libro de cocina \"Le Guide Culinaire\". Sin embargo, la idea de combinar carne de pato con naranjas tiene antecedentes aún más antiguos, ya que las naranjas y las aves de caza eran ingredientes comunes en la cocina mediterránea durante siglos.",
+  "difficulty": 1,
+  "favoritesCount": 25,
+  "headline": "con patatas al romero y judías verdes",
+  "id": "677d53771a8cfa26226210f7",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R16_W21_ES_ESSGD21023-2_edit_potatos_Main__9high-55992279.jpg",
+  "imagePath": "/image/HF_Y24_R16_W21_ES_ESSGD21023-2_edit_potatos_Main__9high-55992279.jpg",
+  "ingredients": [
+    {
+      "id": "64a7e18748c7b9302c331400",
+      "uuid": "46cca08f-f498-4c34-a420-52b8866fd658",
+      "name": "Magret de pato",
+      "type": "duck-fillet",
+      "slug": "magret-de-pato",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64a7e18748c7b9302c331400-2643c2d0.jpeg",
+      "imagePath": "/ingredient/64a7e18748c7b9302c331400-2643c2d0.jpeg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64a7e18748c7b9302c331400-Magret de pato.jpeg"
+    },
+    {
+      "id": "654126592fab1d7bab119d5a",
+      "uuid": "806a2c73-d87d-5928-a69e-d1cae810a897",
+      "name": "Naranja",
+      "type": "orange",
+      "slug": "naranja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/654126592fab1d7bab119d5a-b3b75ea1.png",
+      "imagePath": "/ingredient/654126592fab1d7bab119d5a-b3b75ea1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/654126592fab1d7bab119d5a-Naranja.png"
+    },
+    {
+      "id": "63404377233160a36674ba20",
+      "uuid": "040eb90c-dd30-595f-9558-4c6ff3d179ea",
+      "name": "Romero",
+      "type": "rosemary",
+      "slug": "romero",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba20-88a98239.png",
+      "imagePath": "/ingredient/63404377233160a36674ba20-88a98239.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba20-Romero.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63da221bdb1fd0bc84bb9736",
+      "uuid": "ba743c71-aa0e-56f6-9a65-1dc7cd42dbb5",
+      "name": "Almendras laminadas",
+      "type": "flaked-almonds",
+      "slug": "almendras-laminadas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da221bdb1fd0bc84bb9736-bc41fdd0.png",
+      "imagePath": "/ingredient/63da221bdb1fd0bc84bb9736-bc41fdd0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da221bdb1fd0bc84bb9736-Almendras laminadas.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "65030faa270f68660e1a8c50",
+      "uuid": "45a2cf71-9f91-4985-9a59-b35c04a0af37",
+      "name": "Judías verdes",
+      "type": "round-green-beans",
+      "slug": "judias-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65030faa270f68660e1a8c50-d22f5c78.png",
+      "imagePath": "/ingredient/65030faa270f68660e1a8c50-d22f5c78.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65030faa270f68660e1a8c50-Judías verdes.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Corte gourmet",
+    "handle": "steak-night",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#3c454a",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/677d53771a8cfa26226210f7",
+  "name": "Pato a la naranja",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2866,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 685,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 31.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 2.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 64,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 8.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 38.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.57,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 17,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 633,
+  "slug": "pato-a-la-naranja",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Deshoja y pica la mitad del romero (doble para 4p). Corta las patatas en dados de 2-3 cm y colócalas en una bandeja de horno con papel de horno. Agrega encima el romero y un chorrito de aceite. Salpimienta y mezcla. Hornea a media altura 20-25 min, removiendo a mitad de cocción.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Deshoja y pica la mitad del <strong>romero</strong> (doble para 4p). Corta las <strong>patatas</strong> en dados de 2-3 cm y colócalas en una bandeja de horno con papel de horno. Agrega encima el <strong>romero</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y mezcla. Hornea a media altura 20-25 min, removiendo a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Deshoja y pica la mitad del <strong>romero</strong> (doble para 4p). Corta las <strong>patatas</strong> en dados de 2-3 cm y colócalas en una bandeja de horno con papel de horno. Agrega encima el <strong>romero</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y mezcla. Hornea a media altura 20-25 min, removiendo a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53771a8cfa26226210f7/step-b74b4600.jpg",
+          "path": "/677d53771a8cfa26226210f7/step-b74b4600.jpg",
+          "caption": "Hornea las patatas",
+          "localImage": "/images/recipes/677d53771a8cfa26226210f7-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Calienta una sartén a fuego medio sin aceite. Tuesta las almendras 1-2 min, mientras remueves, hasta que se doren. Retira y reserva. Pela la cebolla, divídela en dos y córtala en daditos pequeños. Retira la punta de las judías verdes.",
+      "instructionsHTML": "<p>Calienta una sartén a fuego medio sin aceite. Tuesta las <strong>almendras</strong> 1-2 min, mientras remueves, hasta que se doren. Retira y reserva. Pela la <strong>cebolla</strong>, divídela en dos y córtala en daditos pequeños. Retira la punta de las <strong>judías verdes</strong>.</p>",
+      "instructionsMarkdown": "<p>Calienta una sartén a fuego medio sin aceite. Tuesta las <strong>almendras</strong> 1-2 min, mientras remueves, hasta que se doren. Retira y reserva. Pela la <strong>cebolla</strong>, divídela en dos y córtala en daditos pequeños. Retira la punta de las <strong>judías verdes</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53771a8cfa26226210f7/step-1ce22110.jpg",
+          "path": "/677d53771a8cfa26226210f7/step-1ce22110.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/677d53771a8cfa26226210f7-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la sartén, calienta un chorrito de aceite a fuego medio. Agrega la cebolla y sal y cocina 4-5 min, removiendo, hasta que quede transparente. Luego, reserva la mitad de la cebolla cocinada en un bol. En la sartén con la cebolla restante, agrega las judías verdes, salpimienta y cocina a fuego alto 1-2 min. Agrega un chorrito de agua, tapa la sartén y cocina 4-5 min a fuego medio. Luego, retira de la sartén y reserva.",
+      "instructionsHTML": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla </strong>y <strong>sal</strong> y cocina 4-5 min, removiendo, hasta que quede transparente. Luego, reserva la mitad de la <strong>cebolla</strong> cocinada en un bol. En la sartén con la <strong>cebolla</strong> restante, agrega las <strong>judías verdes</strong>, <strong>salpimienta</strong> y cocina a fuego alto 1-2 min. Agrega un chorrito de <strong>agua</strong>, tapa la sartén y cocina 4-5 min a fuego medio. Luego, retira de la sartén y reserva.</p>",
+      "instructionsMarkdown": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla </strong>y <strong>sal</strong> y cocina 4-5 min, removiendo, hasta que quede transparente. Luego, reserva la mitad de la <strong>cebolla</strong> cocinada en un bol. En la sartén con la <strong>cebolla</strong> restante, agrega las <strong>judías verdes</strong>, <strong>salpimienta</strong> y cocina a fuego alto 1-2 min. Agrega un chorrito de <strong>agua</strong>, tapa la sartén y cocina 4-5 min a fuego medio. Luego, retira de la sartén y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53771a8cfa26226210f7/step-b231fb20.jpg",
+          "path": "/677d53771a8cfa26226210f7/step-b231fb20.jpg",
+          "caption": "Saltea las verduras",
+          "localImage": "/images/recipes/677d53771a8cfa26226210f7-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Haz cortes diagonales en ambas direcciones sobre la piel del pato. Calienta la sartén a fuego medio-alto sin aceite. Cocina el pato 2-3 min por la parte de la piel y 1 min más por la otra parte. Coloca el pato con la piel hacia arriba en una fuente para horno y salpimienta. Pon la fuente sobre la bandeja de horno, junto a las patatas, y hornea 10-12 min.\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>Haz cortes diagonales en ambas direcciones sobre la piel del <strong>pato</strong>. Calienta la sartén a fuego medio-alto sin aceite. Cocina el <strong>pato</strong> 2-3 min por la parte de la piel y 1 min más por la otra parte. Coloca el <strong>pato</strong> con la piel hacia arriba en una fuente para horno y <strong>salpimienta</strong>. Pon la fuente sobre la bandeja de horno, junto a las <strong>patatas</strong>, y hornea 10-12 min.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>Haz cortes diagonales en ambas direcciones sobre la piel del <strong>pato</strong>. Calienta la sartén a fuego medio-alto sin aceite. Cocina el <strong>pato</strong> 2-3 min por la parte de la piel y 1 min más por la otra parte. Coloca el <strong>pato</strong> con la piel hacia arriba en una fuente para horno y <strong>salpimienta</strong>. Pon la fuente sobre la bandeja de horno, junto a las <strong>patatas</strong>, y hornea 10-12 min.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53771a8cfa26226210f7/step-ca3faa30.jpg",
+          "path": "/677d53771a8cfa26226210f7/step-ca3faa30.jpg",
+          "caption": "Cocina el pato",
+          "localImage": "/images/recipes/677d53771a8cfa26226210f7-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Ralla la piel de la naranja. Retira el exceso de grasa de la sartén, luego, agrega la cebolla reservada, el zumo de la naranja, el caldo de pollo en polvo, el azúcar y el agua (ver cantidad en ingredientes de ambos). Lleva a ebullición, luego, cocina 2 min a fuego medio-alto, hasta que la salsa se reduzca. Retira la sartén del fuego y agrega ralladura de naranja al gusto. Prueba y rectifica de sal y pimienta.",
+      "instructionsHTML": "<p>Ralla la piel de la <strong>naranja</strong>. Retira el exceso de grasa de la sartén, luego, agrega la <strong>cebolla</strong> reservada, el zumo de la <strong>naranja</strong>, el <strong>caldo de pollo</strong> en polvo, el <strong>azúcar</strong> y el <strong>agua</strong> (ver cantidad en ingredientes de ambos). Lleva a ebullición, luego, cocina 2 min a fuego medio-alto, hasta que la <strong>salsa</strong> se reduzca. Retira la sartén del fuego y agrega <strong>ralladura de naranja</strong> al gusto. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "instructionsMarkdown": "<p>Ralla la piel de la <strong>naranja</strong>. Retira el exceso de grasa de la sartén, luego, agrega la <strong>cebolla</strong> reservada, el zumo de la <strong>naranja</strong>, el <strong>caldo de pollo</strong> en polvo, el <strong>azúcar</strong> y el <strong>agua</strong> (ver cantidad en ingredientes de ambos). Lleva a ebullición, luego, cocina 2 min a fuego medio-alto, hasta que la <strong>salsa</strong> se reduzca. Retira la sartén del fuego y agrega <strong>ralladura de naranja</strong> al gusto. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53771a8cfa26226210f7/step-0e343540.jpg",
+          "path": "/677d53771a8cfa26226210f7/step-0e343540.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/677d53771a8cfa26226210f7-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Cuando el magret de pato esté listo, córtalo en tiras de 1-2 cm de grosor y sírvelo en un lado de los platos. Agrega sal al gusto sobre el pato. Al otro lado del plato, sirve las patatas al romero y las judías verdes con cebolla, por separado. Acaba el plato agregando la salsa de naranja sobre el pato y las almendras tostadas.",
+      "instructionsHTML": "<p>Cuando el <strong>magret de pato</strong> esté listo, córtalo en tiras de 1-2 cm de grosor y sírvelo en un lado de los platos. Agrega <strong>sal</strong> al gusto sobre el <strong>pato</strong>. Al otro lado del plato, sirve las <strong>patatas al romero</strong> y las <strong>judías verdes</strong> con<strong> cebolla</strong>, por separado. Acaba el plato agregando la <strong>salsa de naranja</strong> sobre el <strong>pato</strong> y las <strong>almendras</strong> tostadas.</p>",
+      "instructionsMarkdown": "<p>Cuando el <strong>magret de pato</strong> esté listo, córtalo en tiras de 1-2 cm de grosor y sírvelo en un lado de los platos. Agrega <strong>sal</strong> al gusto sobre el <strong>pato</strong>. Al otro lado del plato, sirve las <strong>patatas al romero</strong> y las <strong>judías verdes</strong> con<strong> cebolla</strong>, por separado. Acaba el plato agregando la <strong>salsa de naranja</strong> sobre el <strong>pato</strong> y las <strong>almendras</strong> tostadas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d53771a8cfa26226210f7/step-bd48e350.jpg",
+          "path": "/677d53771a8cfa26226210f7/step-bd48e350.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/677d53771a8cfa26226210f7-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESSGD21023-5",
+  "updatedAt": "2026-01-21T14:00:33+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    }
+  ],
+  "uuid": "f119056a-b761-4cd8-8473-3f7e8fcf3415",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pato-a-la-naranja-677d53771a8cfa26226210f7",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "64a7e18748c7b9302c331400",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "654126592fab1d7bab119d5a",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63da221bdb1fd0bc84bb9736",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "65030faa270f68660e1a8c50",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 30,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "64a7e18748c7b9302c331400",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "654126592fab1d7bab119d5a",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63da221bdb1fd0bc84bb9736",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "65030faa270f68660e1a8c50",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 60,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/677d53771a8cfa26226210f7-Pato a la naranja.jpg",
+  "localCard": "/pdf/677d53771a8cfa26226210f7-Pato a la naranja.pdf"
+}

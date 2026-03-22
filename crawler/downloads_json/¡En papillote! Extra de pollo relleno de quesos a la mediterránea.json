@@ -1,0 +1,619 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "681b7e5d818d9f25cca81ebb",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-en-papillot-relleno-de-queso-con-verduras-al-horno-681b7e5d818d9f25cca81ebb",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "6939975fdce6a2dc39a7b9a7",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-17T17:15:21+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterránea ",
+      "slug": "mediterranea ",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg"
+    }
+  ],
+  "description": "El papillote es una técnica francesa que envuelve los alimentos en papel de horno, cocinándolos en su propio vapor. Nació en el siglo XIX con el auge de la cocina saludable, preservando sabores y nutrientes. Su éxito radica en la simplicidad y el aroma que se libera al abrir el paquete en la mesa.",
+  "descriptionHTML": "<p>El papillote es una técnica francesa que envuelve los alimentos en papel de horno, cocinándolos en su propio vapor. Nació en el siglo XIX con el auge de la cocina saludable, preservando sabores y nutrientes. Su éxito radica en la simplicidad y el aroma que se libera al abrir el paquete en la mesa.</p>",
+  "descriptionMarkdown": "El papillote es una técnica francesa que envuelve los alimentos en papel de horno, cocinándolos en su propio vapor. Nació en el siglo XIX con el auge de la cocina saludable, preservando sabores y nutrientes. Su éxito radica en la simplicidad y el aroma que se libera al abrir el paquete en la mesa.",
+  "difficulty": 2,
+  "favoritesCount": 0,
+  "headline": "con patatas, zanahoria y calabacín asados",
+  "id": "6942e5281101204cae7566c0",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R17_W04_ES_ESCFC44428-8_Main_high-7463c30e.jpg",
+  "imagePath": "/image/HF_Y26_R17_W04_ES_ESCFC44428-8_Main_high-7463c30e.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "63404373233160a36674ba0e",
+      "uuid": "acaf37ce-a5ff-5a2d-bf8b-c1bd51eb83ba",
+      "name": "Especias mediterráneas",
+      "type": "mediterranean-spice-mix",
+      "slug": "especias-mediterraneas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0e-3aaa1fde.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0e-3aaa1fde.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0e-Especias mediterráneas.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6942e5281101204cae7566c0",
+  "name": "¡En papillote! Extra de pollo relleno de quesos a la mediterránea",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2986,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 714,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 28.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 49.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 77.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.02,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT45M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 727,
+  "slug": "en-papillote-extra-de-pollo-relleno-de-quesos-a-la-mediterranea",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nPela la zanahoria y córtala por la mitad a lo largo. Corta en medias lunas finas.\nCorta las patatas en gajos de 1-2 cm de grosor.\nRetira los extremos del calabacín y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.\nEn un bol, mezcla el queso crema, el queso italiano y la mitad de las especias mediterráneas.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor.</li>\n<li>Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>En un bol, mezcla el <strong>queso crema,</strong> el <strong>queso italiano</strong> y la mitad de las <strong>especias mediterráneas.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor.</li>\n<li>Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>En un bol, mezcla el <strong>queso crema,</strong> el <strong>queso italiano</strong> y la mitad de las <strong>especias mediterráneas.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5281101204cae7566c0/step-0e619c00.jpeg",
+          "path": "/6942e5281101204cae7566c0/step-0e619c00.jpeg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/6942e5281101204cae7566c0-step-1-1.jpeg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nSalpimienta el pollo y cubre la superficie de la mitad de las pechugas con la mezcla de queso.\nColoca la pechuga restante encima, como si fuera un sandwich.\nEnvuelve el pollo en papel de horno, girando los extremos para que el pollo quede sellado en el interior, como un caramelo.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li><strong>Salpimienta</strong> el <strong>pollo</strong> y cubre la superficie de la mitad de las <strong>pechugas</strong> con la mezcla de <strong>queso</strong>.</li>\n<li>Coloca la <strong>pechuga</strong> restante encima, como si fuera un sandwich.</li>\n<li>Envuelve el <strong>pollo</strong> en papel de horno, girando los extremos para que el <strong>pollo</strong> quede sellado en el interior, como un caramelo.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li><strong>Salpimienta</strong> el <strong>pollo</strong> y cubre la superficie de la mitad de las <strong>pechugas</strong> con la mezcla de <strong>queso</strong>.</li>\n<li>Coloca la <strong>pechuga</strong> restante encima, como si fuera un sandwich.</li>\n<li>Envuelve el <strong>pollo</strong> en papel de horno, girando los extremos para que el <strong>pollo</strong> quede sellado en el interior, como un caramelo.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305377"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5281101204cae7566c0/step-218f7910.jpg",
+          "path": "/6942e5281101204cae7566c0/step-218f7910.jpg",
+          "caption": "Rellena el pollo",
+          "localImage": "/images/recipes/6942e5281101204cae7566c0-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nColoca el pollo envuelto en papel de horno en un lado de una bandeja de horno con papel de horno.\nColoca los vegetales al otro lado de la bandeja y adereza con las especias mediterráneas restantes, un chorrito de aceite, sal y pimienta.\nHornea a media altura 25-30 min o hasta que el pollo quede cocinado y los vegetales estén tiernos.\n",
+      "instructionsHTML": "<ul>\n<li>Coloca el <strong>pollo</strong> envuelto en papel de horno en un lado de una bandeja de horno con papel de horno.</li>\n<li>Coloca los <strong>vegetales</strong> al otro lado de la bandeja y adereza con las <strong>especias mediterráneas</strong> restantes, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Hornea a media altura 25-30 min o hasta que el <strong>pollo</strong> quede cocinado y los <strong>vegetales</strong> estén tiernos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca el <strong>pollo</strong> envuelto en papel de horno en un lado de una bandeja de horno con papel de horno.</li>\n<li>Coloca los <strong>vegetales</strong> al otro lado de la bandeja y adereza con las <strong>especias mediterráneas</strong> restantes, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Hornea a media altura 25-30 min o hasta que el <strong>pollo</strong> quede cocinado y los <strong>vegetales</strong> estén tiernos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5281101204cae7566c0/step-9509b220.jpg",
+          "path": "/6942e5281101204cae7566c0/step-9509b220.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/6942e5281101204cae7566c0-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCuando esté listo, saca el pollo del papel de horno y divide por la mitad a lo ancho, de manera que quede una porción por persona.\nColoca los vegetales asados en la base de los platos y sirve el pollo en papillote encima.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando esté listo, saca el <strong>pollo</strong> del papel de horno y divide por la mitad a lo ancho, de manera que quede una porción por persona.</li>\n<li>Coloca los <strong>vegetales</strong> asados en la base de los platos y sirve el <strong>pollo en papillote</strong> encima.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando esté listo, saca el <strong>pollo</strong> del papel de horno y divide por la mitad a lo ancho, de manera que quede una porción por persona.</li>\n<li>Coloca los <strong>vegetales</strong> asados en la base de los platos y sirve el <strong>pollo en papillote</strong> encima.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e5281101204cae7566c0/step-2d21e730.jpg",
+          "path": "/6942e5281101204cae7566c0/step-2d21e730.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/6942e5281101204cae7566c0-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "672238b3b9eda7328f4d5c45",
+      "type": "oven-only",
+      "name": "Solo horno",
+      "slug": "solo-horno",
+      "colorHandle": null,
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCFC44428-DP-2-9",
+  "updatedAt": "2026-03-03T08:53:00+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Papel de horno"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    }
+  ],
+  "uuid": "a1d97971-ef92-45c1-8ec2-fb2f9b346b9f",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/en-papillote-extra-de-pollo-relleno-de-quesos-a-la-mediterranea-6942e5281101204cae7566c0",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 4,
+          "unit": "paquete"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 8,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 6,
+          "unit": "paquete"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404373233160a36674ba0e",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6942e5281101204cae7566c0-¡En papillote! Extra de pollo relleno de quesos a la mediterránea.jpg"
+}

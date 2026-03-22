@@ -1,0 +1,733 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64788ad622f7f34e1f95d333.pdf",
+  "category": null,
+  "clonedFrom": "6347ef924eacd7e8b5e77c05",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-06-01T12:11:02+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "Atrévete a probar esta pizza con berenjena salteada, pimiento y el inconfundible sabor de la albahaca fresca, acompañada con una ensalada de tomate y rúcula. Todos sabemos que nunca es mal momento de disfrutar de este clásico italiano, así que no lo dudes y date un capricho.",
+  "descriptionHTML": "<p>Atrévete a probar esta pizza con berenjena salteada, pimiento y el inconfundible sabor de la albahaca fresca, acompañada con una ensalada de tomate y rúcula. Todos sabemos que nunca es mal momento de disfrutar de este clásico italiano, así que no lo dudes y date un capricho.</p>",
+  "descriptionMarkdown": "Atrévete a probar esta pizza con berenjena salteada, pimiento y el inconfundible sabor de la albahaca fresca, acompañada con una ensalada de tomate y rúcula. Todos sabemos que nunca es mal momento de disfrutar de este clásico italiano, así que no lo dudes y date un capricho.",
+  "difficulty": 1,
+  "favoritesCount": 22,
+  "headline": "acompañada de ensalada de rúcula y tomate",
+  "id": "64788ad622f7f34e1f95d333",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF210630_R10_W32_NL_Q0121-5_remove_basil_edit__Main_high-603274ad.jpg",
+  "imagePath": "/image/HF210630_R10_W32_NL_Q0121-5_remove_basil_edit__Main_high-603274ad.jpg",
+  "ingredients": [
+    {
+      "id": "6340436b2268bc1bff0d3c9f",
+      "uuid": "1fa6c253-440c-5c98-9e4b-65a57a89f8b1",
+      "name": "Berenjena",
+      "type": "aubergine",
+      "slug": "berenjena",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3c9f-Berenjena.png"
+    },
+    {
+      "id": "6340437a41033266d7be9537",
+      "uuid": "7c3fcc0d-d339-508a-96e6-082699b85d49",
+      "name": "Pimiento amarillo",
+      "type": "yellow-bell-pepper",
+      "slug": "pimiento-amarillo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9537-ee4ca1af.png",
+      "imagePath": "/ingredient/6340437a41033266d7be9537-ee4ca1af.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9537-Pimiento amarillo.png"
+    },
+    {
+      "id": "63497d88971d5eddb3ff71b3",
+      "uuid": "1f16402c-d087-4303-9cb9-ce2dbbb436f6",
+      "name": "Mozzarella italiana",
+      "type": "mozzarella-cheese",
+      "slug": "mozzarella-italiana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b3-85a8c761.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b3-85a8c761.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b3-Mozzarella italiana.png"
+    },
+    {
+      "id": "6340436f41033266d7be9512",
+      "uuid": "ecae5103-44da-5d53-a901-8a34d154b23d",
+      "name": "Tomate triturado",
+      "type": "crushed-tomatoes",
+      "slug": "tomate-triturado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9512-Tomate triturado.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "6340437241033266d7be951c",
+      "uuid": "ae916f80-2cef-5a50-bd6f-0034f3a60852",
+      "name": "Especias italianas",
+      "type": "italian-style-spice-mix",
+      "slug": "especias-italianas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437241033266d7be951c-daa3d0e7.png",
+      "imagePath": "/ingredient/6340437241033266d7be951c-daa3d0e7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437241033266d7be951c-Especias italianas.png"
+    },
+    {
+      "id": "63497d88971d5eddb3ff71b2",
+      "uuid": "ca2eb932-2be6-58fe-9c2b-05bd27036489",
+      "name": "Base de pizza",
+      "type": "pizza-bases",
+      "slug": "base-de-pizza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b2-Base de pizza.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/64788ad622f7f34e1f95d333",
+  "name": "Pizza de berenjena y pimiento",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 777,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3251,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 18.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 10.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 95.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 14.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 27.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.22,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 21,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 610,
+  "slug": "pizza-de-berenjena-y-pimiento",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 200ºC. Corta la berenjena en rodajas de 0,5-1 cm. Corta el pimiento por la mitad y quítale las semillas. Córtalo en tiras finas de 0,5 cm de grosor. Pela y pica finamente el ajo (ver cantidad en ingredientes). Escurre la mozzarella y desmenuza con las manos en trozos grandes.",
+      "instructionsHTML": "<p>Precalienta el horno a 200ºC. Corta la <strong>berenjena</strong> en rodajas de 0,5-1 cm. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en tiras finas de 0,5 cm de grosor. Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes). Escurre la <strong>mozzarella</strong> y desmenuza con las manos en trozos grandes.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 200ºC. Corta la <strong>berenjena</strong> en rodajas de 0,5-1 cm. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en tiras finas de 0,5 cm de grosor. Pela y pica finamente el <strong>ajo</strong> (ver cantidad en ingredientes). Escurre la <strong>mozzarella</strong> y desmenuza con las manos en trozos grandes.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad622f7f34e1f95d333/step-ae4de200.jpg",
+          "path": "/64788ad622f7f34e1f95d333/step-ae4de200.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/64788ad622f7f34e1f95d333-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén, calienta un chorrito de aceite a fuego medio. Añade una pizca de sal sobre las rodajas de berenjena y agrega a la sartén. Cocina 3-4 min por lado, hasta que se doren y ablanden. Retira de la sartén y reserva.",
+      "instructionsHTML": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Añade una pizca de <strong>sal</strong> sobre las rodajas de <strong>berenjena</strong> y agrega a la sartén. Cocina 3-4 min por lado, hasta que se doren y ablanden. Retira de la sartén y reserva.</p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Añade una pizca de <strong>sal</strong> sobre las rodajas de <strong>berenjena</strong> y agrega a la sartén. Cocina 3-4 min por lado, hasta que se doren y ablanden. Retira de la sartén y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad622f7f34e1f95d333/step-16e9a810.jpg",
+          "path": "/64788ad622f7f34e1f95d333/step-16e9a810.jpg",
+          "caption": "Cocina la berenjena",
+          "localImage": "/images/recipes/64788ad622f7f34e1f95d333-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la mitad del tomate triturado (doble para 4p) y las especias italianas y cocina 5-6 min con la sartén tapada, hasta que la salsa espese.",
+      "instructionsHTML": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la mitad del <strong>tomate triturado</strong> (doble para 4p) y las <strong>especias italianas</strong> y cocina 5-6 min con la sartén tapada, hasta que la <strong>salsa</strong> espese.</p>",
+      "instructionsMarkdown": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la mitad del <strong>tomate triturado</strong> (doble para 4p) y las <strong>especias italianas</strong> y cocina 5-6 min con la sartén tapada, hasta que la <strong>salsa</strong> espese.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad622f7f34e1f95d333/step-7054a520.jpg",
+          "path": "/64788ad622f7f34e1f95d333/step-7054a520.jpg",
+          "caption": "Prepara la salsa de tomate",
+          "localImage": "/images/recipes/64788ad622f7f34e1f95d333-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Coloca las bases de pizza en una bandeja de horno con papel de horno y esparce la salsa de tomate sobre cada pizza con ayuda de una cuchara, dejando 1 cm del borde sin cubrir. Agrega sobre las pizzas la berenjena salteada, el pimiento a tiras y la mozzarella. Salpimienta al gusto y hornea 15-20 min o hasta que estén doradas.",
+      "instructionsHTML": "<p>Coloca las <strong>bases de pizza</strong> en una bandeja de horno con papel de horno y esparce la <strong>salsa de tomate</strong> sobre cada <strong>pizza</strong> con ayuda de una cuchara, dejando 1 cm del borde sin cubrir. Agrega sobre las <strong>pizzas</strong> la <strong>berenjena salteada</strong>, el <strong>pimiento</strong> a tiras y la <strong>mozzarella</strong>. <strong>Salpimienta</strong> al gusto y hornea 15-20 min o hasta que estén doradas.</p>",
+      "instructionsMarkdown": "<p>Coloca las <strong>bases de pizza</strong> en una bandeja de horno con papel de horno y esparce la <strong>salsa de tomate</strong> sobre cada <strong>pizza</strong> con ayuda de una cuchara, dejando 1 cm del borde sin cubrir. Agrega sobre las <strong>pizzas</strong> la <strong>berenjena salteada</strong>, el <strong>pimiento</strong> a tiras y la <strong>mozzarella</strong>. <strong>Salpimienta</strong> al gusto y hornea 15-20 min o hasta que estén doradas.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad622f7f34e1f95d333/step-3f55a530.jpg",
+          "path": "/64788ad622f7f34e1f95d333/step-3f55a530.jpg",
+          "caption": "Agrega los ingredientes y hornea",
+          "localImage": "/images/recipes/64788ad622f7f34e1f95d333-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Corta el tomate por la mitad, luego, apoya la parte plana y corta cada mitad en 4 gajos. En una ensaladera, agrega el vinagre balsámico y un chorrito de aceite. Justo antes de servir, agrega la rúcula y el tomate a gajos. Salpimienta y mezcla bien. ",
+      "instructionsHTML": "<p>Corta el <strong>tomate</strong> por la mitad, luego, apoya la parte plana y corta cada mitad en 4 gajos. En una ensaladera, agrega el <strong>vinagre balsámico</strong> y un chorrito de <strong>aceite</strong>. Justo antes de servir, agrega la <strong>rúcula</strong> y el <strong>tomate</strong> a gajos. <strong>Salpimienta</strong> y mezcla bien. </p>",
+      "instructionsMarkdown": "<p>Corta el <strong>tomate</strong> por la mitad, luego, apoya la parte plana y corta cada mitad en 4 gajos. En una ensaladera, agrega el <strong>vinagre balsámico</strong> y un chorrito de <strong>aceite</strong>. Justo antes de servir, agrega la <strong>rúcula</strong> y el <strong>tomate</strong> a gajos. <strong>Salpimienta</strong> y mezcla bien. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad622f7f34e1f95d333/step-88c9ae40.jpg",
+          "path": "/64788ad622f7f34e1f95d333/step-88c9ae40.jpg",
+          "caption": "Prepara la ensalada",
+          "localImage": "/images/recipes/64788ad622f7f34e1f95d333-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Cuando las pizzas de berenjena y pimiento estén listas, sírvelas en platos y acompaña con la ensalada.",
+      "instructionsHTML": "<p>Cuando las <strong>pizzas de berenjena y pimiento</strong> estén listas, sírvelas en platos y acompaña con la <strong>ensalada</strong>.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>pizzas de berenjena y pimiento</strong> estén listas, sírvelas en platos y acompaña con la <strong>ensalada</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad622f7f34e1f95d333/step-7be68950.jpg",
+          "path": "/64788ad622f7f34e1f95d333/step-7be68950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/64788ad622f7f34e1f95d333-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCVV0109-3",
+  "updatedAt": "2025-11-19T17:59:13+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "683b417b-99dc-4019-8381-cfc06681f181",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pizza-de-berenjena-y-pimiento-64788ad622f7f34e1f95d333",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a41033266d7be9537",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b3",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437241033266d7be951c",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a41033266d7be9537",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b3",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437241033266d7be951c",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64788ad622f7f34e1f95d333-Pizza de berenjena y pimiento.jpg",
+  "localCard": "/pdf/64788ad622f7f34e1f95d333-Pizza de berenjena y pimiento.pdf"
+}

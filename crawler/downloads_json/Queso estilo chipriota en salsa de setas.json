@@ -1,0 +1,589 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 2.7,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64c0fa59a1aa6db20ea12a12.pdf",
+  "category": null,
+  "clonedFrom": "6349782febf08332f1bff18b",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-07-26T10:50:01+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Atrévete a probar esta receta para amantes de las setas y del particular queso estilo chipriota, un ingrediente adictivo por su sabor salado y su textura diferencial. Acompañado con patatas al horno, podrás disfrutar de un plato completo, lleno de sabor y apto para vegetarianos.",
+  "descriptionHTML": "<p>Atrévete a probar esta receta para amantes de las setas y del particular queso estilo chipriota, un ingrediente adictivo por su sabor salado y su textura diferencial. Acompañado con patatas al horno, podrás disfrutar de un plato completo, lleno de sabor y apto para vegetarianos.</p>",
+  "descriptionMarkdown": "Atrévete a probar esta receta para amantes de las setas y del particular queso estilo chipriota, un ingrediente adictivo por su sabor salado y su textura diferencial. Acompañado con patatas al horno, podrás disfrutar de un plato completo, lleno de sabor y apto para vegetarianos.",
+  "difficulty": 1,
+  "favoritesCount": 9,
+  "headline": "acompañado de patatas al horno",
+  "id": "64c0fa59a1aa6db20ea12a12",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R08_W21_ES_ESVV0197-113381-2_Main_4Remove_chives_edit_high-b686c897.jpg",
+  "imagePath": "/image/HF_Y23_R08_W21_ES_ESVV0197-113381-2_Main_4Remove_chives_edit_high-b686c897.jpg",
+  "ingredients": [
+    {
+      "id": "6340437141033266d7be9519",
+      "uuid": "d2e5fa55-596e-4c1c-9284-209ef34a844b",
+      "name": "Queso estilo chipriota",
+      "type": "grill-cheese",
+      "slug": "queso-estilo-chipriota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be9519-79039dfb.png",
+      "imagePath": "/ingredient/6340437141033266d7be9519-79039dfb.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be9519-Queso estilo chipriota.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f7",
+      "uuid": "0c719142-be77-4ddd-94a0-b6219698b827",
+      "name": "Champiñones",
+      "type": "champignon-mushrooms",
+      "slug": "champinones",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f7-Champiñones.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/64c0fa59a1aa6db20ea12a12",
+  "name": "Queso estilo chipriota en salsa de setas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 825,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3452,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 40.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 26.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 52.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 30.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.54,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 10,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 625,
+  "slug": "queso-estilo-chipriota-en-salsa-de-setas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las patatas por la mitad a lo largo, luego, corta en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de aceite, sal y pimienta. Mezcla para que las patatas queden bien aderezadas. Hornea durante 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las <strong>patatas</strong> por la mitad a lo largo, luego, corta en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite,</strong> <strong>sal</strong> y <strong>pimienta</strong>. Mezcla para que las <strong>patatas</strong> queden bien aderezadas. Hornea durante 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las <strong>patatas</strong> por la mitad a lo largo, luego, corta en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite,</strong> <strong>sal</strong> y <strong>pimienta</strong>. Mezcla para que las <strong>patatas</strong> queden bien aderezadas. Hornea durante 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa59a1aa6db20ea12a12/step-dfa40000.jpg",
+          "path": "/64c0fa59a1aa6db20ea12a12/step-dfa40000.jpg",
+          "caption": "Hornea las patatas",
+          "localImage": "/images/recipes/64c0fa59a1aa6db20ea12a12-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela y pica el ajo (ver cantidad en ingredientes). Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en tiras finas. En una sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la cebolla y una pizca de sal. Cocínala, removiendo regularmente, unos 8-10 min. Añade el azúcar (ver cantidad en ingredientes) y cocina durante 1-2 min, hasta que la cebolla se haya caramelizado.",
+      "instructionsHTML": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong>. Cocínala, removiendo regularmente, unos 8-10 min. Añade el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina durante 1-2 min, hasta que la <strong>cebolla</strong> se haya caramelizado.</p>",
+      "instructionsMarkdown": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong>. Cocínala, removiendo regularmente, unos 8-10 min. Añade el <strong>azúcar</strong> (ver cantidad en ingredientes) y cocina durante 1-2 min, hasta que la <strong>cebolla</strong> se haya caramelizado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa59a1aa6db20ea12a12/step-db318010.jpg",
+          "path": "/64c0fa59a1aa6db20ea12a12/step-db318010.jpg",
+          "caption": "Carameliza la cebolla",
+          "localImage": "/images/recipes/64c0fa59a1aa6db20ea12a12-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Limpia los champiñones con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los champiñones. Luego, córtalos por la mitad y haz láminas finas. En la sartén con la cebolla, agrega los champiñones y cocina a fuego medio-alto durante 3-4 min. Luego, agrega la nata líquida y cocina 2-3 min, hasta que se reduzca ligeramente. Salpimienta al gusto.",
+      "instructionsHTML": "<p>Limpia los <strong>champiñones</strong> con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los <strong>champiñones</strong>. Luego, córtalos por la mitad y haz láminas finas. En la sartén con la <strong>cebolla</strong>, agrega los <strong>champiñones</strong> y cocina a fuego medio-alto durante 3-4 min. Luego, agrega la <strong>nata líquida</strong> y cocina 2-3 min, hasta que se reduzca ligeramente. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Limpia los <strong>champiñones</strong> con la ayuda de un paño húmedo. Retira y desecha el extremo del pie de los <strong>champiñones</strong>. Luego, córtalos por la mitad y haz láminas finas. En la sartén con la <strong>cebolla</strong>, agrega los <strong>champiñones</strong> y cocina a fuego medio-alto durante 3-4 min. Luego, agrega la <strong>nata líquida</strong> y cocina 2-3 min, hasta que se reduzca ligeramente. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa59a1aa6db20ea12a12/step-3bcabc20.jpg",
+          "path": "/64c0fa59a1aa6db20ea12a12/step-3bcabc20.jpg",
+          "caption": "Prepara y cocina los champiñones",
+          "localImage": "/images/recipes/64c0fa59a1aa6db20ea12a12-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Seca el queso estilo chipriota con papel de cocina. Luego, córtalo en bastones de 1-2 cm de grosor. En una sartén antiadherente, calienta un chorrito de aceite a fuego medio. Agrega el queso estilo chipriota y cocina 2 min por lado, hasta que se dore.",
+      "instructionsHTML": "<p>Seca el <strong>queso estilo chipriota</strong> con papel de cocina. Luego, córtalo en bastones de 1-2 cm de grosor. En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>queso estilo chipriota</strong> y cocina 2 min por lado, hasta que se dore.</p>",
+      "instructionsMarkdown": "<p>Seca el <strong>queso estilo chipriota</strong> con papel de cocina. Luego, córtalo en bastones de 1-2 cm de grosor. En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>queso estilo chipriota</strong> y cocina 2 min por lado, hasta que se dore.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa59a1aa6db20ea12a12/step-812cd630.jpg",
+          "path": "/64c0fa59a1aa6db20ea12a12/step-812cd630.jpg",
+          "caption": "Cocina el queso estilo chipriota",
+          "localImage": "/images/recipes/64c0fa59a1aa6db20ea12a12-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Agrega el queso estilo chipriota a la sartén con la salsa de champiñones y remueve bien para combinar.",
+      "instructionsHTML": "<p>Agrega el <strong>queso estilo chipriota</strong> a la sartén con la <strong>salsa de champiñones</strong> y remueve bien para combinar.</p>",
+      "instructionsMarkdown": "<p>Agrega el <strong>queso estilo chipriota</strong> a la sartén con la <strong>salsa de champiñones</strong> y remueve bien para combinar.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa59a1aa6db20ea12a12/step-953c9340.jpg",
+          "path": "/64c0fa59a1aa6db20ea12a12/step-953c9340.jpg",
+          "caption": "Combina el queso y la salsa",
+          "localImage": "/images/recipes/64c0fa59a1aa6db20ea12a12-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve las patatas al horno a un lado del plato y agrega el queso estilo chipriota con la salsa cremosa de champiñones al otro lado.",
+      "instructionsHTML": "<p>Sirve las <strong>patatas</strong> al horno a un lado del plato y agrega el <strong>queso estilo chipriota</strong> con la <strong>salsa cremosa de</strong> <strong>champiñones</strong> al otro lado.</p>",
+      "instructionsMarkdown": "<p>Sirve las <strong>patatas</strong> al horno a un lado del plato y agrega el <strong>queso estilo chipriota</strong> con la <strong>salsa cremosa de</strong> <strong>champiñones</strong> al otro lado.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c0fa59a1aa6db20ea12a12/step-ac228850.jpg",
+          "path": "/64c0fa59a1aa6db20ea12a12/step-ac228850.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/64c0fa59a1aa6db20ea12a12-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESVV0197-113381-3",
+  "updatedAt": "2026-01-21T13:59:50+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    }
+  ],
+  "uuid": "261c17bf-429d-4bb4-bab8-3c693d01637c",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/queso-estilo-chipriota-en-salsa-de-setas-64c0fa59a1aa6db20ea12a12",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437141033266d7be9519",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437141033266d7be9519",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64c0fa59a1aa6db20ea12a12-Queso estilo chipriota en salsa de setas.jpg",
+  "localCard": "/pdf/64c0fa59a1aa6db20ea12a12-Queso estilo chipriota en salsa de setas.pdf"
+}

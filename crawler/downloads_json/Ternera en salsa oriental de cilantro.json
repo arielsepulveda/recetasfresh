@@ -1,0 +1,725 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64788ae622f7f34e1f95d339.pdf",
+  "category": null,
+  "clonedFrom": "645d123bb44d4cdf028dea1c",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-06-01T12:11:18+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "Si estabas buscando una receta de inspiración asiática en la que haya un toque diferente y original, lo que nosotros llamamos \"el toque HelloFresh\", no dudes en escoger esta receta. Te ofrecemos que prepares una salsa oriental de cilantro para aderezar la carne de ternera con verduras y que lo disfrutes acompañándolo de arroz basmati.",
+  "descriptionHTML": "<p>Si estabas buscando una receta de inspiración asiática en la que haya un toque diferente y original, lo que nosotros llamamos &quot;el toque HelloFresh&quot;, no dudes en escoger esta receta. Te ofrecemos que prepares una salsa oriental de cilantro para aderezar la carne de ternera con verduras y que lo disfrutes acompañándolo de arroz basmati.</p>",
+  "descriptionMarkdown": "Si estabas buscando una receta de inspiración asiática en la que haya un toque diferente y original, lo que nosotros llamamos \"el toque HelloFresh\", no dudes en escoger esta receta. Te ofrecemos que prepares una salsa oriental de cilantro para aderezar la carne de ternera con verduras y que lo disfrutes acompañándolo de arroz basmati.",
+  "difficulty": 1,
+  "favoritesCount": 24,
+  "headline": "con verduras sobre arroz basmati",
+  "id": "64788ae622f7f34e1f95d339",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R06_W36_ES_ESCFM16525-2_switch_garnish_Main_1_high-cc937d3a.jpg",
+  "imagePath": "/image/HF_Y23_R06_W36_ES_ESCFM16525-2_switch_garnish_Main_1_high-cc937d3a.jpg",
+  "ingredients": [
+    {
+      "id": "636ee2296875fac468eeb9ce",
+      "uuid": "b2d33c6c-dcf6-5212-8de8-f75bd59d77c0",
+      "name": "Carne de ternera y cerdo picada",
+      "type": "mixed-mince-pork-beef",
+      "slug": "carne-de-ternera-y-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636ee2296875fac468eeb9ce-f949fe5e.png",
+      "imagePath": "/ingredient/636ee2296875fac468eeb9ce-f949fe5e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636ee2296875fac468eeb9ce-Carne de ternera y cerdo picada.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "6340437b233160a36674ba30",
+      "uuid": "e20d37da-83ce-490d-aeae-12ac9d3aa296",
+      "name": "Pimiento verde italiano",
+      "type": "pointed-bell-pepper-green",
+      "slug": "pimiento-verde-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "imagePath": "/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b233160a36674ba30-Pimiento verde italiano.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63be6f11bc0b80106b4671d1",
+      "uuid": "24b03259-ca4b-5338-bf7a-132e30d306ba",
+      "name": "Salsa de soja dulce",
+      "type": "ketjap-manis",
+      "slug": "salsa-de-soja-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63be6f11bc0b80106b4671d1-850a5056.png",
+      "imagePath": "/ingredient/63be6f11bc0b80106b4671d1-850a5056.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63be6f11bc0b80106b4671d1-Salsa de soja dulce.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/64788ae622f7f34e1f95d339",
+  "name": "Ternera en salsa oriental de cilantro",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2322,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 555,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 14.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 6.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 92.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 27.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.71,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 18,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 297,
+  "slug": "ternera-en-salsa-oriental-de-cilantro",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el agua para el arroz (ver cantidad en ingredientes), añade el arroz y sal al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el arroz con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ae622f7f34e1f95d339/step-8b894600.jpg",
+          "path": "/64788ae622f7f34e1f95d339/step-8b894600.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/64788ae622f7f34e1f95d339-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela y ralla el ajo (ver cantidad en ingredientes). Deshoja el cilantro y pica los tallos. Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. Corta el pimiento por la mitad y quítale las semillas. Luego, córtalo en dados de 1-2 cm.",
+      "instructionsHTML": "<p dir=\"ltr\"><span>Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Deshoja el <strong>cilantro</strong> y pica los tallos. Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en dados de 1-2 cm.</span></p>",
+      "instructionsMarkdown": "<p dir=\"ltr\"><span>Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Deshoja el <strong>cilantro</strong> y pica los tallos. Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en dados de 1-2 cm.</span></p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ae622f7f34e1f95d339/step-bd136410.jpg",
+          "path": "/64788ae622f7f34e1f95d339/step-bd136410.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/64788ae622f7f34e1f95d339-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una jarra medidora, agrega casi todas las hojas del cilantro, reservando algunas para el emplatado, y el agua para la salsa (ver cantidad en ingredientes). Con ayuda de un túrmix, tritura hasta que quede una salsa lisa.",
+      "instructionsHTML": "<p>En una jarra medidora, agrega casi todas las hojas del <strong>cilantro</strong>, reservando algunas para el emplatado, y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes). Con ayuda de un túrmix, tritura hasta que quede una <strong>salsa</strong> lisa.</p>",
+      "instructionsMarkdown": "<p>En una jarra medidora, agrega casi todas las hojas del <strong>cilantro</strong>, reservando algunas para el emplatado, y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes). Con ayuda de un túrmix, tritura hasta que quede una <strong>salsa</strong> lisa.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ae622f7f34e1f95d339/step-fbf17320.jpg",
+          "path": "/64788ae622f7f34e1f95d339/step-fbf17320.jpg",
+          "caption": "Prepara la salsa de cilantro",
+          "localImage": "/images/recipes/64788ae622f7f34e1f95d339-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En una sartén, agrega un chorrito de aceite junto con el ajo y los tallos de cilantro picados. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Luego, añade el pimiento y la cebolla y cocina todo junto 4-5 min, hasta que se ablanden.",
+      "instructionsHTML": "<p>En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y los <strong>tallos de cilantro</strong> picados. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Luego, añade el <strong>pimiento</strong> y la <strong>cebolla</strong> y cocina todo junto 4-5 min, hasta que se ablanden.</p>",
+      "instructionsMarkdown": "<p>En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y los <strong>tallos de cilantro</strong> picados. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Luego, añade el <strong>pimiento</strong> y la <strong>cebolla</strong> y cocina todo junto 4-5 min, hasta que se ablanden.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ae622f7f34e1f95d339/step-f466f630.jpg",
+          "path": "/64788ae622f7f34e1f95d339/step-f466f630.jpg",
+          "caption": "Saltea las verduras",
+          "localImage": "/images/recipes/64788ae622f7f34e1f95d339-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la sartén, agrega la carne picada y, con ayuda de una espátula, desmenúzala para que se cueza uniformemente. Salpimienta y cocina 4-5 min, hasta que se dore. Luego, agrega la salsa de soja dulce y un chorrito de agua, remueve y cocina 2 min. Añade la salsa de cilantro y cocina 1 min más, mientras remueves, para que los ingredientes se integren.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>En la sartén, agrega la <strong>carne</strong> <strong>picada</strong> y, con ayuda de una espátula, desmenúzala para que se cueza uniformemente. Salpimienta y cocina 4-5 min, hasta que se dore. Luego, agrega la <strong>salsa de soja dulce</strong> y un chorrito de <strong>agua</strong>, remueve y cocina 2 min. Añade la <strong>salsa de cilantro</strong> y cocina 1 min más, mientras remueves, para que los ingredientes se integren.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>En la sartén, agrega la <strong>carne</strong> <strong>picada</strong> y, con ayuda de una espátula, desmenúzala para que se cueza uniformemente. Salpimienta y cocina 4-5 min, hasta que se dore. Luego, agrega la <strong>salsa de soja dulce</strong> y un chorrito de <strong>agua</strong>, remueve y cocina 2 min. Añade la <strong>salsa de cilantro</strong> y cocina 1 min más, mientras remueves, para que los ingredientes se integren.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ae622f7f34e1f95d339/step-44d1d340.jpg",
+          "path": "/64788ae622f7f34e1f95d339/step-44d1d340.jpg",
+          "caption": "Agrega la carne y la salsa",
+          "localImage": "/images/recipes/64788ae622f7f34e1f95d339-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el arroz basmati en la base de los platos y cubre con la carne en salsa oriental de cilantro. Decora con las hojas de cilantro reservadas.",
+      "instructionsHTML": "<p>Sirve el <strong>arroz basmati </strong>en la base de los platos y cubre con la <strong>carne</strong> en <strong>salsa oriental de cilantro</strong>. Decora con las hojas de <strong>cilantro</strong> reservadas.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>arroz basmati </strong>en la base de los platos y cubre con la <strong>carne</strong> en <strong>salsa oriental de cilantro</strong>. Decora con las hojas de <strong>cilantro</strong> reservadas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ae622f7f34e1f95d339/step-24f49050.jpg",
+          "path": "/64788ae622f7f34e1f95d339/step-24f49050.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/64788ae622f7f34e1f95d339-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCFM16525-2",
+  "updatedAt": "2025-07-28T11:05:53+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    }
+  ],
+  "uuid": "8ea4cdee-9cf8-4923-b83f-b8f88658ddff",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ternera-en-salsa-oriental-de-cilantro-64788ae622f7f34e1f95d339",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63be6f11bc0b80106b4671d1",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "636ee2296875fac468eeb9ce",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63be6f11bc0b80106b4671d1",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64788ae622f7f34e1f95d339-Ternera en salsa oriental de cilantro.jpg",
+  "localCard": "/pdf/64788ae622f7f34e1f95d339-Ternera en salsa oriental de cilantro.pdf"
+}

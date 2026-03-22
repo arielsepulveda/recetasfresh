@@ -1,0 +1,779 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97a2ae08b54dad34eb82",
+      "name": "Sulfitos",
+      "type": "traces-of-sulphites",
+      "slug": "traces-of-sulfitos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/649f375127a2eef57c938594.pdf",
+  "category": null,
+  "clonedFrom": "6347efe5bb36093c54997954",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-06-30T20:13:05+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Este pastel de bacalao y patatas te dará calor en los días fríos (y en los cálidos, porque no podrás dejar de cocinarlo). La mayonesa y el queso fundido elevan el sabor del bacalao y la patata en este plato cubierto de queso gratinado.",
+  "descriptionHTML": "<p>Este pastel de bacalao y patatas te dará calor en los días fríos (y en los cálidos, porque no podrás dejar de cocinarlo). La mayonesa y el queso fundido elevan el sabor del bacalao y la patata en este plato cubierto de queso gratinado.</p>",
+  "descriptionMarkdown": "Este pastel de bacalao y patatas te dará calor en los días fríos (y en los cálidos, porque no podrás dejar de cocinarlo). La mayonesa y el queso fundido elevan el sabor del bacalao y la patata en este plato cubierto de queso gratinado.",
+  "difficulty": 1,
+  "favoritesCount": 42,
+  "headline": "con queso gratinado",
+  "id": "649f375127a2eef57c938594",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221010_R04_W46_ES_ESFC0147-1_KB_remove_chives__Main_high-51a819c6.jpg",
+  "imagePath": "/image/HF221010_R04_W46_ES_ESFC0147-1_KB_remove_chives__Main_high-51a819c6.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "649a283db4dbfc471f989712",
+      "uuid": "5323f33e-70b2-4869-905d-30806912c28a",
+      "name": "Bacalao",
+      "type": "skin-on-cod",
+      "slug": "bacalao",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/649a283db4dbfc471f989712-d108cd96.jpg",
+      "imagePath": "/ingredient/649a283db4dbfc471f989712-d108cd96.jpg",
+      "shipped": true,
+      "allergens": [
+        "62cc417a2f15d58ec3559423",
+        "5acf97a2ae08b54dad34eb82",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/649a283db4dbfc471f989712-Bacalao.jpg"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63493a08ebf08332f1bff15d",
+      "uuid": "bd338898-c991-4bcf-ac07-74fe7e736c4f",
+      "name": "Queso rallado",
+      "type": "grated-cheese-mix",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "imagePath": "/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63493a08ebf08332f1bff15d-Queso rallado.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "63c6c4e85d055dd6f722b0c2",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "imagePath": "/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63c6c4e85d055dd6f722b0c2-Mayonesa.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "De La Abuela",
+    "handle": "grandma-style",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#b980d0",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/649f375127a2eef57c938594",
+  "name": "Pastel de bacalao y patatas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2614,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 625,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 27.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 14.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 45.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 37.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.12,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 44,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 522,
+  "slug": "pastel-de-bacalao-y-patatas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 200ºC con la opción de gratinar. Pela las patatas y córtalas en dados de 2 cm. En una olla, agrega las patatas, cúbrelas con agua y añade una pizca de sal. Lleva a ebullición, luego, cocina a fuego medio 13-15 min o hasta que estén blandas.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a <span>200ºC</span> con la opción de gratinar. Pela las <strong>patatas</strong> y córtalas en dados de 2 cm. En una olla, agrega las <strong>patatas</strong>, cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal</strong>. Lleva a ebullición, luego, cocina a fuego medio 13-15 min o hasta que estén blandas.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a <span>200ºC</span> con la opción de gratinar. Pela las <strong>patatas</strong> y córtalas en dados de 2 cm. En una olla, agrega las <strong>patatas</strong>, cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal</strong>. Lleva a ebullición, luego, cocina a fuego medio 13-15 min o hasta que estén blandas.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375127a2eef57c938594/step-90f09700.jpg",
+          "path": "/649f375127a2eef57c938594/step-90f09700.jpg",
+          "caption": "Cuece las patatas",
+          "localImage": "/images/recipes/649f375127a2eef57c938594-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En otra olla, añade el agua (ver cantidad en ingredientes) junto a una pizca de sal y lleva a ebullición. Cuando el agua empiece a hervir, agrega el bacalao y cocina durante 5 min.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<p dir=\"ltr\">En otra olla, añade el <strong>agua</strong> (ver cantidad en ingredientes) junto a una pizca de <strong>sal</strong> y lleva a ebullición. Cuando el <strong>agua</strong> empiece a hervir, agrega el <strong>bacalao</strong> y cocina durante 5 min.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En otra olla, añade el <strong>agua</strong> (ver cantidad en ingredientes) junto a una pizca de <strong>sal</strong> y lleva a ebullición. Cuando el <strong>agua</strong> empiece a hervir, agrega el <strong>bacalao</strong> y cocina durante 5 min.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1",
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375127a2eef57c938594/step-cea0c810.jpg",
+          "path": "/649f375127a2eef57c938594/step-cea0c810.jpg",
+          "caption": "Cocina el bacalao",
+          "localImage": "/images/recipes/649f375127a2eef57c938594-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Pela y pica el ajo (ver cantidad en ingredientes). Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. En una sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la cebolla y cocina durante 4-5 min, hasta que quede transparente. ",
+      "instructionsHTML": "<p dir=\"ltr\">Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la <strong>cebolla</strong> y cocina durante 4-5 min, hasta que quede transparente. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. En una sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega la <strong>cebolla</strong> y cocina durante 4-5 min, hasta que quede transparente. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375127a2eef57c938594/step-fc53e820.jpg",
+          "path": "/649f375127a2eef57c938594/step-fc53e820.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/649f375127a2eef57c938594-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando el bacalao esté cocinado, retira la piel y las espinas y desmenuza en trozos pequeños. Cuando las patatas estén listas, escurre con un colador. Vuelve a poner las patatas en la olla y agrega la nata líquida (ver cantidad en ingredientes) y, de manera opcional, la mantequilla (ver cantidad en ingredientes). Salpimienta. Con un pasapurés o un tenedor, aplasta las patatas hasta conseguir un puré.",
+      "instructionsHTML": "<p dir=\"ltr\">Cuando el <strong>bacalao</strong> esté cocinado, retira la piel y las espinas y desmenuza en trozos pequeños. Cuando las <strong>patatas</strong> estén listas, escurre con un colador. Vuelve a poner las patatas en la olla y agrega la <strong>nata líquida</strong> (ver cantidad en ingredientes) y, de manera opcional, la <strong>mantequilla</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong>. Con un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta conseguir un puré.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Cuando el <strong>bacalao</strong> esté cocinado, retira la piel y las espinas y desmenuza en trozos pequeños. Cuando las <strong>patatas</strong> estén listas, escurre con un colador. Vuelve a poner las patatas en la olla y agrega la <strong>nata líquida</strong> (ver cantidad en ingredientes) y, de manera opcional, la <strong>mantequilla</strong> (ver cantidad en ingredientes). <strong>Salpimienta</strong>. Con un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta conseguir un puré.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305393",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375127a2eef57c938594/step-63643430.jpg",
+          "path": "/649f375127a2eef57c938594/step-63643430.jpg",
+          "caption": "Prepara el puré",
+          "localImage": "/images/recipes/649f375127a2eef57c938594-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la olla, añade el bacalao y la cebolla y mezcla todo bien. En una fuente para horno, agrega la mezcla de patata y bacalao. Luego, agrega encima la mayonesa y cubre con el queso rallado. Gratina en el horno 8-10 min, hasta que quede dorado.",
+      "instructionsHTML": "<p dir=\"ltr\">En la olla, añade el <strong>bacalao</strong> y la <strong>cebolla</strong> y mezcla todo bien. En una fuente para horno, agrega la mezcla de <strong>patata</strong> y <strong>bacalao</strong>. Luego, agrega encima la <strong>mayonesa</strong> y cubre con el <strong>queso rallado</strong>. Gratina en el horno 8-10 min, hasta que quede dorado.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En la olla, añade el <strong>bacalao</strong> y la <strong>cebolla</strong> y mezcla todo bien. En una fuente para horno, agrega la mezcla de <strong>patata</strong> y <strong>bacalao</strong>. Luego, agrega encima la <strong>mayonesa</strong> y cubre con el <strong>queso rallado</strong>. Gratina en el horno 8-10 min, hasta que quede dorado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375127a2eef57c938594/step-03dffb40.jpg",
+          "path": "/649f375127a2eef57c938594/step-03dffb40.jpg",
+          "caption": "Combina los ingredientes",
+          "localImage": "/images/recipes/649f375127a2eef57c938594-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Cuando el pastel de bacalao y patatas esté listo, sácalo del horno y sirve porciones en los platos.",
+      "instructionsHTML": "<p dir=\"ltr\">Cuando el <strong>pastel de bacalao y patatas</strong> esté listo, sácalo del horno y sirve porciones en los platos.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Cuando el <strong>pastel de bacalao y patatas</strong> esté listo, sácalo del horno y sirve porciones en los platos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/649f375127a2eef57c938594/step-51162350.jpg",
+          "path": "/649f375127a2eef57c938594/step-51162350.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/649f375127a2eef57c938594-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESFC0147-7",
+  "updatedAt": "2026-01-21T13:59:49+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Olla pequeña"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305393",
+      "type": "potato-masher",
+      "name": "Pasapurés"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    }
+  ],
+  "uuid": "42c15802-27b3-431c-8beb-96cbe577929e",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pastel-de-bacalao-y-patatas-649f375127a2eef57c938594",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "649a283db4dbfc471f989712",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 500,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "649a283db4dbfc471f989712",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1000,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/649f375127a2eef57c938594-Pastel de bacalao y patatas.jpg",
+  "localCard": "/pdf/649f375127a2eef57c938594-Pastel de bacalao y patatas.pdf"
+}

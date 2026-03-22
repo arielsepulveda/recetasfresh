@@ -1,0 +1,903 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "6458df5fb0a4d655ddff9b5f",
+  "canonicalLink": "https://www.hellofresh.es/recipes/bolitas-de-tofu-glaseadas-6458df5fb0a4d655ddff9b5f",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6942e52435efa043add8c510-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6410974dfd78b79c42eb50db",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-17T17:15:17+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "Atrévete a probar esta receta en la que te ofrecemos otra forma de comer tofu. En este caso, se prepara una masa con el tofu troceado, cebolla, panko y salsa, para después formar bolitas que acompañaremos con una sabrosa salsa de inspiración oriental. Además, van acompañadas de arroz con especias harissa.",
+  "descriptionHTML": "<p>Atrévete a probar esta receta en la que te ofrecemos otra forma de comer tofu. En este caso, se prepara una masa con el tofu troceado, cebolla, panko y salsa, para después formar bolitas que acompañaremos con una sabrosa salsa de inspiración oriental. Además, van acompañadas de arroz con especias harissa.</p>",
+  "descriptionMarkdown": "Atrévete a probar esta receta en la que te ofrecemos otra forma de comer tofu. En este caso, se prepara una masa con el tofu troceado, cebolla, panko y salsa, para después formar bolitas que acompañaremos con una sabrosa salsa de inspiración oriental. Además, van acompañadas de arroz con especias harissa.",
+  "difficulty": 2,
+  "favoritesCount": 0,
+  "headline": "con arroz especiado",
+  "id": "6942e52435efa043add8c510",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R04_W12_ES_ESVQCLV15390-6_Main_F1_R_high-63306253.jpg",
+  "imagePath": "/image/HF_Y25_R04_W12_ES_ESVQCLV15390-6_Main_F1_R_high-63306253.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "663dd43a5e4dcee2f122a3d9",
+      "uuid": "5efbe02d-9aa7-530e-bbb6-d3f77a8d6e9d",
+      "name": "Tofu",
+      "type": "tofu",
+      "slug": "tofu",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/663dd43a5e4dcee2f122a3d9-60345e10.png",
+      "imagePath": "/ingredient/663dd43a5e4dcee2f122a3d9-60345e10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/663dd43a5e4dcee2f122a3d9-Tofu.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "6874cb2f5a587f17f4588c97",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "imagePath": "/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6874cb2f5a587f17f4588c97-Panko.png"
+    },
+    {
+      "id": "64afc5bc565e2133abaa58a3",
+      "uuid": "27bdf929-2223-5877-8919-3bd93eb85c24",
+      "name": "Passata de tomate",
+      "type": "tomato-passata",
+      "slug": "passata-de-tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "imagePath": "/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64afc5bc565e2133abaa58a3-Passata de tomate.png"
+    },
+    {
+      "id": "638a1d6c16676f814583bbd0",
+      "uuid": "90b64210-429a-5198-8e96-9fcea3ce5335",
+      "name": "Mezcla de especias Harissa",
+      "type": "harissa-spice-mix",
+      "slug": "mezcla-de-especias-harissa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638a1d6c16676f814583bbd0-1d52ca1e.png",
+      "imagePath": "/ingredient/638a1d6c16676f814583bbd0-1d52ca1e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638a1d6c16676f814583bbd0-Mezcla de especias Harissa.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6942e52435efa043add8c510",
+  "name": "Bolitas de tofu con salsa de tomate y harissa",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2229,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 533,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 19.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 4.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 83.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.58,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 303,
+  "slug": "bolitas-de-tofu-con-salsa-de-tomate-y-harissa",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nLlena un cazo con el agua, añade el arroz y sal y lleva a ebullición con el cazo tapado.\nCuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.\nLuego, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Llena un cazo con el <strong>agua</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li dir=\"ltr\">Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li dir=\"ltr\">Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Llena un cazo con el <strong>agua</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li dir=\"ltr\">Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li dir=\"ltr\">Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e52435efa043add8c510/step-56fdef00.jpg",
+          "path": "/6942e52435efa043add8c510/step-56fdef00.jpg",
+          "caption": "Arroz en marcha",
+          "localImage": "/images/recipes/6942e52435efa043add8c510-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y ralla la cebolla.\nPela y ralla el ajo.\nSeca el tofu y desmenúzalo en un bol grande en trozos pequeños.\nAñade al bol la mitad del ajo, la cebolla, la mitad de la salsa de soja, el panko y la harina.\nMezcla bien todo, hasta conseguir una masa, y forma 5 bolitas por persona.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Pela y ralla la <strong>cebolla</strong>.</li>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Seca el <strong>tofu </strong>y desmenúzalo en un bol grande en trozos pequeños.</li>\n<li dir=\"ltr\">Añade al bol la mitad del <strong>ajo</strong>, la <strong>cebolla</strong>, la mitad de la <strong>salsa de soja</strong>, el <strong>panko</strong> y la <strong>harina</strong>.</li>\n<li dir=\"ltr\">Mezcla bien todo, hasta conseguir una <strong>masa</strong>, y forma 5 bolitas por persona.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Pela y ralla la <strong>cebolla</strong>.</li>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Seca el <strong>tofu </strong>y desmenúzalo en un bol grande en trozos pequeños.</li>\n<li dir=\"ltr\">Añade al bol la mitad del <strong>ajo</strong>, la <strong>cebolla</strong>, la mitad de la <strong>salsa de soja</strong>, el <strong>panko</strong> y la <strong>harina</strong>.</li>\n<li dir=\"ltr\">Mezcla bien todo, hasta conseguir una <strong>masa</strong>, y forma 5 bolitas por persona.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372",
+        "5c0a9a5edbdd9fc57e863cd6"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e52435efa043add8c510/step-ca833c10.jpg",
+          "path": "/6942e52435efa043add8c510/step-ca833c10.jpg",
+          "caption": "Prepara la masa",
+          "localImage": "/images/recipes/6942e52435efa043add8c510-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una sartén antiadherente, calienta un chorrito de aceite a fuego medio. Una vez caliente, cocina las bolitas de tofu 4-5 min, hasta que se doren por fuera.\nLuego, retira de la sartén.\n",
+      "instructionsHTML": "<ul>\n<li>En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, cocina las <strong>bolitas de tofu</strong> 4-5 min, hasta que se doren por fuera.</li>\n<li>Luego, retira de la sartén.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, cocina las <strong>bolitas de tofu</strong> 4-5 min, hasta que se doren por fuera.</li>\n<li>Luego, retira de la sartén.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e52435efa043add8c510/step-f6471720.jpg",
+          "path": "/6942e52435efa043add8c510/step-f6471720.jpg",
+          "caption": "Tofu al fuego",
+          "localImage": "/images/recipes/6942e52435efa043add8c510-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, agrega la passata de tomate, la salsa de soja restante, la mitad de las especias harissa y un chorrito de agua. Cocina a fuego medio durante 2 min.\nAgrega el queso crema y mezcla bien.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, agrega la <strong>passata de tomate</strong>, la <strong>salsa de soja</strong> restante, la mitad de las <strong>especias harissa</strong> y un chorrito de <strong>agua</strong>. Cocina a fuego medio durante 2 min.</li>\n<li>Agrega el <strong>queso crema</strong> y mezcla bien.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, agrega la <strong>passata de tomate</strong>, la <strong>salsa de soja</strong> restante, la mitad de las <strong>especias harissa</strong> y un chorrito de <strong>agua</strong>. Cocina a fuego medio durante 2 min.</li>\n<li>Agrega el <strong>queso crema</strong> y mezcla bien.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e52435efa043add8c510/step-7335b830.jpg",
+          "path": "/6942e52435efa043add8c510/step-7335b830.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/6942e52435efa043add8c510-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando la salsa esté lista, agrega las albóndigas a la sartén y cocina 2 min más, cubriendo con la salsa.\nRetira y sirve en un lado de los platos.\nEn la sartén, calienta un chorrito de aceite a fuego medio. Agrega el arroz y el resto de las especias harissa y cocina 1-2 min, mezclando.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Cuando la <strong>salsa</strong> esté lista, agrega las <strong>albóndigas</strong> a la sartén y cocina 2 min más, cubriendo con la <strong>salsa.</strong></li>\n<li dir=\"ltr\">Retira y sirve en un lado de los platos.</li>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>arroz</strong> y el resto de las <strong>especias harissa</strong> y cocina 1-2 min, mezclando.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Cuando la <strong>salsa</strong> esté lista, agrega las <strong>albóndigas</strong> a la sartén y cocina 2 min más, cubriendo con la <strong>salsa.</strong></li>\n<li dir=\"ltr\">Retira y sirve en un lado de los platos.</li>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>arroz</strong> y el resto de las <strong>especias harissa</strong> y cocina 1-2 min, mezclando.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e52435efa043add8c510/step-bdf67240.jpg",
+          "path": "/6942e52435efa043add8c510/step-bdf67240.jpg",
+          "caption": "Combina las bolitas y la salsa",
+          "localImage": "/images/recipes/6942e52435efa043add8c510-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nDeshoja y pica el cilantro.\nSirve el arroz en el otro lado de los platos para acompañar las bolitas de tofu.\nEspolvorea el cilantro picado por encima.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Deshoja y pica el <strong>cilantro</strong>.</li>\n<li dir=\"ltr\">Sirve el <strong>arroz</strong> en el otro lado de los platos para acompañar las <strong>bolitas de tofu</strong>.</li>\n<li dir=\"ltr\">Espolvorea el <strong>cilantro</strong> picado por encima.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Deshoja y pica el <strong>cilantro</strong>.</li>\n<li dir=\"ltr\">Sirve el <strong>arroz</strong> en el otro lado de los platos para acompañar las <strong>bolitas de tofu</strong>.</li>\n<li dir=\"ltr\">Espolvorea el <strong>cilantro</strong> picado por encima.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e52435efa043add8c510/step-ff1b8d50.jpg",
+          "path": "/6942e52435efa043add8c510/step-ff1b8d50.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/6942e52435efa043add8c510-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESVQCLV15390-9",
+  "updatedAt": "2026-03-06T20:16:12+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "5c0a9a5edbdd9fc57e863cd6",
+      "type": "box-greater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    }
+  ],
+  "uuid": "db022e02-7753-488f-9619-bb9f42bc9d5f",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/bolitas-de-tofu-con-salsa-de-tomate-y-harissa-6942e52435efa043add8c510",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 210,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "638a1d6c16676f814583bbd0",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 1.5,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 420,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "638a1d6c16676f814583bbd0",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 540,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 75,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 630,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "638a1d6c16676f814583bbd0",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 4.5,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6942e52435efa043add8c510-Bolitas de tofu con salsa de tomate y harissa.jpg",
+  "localCard": "/pdf/6942e52435efa043add8c510-Bolitas de tofu con salsa de tomate y harissa.pdf"
+}

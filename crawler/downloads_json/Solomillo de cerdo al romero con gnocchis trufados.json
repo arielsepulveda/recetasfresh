@@ -1,0 +1,826 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "669fcb6b65ce5ed4b1f984d5",
+  "canonicalLink": "https://www.hellofresh.es/recipes/solomillo-cerdo-gnocchi-trufado-setas-669fcb6b65ce5ed4b1f984d5",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68fb939587218af402500fbe-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "664386acdb12ba3a5e0fbb87",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-24T14:56:22+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Ponte tus mejores galas porque este plato viene cargado de elegantes y sabrosos productos. Acompañamos nuestro protagonista, un jugoso solomillo de cerdo, con gnocchis rellenos de trufa y con un salteado de cebollitas francesas y setas shiitake, que aportarán un inconfundible y único umami.",
+  "descriptionHTML": "<p>Ponte tus mejores galas porque este plato viene cargado de elegantes y sabrosos productos. Acompañamos nuestro protagonista, un jugoso solomillo de cerdo, con gnocchis rellenos de trufa y con un salteado de cebollitas francesas y setas shiitake, que aportarán un inconfundible y único umami.</p>",
+  "descriptionMarkdown": "Ponte tus mejores galas porque este plato viene cargado de elegantes y sabrosos productos. Acompañamos nuestro protagonista, un jugoso solomillo de cerdo, con gnocchis rellenos de trufa y con un salteado de cebollitas francesas y setas shiitake, que aportarán un inconfundible y único umami.",
+  "difficulty": 1,
+  "favoritesCount": 1,
+  "headline": "con setas y cebollitas francesas salteadas",
+  "id": "68fb939587218af402500fbe",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R16_W38_ES_ESSGP26856-2_edit_color_Main_high-95af0068.jpg",
+  "imagePath": "/image/HF_Y24_R16_W38_ES_ESSGP26856-2_edit_color_Main_high-95af0068.jpg",
+  "ingredients": [
+    {
+      "id": "6554ed1053b95b70f9979c86",
+      "uuid": "ba3a9c2c-1871-56f6-94a9-95c204ddf98e",
+      "name": "Setas shiitake",
+      "type": "shiitake-mushrooms",
+      "slug": "setas-shiitake",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6554ed1053b95b70f9979c86-dcbaa6b4.png",
+      "imagePath": "/ingredient/6554ed1053b95b70f9979c86-dcbaa6b4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6554ed1053b95b70f9979c86-Setas shiitake.png"
+    },
+    {
+      "id": "68ad6f959f094575a25dcc33",
+      "uuid": "8f3ab315-9bbf-465d-b115-c212199be49b",
+      "name": "Cebollita francesa",
+      "type": "french-onion",
+      "slug": "cebollita-francesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/68ad6f959f094575a25dcc33-33329f63.png",
+      "imagePath": "/ingredient/68ad6f959f094575a25dcc33-33329f63.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68ad6f959f094575a25dcc33-Cebollita francesa.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "63404377233160a36674ba20",
+      "uuid": "040eb90c-dd30-595f-9558-4c6ff3d179ea",
+      "name": "Romero",
+      "type": "rosemary",
+      "slug": "romero",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba20-88a98239.png",
+      "imagePath": "/ingredient/63404377233160a36674ba20-88a98239.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba20-Romero.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "6619cb8a5c9ad41013c04d48",
+      "uuid": "f4d2e80a-d60b-493e-82c7-e37c9da29dc7",
+      "name": "Gnocchi de trufa",
+      "type": "truffle-gnocchi",
+      "slug": "gnocchi-de-trufa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6619cb8a5c9ad41013c04d48-a60ac865.png",
+      "imagePath": "/ingredient/6619cb8a5c9ad41013c04d48-a60ac865.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6619cb8a5c9ad41013c04d48-Gnocchi de trufa.png"
+    },
+    {
+      "id": "64ac09b048c7b9302c3319fd",
+      "uuid": "994ef755-08a0-500c-af81-78dc16cbfe7e",
+      "name": "Solomillo de cerdo",
+      "type": "pork-tenderloin",
+      "slug": "solomillo-de-cerdo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64ac09b048c7b9302c3319fd-b0f72a9d.png",
+      "imagePath": "/ingredient/64ac09b048c7b9302c3319fd-b0f72a9d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64ac09b048c7b9302c3319fd-Solomillo de cerdo.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "64887dee343321ec36639897",
+      "uuid": "f2be8154-077b-4c4d-a7c0-ddcb313ce8da",
+      "name": "Mantequilla para la salsa",
+      "type": "butter-for-the-sauce",
+      "slug": "mantequilla-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64887dee343321ec36639897-ba10f7f2.png",
+      "imagePath": "/ingredient/64887dee343321ec36639897-ba10f7f2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64887dee343321ec36639897-Mantequilla para la salsa.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Corte gourmet",
+    "handle": "steak-night",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#3c454a",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68fb939587218af402500fbe",
+  "name": "Solomillo de cerdo al romero con gnocchis trufados",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3358,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 803,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 55.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 59.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 5.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 38.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.07,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 515,
+  "slug": "solomillo-de-cerdo-al-romero-con-gnocchis-trufados",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nLimpia las setas shiitake con un paño húmedo y córtalas en láminas finas.\nPela la cebollita francesa y cortala en cuartos.\nPela y ralla el ajo.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Limpia las <strong>setas shiitake</strong> con un paño húmedo y córtalas en láminas finas.</li>\n<li>Pela la<strong> cebollita francesa</strong> y cortala en cuartos.</li>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Limpia las <strong>setas shiitake</strong> con un paño húmedo y córtalas en láminas finas.</li>\n<li>Pela la<strong> cebollita francesa</strong> y cortala en cuartos.</li>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939587218af402500fbe/step-c2603f00.jpg",
+          "path": "/68fb939587218af402500fbe/step-c2603f00.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68fb939587218af402500fbe-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una sartén, añade el ajo, un chorrito de aceite y la mantequilla para la salsa. Calienta a fuego medio y cocina 1-2 min.\nAgrega el agua, el caldo de ternera, el romero en rama y el vinagre balsámico. Remueve y lleva a ebullición.\nLuego, cocina a fuego medio 2-3 min, hasta que la salsa haya espesado.\nRetira el romero en rama y reserva la salsa en un bol.\n",
+      "instructionsHTML": "<ul>\n<li>En una sartén, añade el <strong>ajo,</strong> un chorrito de <strong>aceite</strong> y la <strong>mantequilla para la salsa</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega el <strong>agua</strong>, el <strong>caldo de ternera</strong>, el <strong>romero</strong> en rama y el <strong>vinagre balsámico</strong>. Remueve y lleva a ebullición.</li>\n<li>Luego, cocina a fuego medio 2-3 min, hasta que la <strong>salsa</strong> haya espesado.</li>\n<li>Retira el <strong>romero</strong> en rama y reserva la <strong>salsa</strong> en un bol.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, añade el <strong>ajo,</strong> un chorrito de <strong>aceite</strong> y la <strong>mantequilla para la salsa</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega el <strong>agua</strong>, el <strong>caldo de ternera</strong>, el <strong>romero</strong> en rama y el <strong>vinagre balsámico</strong>. Remueve y lleva a ebullición.</li>\n<li>Luego, cocina a fuego medio 2-3 min, hasta que la <strong>salsa</strong> haya espesado.</li>\n<li>Retira el <strong>romero</strong> en rama y reserva la <strong>salsa</strong> en un bol.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939587218af402500fbe/step-c0cd3e10.jpg",
+          "path": "/68fb939587218af402500fbe/step-c0cd3e10.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/68fb939587218af402500fbe-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nSin limpiar la sartén, agrega un chorrito de aceite y calienta a fuego medio-alto. Añade la cebollita francesa y cocina 2 min por la parte plana, hasta que esté dorada.\nAñade un chorrito de agua y cocina tapado 4-5 min o hasta que las cebollitas estén tiernas.\nAgrega las setas shiitake y cocina a fuego medio-alto 4-5 min más, removiendo, hasta que las setas y cebollitas queden doradas.\nSalpimienta y retira la sartén del fuego.\n",
+      "instructionsHTML": "<ul>\n<li>Sin limpiar la sartén, agrega un chorrito de <strong>aceite</strong> y calienta a fuego <span style=\"color: rgb(0, 0, 0)\">medio-alto. Añade la<strong> cebollita francesa</strong> y cocina 2 min por la parte plana, hasta que esté dorada.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Añade un cho</span>rrito de <strong>agua</strong> y cocina tapado 4-5 min o hasta que las cebollitas estén tiernas.</li>\n<li>Agrega las <strong>setas shiitake</strong> y cocina a fuego medio-alto 4-5 min más, removiendo, hasta que las <strong>setas</strong> y <strong>cebollitas</strong> queden doradas.</li>\n<li><strong>Salpimienta</strong> y retira la sartén del fuego.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sin limpiar la sartén, agrega un chorrito de <strong>aceite</strong> y calienta a fuego <span style=\"color: rgb(0, 0, 0)\">medio-alto. Añade la<strong> cebollita francesa</strong> y cocina 2 min por la parte plana, hasta que esté dorada.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Añade un cho</span>rrito de <strong>agua</strong> y cocina tapado 4-5 min o hasta que las cebollitas estén tiernas.</li>\n<li>Agrega las <strong>setas shiitake</strong> y cocina a fuego medio-alto 4-5 min más, removiendo, hasta que las <strong>setas</strong> y <strong>cebollitas</strong> queden doradas.</li>\n<li><strong>Salpimienta</strong> y retira la sartén del fuego.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939587218af402500fbe/step-de541e20.jpg",
+          "path": "/68fb939587218af402500fbe/step-de541e20.jpg",
+          "caption": "Verduras al fuego",
+          "localImage": "/images/recipes/68fb939587218af402500fbe-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn otra sartén, calienta un chorrito de aceite y la mantequilla a fuego medio. Saltea los gnocchis de trufa 5 min, moviendo ocasionalmente, hasta que se doren por todos lados.\nCuando estén listos, sirve los gnocchis en un lado de los platos.\n",
+      "instructionsHTML": "<ul>\n<li>En otra sartén, calienta un chorrito de <strong>aceite</strong> y la <strong>mantequilla</strong> a fuego medio. Saltea los <strong>gnocchis de trufa</strong> 5 min, moviendo ocasionalmente, hasta que se doren por todos lados.</li>\n<li>Cuando estén listos, sirve los <strong>gnocchis</strong> en un lado de los platos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En otra sartén, calienta un chorrito de <strong>aceite</strong> y la <strong>mantequilla</strong> a fuego medio. Saltea los <strong>gnocchis de trufa</strong> 5 min, moviendo ocasionalmente, hasta que se doren por todos lados.</li>\n<li>Cuando estén listos, sirve los <strong>gnocchis</strong> en un lado de los platos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939587218af402500fbe/step-38ec5f30.jpg",
+          "path": "/68fb939587218af402500fbe/step-38ec5f30.jpg",
+          "caption": "Dora los gnocchis",
+          "localImage": "/images/recipes/68fb939587218af402500fbe-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn la sartén donde has cocinado los gnocchis, calienta un chorrito de aceite a fuego medio. Agrega el solomillo de cerdo, salpimienta y cocina 8-10 min, girándolo para que quede cocinado por todas partes y deje de estar rosado en el interior.\nCuando esté listo, retira de la sartén y reserva.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En la sartén donde has cocinado los <strong>gnocchis,</strong> calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>solomillo de cerdo</strong>, <strong>salpimienta</strong> y cocina 8-10 min, girándolo para que quede cocinado por todas partes y deje de estar rosado en el interior.</li>\n<li>Cuando esté listo, retira de la sartén y reserva.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén donde has cocinado los <strong>gnocchis,</strong> calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>solomillo de cerdo</strong>, <strong>salpimienta</strong> y cocina 8-10 min, girándolo para que quede cocinado por todas partes y deje de estar rosado en el interior.</li>\n<li>Cuando esté listo, retira de la sartén y reserva.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939587218af402500fbe/step-501efa40.jpg",
+          "path": "/68fb939587218af402500fbe/step-501efa40.jpg",
+          "caption": "Turno del solomillo",
+          "localImage": "/images/recipes/68fb939587218af402500fbe-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nCalienta las setas y cebollitas en la sartén a fuego medio 1-2 min más. Corta el solomillo de cerdo en medallones de 1-2 cm y sírvelo en el otro lado de los platos.\nAgrega las setas shiitake y cebollitas sobre el solomillo al gusto y cubre el plato con la salsa de romero.\n",
+      "instructionsHTML": "<ul>\n<li>Calienta las <strong>setas</strong> y <strong>cebollitas</strong> en la sartén a fuego medio 1-2 min más. Corta el <strong>solomillo de cerdo</strong> en medallones de 1-2 cm y sírvelo en el otro lado de los platos.</li>\n<li>Agrega las <strong>setas shiitake</strong> y <strong>cebollitas</strong> sobre el <strong>solomillo</strong> al gusto y cubre el plato con la <strong>salsa de romero</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Calienta las <strong>setas</strong> y <strong>cebollitas</strong> en la sartén a fuego medio 1-2 min más. Corta el <strong>solomillo de cerdo</strong> en medallones de 1-2 cm y sírvelo en el otro lado de los platos.</li>\n<li>Agrega las <strong>setas shiitake</strong> y <strong>cebollitas</strong> sobre el <strong>solomillo</strong> al gusto y cubre el plato con la <strong>salsa de romero</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb939587218af402500fbe/step-7f802150.jpg",
+          "path": "/68fb939587218af402500fbe/step-7f802150.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/68fb939587218af402500fbe-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "64b93188e10e1cea61958f7f",
+      "type": "premium",
+      "name": "premium",
+      "slug": "premium",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESSGP26856-9",
+  "updatedAt": "2026-01-08T10:57:43+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    }
+  ],
+  "uuid": "9b8a44c7-8b26-4aa0-ac2e-a8c879405e86",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/solomillo-de-cerdo-al-romero-con-gnocchis-trufados-68fb939587218af402500fbe",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6554ed1053b95b70f9979c86",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "68ad6f959f094575a25dcc33",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6619cb8a5c9ad41013c04d48",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64ac09b048c7b9302c3319fd",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64887dee343321ec36639897",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 75,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6554ed1053b95b70f9979c86",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "68ad6f959f094575a25dcc33",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6619cb8a5c9ad41013c04d48",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64ac09b048c7b9302c3319fd",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64887dee343321ec36639897",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6554ed1053b95b70f9979c86",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "68ad6f959f094575a25dcc33",
+          "amount": 9,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404377233160a36674ba20",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6619cb8a5c9ad41013c04d48",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64ac09b048c7b9302c3319fd",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64887dee343321ec36639897",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 225,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68fb939587218af402500fbe-Solomillo de cerdo al romero con gnocchis trufados.jpg",
+  "localCard": "/pdf/68fb939587218af402500fbe-Solomillo de cerdo al romero con gnocchis trufados.pdf"
+}

@@ -1,0 +1,845 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.7,
+  "canonical": "63aaf2b87409f63ef1b32fa3",
+  "canonicalLink": "https://www.hellofresh.es/recipes/hamburguesas-de-cerdo-con-salsa-barbacoa-63aaf2b87409f63ef1b32fa3",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6849326a9f34f686e2db87cb-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "63f7285697af1f55d1d5c634",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-11T07:38:18+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "La hamburguesa puede presentarse con innumerables formas y sabores, siendo uno de los platos más versátiles de la gastronomía. En este caso, te ofrecemos una hamburguesa de cerdo al plato cubierta con una salsa de chalota y mostaza. Acompañamos con champiñones salteados y el siempre bienvenido puré de patata.",
+  "descriptionHTML": "<p>La hamburguesa puede presentarse con innumerables formas y sabores, siendo uno de los platos más versátiles de la gastronomía. En este caso, te ofrecemos una hamburguesa de cerdo al plato cubierta con una salsa de chalota y mostaza. Acompañamos con champiñones salteados y el siempre bienvenido puré de patata.</p>",
+  "descriptionMarkdown": "La hamburguesa puede presentarse con innumerables formas y sabores, siendo uno de los platos más versátiles de la gastronomía. En este caso, te ofrecemos una hamburguesa de cerdo al plato cubierta con una salsa de chalota y mostaza. Acompañamos con champiñones salteados y el siempre bienvenido puré de patata.",
+  "difficulty": 1,
+  "favoritesCount": 7,
+  "headline": "con puré de patatas y champiñones salteados",
+  "id": "6849326a9f34f686e2db87cb",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R27_W35_ES_ESCQCLP15006-2_Main_F1_high-b7ba2efe.jpg",
+  "imagePath": "/image/HF_Y25_R27_W35_ES_ESCQCLP15006-2_Main_F1_high-b7ba2efe.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f7",
+      "uuid": "0c719142-be77-4ddd-94a0-b6219698b827",
+      "name": "Champiñones",
+      "type": "champignon-mushrooms",
+      "slug": "champinones",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f7-Champiñones.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "6340436c233160a36674b9ee",
+      "uuid": "12201bc4-365e-5aac-9d49-e9e81e2232aa",
+      "name": "Caldo de ternera",
+      "type": "beef-stock-powder",
+      "slug": "caldo-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "imagePath": "/ingredient/6340436c233160a36674b9ee-f1f48d86.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c233160a36674b9ee-Caldo de ternera.png"
+    },
+    {
+      "id": "63fc92b0bbe06d8c7489ce76",
+      "uuid": "b7647ff1-cacb-5782-9678-8d04b94aba26",
+      "name": "Carne de cerdo picada",
+      "type": "pork-mince",
+      "slug": "carne-de-cerdo-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "imagePath": "/ingredient/63fc92b0bbe06d8c7489ce76-96d6aa17.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63fc92b0bbe06d8c7489ce76-Carne de cerdo picada.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6849326a9f34f686e2db87cb",
+  "name": "Hamburguesa de cerdo con salsa cremosa de mostaza",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2714,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 649,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 47.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 12.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 55.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 31.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.15,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 14,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 593,
+  "slug": "hamburguesas-de-cerdo-con-salsa-casera",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela las patatas y córtalas en dados de 2 cm.\nEn una olla, agrega las patatas, cúbrelas con agua y añade una pizca de sal.\nPela la cebolla y córtala en tiras finas.\nLimpia los champiñones con un paño húmedo y retira el extremo del pie. Córtalos en cuartos.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela las <strong>patatas</strong> y córtalas en dados de 2 cm.</li>\n<li>En una olla, agrega las <strong>patatas,</strong> cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal.</strong></li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Limpia los <strong>champiñones</strong> con un paño húmedo y retira el extremo del pie. Córtalos en cuartos.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela las <strong>patatas</strong> y córtalas en dados de 2 cm.</li>\n<li>En una olla, agrega las <strong>patatas,</strong> cúbrelas con <strong>agua</strong> y añade una pizca de <strong>sal.</strong></li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Limpia los <strong>champiñones</strong> con un paño húmedo y retira el extremo del pie. Córtalos en cuartos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849326a9f34f686e2db87cb/step-a5f83b00.jpeg",
+          "path": "/6849326a9f34f686e2db87cb/step-a5f83b00.jpeg",
+          "caption": "Cuece las patatas",
+          "localImage": "/images/recipes/6849326a9f34f686e2db87cb-step-1-1.jpeg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio. Agrega la cebolla y una pizca de sal y cocina 4-5 min, removiendo.\nAñade los champiñones y cocina 3-4 min a fuego medio-alto, retira y reserva.\nPela y pica la chalota.\n\nSABÍAS QUE: Para evitar rallar tus ollas y sartenes, deberías utilizar utensilios de silicona y madera y no de metal.",
+      "instructionsHTML": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo.</li>\n<li>Añade los <strong>champiñones</strong> y cocina 3-4 min a fuego medio-alto, retira y reserva.</li>\n<li>Pela y pica la <strong>chalota.</strong></li>\n</ul>\n<p>SABÍAS QUE: Para evitar rallar tus ollas y sartenes, deberías utilizar utensilios de silicona y madera y no de metal.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo.</li>\n<li>Añade los <strong>champiñones</strong> y cocina 3-4 min a fuego medio-alto, retira y reserva.</li>\n<li>Pela y pica la <strong>chalota.</strong></li>\n</ul>\n<p>SABÍAS QUE: Para evitar rallar tus ollas y sartenes, deberías utilizar utensilios de silicona y madera y no de metal.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849326a9f34f686e2db87cb/step-09849b10.jpeg",
+          "path": "/6849326a9f34f686e2db87cb/step-09849b10.jpeg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/6849326a9f34f686e2db87cb-step-2-1.jpeg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio. Agrega la chalota y el vinagre balsámico y cocina 2-3 min, removiendo.\nAñade la mostaza, el queso crema, el caldo de ternera y el agua y mezcla con varillas.\nLleva a ebullición, luego, cocina a fuego medio 2-3 min, hasta que la salsa se reduzca.\nReserva en un bol y limpia la sartén.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>chalota</strong> y el <strong>vinagre balsámico</strong> y cocina 2-3 min, removiendo.</li>\n<li>Añade la <strong>mostaza,</strong> el <strong>queso crema</strong>, el <strong>caldo de ternera</strong> y el <strong>agua</strong> y mezcla con varillas.</li>\n<li>Lleva a ebullición, luego, cocina a fuego medio 2-3 min, hasta que la <strong>salsa</strong> se reduzca.</li>\n<li>Reserva en un bol y limpia la sartén.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>chalota</strong> y el <strong>vinagre balsámico</strong> y cocina 2-3 min, removiendo.</li>\n<li>Añade la <strong>mostaza,</strong> el <strong>queso crema</strong>, el <strong>caldo de ternera</strong> y el <strong>agua</strong> y mezcla con varillas.</li>\n<li>Lleva a ebullición, luego, cocina a fuego medio 2-3 min, hasta que la <strong>salsa</strong> se reduzca.</li>\n<li>Reserva en un bol y limpia la sartén.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b305384"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849326a9f34f686e2db87cb/step-3359c220.jpeg",
+          "path": "/6849326a9f34f686e2db87cb/step-3359c220.jpeg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/6849326a9f34f686e2db87cb-step-3-1.jpeg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn un bol grande, agrega la carne picada de cerdo, sal y pimienta.\nMezcla y forma 1 hamburguesa de 1-2 cm de grosor por persona.\nEn la sartén, calienta un chorrito de aceite a fuego medio. Cocina las hamburguesas 2-3 min por lado o hasta que estén bien hechas.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En un bol grande, agrega la <strong>carne picada de cerdo</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y forma 1 <strong>hamburguesa</strong> de 1-2 cm de grosor por persona.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina las <strong>hamburguesas</strong> 2-3 min por lado o hasta que estén bien hechas.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol grande, agrega la <strong>carne picada de cerdo</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y forma 1 <strong>hamburguesa</strong> de 1-2 cm de grosor por persona.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina las <strong>hamburguesas</strong> 2-3 min por lado o hasta que estén bien hechas.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849326a9f34f686e2db87cb/step-fb0a3d30.jpeg",
+          "path": "/6849326a9f34f686e2db87cb/step-fb0a3d30.jpeg",
+          "caption": "Forma y cocina las hamburguesas",
+          "localImage": "/images/recipes/6849326a9f34f686e2db87cb-step-4-1.jpeg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando las patatas estén listas, escúrrelas y colócalas en la olla.\nAñade mantequilla al gusto, un chorrito de aceite, sal y pimienta y aplasta con un pasapurés o tenedor hasta conseguir un puré homogéneo.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando las <strong>patatas</strong> estén listas, escúrrelas y colócalas en la olla.</li>\n<li>Añade <strong>mantequilla</strong> al gusto, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong> y aplasta con un pasapurés o tenedor hasta conseguir un <strong>puré</strong> homogéneo.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando las <strong>patatas</strong> estén listas, escúrrelas y colócalas en la olla.</li>\n<li>Añade <strong>mantequilla</strong> al gusto, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong> y aplasta con un pasapurés o tenedor hasta conseguir un <strong>puré</strong> homogéneo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305393",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849326a9f34f686e2db87cb/step-80425b40.jpeg",
+          "path": "/6849326a9f34f686e2db87cb/step-80425b40.jpeg",
+          "caption": "Prepara el puré de patata",
+          "localImage": "/images/recipes/6849326a9f34f686e2db87cb-step-5-1.jpeg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve las hamburguesas, los champiñones y el puré de patatas en platos, por separado.\nCubre la hamburguesa parcialmente con la salsa de mostaza.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Sirve las <strong>hamburguesas,</strong> los <strong>champiñones</strong> y el <strong>puré de patatas</strong> en platos, por separado.</li>\n<li dir=\"ltr\">Cubre la <strong>hamburguesa</strong> parcialmente con la <strong>salsa</strong> de <strong>mostaza.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Sirve las <strong>hamburguesas,</strong> los <strong>champiñones</strong> y el <strong>puré de patatas</strong> en platos, por separado.</li>\n<li dir=\"ltr\">Cubre la <strong>hamburguesa</strong> parcialmente con la <strong>salsa</strong> de <strong>mostaza.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849326a9f34f686e2db87cb/step-9866af50.jpg",
+          "path": "/6849326a9f34f686e2db87cb/step-9866af50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6849326a9f34f686e2db87cb-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCQCLP15006-2",
+  "updatedAt": "2026-01-21T14:00:56+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305393",
+      "type": "potato-masher",
+      "name": "Pasapurés"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "e2750906-e41c-475f-b070-bdfe0cc22fc9",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/hamburguesas-de-cerdo-con-salsa-casera-6849326a9f34f686e2db87cb",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436c233160a36674b9ee",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63fc92b0bbe06d8c7489ce76",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6849326a9f34f686e2db87cb-Hamburguesa de cerdo con salsa cremosa de mostaza.jpg",
+  "localCard": "/pdf/6849326a9f34f686e2db87cb-Hamburguesa de cerdo con salsa cremosa de mostaza.pdf"
+}

@@ -1,0 +1,721 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64788acd22f7f34e1f95d32e.pdf",
+  "category": null,
+  "clonedFrom": "63f8752d6d1f74727a153c13",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-06-01T12:10:53+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ad",
+      "type": "japanese",
+      "name": "Japonesa",
+      "slug": "japonesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ad-3f36131f.jpg"
+    }
+  ],
+  "description": "\"Teppanyaki\" es un estilo de cocina de origen japonés en el que los ingredientes y platos se preparan en una plancha metálica caliente (en japonés \"teppan\"). La popularización de este técnica ha llevado a que los platos que se conciben para ser cocinados de esta manera reciban este nombre y que, desde HelloFresh, te ofrezcamos un sabroso teppanyaki de pollo con zanahorias y espinacas.",
+  "descriptionHTML": "<p>&quot;Teppanyaki&quot; es un estilo de cocina de origen japonés en el que los ingredientes y platos se preparan en una plancha metálica caliente (en japonés &quot;teppan&quot;). La popularización de este técnica ha llevado a que los platos que se conciben para ser cocinados de esta manera reciban este nombre y que, desde HelloFresh, te ofrezcamos un sabroso teppanyaki de pollo con zanahorias y espinacas.</p>",
+  "descriptionMarkdown": "\"Teppanyaki\" es un estilo de cocina de origen japonés en el que los ingredientes y platos se preparan en una plancha metálica caliente (en japonés \"teppan\"). La popularización de este técnica ha llevado a que los platos que se conciben para ser cocinados de esta manera reciban este nombre y que, desde HelloFresh, te ofrezcamos un sabroso teppanyaki de pollo con zanahorias y espinacas.",
+  "difficulty": 1,
+  "favoritesCount": 19,
+  "headline": "con verduras salteadas sobre arroz basmati",
+  "id": "64788acd22f7f34e1f95d32e",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R12_W37_ES_ESCCLQC15044-2_main_0957high-9aa89010.jpg",
+  "imagePath": "/image/HF_Y23_R12_W37_ES_ESCCLQC15044-2_main_0957high-9aa89010.jpg",
+  "ingredients": [
+    {
+      "id": "6340437b2268bc1bff0d3cd1",
+      "uuid": "9838d4d1-5c2e-4e68-a073-54d514ccfdb0",
+      "name": "Pechuga de pollo troceada",
+      "type": "chicken-breast-diced",
+      "slug": "pechuga-de-pollo-troceada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd1-Pechuga de pollo troceada.jpg"
+    },
+    {
+      "id": "6340437241033266d7be951d",
+      "uuid": "ff045bdb-fe2c-58b4-bd0c-c0ccbddd8a2d",
+      "name": "Arroz jazmín",
+      "type": "jasmine-rice",
+      "slug": "arroz-jazmin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "imagePath": "/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437241033266d7be951d-Arroz jazmín.png"
+    },
+    {
+      "id": "6340437a41033266d7be9537",
+      "uuid": "7c3fcc0d-d339-508a-96e6-082699b85d49",
+      "name": "Pimiento amarillo",
+      "type": "yellow-bell-pepper",
+      "slug": "pimiento-amarillo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9537-ee4ca1af.png",
+      "imagePath": "/ingredient/6340437a41033266d7be9537-ee4ca1af.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9537-Pimiento amarillo.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340437941033266d7be952e",
+      "uuid": "5039a7c1-5de6-5cc1-995f-aebbb994e544",
+      "name": "Ajo tierno",
+      "type": "spring-onion",
+      "slug": "ajo-tierno",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "imagePath": "/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be952e-Ajo tierno.png"
+    },
+    {
+      "id": "63497e42ebf08332f1bff190",
+      "uuid": "bcfa42c0-e029-5d13-8331-0f471d6c79f8",
+      "name": "Salsa teriyaki",
+      "type": "teriyaki-sauce",
+      "slug": "salsa-teriyaki",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497e42ebf08332f1bff190-ae3d9109.png",
+      "imagePath": "/ingredient/63497e42ebf08332f1bff190-ae3d9109.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497e42ebf08332f1bff190-Salsa teriyaki.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/64788acd22f7f34e1f95d32e",
+  "name": "Teppanyaki de pollo con zanahoria y espinacas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 580,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2427,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 3.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 0.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 88.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 21.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 36,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.87,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 20,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 499,
+  "slug": "teppanyaki-de-pollo-con-zanahoria-y-espinacas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el agua (ver cantidad en ingredientes) y añade sal al gusto. Tapa y lleva a ebullición. Cuando hierva, añade el arroz, baja a fuego medio-bajo y tapa de nuevo. Cocina 12 min y remueve de vez en cuando. Luego, déjalo reposar con la tapa durante 10 min. Después, remueve el arroz con un tenedor y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes) y añade <strong>sal</strong> al gusto. Tapa y lleva a ebullición. Cuando hierva, añade el <strong>arroz</strong>, baja a fuego medio-bajo y tapa de nuevo. Cocina 12 min y remueve de vez en cuando. Luego, déjalo reposar con la tapa durante 10 min. Después, remueve el <strong>arroz</strong> con un tenedor y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes) y añade <strong>sal</strong> al gusto. Tapa y lleva a ebullición. Cuando hierva, añade el <strong>arroz</strong>, baja a fuego medio-bajo y tapa de nuevo. Cocina 12 min y remueve de vez en cuando. Luego, déjalo reposar con la tapa durante 10 min. Después, remueve el <strong>arroz</strong> con un tenedor y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788acd22f7f34e1f95d32e/step-c5c5b200.jpg",
+          "path": "/64788acd22f7f34e1f95d32e/step-c5c5b200.jpg",
+          "caption": "Hierve el arroz",
+          "localImage": "/images/recipes/64788acd22f7f34e1f95d32e-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela y pica el ajo (ver cantidad en ingredientes). Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Corta el pimiento por la mitad y quítale las semillas. Córtalo en tiras finas de 1 cm de grosor. Separa la parte blanca y la parte verde del ajo tierno y corta ambas partes en rodajas finas. Pela y ralla la zanahoria. Salpimienta el pollo.",
+      "instructionsHTML": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en tiras finas de 1 cm de grosor. Separa la parte blanca y la parte verde del <strong>ajo tierno </strong>y corta ambas partes en rodajas finas. Pela y ralla la <strong>zanahoria</strong>. <strong>Salpimienta</strong> el <strong>pollo</strong>.</p>",
+      "instructionsMarkdown": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en tiras finas. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en tiras finas de 1 cm de grosor. Separa la parte blanca y la parte verde del <strong>ajo tierno </strong>y corta ambas partes en rodajas finas. Pela y ralla la <strong>zanahoria</strong>. <strong>Salpimienta</strong> el <strong>pollo</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5c0a9a5edbdd9fc57e863cd6",
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788acd22f7f34e1f95d32e/step-f731f210.jpg",
+          "path": "/64788acd22f7f34e1f95d32e/step-f731f210.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/64788acd22f7f34e1f95d32e-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén grande, calienta un chorrito de aceite a fuego medio. Una vez caliente, agrega el pollo y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior. Cuando esté listo, retira de la sartén y reserva.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega el <strong>pollo</strong> y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior. Cuando esté listo, retira de la sartén y reserva.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, agrega el <strong>pollo</strong> y cocina 5-6 min, hasta que esté dorado y bien cocinado en el interior. Cuando esté listo, retira de la sartén y reserva.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788acd22f7f34e1f95d32e/step-b8002b20.jpg",
+          "path": "/64788acd22f7f34e1f95d32e/step-b8002b20.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/64788acd22f7f34e1f95d32e-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la sartén, agrega un chorrito de aceite junto con el ajo y la parte blanca del ajo tierno. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Luego, agrega el pimiento y la cebolla y cocina 4-5 min, removiendo regularmente, hasta que las verduras estén tiernas. Retira de la sartén y reserva. ",
+      "instructionsHTML": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y la parte blanca del <strong>ajo tierno</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Luego, agrega el <strong>pimiento</strong> y la <strong>cebolla</strong> y cocina 4-5 min, removiendo regularmente, hasta que las <strong>verduras</strong> estén tiernas. Retira de la sartén y reserva. </p>",
+      "instructionsMarkdown": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y la parte blanca del <strong>ajo tierno</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Luego, agrega el <strong>pimiento</strong> y la <strong>cebolla</strong> y cocina 4-5 min, removiendo regularmente, hasta que las <strong>verduras</strong> estén tiernas. Retira de la sartén y reserva. </p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788acd22f7f34e1f95d32e/step-06135f30.jpg",
+          "path": "/64788acd22f7f34e1f95d32e/step-06135f30.jpg",
+          "caption": "Saltea las verduras",
+          "localImage": "/images/recipes/64788acd22f7f34e1f95d32e-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la sartén, calienta un chorrito de aceite a fuego medio-alto. Luego, agrega la zanahoria rallada y la mitad de las espinacas (doble para 4p) y cocina durante 2 min, hasta que las espinacas se reduzcan en tamaño. Luego, añade el pollo, la salsa teriyaki, las verduras salteadas y un chorrito de agua. Salpimienta, remueve bien y cocina 1 min más a fuego medio.",
+      "instructionsHTML": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Luego, agrega la <strong>zanahoria</strong> rallada y la mitad de las <strong>espinacas</strong> (doble para 4p) y cocina durante 2 min, hasta que las <strong>espinacas</strong> se reduzcan en tamaño. Luego, añade el <strong>pollo</strong>, la <strong>salsa teriyaki</strong>, las <strong>verduras</strong> salteadas y un chorrito de <strong>agua</strong>. <strong>Salpimienta</strong>, remueve bien y cocina 1 min más a fuego medio.</p>",
+      "instructionsMarkdown": "<p>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Luego, agrega la <strong>zanahoria</strong> rallada y la mitad de las <strong>espinacas</strong> (doble para 4p) y cocina durante 2 min, hasta que las <strong>espinacas</strong> se reduzcan en tamaño. Luego, añade el <strong>pollo</strong>, la <strong>salsa teriyaki</strong>, las <strong>verduras</strong> salteadas y un chorrito de <strong>agua</strong>. <strong>Salpimienta</strong>, remueve bien y cocina 1 min más a fuego medio.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788acd22f7f34e1f95d32e/step-cd8af640.jpg",
+          "path": "/64788acd22f7f34e1f95d32e/step-cd8af640.jpg",
+          "caption": "Combina los ingredientes",
+          "localImage": "/images/recipes/64788acd22f7f34e1f95d32e-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el arroz jazmín en la base de los platos y cubre con el teppanyaki de pollo con verduras. Espolvorea la parte verde del ajo tierno sobre el plato.",
+      "instructionsHTML": "<p>Sirve el <strong>arroz jazmín</strong> en la base de los platos y cubre con el <strong>teppanyaki de pollo</strong> con <strong>verduras</strong>. Espolvorea la parte verde del <strong>ajo tierno</strong> sobre el plato.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>arroz jazmín</strong> en la base de los platos y cubre con el <strong>teppanyaki de pollo</strong> con <strong>verduras</strong>. Espolvorea la parte verde del <strong>ajo tierno</strong> sobre el plato.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788acd22f7f34e1f95d32e/step-b0120650.jpg",
+          "path": "/64788acd22f7f34e1f95d32e/step-b0120650.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/64788acd22f7f34e1f95d32e-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCCLQC15044-2",
+  "updatedAt": "2026-01-21T17:18:18+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    },
+    {
+      "id": "5c0a9a5edbdd9fc57e863cd6",
+      "type": "box-greater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    }
+  ],
+  "uuid": "9f2b5919-6334-4163-b9bf-b4c2490bf9be",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/teppanyaki-de-pollo-con-zanahoria-y-espinacas-64788acd22f7f34e1f95d32e",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9537",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63497e42ebf08332f1bff190",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9537",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63497e42ebf08332f1bff190",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64788acd22f7f34e1f95d32e-Teppanyaki de pollo con zanahoria y espinacas.jpg",
+  "localCard": "/pdf/64788acd22f7f34e1f95d32e-Teppanyaki de pollo con zanahoria y espinacas.pdf"
+}

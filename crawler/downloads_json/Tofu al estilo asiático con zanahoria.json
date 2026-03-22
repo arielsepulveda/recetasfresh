@@ -1,0 +1,811 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": "63f785a9bbe06d8c7489cdfa",
+  "canonicalLink": "https://www.hellofresh.es/recipes/tofu-al-estilo-teriyaki-63f785a9bbe06d8c7489cdfa",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66e14403323c9f705cd02e31-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "63497db4ebf08332f1bff18f",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-20T10:29:54+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "El uso de la salsa teriyaki es muy común en la cocina asiática debido a su gran versatilidad y el asombroso sabor que aporta a carnes, vegetales y arroces. En este caso, te ofrecemos una receta vegetariana en la que marinamos con este condimento unos dados de tofu que, combinados con el arroz basmati, darán lugar a un plato completo y sabroso.",
+  "descriptionHTML": "<p>El uso de la salsa teriyaki es muy común en la cocina asiática debido a su gran versatilidad y el asombroso sabor que aporta a carnes, vegetales y arroces. En este caso, te ofrecemos una receta vegetariana en la que marinamos con este condimento unos dados de tofu que, combinados con el arroz basmati, darán lugar a un plato completo y sabroso.</p>",
+  "descriptionMarkdown": "El uso de la salsa teriyaki es muy común en la cocina asiática debido a su gran versatilidad y el asombroso sabor que aporta a carnes, vegetales y arroces. En este caso, te ofrecemos una receta vegetariana en la que marinamos con este condimento unos dados de tofu que, combinados con el arroz basmati, darán lugar a un plato completo y sabroso.",
+  "difficulty": 1,
+  "favoritesCount": 5,
+  "headline": "con arroz basmati y semillas de sésamo tostadas",
+  "id": "66e14403323c9f705cd02e31",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R09_W01_ES_ESVV2004-113387-6_MAIN__high-86b0698f.jpg",
+  "imagePath": "/image/HF_Y24_R09_W01_ES_ESVV2004-113387-6_MAIN__high-86b0698f.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "663dd43a5e4dcee2f122a3d9",
+      "uuid": "5efbe02d-9aa7-530e-bbb6-d3f77a8d6e9d",
+      "name": "Tofu",
+      "type": "tofu",
+      "slug": "tofu",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/663dd43a5e4dcee2f122a3d9-60345e10.png",
+      "imagePath": "/ingredient/663dd43a5e4dcee2f122a3d9-60345e10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/663dd43a5e4dcee2f122a3d9-Tofu.png"
+    },
+    {
+      "id": "63497e42ebf08332f1bff190",
+      "uuid": "bcfa42c0-e029-5d13-8331-0f471d6c79f8",
+      "name": "Salsa teriyaki",
+      "type": "teriyaki-sauce",
+      "slug": "salsa-teriyaki",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497e42ebf08332f1bff190-ae3d9109.png",
+      "imagePath": "/ingredient/63497e42ebf08332f1bff190-ae3d9109.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497e42ebf08332f1bff190-Salsa teriyaki.png"
+    },
+    {
+      "id": "63be6f11bc0b80106b4671d1",
+      "uuid": "24b03259-ca4b-5338-bf7a-132e30d306ba",
+      "name": "Salsa de soja dulce",
+      "type": "ketjap-manis",
+      "slug": "salsa-de-soja-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63be6f11bc0b80106b4671d1-850a5056.png",
+      "imagePath": "/ingredient/63be6f11bc0b80106b4671d1-850a5056.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63be6f11bc0b80106b4671d1-Salsa de soja dulce.png"
+    },
+    {
+      "id": "636b7f74371ed3efb1da61cd",
+      "uuid": "de1c411e-d847-53a1-916a-23d030518916",
+      "name": "Semillas de sésamo blancas",
+      "type": "white-sesame-seeds",
+      "slug": "semillas-de-sesamo-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "imagePath": "/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636b7f74371ed3efb1da61cd-Semillas de sésamo blancas.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/66e14403323c9f705cd02e31",
+  "name": "Tofu al estilo asiático con zanahoria",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2642,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 632,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 21.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 3.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 97.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 24.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.6,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 13,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 382,
+  "slug": "tofu-al-estilo-teriyaki-con-zanahoria",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el agua para el arroz (ver cantidad en ingredientes), añade el arroz y sal al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el arroz para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz </strong>para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz </strong>para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14403323c9f705cd02e31/step-fe628700.jpg",
+          "path": "/66e14403323c9f705cd02e31/step-fe628700.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/66e14403323c9f705cd02e31-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Seca el tofu con papel de cocina, presionando ligeramente para eliminar la humedad. Luego, córtalo en dados de 1 cm. Colócalo en un bol junto con la salsa teriyaki, la salsa de soja dulce y la mitad de las semillas de sésamo. Mezcla y reserva hasta el siguiente paso. Calienta una sartén a fuego medio sin aceite. Una vez caliente, agrega las semillas de sésamo restantes y tuéstalas 2-3 min, removiendo ocasionalmente. Retira y reserva.",
+      "instructionsHTML": "<p><span>Seca el <strong>tofu</strong> con papel de cocina, presionando ligeramente para eliminar la humedad. Luego, córtalo en dados de 1 cm. Colócalo en un bol junto con la <strong>salsa</strong> <strong>teriyaki</strong>, la <strong>salsa de soja dulce</strong> y la mitad de las<strong> semillas de sésamo.</strong> Mezcla y reserva hasta el siguiente paso. Calienta una sartén a fuego medio sin aceite. Una vez caliente, agrega las <strong>semillas de sésamo</strong> restantes y tuéstalas 2-3 min, removiendo ocasionalmente. Retira y reserva.</span></p>",
+      "instructionsMarkdown": "<p><span>Seca el <strong>tofu</strong> con papel de cocina, presionando ligeramente para eliminar la humedad. Luego, córtalo en dados de 1 cm. Colócalo en un bol junto con la <strong>salsa</strong> <strong>teriyaki</strong>, la <strong>salsa de soja dulce</strong> y la mitad de las<strong> semillas de sésamo.</strong> Mezcla y reserva hasta el siguiente paso. Calienta una sartén a fuego medio sin aceite. Una vez caliente, agrega las <strong>semillas de sésamo</strong> restantes y tuéstalas 2-3 min, removiendo ocasionalmente. Retira y reserva.</span></p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f",
+        "59d49a9319279f8fe60e866e",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14403323c9f705cd02e31/step-7632ee10.jpg",
+          "path": "/66e14403323c9f705cd02e31/step-7632ee10.jpg",
+          "caption": "Marina el tofu",
+          "localImage": "/images/recipes/66e14403323c9f705cd02e31-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Calienta la sartén a fuego medio sin aceite. Luego, cocina el tofu junto con el marinado 2-3 min, removiendo ocasionalmente, hasta que la salsa se haya reducido y empiece a caramelizarse. Retira de la sartén y reserva.",
+      "instructionsHTML": "<p>Calienta la sartén a fuego medio sin aceite. Luego, cocina el <strong>tofu</strong> junto con el <strong>marinado</strong> 2-3 min, removiendo ocasionalmente, hasta que la <strong>salsa</strong> se haya reducido y empiece a caramelizarse. Retira de la sartén y reserva.</p>",
+      "instructionsMarkdown": "<p>Calienta la sartén a fuego medio sin aceite. Luego, cocina el <strong>tofu</strong> junto con el <strong>marinado</strong> 2-3 min, removiendo ocasionalmente, hasta que la <strong>salsa</strong> se haya reducido y empiece a caramelizarse. Retira de la sartén y reserva.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14403323c9f705cd02e31/step-0ce25820.jpg",
+          "path": "/66e14403323c9f705cd02e31/step-0ce25820.jpg",
+          "caption": "Saltea el tofu",
+          "localImage": "/images/recipes/66e14403323c9f705cd02e31-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Pela la cebolla, divídela en dos y córtala en daditos pequeños. Pela y pica el ajo (ver cantidad en ingredientes). Pela la zanahoria y, con la ayuda del pelador, haz cintas a lo largo.",
+      "instructionsHTML": "<p>Pela la <strong>cebolla</strong>, divídela en dos y córtala en daditos pequeños. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>zanahoria</strong> y, con la ayuda del pelador, haz cintas a lo largo.</p>",
+      "instructionsMarkdown": "<p>Pela la <strong>cebolla</strong>, divídela en dos y córtala en daditos pequeños. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>zanahoria</strong> y, con la ayuda del pelador, haz cintas a lo largo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14403323c9f705cd02e31/step-9c4a7b30.jpg",
+          "path": "/66e14403323c9f705cd02e31/step-9c4a7b30.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/66e14403323c9f705cd02e31-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la cebolla y sal y cocina 4-5 min, removiendo frecuentemente. Cuando la cebolla esté transparente, añade las cintas de zanahoria y el agua para la salsa (ver cantidad en ingredientes) y cocina 3-4 min a fuego medio, removiendo para integrar. Incorpora el tofu de nuevo a la sartén y mezcla bien.",
+      "instructionsHTML": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la <strong>cebolla</strong> y <strong>sal</strong> y cocina 4-5 min, removiendo frecuentemente. Cuando la <strong>cebolla</strong> esté transparente, añade las cintas de <strong>zanahoria</strong> y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes) y cocina 3-4 min a fuego medio, removiendo para integrar. Incorpora el <strong>tofu</strong> de nuevo a la sartén y mezcla bien.</p>",
+      "instructionsMarkdown": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la <strong>cebolla</strong> y <strong>sal</strong> y cocina 4-5 min, removiendo frecuentemente. Cuando la <strong>cebolla</strong> esté transparente, añade las cintas de <strong>zanahoria</strong> y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes) y cocina 3-4 min a fuego medio, removiendo para integrar. Incorpora el <strong>tofu</strong> de nuevo a la sartén y mezcla bien.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14403323c9f705cd02e31/step-ff2ebd40.jpg",
+          "path": "/66e14403323c9f705cd02e31/step-ff2ebd40.jpg",
+          "caption": "Saltea las verduras",
+          "localImage": "/images/recipes/66e14403323c9f705cd02e31-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Prueba y rectifica de sal y pimienta. Sirve el arroz en la base de los platos y coloca el tofu al estilo teriyaki con zanahoria encima. Decora con las semillas de sésamo tostadas.",
+      "instructionsHTML": "<p>Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>. Sirve el <strong>arroz</strong> en la base de los platos y coloca el <strong>tofu al estilo teriyaki</strong> con <strong>zanahoria</strong> encima. Decora con las <strong>semillas de sésamo</strong> tostadas.</p>",
+      "instructionsMarkdown": "<p>Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>. Sirve el <strong>arroz</strong> en la base de los platos y coloca el <strong>tofu al estilo teriyaki</strong> con <strong>zanahoria</strong> encima. Decora con las <strong>semillas de sésamo</strong> tostadas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14403323c9f705cd02e31/step-f3299650.jpg",
+          "path": "/66e14403323c9f705cd02e31/step-f3299650.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/66e14403323c9f705cd02e31-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESVV2004-113387-12",
+  "updatedAt": "2026-01-21T17:18:44+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    }
+  ],
+  "uuid": "f85dfed4-8b07-44b3-9933-897e1103360f",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/tofu-al-estilo-teriyaki-con-zanahoria-66e14403323c9f705cd02e31",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497e42ebf08332f1bff190",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63be6f11bc0b80106b4671d1",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497e42ebf08332f1bff190",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63be6f11bc0b80106b4671d1",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66e14403323c9f705cd02e31-Tofu al estilo asiático con zanahoria.jpg",
+  "localCard": "/pdf/66e14403323c9f705cd02e31-Tofu al estilo asiático con zanahoria.pdf"
+}

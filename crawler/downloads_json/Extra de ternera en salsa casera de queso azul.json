@@ -1,0 +1,665 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 4,
+  "canonical": "6347ef44e9568549b7849791",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ternera-con-salsa-de-queso-azul-6347ef44e9568549b7849791",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "692efa4c114b735a00618e94",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-10T12:12:26+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "¿Quién dijo que la tradición española no admite guiños modernos? Esta ternera en salsa de queso azul lo demuestra, abrazando el gusto patrio por las salsas caseras y los asados lentos. Con patatas y cebolla al tomillo y judías verdes, mantiene ese espíritu hogareño tan nuestro.",
+  "descriptionHTML": "<p>¿Quién dijo que la tradición española no admite guiños modernos? Esta ternera en salsa de queso azul lo demuestra, abrazando el gusto patrio por las salsas caseras y los asados lentos. Con patatas y cebolla al tomillo y judías verdes, mantiene ese espíritu hogareño tan nuestro.</p>",
+  "descriptionMarkdown": "¿Quién dijo que la tradición española no admite guiños modernos? Esta ternera en salsa de queso azul lo demuestra, abrazando el gusto patrio por las salsas caseras y los asados lentos. Con patatas y cebolla al tomillo y judías verdes, mantiene ese espíritu hogareño tan nuestro.",
+  "difficulty": 1,
+  "favoritesCount": 8,
+  "headline": "con patatas y cebolla asadas al tomillo y judías verdes",
+  "id": "693959c01101204cae74a440",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R27_W03_ES_ESCB0010-2_Main_F1cover_the_meat_with_more_sauce_edit_high-337547e1.jpg",
+  "imagePath": "/image/HF_Y26_R27_W03_ES_ESCB0010-2_Main_F1cover_the_meat_with_more_sauce_edit_high-337547e1.jpg",
+  "ingredients": [
+    {
+      "id": "6340437741033266d7be952b",
+      "uuid": "26c839a7-90d5-5ab1-808a-7f16c7526471",
+      "name": "Filete de ternera",
+      "type": "rump-steak",
+      "slug": "filete-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "imagePath": "/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437741033266d7be952b-Filete de ternera.png"
+    },
+    {
+      "id": "6352b13f0f0324d2cd53b1bd",
+      "uuid": "20f72727-c8b3-5616-a31c-7b4594015052",
+      "name": "Queso azul",
+      "type": "blue-cheese",
+      "slug": "queso-azul",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352b13f0f0324d2cd53b1bd-35325c9c.png",
+      "imagePath": "/ingredient/6352b13f0f0324d2cd53b1bd-35325c9c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352b13f0f0324d2cd53b1bd-Queso azul.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6633472d270adf4f95c57fc5",
+      "uuid": "21a1020d-ac88-52c7-a9e3-531ddd24a275",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6633472d270adf4f95c57fc5-f6ab4a06.png",
+      "imagePath": "/ingredient/6633472d270adf4f95c57fc5-f6ab4a06.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6633472d270adf4f95c57fc5-Leche.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404371233160a36674ba05",
+      "uuid": "0af471b0-f5b6-53c8-bf79-1fa315f20bf3",
+      "name": "Judías verdes",
+      "type": "green-beans",
+      "slug": "judias-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba05-1e297429.png",
+      "imagePath": "/ingredient/63404371233160a36674ba05-1e297429.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba05-Judías verdes.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/693959c01101204cae74a440",
+  "name": "Extra de ternera en salsa casera de queso azul",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3805,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 909,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 22.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 49.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 71.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.68,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 3,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 748,
+  "slug": "extra-de-ternera-en-salsa-casera-de-queso-azul",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta tu horno a 220ºC.\nCorta las patatas en bastones de 1 cm de ancho y 3-4 cm de largo.\nRetira las puntas de las judías verdes y córtalas en tercios.\nPela y ralla el ajo.\nPela la cebolla y córtala en tiras finas.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta tu horno a 220ºC.</li>\n<li>Corta las <strong>patatas</strong> en bastones de 1 cm de ancho y 3-4 cm de largo.</li>\n<li>Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios.</li>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta tu horno a 220ºC.</li>\n<li>Corta las <strong>patatas</strong> en bastones de 1 cm de ancho y 3-4 cm de largo.</li>\n<li>Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios.</li>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/693959c01101204cae74a440/step-f4e76500.jpg",
+          "path": "/693959c01101204cae74a440/step-f4e76500.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/693959c01101204cae74a440-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nColoca las patatas y la cebolla en una bandeja de horno con papel de horno.\nAgrega el tomillo, un chorrito de aceite, sal y pimienta.\nMezcla y hornea el estante superior 25-30 min, hasta que los vegetales estén dorados. Da la vuelta a mitad cocción.\n",
+      "instructionsHTML": "<ul>\n<li>Coloca las<strong> patatas</strong> y la <strong>cebolla</strong> en una bandeja de horno con papel de horno.</li>\n<li>Agrega el <strong>tomillo</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Mezcla y hornea el estante superior 25-30 min, hasta que los <strong>vegetales</strong> estén dorados. Da la vuelta a mitad cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca las<strong> patatas</strong> y la <strong>cebolla</strong> en una bandeja de horno con papel de horno.</li>\n<li>Agrega el <strong>tomillo</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Mezcla y hornea el estante superior 25-30 min, hasta que los <strong>vegetales</strong> estén dorados. Da la vuelta a mitad cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/693959c01101204cae74a440/step-70ea1c10.jpg",
+          "path": "/693959c01101204cae74a440/step-70ea1c10.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/693959c01101204cae74a440-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nColoca el queso azul en un bol y desmenuza con una cuchara en trozos tan pequeños como puedas.\nEn un cazo, agrega la leche y el queso azul y lleva a ebullición.\nLuego, cocina a fuego medio-alto 3-4 min, removiendo con varillas, hasta que el queso se deshaga y la salsa espese.\nSalpimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">Coloca el <strong>queso azul</strong> en un bol y desmenuza con una cuchara en trozos tan pequeños como puedas.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">En un cazo, agrega la <strong>leche</strong> y el <strong>queso azul</strong> y lleva a ebullición.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Luego, cocina a fuego medio-alto 3-4 min, removiendo con varillas, hasta que el <strong>queso</strong> se deshaga y la <strong>salsa</strong> espese.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\"><strong>Salpimienta</strong> al gusto.</span></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">Coloca el <strong>queso azul</strong> en un bol y desmenuza con una cuchara en trozos tan pequeños como puedas.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">En un cazo, agrega la <strong>leche</strong> y el <strong>queso azul</strong> y lleva a ebullición.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Luego, cocina a fuego medio-alto 3-4 min, removiendo con varillas, hasta que el <strong>queso</strong> se deshaga y la <strong>salsa</strong> espese.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\"><strong>Salpimienta</strong> al gusto.</span></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/693959c01101204cae74a440/step-600ff520.jpg",
+          "path": "/693959c01101204cae74a440/step-600ff520.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/693959c01101204cae74a440-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\n\nSalpimienta la ternera.\nEn una sartén, calienta un chorrito de aceite a fuego alto. Cuando la sartén esté caliente, cocina la ternera 1 min por lado, hasta que esté dorada.\nRetira de la sartén.\n\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p><div>\n<ul>\n<li><strong>Salpimienta</strong> la <strong>ternera.</strong></li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego alto. Cuando la sartén esté caliente, cocina la <strong>ternera</strong> 1 min por lado, hasta que esté dorada.</li>\n<li>Retira de la sartén.</li>\n</ul>\n</div>\n<div>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</div></p>",
+      "instructionsMarkdown": "<div>\n<ul>\n<li><strong>Salpimienta</strong> la <strong>ternera.</strong></li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego alto. Cuando la sartén esté caliente, cocina la <strong>ternera</strong> 1 min por lado, hasta que esté dorada.</li>\n<li>Retira de la sartén.</li>\n</ul>\n</div>\n<div>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</div>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/693959c01101204cae74a440/step-e31eb330.jpg",
+          "path": "/693959c01101204cae74a440/step-e31eb330.jpg",
+          "caption": "Carne al fuego",
+          "localImage": "/images/recipes/693959c01101204cae74a440-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn la sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAñade las judías verdes y saltea 30 segundos.\nAgrega un chorrito de agua a la sartén y cubre con una tapa.\nCocina 3-4 min, hasta que las judías estén tiernas. Salpimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade las <strong>judías verdes</strong> y saltea 30 segundos.</li>\n<li>Agrega un chorrito de <strong>agua</strong> a la sartén y cubre con una tapa.</li>\n<li>Cocina 3-4 min, hasta que las <strong>judías</strong> estén tiernas. <strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade las <strong>judías verdes</strong> y saltea 30 segundos.</li>\n<li>Agrega un chorrito de <strong>agua</strong> a la sartén y cubre con una tapa.</li>\n<li>Cocina 3-4 min, hasta que las <strong>judías</strong> estén tiernas. <strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/693959c01101204cae74a440/step-d9628440.jpg",
+          "path": "/693959c01101204cae74a440/step-d9628440.jpg",
+          "caption": "Turno de las judías",
+          "localImage": "/images/recipes/693959c01101204cae74a440-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\n\nCalienta la salsa de queso azul a fuego bajo.\nSirve la patata y cebolla asadas, las judías verdes y la ternera en platos, por separado.\nCubre la ternera con la salsa de queso azul.\n\n",
+      "instructionsHTML": "<p><div>\n<ul>\n<li>Calienta la <strong>salsa</strong> de <strong>queso azul</strong> a fuego bajo.</li>\n<li>Sirve la <strong>patata</strong> y <strong>cebolla</strong> asadas, las <strong>judías verdes</strong> y la <strong>ternera</strong> en platos, por separado.</li>\n<li>Cubre la <strong>ternera</strong> con la <strong>salsa</strong> de <strong>queso azul.</strong></li>\n</ul>\n</div></p>",
+      "instructionsMarkdown": "<div>\n<ul>\n<li>Calienta la <strong>salsa</strong> de <strong>queso azul</strong> a fuego bajo.</li>\n<li>Sirve la <strong>patata</strong> y <strong>cebolla</strong> asadas, las <strong>judías verdes</strong> y la <strong>ternera</strong> en platos, por separado.</li>\n<li>Cubre la <strong>ternera</strong> con la <strong>salsa</strong> de <strong>queso azul.</strong></li>\n</ul>\n</div>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/693959c01101204cae74a440/step-a75a3a50.jpg",
+          "path": "/693959c01101204cae74a440/step-a75a3a50.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/693959c01101204cae74a440-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCB0010-DP-1-2",
+  "updatedAt": "2026-01-21T14:01:36+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    }
+  ],
+  "uuid": "92a1c55f-5ac6-4552-baf1-3e9ae9baadaf",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/extra-de-ternera-en-salsa-casera-de-queso-azul-693959c01101204cae74a440",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6352b13f0f0324d2cd53b1bd",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6633472d270adf4f95c57fc5",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 1000,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6352b13f0f0324d2cd53b1bd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6633472d270adf4f95c57fc5",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 1500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6352b13f0f0324d2cd53b1bd",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6633472d270adf4f95c57fc5",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/693959c01101204cae74a440-Extra de ternera en salsa casera de queso azul.jpg"
+}

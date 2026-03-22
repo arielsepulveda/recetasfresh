@@ -1,0 +1,692 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "638a20d24af6d174904411fd",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-en-salsa-de-setas-portobello-638a20d24af6d174904411fd",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "6965098ecb804208c4a060c6",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2026-01-14T13:04:16+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "Estamos seguros de que habrás probado el pollo a la plancha, frito, en un guiso o en una ensalada, pero esta receta lleva el pollo a un terreno quizá inexplorado. La salsa de setas que acompaña los muslos te sorprenderá por su profundidad y sabor, que se verá complementado por las judías verdes salteadas, que completan este maravilloso plato.",
+  "descriptionHTML": "<p>Estamos seguros de que habrás probado el pollo a la plancha, frito, en un guiso o en una ensalada, pero esta receta lleva el pollo a un terreno quizá inexplorado. La salsa de setas que acompaña los muslos te sorprenderá por su profundidad y sabor, que se verá complementado por las judías verdes salteadas, que completan este maravilloso plato.</p>",
+  "descriptionMarkdown": "Estamos seguros de que habrás probado el pollo a la plancha, frito, en un guiso o en una ensalada, pero esta receta lleva el pollo a un terreno quizá inexplorado. La salsa de setas que acompaña los muslos te sorprenderá por su profundidad y sabor, que se verá complementado por las judías verdes salteadas, que completan este maravilloso plato.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con judías verdes salteadas y arroz",
+  "id": "6967944f6a9c9fe912716ce9",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R29_W08_ES_ESCFC13499-4_Main_R_high-1ce64875.jpg",
+  "imagePath": "/image/HF_Y26_R29_W08_ES_ESCFC13499-4_Main_R_high-1ce64875.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f7",
+      "uuid": "0c719142-be77-4ddd-94a0-b6219698b827",
+      "name": "Champiñones",
+      "type": "champignon-mushrooms",
+      "slug": "champinones",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f7-0b3d751e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f7-Champiñones.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404371233160a36674ba05",
+      "uuid": "0af471b0-f5b6-53c8-bf79-1fa315f20bf3",
+      "name": "Judías verdes",
+      "type": "green-beans",
+      "slug": "judias-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba05-1e297429.png",
+      "imagePath": "/ingredient/63404371233160a36674ba05-1e297429.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba05-Judías verdes.png"
+    },
+    {
+      "id": "6340436e233160a36674b9f9",
+      "uuid": "43cf496e-b81e-45b7-977d-ba85227fed76",
+      "name": "Muslos de pollo deshuesados",
+      "type": "chicken-thighs",
+      "slug": "muslos-de-pollo-deshuesados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9f9-Muslos de pollo deshuesados.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6967944f6a9c9fe912716ce9",
+  "name": "Extra de muslo de pollo en salsa cremosa de champiñones",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4092,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 978,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 50.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 18.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 81.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 73.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.09,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 740,
+  "slug": "extra-de-muslo-de-pollo-en-salsa-cremosa-de-champinones",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nLlena un cazo con el agua, añade el arroz y sal y lleva a ebullición con el cazo tapado.\nCuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.\nLuego, retira del fuego y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua</strong>, añade el <strong>arroz</strong> y <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li>Cuando hierva, cocina a fuego medio-bajo 11-13 min, removiendo.</li>\n<li>Luego, retira del fuego y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6967944f6a9c9fe912716ce9/step-f63fa700.jpg",
+          "path": "/6967944f6a9c9fe912716ce9/step-f63fa700.jpg",
+          "caption": "Arroz en marcha",
+          "localImage": "/images/recipes/6967944f6a9c9fe912716ce9-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y pica el ajo.\nLimpia los champiñones con un paño húmedo y retira el extremo del pie. Luego, córtalos en cuartos.\nPela la cebolla y córtala en cubitos pequeños.\nRetira las puntas de las judías verdes y córtalas en tercios.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Limpia l<span style=\"color: rgb(224, 62, 45)\"><span style=\"color: rgb(0, 0, 0)\">os <strong>champiñones</strong></span></span> con un paño húmedo y retira el extremo del pie. Luego, córtalos en cuartos.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en cubitos pequeños.</li>\n<li>Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Limpia l<span style=\"color: rgb(224, 62, 45)\"><span style=\"color: rgb(0, 0, 0)\">os <strong>champiñones</strong></span></span> con un paño húmedo y retira el extremo del pie. Luego, córtalos en cuartos.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en cubitos pequeños.</li>\n<li>Retira las puntas de las <strong>judías verdes</strong> y córtalas en tercios.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6967944f6a9c9fe912716ce9/step-e0a7d810.jpg",
+          "path": "/6967944f6a9c9fe912716ce9/step-e0a7d810.jpg",
+          "caption": "Cuchillo en mano",
+          "localImage": "/images/recipes/6967944f6a9c9fe912716ce9-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una olla, calienta un chorrito de aceite a fuego medio-alto. Una vez caliente, añade los muslos de pollo, salpimienta y cocina 3-4 min por lado, hasta que queden dorados.\nRetira y reserva en un plato.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, añade los <strong>muslos de pollo</strong>, <strong>salpimienta</strong> y cocina 3-4<span style=\"color: rgb(0, 0, 0)\"> min por lado,</span> hasta que queden dorados.</li>\n<li>Retira y reserva en un plato.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Una vez caliente, añade los <strong>muslos de pollo</strong>, <strong>salpimienta</strong> y cocina 3-4<span style=\"color: rgb(0, 0, 0)\"> min por lado,</span> hasta que queden dorados.</li>\n<li>Retira y reserva en un plato.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b",
+        "59d49a9319279f8fe60e8671"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6967944f6a9c9fe912716ce9/step-7481ac20.jpg",
+          "path": "/6967944f6a9c9fe912716ce9/step-7481ac20.jpg",
+          "caption": "Pollo al fuego",
+          "localImage": "/images/recipes/6967944f6a9c9fe912716ce9-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la olla, agrega un chorrito de aceite y la mitad del ajo. Calienta a fuego medio y cocina 1-2 min.\nAñade la cebolla, salpimienta y cocina 4-5 min, removiendo, hasta que quede transparente.\nAgrega los champiñones y cocina a fuego medio-alto 2-3 min.\nAñade la nata líquida y lleva a ebullición, luego, añade el pollo y cocina 5-6 min más, hasta que la salsa se reduzca y el pollo quede bien cocinado.\nPrueba y rectifica de sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>En la olla, agrega un chorrito de <strong>aceite</strong> y la mitad del <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade la <strong>cebolla</strong>, <strong>salpimienta</strong> y cocina 4-5 min, removiendo, hasta que quede transparente.</li>\n<li>Agrega los <strong>champiñones</strong> y cocina a fuego medio-alto 2-3 min.</li>\n<li>Añade la <strong>nata líquida</strong> y lleva a ebullición, luego, añade el <strong>pollo</strong> y cocina 5-6 min más, hasta que la <strong>salsa</strong> se reduzca y el <strong>pollo</strong> quede bien cocinado.</li>\n<li>Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la olla, agrega un chorrito de <strong>aceite</strong> y la mitad del <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade la <strong>cebolla</strong>, <strong>salpimienta</strong> y cocina 4-5 min, removiendo, hasta que quede transparente.</li>\n<li>Agrega los <strong>champiñones</strong> y cocina a fuego medio-alto 2-3 min.</li>\n<li>Añade la <strong>nata líquida</strong> y lleva a ebullición, luego, añade el <strong>pollo</strong> y cocina 5-6 min más, hasta que la <strong>salsa</strong> se reduzca y el <strong>pollo</strong> quede bien cocinado.</li>\n<li>Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6967944f6a9c9fe912716ce9/step-1e8feb30.jpg",
+          "path": "/6967944f6a9c9fe912716ce9/step-1e8feb30.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/6967944f6a9c9fe912716ce9-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nMientras tanto, en una sartén, añade un chorrito de aceite y el ajo restante. Calienta a fuego medio y cocina 1-2 min.\nAñade las judías verdes y saltea a fuego alto 1-2 min, hasta que se doren.\nAñade un chorrito de agua, tapa la sartén y cocina a fuego medio-alto 4-5 min.\nSalpimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Mientras tanto, en una sartén, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong> restante. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade las <strong>judías verdes</strong> y saltea a fuego alto 1-2 min, hasta que se doren.</li>\n<li>Añade un chorrito de <strong>agua,</strong> tapa la sartén y cocina a fuego medio-alto 4-5 min.</li>\n<li><strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Mientras tanto, en una sartén, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong> restante. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade las <strong>judías verdes</strong> y saltea a fuego alto 1-2 min, hasta que se doren.</li>\n<li>Añade un chorrito de <strong>agua,</strong> tapa la sartén y cocina a fuego medio-alto 4-5 min.</li>\n<li><strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6967944f6a9c9fe912716ce9/step-9197e440.jpg",
+          "path": "/6967944f6a9c9fe912716ce9/step-9197e440.jpg",
+          "caption": "Judías al fuego",
+          "localImage": "/images/recipes/6967944f6a9c9fe912716ce9-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el arroz en un lado de los platos.\nAl otro lado, coloca el pollo en salsa de setas y las judías verdes, por separado.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>arroz</strong> en un lado de los platos.</li>\n<li>Al otro lado, coloca el <strong>pollo</strong> en <strong>salsa de setas</strong> y las <strong>judías verdes</strong>, por separado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>arroz</strong> en un lado de los platos.</li>\n<li>Al otro lado, coloca el <strong>pollo</strong> en <strong>salsa de setas</strong> y las <strong>judías verdes</strong>, por separado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6967944f6a9c9fe912716ce9/step-df5a3750.jpg",
+          "path": "/6967944f6a9c9fe912716ce9/step-df5a3750.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/6967944f6a9c9fe912716ce9-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESCFC13499-DP-1-2",
+  "updatedAt": "2026-02-12T06:41:59+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "59d49a9319279f8fe60e8671",
+      "type": "medium-pot",
+      "name": "Olla mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    }
+  ],
+  "uuid": "14f875b3-493b-4506-8c05-702e286047ec",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/extra-de-muslo-de-pollo-en-salsa-cremosa-de-champinones-6967944f6a9c9fe912716ce9",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 660,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 1320,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f7",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 1980,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 960,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6967944f6a9c9fe912716ce9-Extra de muslo de pollo en salsa cremosa de champiñones.jpg"
+}

@@ -1,0 +1,851 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5fdcacf19520e811397b51c9",
+      "name": "Moluscos",
+      "type": "traces-of-molluscs",
+      "slug": "traces-of-moluscos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97a2ae08b54dad34eb82",
+      "name": "Sulfitos",
+      "type": "traces-of-sulphites",
+      "slug": "traces-of-sulfitos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": "63ca9c15812a821893bf04f1",
+  "canonicalLink": "https://www.hellofresh.es/recipes/salmon-a-la-plancha-con-juliana-de-puerros-63ca9c15812a821893bf04f1",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66b335e465c5bf01517d35d7-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6352586f0f0324d2cd53b19c",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-24T13:24:47+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "¿Con qué puedo acompañar el salmón para tener un plato divertido y apetecible? Con esta receta, ofrecemos una respuesta a la pregunta con una alternativa fácil y sabrosa. Adereza el salmón con una mayonesa de soja y semillas de sésamo tostadas y combínalo con una juliana de puerros y quinoa.",
+  "descriptionHTML": "<p>¿Con qué puedo acompañar el salmón para tener un plato divertido y apetecible? Con esta receta, ofrecemos una respuesta a la pregunta con una alternativa fácil y sabrosa. Adereza el salmón con una mayonesa de soja y semillas de sésamo tostadas y combínalo con una juliana de puerros y quinoa.</p>",
+  "descriptionMarkdown": "¿Con qué puedo acompañar el salmón para tener un plato divertido y apetecible? Con esta receta, ofrecemos una respuesta a la pregunta con una alternativa fácil y sabrosa. Adereza el salmón con una mayonesa de soja y semillas de sésamo tostadas y combínalo con una juliana de puerros y quinoa.",
+  "difficulty": 1,
+  "favoritesCount": 21,
+  "headline": "con quinoa y mayonesa de soja",
+  "id": "66b335e465c5bf01517d35d7",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R18_W31_ES_ESCLF13453-4_Main_high-4524fd3d.jpg",
+  "imagePath": "/image/HF_Y24_R18_W31_ES_ESCLF13453-4_Main_high-4524fd3d.jpg",
+  "ingredients": [
+    {
+      "id": "66c73095a1fdf4e8243676f0",
+      "uuid": "a69c7668-a546-418e-a0af-ec9b23156b6b",
+      "name": "Salmón noruego",
+      "type": "salmon",
+      "slug": "salmon-noruego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/66c73095a1fdf4e8243676f0-f2200858.png",
+      "imagePath": "/ingredient/66c73095a1fdf4e8243676f0-f2200858.png",
+      "shipped": true,
+      "allergens": [
+        "5fdcacf19520e811397b51c9",
+        "5acf97a2ae08b54dad34eb82",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/66c73095a1fdf4e8243676f0-Salmón noruego.png"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "63c6c4e85d055dd6f722b0c2",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "imagePath": "/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63c6c4e85d055dd6f722b0c2-Mayonesa.png"
+    },
+    {
+      "id": "634d5daaebf08332f1bff1a8",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "imagePath": "/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d5daaebf08332f1bff1a8-Salsa de soja.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "636b7f74371ed3efb1da61cd",
+      "uuid": "de1c411e-d847-53a1-916a-23d030518916",
+      "name": "Semillas de sésamo blancas",
+      "type": "white-sesame-seeds",
+      "slug": "semillas-de-sesamo-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "imagePath": "/ingredient/636b7f74371ed3efb1da61cd-15eb8084.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636b7f74371ed3efb1da61cd-Semillas de sésamo blancas.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "63404376233160a36674ba1a",
+      "uuid": "dddc446f-dcdd-53de-a0df-b4b78c372e51",
+      "name": "Quinoa",
+      "type": "quinoa",
+      "slug": "quinoa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1a-324d6369.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1a-324d6369.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1a-Quinoa.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/66b335e465c5bf01517d35d7",
+  "name": "Salmón a la plancha con juliana de puerros",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2623,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 627,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 34.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 30.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.09,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 37,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 363,
+  "slug": "salmon-juliana-puerros-quinoa",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En un cazo, agrega el agua (ver cantidad en ingredientes), una pizca de sal, el caldo vegetal y la quinoa. Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado. Una vez listo, remueve para que la quinoa no se pegue y deja reposar con la tapa puesta hasta el momento de servir.",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En un cazo, agrega el <strong>agua</strong> (ver cantidad en ingredientes), una pizca de <strong>sal</strong>, el<strong> caldo vegetal</strong> y la <strong>quinoa</strong>. Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado. Una vez listo, remueve para que la <strong>quinoa</strong> no se pegue y deja reposar con la tapa puesta hasta el momento de servir.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En un cazo, agrega el <strong>agua</strong> (ver cantidad en ingredientes), una pizca de <strong>sal</strong>, el<strong> caldo vegetal</strong> y la <strong>quinoa</strong>. Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado. Una vez listo, remueve para que la <strong>quinoa</strong> no se pegue y deja reposar con la tapa puesta hasta el momento de servir.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335e465c5bf01517d35d7/step-14b1ec00.jpg",
+          "path": "/66b335e465c5bf01517d35d7/step-14b1ec00.jpg",
+          "caption": "Cocina la quinoa ",
+          "localImage": "/images/recipes/66b335e465c5bf01517d35d7-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Calienta una sartén a fuego medio sin aceite. Una vez caliente, agrega la mitad de las semillas de sésamo (doble para 4p) y tuéstalas 2-3 min, removiendo ocasionalmente. Retira y reserva.",
+      "instructionsHTML": "<p dir=\"ltr\">Calienta una sartén a fuego medio sin aceite. Una vez caliente, agrega la mitad de las <strong>semillas</strong> <strong>de sésamo</strong> (doble para 4p) y tuéstalas 2-3 min, removiendo ocasionalmente. Retira y reserva.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Calienta una sartén a fuego medio sin aceite. Una vez caliente, agrega la mitad de las <strong>semillas</strong> <strong>de sésamo</strong> (doble para 4p) y tuéstalas 2-3 min, removiendo ocasionalmente. Retira y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335e465c5bf01517d35d7/step-c22e2810.jpg",
+          "path": "/66b335e465c5bf01517d35d7/step-c22e2810.jpg",
+          "caption": "Tuesta las semillas",
+          "localImage": "/images/recipes/66b335e465c5bf01517d35d7-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Pela y pica el ajo (ver cantidad en ingredientes). Pela la cebolla, divídela en dos y córtala en tiras finas. Retira las raíces y el extremo verde del puerro y deséchalos. Córtalo por la mitad a lo largo, luego, divide cada mitad en tres partes. De cada parte, corta tiras finas longitudinales.",
+      "instructionsHTML": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. Córtalo por la mitad a lo largo, luego, divide cada mitad en tres partes. De cada parte, corta tiras finas longitudinales.</p>",
+      "instructionsMarkdown": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. Córtalo por la mitad a lo largo, luego, divide cada mitad en tres partes. De cada parte, corta tiras finas longitudinales.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335e465c5bf01517d35d7/step-61d32820.jpg",
+          "path": "/66b335e465c5bf01517d35d7/step-61d32820.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/66b335e465c5bf01517d35d7-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la cebolla, el puerro, la mitad de la salsa de soja, una pizca de sal y un chorrito de agua. Cocina, con la sartén tapada, durante 7-8 min o hasta que las verduras estén blandas y un poco doradas, removiendo ocasionalmente. Cocina sin la tapa 2 min más. Retira de la sartén y reserva en un bol.",
+      "instructionsHTML": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la <strong>cebolla</strong>, el <strong>puerro</strong>, la mitad de la <strong>salsa de soja</strong>, una pizca de <strong>sal</strong> y un chorrito de <strong>agua</strong>. Cocina, con la sartén tapada, durante 7-8 min o hasta que las <strong>verduras</strong> estén blandas y un poco doradas, removiendo ocasionalmente. Cocina sin la tapa 2 min más. Retira de la sartén y reserva en un bol.</p>",
+      "instructionsMarkdown": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Luego, agrega la <strong>cebolla</strong>, el <strong>puerro</strong>, la mitad de la <strong>salsa de soja</strong>, una pizca de <strong>sal</strong> y un chorrito de <strong>agua</strong>. Cocina, con la sartén tapada, durante 7-8 min o hasta que las <strong>verduras</strong> estén blandas y un poco doradas, removiendo ocasionalmente. Cocina sin la tapa 2 min más. Retira de la sartén y reserva en un bol.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335e465c5bf01517d35d7/step-7a362330.jpg",
+          "path": "/66b335e465c5bf01517d35d7/step-7a362330.jpg",
+          "caption": "Saltea las verduras",
+          "localImage": "/images/recipes/66b335e465c5bf01517d35d7-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Salpimienta el salmón. En la sartén, calienta un chorrito de aceite a fuego medio-alto. Cocina el salmón 2 min por lado, hasta que quede dorado por fuera y cocinado por dentro. En un bol, mezcla la mayonesa y la salsa de soja restante hasta que quede una salsa homogénea.\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<p><strong>Salpimienta</strong> el <strong>salmón</strong>. En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina el <strong>salmón</strong> 2 min por lado, hasta que quede dorado por fuera y cocinado por dentro. En un bol, mezcla la <strong>mayonesa</strong> y la <strong>salsa de soja</strong> restante hasta que quede una <strong>salsa</strong> homogénea.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<p><strong>Salpimienta</strong> el <strong>salmón</strong>. En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina el <strong>salmón</strong> 2 min por lado, hasta que quede dorado por fuera y cocinado por dentro. En un bol, mezcla la <strong>mayonesa</strong> y la <strong>salsa de soja</strong> restante hasta que quede una <strong>salsa</strong> homogénea.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335e465c5bf01517d35d7/step-bf247540.jpg",
+          "path": "/66b335e465c5bf01517d35d7/step-bf247540.jpg",
+          "caption": "Cocina el salmón",
+          "localImage": "/images/recipes/66b335e465c5bf01517d35d7-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve la juliana de puerro y la quinoa en un lado de los platos, por separado. Al otro lado, agrega el salmón a la plancha y decora con las semillas de sésamo tostadas. Sirve la mayonesa de soja en un bol aparte.",
+      "instructionsHTML": "<p dir=\"ltr\">Sirve la <strong>juliana de puerro</strong> y la <strong>quinoa</strong> en un lado de los platos, por separado. Al otro lado, agrega el <strong>salmón a la plancha</strong> y decora con las <strong>semillas de sésamo</strong> tostadas. Sirve la <strong>mayonesa de soja </strong>en un bol aparte.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Sirve la <strong>juliana de puerro</strong> y la <strong>quinoa</strong> en un lado de los platos, por separado. Al otro lado, agrega el <strong>salmón a la plancha</strong> y decora con las <strong>semillas de sésamo</strong> tostadas. Sirve la <strong>mayonesa de soja </strong>en un bol aparte.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335e465c5bf01517d35d7/step-4638c450.jpg",
+          "path": "/66b335e465c5bf01517d35d7/step-4638c450.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/66b335e465c5bf01517d35d7-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCLF13453-7",
+  "updatedAt": "2025-08-15T14:03:55+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "0ee26e6f-55f8-4015-b7ff-3935ca5b0891",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/salmon-juliana-puerros-quinoa-66b335e465c5bf01517d35d7",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "66c73095a1fdf4e8243676f0",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 7.995,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "66c73095a1fdf4e8243676f0",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636b7f74371ed3efb1da61cd",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66b335e465c5bf01517d35d7-Salmón a la plancha con juliana de puerros.jpg",
+  "localCard": "/pdf/66b335e465c5bf01517d35d7-Salmón a la plancha con juliana de puerros.pdf"
+}

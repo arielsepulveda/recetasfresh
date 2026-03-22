@@ -1,0 +1,812 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 2.8,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/650192f153d80a036210c09b.pdf",
+  "category": null,
+  "clonedFrom": "6474cd7c6eb29dbe8bbed4e7",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-10-13T11:05:31+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "La quinoa es un ingrediente versátil y que puede servir como acompañamiento o como base en gran cantidad de platos, pero ¿has probado a utilizar la quinoa para rebozar? Hemos desarrollado esta receta para que lo pruebes con nosotros y disfrutes de este pollo rebozado en quinoa crujiente. Lo acompañamos con patatas al horno, mayonesa de mostaza y miel y la quinoa restante, de forma que utilizarás todo el ingrediente y el plato será aún más completo.",
+  "descriptionHTML": "<p>La quinoa es un ingrediente versátil y que puede servir como acompañamiento o como base en gran cantidad de platos, pero ¿has probado a utilizar la quinoa para rebozar? Hemos desarrollado esta receta para que lo pruebes con nosotros y disfrutes de este pollo rebozado en quinoa crujiente. Lo acompañamos con patatas al horno, mayonesa de mostaza y miel y la quinoa restante, de forma que utilizarás todo el ingrediente y el plato será aún más completo.</p>",
+  "descriptionMarkdown": "La quinoa es un ingrediente versátil y que puede servir como acompañamiento o como base en gran cantidad de platos, pero ¿has probado a utilizar la quinoa para rebozar? Hemos desarrollado esta receta para que lo pruebes con nosotros y disfrutes de este pollo rebozado en quinoa crujiente. Lo acompañamos con patatas al horno, mayonesa de mostaza y miel y la quinoa restante, de forma que utilizarás todo el ingrediente y el plato será aún más completo.",
+  "difficulty": 2,
+  "favoritesCount": 6,
+  "headline": "acompañado de patatas al horno y mayonesa de mostaza y miel",
+  "id": "650192f153d80a036210c09b",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R05_W52_ES_ESFCC16810-2_-4_Main_high-2661ed21.jpg",
+  "imagePath": "/image/HF_Y23_R05_W52_ES_ESFCC16810-2_-4_Main_high-2661ed21.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba1a",
+      "uuid": "dddc446f-dcdd-53de-a0df-b4b78c372e51",
+      "name": "Quinoa",
+      "type": "quinoa",
+      "slug": "quinoa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1a-324d6369.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1a-324d6369.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1a-Quinoa.png"
+    },
+    {
+      "id": "6340436e233160a36674b9f9",
+      "uuid": "43cf496e-b81e-45b7-977d-ba85227fed76",
+      "name": "Muslos de pollo deshuesados",
+      "type": "chicken-thighs",
+      "slug": "muslos-de-pollo-deshuesados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9f9-fe85f1b4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9f9-Muslos de pollo deshuesados.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "63c6c4e85d055dd6f722b0c2",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "imagePath": "/ingredient/63c6c4e85d055dd6f722b0c2-cce51a10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63c6c4e85d055dd6f722b0c2-Mayonesa.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "652574edd07173a1e1f08008",
+      "uuid": "739d318d-3d02-4647-bf3a-c1e895f81465",
+      "name": "Harina para rebozar",
+      "type": "flour-for-breading",
+      "slug": "harina-para-rebozar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/652574edd07173a1e1f08008-13d0522a.png",
+      "imagePath": "/ingredient/652574edd07173a1e1f08008-13d0522a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/652574edd07173a1e1f08008-Harina para rebozar.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "634928a2e9568549b78497e1",
+      "uuid": "f099a1c2-6d5f-42a2-a188-cad2ad1b6d5f",
+      "name": "Aceite para freír",
+      "type": "sunflower-oil",
+      "slug": "aceite-para-freir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "imagePath": "/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634928a2e9568549b78497e1-Aceite para freír.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/650192f153d80a036210c09b",
+  "name": "Muslo de pollo rebozado en quinoa crujiente",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4530,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1083,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 92.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 71.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 36.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.59,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 14,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 578,
+  "slug": "pollo-rebozado-quinoa-patatas-salsa",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En un cazo, agrega el agua (ver cantidad en ingredientes), una pizca de sal y la mitad de la quinoa. Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado. Una vez listo, remueve con un tenedor para que no se pegue y deja reposar con la tapa puesta hasta el momento de servir.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En un cazo, agrega el <strong>agua</strong> (ver cantidad en ingredientes), una pizca de <strong>sal</strong> y la mitad de la <strong>quinoa</strong>. Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado. Una vez listo, remueve con un tenedor para que no se pegue y deja reposar con la tapa puesta hasta el momento de servir.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En un cazo, agrega el <strong>agua</strong> (ver cantidad en ingredientes), una pizca de <strong>sal</strong> y la mitad de la <strong>quinoa</strong>. Lleva a ebullición, luego, cocina a fuego medio-bajo durante 12 min, con el cazo tapado. Una vez listo, remueve con un tenedor para que no se pegue y deja reposar con la tapa puesta hasta el momento de servir.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192f153d80a036210c09b/step-56992500.jpg",
+          "path": "/650192f153d80a036210c09b/step-56992500.jpg",
+          "caption": "Cocina la quinoa",
+          "localImage": "/images/recipes/650192f153d80a036210c09b-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta las patatas por la mitad a lo largo, luego, apoya la patata por la parte plana y corta en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de aceite, sal y pimienta. Mezcla para que las patatas queden bien aderezadas. Hornea durante 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción. ",
+      "instructionsHTML": "<p dir=\"ltr\">Corta las <strong>patatas</strong> por la mitad a lo largo, luego, apoya la <strong>patata</strong> por la parte plana y corta en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Mezcla para que las <strong>patatas</strong> queden bien aderezadas. Hornea durante 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción. </p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Corta las <strong>patatas</strong> por la mitad a lo largo, luego, apoya la <strong>patata</strong> por la parte plana y corta en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>. Mezcla para que las <strong>patatas</strong> queden bien aderezadas. Hornea durante 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción. </p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192f153d80a036210c09b/step-5ba6a310.jpg",
+          "path": "/650192f153d80a036210c09b/step-5ba6a310.jpg",
+          "caption": "Hornea las patatas",
+          "localImage": "/images/recipes/650192f153d80a036210c09b-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Corta cada muslo de pollo en 4 trozos, luego, salpimienta. En un plato, agrega la harina para rebozar (ver cantidad en ingredientes). En un plato hondo, bate el huevo (ver cantidad en ingredientes). Finalmente, en otro plato, mezcla la quinoa cruda restante, la harina y el orégano (ver cantidad en ingredientes de ambos).\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p dir=\"ltr\">Corta cada <strong>muslo de pollo</strong> en 4 trozos, luego, <strong>salpimienta</strong>. En un plato, agrega la <strong>harina para rebozar</strong> (ver cantidad en ingredientes). En un plato hondo, bate el <strong>huevo</strong> (ver cantidad en ingredientes). Finalmente, en otro plato, mezcla la <strong>quinoa</strong> cruda restante, la <strong>harina</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes de ambos).</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Corta cada <strong>muslo de pollo</strong> en 4 trozos, luego, <strong>salpimienta</strong>. En un plato, agrega la <strong>harina para rebozar</strong> (ver cantidad en ingredientes). En un plato hondo, bate el <strong>huevo</strong> (ver cantidad en ingredientes). Finalmente, en otro plato, mezcla la <strong>quinoa</strong> cruda restante, la <strong>harina</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes de ambos).</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff525",
+        "57e2674fb7e8697d4b30537b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192f153d80a036210c09b/step-d7a58b20.jpg",
+          "path": "/650192f153d80a036210c09b/step-d7a58b20.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/650192f153d80a036210c09b-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cubre el pollo con la harina para rebozar. A continuación, agrégalo al plato del huevo y cúbrelo. Por último, rebózalo en la mezcla de quinoa y harina. Calienta una sartén con el aceite para freír (ver cantidad en ingredientes) a fuego medio-alto. Cuando esté caliente, fríe el pollo 3 min por lado o hasta que esté cocinado y crujiente. Coloca las piezas de pollo en un plato plano con papel de cocina para eliminar el exceso de aceite.",
+      "instructionsHTML": "<p dir=\"ltr\">Cubre el <strong>pollo</strong> con la <strong>harina para rebozar</strong>. A continuación, agrégalo al plato del <strong>huevo</strong> y cúbrelo. Por último, rebózalo en la mezcla de <strong>quinoa</strong> y <strong>harina</strong>. Calienta una sartén con el <strong>aceite para freír</strong> (ver cantidad en ingredientes) a fuego medio-alto. Cuando esté caliente, fríe el <strong>pollo</strong> 3 min por lado o hasta que esté cocinado y crujiente. Coloca las piezas de <strong>pollo</strong> en un plato plano con papel de cocina para eliminar el exceso de aceite.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Cubre el <strong>pollo</strong> con la <strong>harina para rebozar</strong>. A continuación, agrégalo al plato del <strong>huevo</strong> y cúbrelo. Por último, rebózalo en la mezcla de <strong>quinoa</strong> y <strong>harina</strong>. Calienta una sartén con el <strong>aceite para freír</strong> (ver cantidad en ingredientes) a fuego medio-alto. Cuando esté caliente, fríe el <strong>pollo</strong> 3 min por lado o hasta que esté cocinado y crujiente. Coloca las piezas de <strong>pollo</strong> en un plato plano con papel de cocina para eliminar el exceso de aceite.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192f153d80a036210c09b/step-985be230.jpg",
+          "path": "/650192f153d80a036210c09b/step-985be230.jpg",
+          "caption": "Reboza y fríe el pollo ",
+          "localImage": "/images/recipes/650192f153d80a036210c09b-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Salpimienta la quinoa cocida y añade un chorrito de aceite. En un bol pequeño, mezcla la mayonesa, la mostaza y la mitad de la miel (doble para 4p), hasta conseguir una salsa homogénea.",
+      "instructionsHTML": "<p><strong>Salpimienta</strong> la <strong>quinoa</strong> cocida y añade un chorrito de <strong>aceite</strong>. En un bol pequeño, mezcla la <strong>mayonesa</strong>, la <strong>mostaza</strong> y la mitad de la <strong>miel </strong>(doble para 4p), hasta conseguir una <strong>salsa</strong> homogénea.</p>",
+      "instructionsMarkdown": "<p><strong>Salpimienta</strong> la <strong>quinoa</strong> cocida y añade un chorrito de <strong>aceite</strong>. En un bol pequeño, mezcla la <strong>mayonesa</strong>, la <strong>mostaza</strong> y la mitad de la <strong>miel </strong>(doble para 4p), hasta conseguir una <strong>salsa</strong> homogénea.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192f153d80a036210c09b/step-4cbb3140.jpg",
+          "path": "/650192f153d80a036210c09b/step-4cbb3140.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/650192f153d80a036210c09b-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Salpimienta el pollo crujiente al gusto. Sirve las patatas al horno y la quinoa cocida en los platos y agrega finalmente el pollo crujiente con quinoa. Acaba el plato con la mayonesa de mostaza y acompaña al gusto.",
+      "instructionsHTML": "<p><strong>Salpimienta</strong> el <strong>pollo crujiente</strong> al gusto. Sirve las <strong>patatas</strong> al horno y la <strong>quinoa</strong> cocida en los platos y agrega finalmente el <strong>pollo</strong> crujiente con <strong>quinoa</strong>. Acaba el plato con la <strong>mayonesa de mostaza</strong> y acompaña al gusto.</p>",
+      "instructionsMarkdown": "<p><strong>Salpimienta</strong> el <strong>pollo crujiente</strong> al gusto. Sirve las <strong>patatas</strong> al horno y la <strong>quinoa</strong> cocida en los platos y agrega finalmente el <strong>pollo</strong> crujiente con <strong>quinoa</strong>. Acaba el plato con la <strong>mayonesa de mostaza</strong> y acompaña al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/650192f153d80a036210c09b/step-6e1b6150.jpg",
+          "path": "/650192f153d80a036210c09b/step-6e1b6150.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/650192f153d80a036210c09b-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESFCC16810-2",
+  "updatedAt": "2026-01-21T13:59:53+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff525",
+      "type": null,
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "1a85abe3-dad7-4d52-b87d-7c5e9f829f71",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-rebozado-quinoa-patatas-salsa-650192f153d80a036210c09b",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 0.5,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "652574edd07173a1e1f08008",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 0.5,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9f9",
+          "amount": 560,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63c6c4e85d055dd6f722b0c2",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "652574edd07173a1e1f08008",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/650192f153d80a036210c09b-Muslo de pollo rebozado en quinoa crujiente.jpg",
+  "localCard": "/pdf/650192f153d80a036210c09b-Muslo de pollo rebozado en quinoa crujiente.pdf"
+}

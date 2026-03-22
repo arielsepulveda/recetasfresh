@@ -1,0 +1,813 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/crema-esparragos-cebolla-chapata-63ca9c12f3cad3f4f35bef84-52f434da.pdf",
+  "category": null,
+  "clonedFrom": "637f7f6e1ef09fb45a483bb6",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-01-20T13:50:10+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "Con esta crema, te ofrecemos una nueva manera de disfrutar de los espárragos, que sofreímos junto al ajo y la patata y, luego, trituramos hasta obtener una textura cremosa. Sobre la crema, agregamos unos aros de cebolla finos y crujientes y la intensa crema de vinagre balsámico. Como acompañamiento, te proponemos que hornees unas tostadas de chapata con aderezo mediterráneo, que puedes empapar de tu crema.",
+  "descriptionHTML": "<p>Con esta crema, te ofrecemos una nueva manera de disfrutar de los espárragos, que sofreímos junto al ajo y la patata y, luego, trituramos hasta obtener una textura cremosa. Sobre la crema, agregamos unos aros de cebolla finos y crujientes y la intensa crema de vinagre balsámico. Como acompañamiento, te proponemos que hornees unas tostadas de chapata con aderezo mediterráneo, que puedes empapar de tu crema.</p>",
+  "descriptionMarkdown": "Con esta crema, te ofrecemos una nueva manera de disfrutar de los espárragos, que sofreímos junto al ajo y la patata y, luego, trituramos hasta obtener una textura cremosa. Sobre la crema, agregamos unos aros de cebolla finos y crujientes y la intensa crema de vinagre balsámico. Como acompañamiento, te proponemos que hornees unas tostadas de chapata con aderezo mediterráneo, que puedes empapar de tu crema.",
+  "difficulty": 2,
+  "favoritesCount": 27,
+  "headline": "acompañada de chapata crujiente y crema de vinagre balsámico",
+  "id": "63ca9c12f3cad3f4f35bef84",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R08_W14_ES_ESVV13805-2_Main_2_high-bf32cced.jpg",
+  "imagePath": "/image/HF_Y23_R08_W14_ES_ESVV13805-2_Main_2_high-bf32cced.jpg",
+  "ingredients": [
+    {
+      "id": "6340436b233160a36674b9ea",
+      "uuid": "2a05fc5d-f5d3-4afc-9bce-976b245e9b0c",
+      "name": "Espárragos verdes",
+      "type": "asparagus",
+      "slug": "esparragos-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ea-2feaf92e.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ea-2feaf92e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ea-Espárragos verdes.png"
+    },
+    {
+      "id": "6340436e233160a36674b9fd",
+      "uuid": "4be57e09-204f-50f6-abf5-a91e4a8099db",
+      "name": "Leche de coco",
+      "type": "coconut-milk",
+      "slug": "leche-de-coco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9fd-Leche de coco.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6352a87574b20ffb740efe5e",
+      "uuid": "529b21e5-df06-5f4b-be4f-d3d03cfd43ae",
+      "name": "Pan de chapata",
+      "type": "ciabatta",
+      "slug": "pan-de-chapata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352a87574b20ffb740efe5e-5a30d77e.png",
+      "imagePath": "/ingredient/6352a87574b20ffb740efe5e-5a30d77e.png",
+      "shipped": true,
+      "allergens": [
+        "5b0532aaae08b52eb9420552",
+        "5acf972fae08b54d333ac322",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b305303",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352a87574b20ffb740efe5e-Pan de chapata.png"
+    },
+    {
+      "id": "6397c09b9b30e60070f163ee",
+      "uuid": "85d8b218-c598-5e52-abcc-7557119abeec",
+      "name": "Crema de vinagre balsámico",
+      "type": "balsamic-cream",
+      "slug": "crema-de-vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6397c09b9b30e60070f163ee-5665472e.png",
+      "imagePath": "/ingredient/6397c09b9b30e60070f163ee-5665472e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6397c09b9b30e60070f163ee-Crema de vinagre balsámico.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63f4d45db6ae9e66039dd731",
+      "uuid": "2e840e60-bb45-4b75-a871-d045979c26aa",
+      "name": "Aceite para freír",
+      "type": "sunflower-oil-less-kcal",
+      "slug": "aceite-para-freir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63f4d45db6ae9e66039dd731-e4e7c0e1.png",
+      "imagePath": "/ingredient/63f4d45db6ae9e66039dd731-e4e7c0e1.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63f4d45db6ae9e66039dd731-Aceite para freír.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "De Cuchara",
+    "handle": "spoon-dish",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#2c776a",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/63ca9c12f3cad3f4f35bef84",
+  "name": "Crema casera de espárragos con cebolla frita",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3351,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 801,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 20.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16.09,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 90.45,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 13.91,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 9,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 622,
+  "slug": "crema-casera-de-esparragos-con-cebolla-frita",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 200ºC. Pela y corta las patatas en dados de 2 cm. Retira la parte blanca de los espárragos y corta el resto en rodajas de 3 cm de largo. Pela y corta la mitad de la cebolla (doble para 4p) en rodajas finas, luego, reserva en un bol mediano. Pela y pica el ajo (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p>Precalienta el horno a 200ºC. Pela y corta las <strong>patatas</strong> en dados de 2 cm. Retira la parte blanca de los <strong>espárragos</strong> y corta el resto en rodajas de 3 cm de largo. Pela y corta la mitad de la <strong>cebolla</strong> (doble para 4p) en rodajas finas, luego, reserva en un bol mediano. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 200ºC. Pela y corta las <strong>patatas</strong> en dados de 2 cm. Retira la parte blanca de los <strong>espárragos</strong> y corta el resto en rodajas de 3 cm de largo. Pela y corta la mitad de la <strong>cebolla</strong> (doble para 4p) en rodajas finas, luego, reserva en un bol mediano. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c12f3cad3f4f35bef84/step-63542800.jpg",
+          "path": "/63ca9c12f3cad3f4f35bef84/step-63542800.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/63ca9c12f3cad3f4f35bef84-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta el pan de chapata en tiras de 1-2 cm y colócalo en una bandeja de horno con papel de horno. Agrega el orégano (ver cantidad en ingredientes), un chorrito de aceite y sal. Hornea 8-10 min, hasta que esté dorado. En una olla, añade un chorrito de aceite y el ajo. Pon a calentar a fuego medio y fríe el ajo durante 1-2 min o hasta que esté dorado. Luego, añade la patata y los espárragos, cocina durante 3-4 min, hasta que se ablanden un poco. ",
+      "instructionsHTML": "<p>Corta el <strong>pan de chapata</strong> en tiras de 1-2 cm y colócalo en una bandeja de horno con papel de horno. Agrega el <strong>orégano</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite</strong> y <strong>sal</strong>. Hornea 8-10 min, hasta que esté dorado. En una olla, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Pon a calentar a fuego medio y fríe el <strong>ajo</strong> durante 1-2 min o hasta que esté dorado. Luego, añade la <strong>patata</strong> y los <strong>espárragos</strong>, cocina durante 3-4 min, hasta que se ablanden un poco. </p>",
+      "instructionsMarkdown": "<p>Corta el <strong>pan de chapata</strong> en tiras de 1-2 cm y colócalo en una bandeja de horno con papel de horno. Agrega el <strong>orégano</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite</strong> y <strong>sal</strong>. Hornea 8-10 min, hasta que esté dorado. En una olla, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Pon a calentar a fuego medio y fríe el <strong>ajo</strong> durante 1-2 min o hasta que esté dorado. Luego, añade la <strong>patata</strong> y los <strong>espárragos</strong>, cocina durante 3-4 min, hasta que se ablanden un poco. </p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c12f3cad3f4f35bef84/step-f98c4510.jpg",
+          "path": "/63ca9c12f3cad3f4f35bef84/step-f98c4510.jpg",
+          "caption": "Prepara las tostadas",
+          "localImage": "/images/recipes/63ca9c12f3cad3f4f35bef84-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Añade a la olla la leche de coco y el agua (ver cantidad en ingredientes). Cocina a fuego medio con la olla tapada durante 15-18 min, hasta que la patata esté blanda. Salpimienta al gusto. ",
+      "instructionsHTML": "<p>Añade a la olla la <strong>leche de coco</strong> y el <strong>agua</strong> (ver cantidad en ingredientes). Cocina a fuego medio con la olla tapada durante 15-18 min, hasta que la <strong>patata</strong> esté blanda. <strong>Salpimienta</strong> al gusto. </p>",
+      "instructionsMarkdown": "<p>Añade a la olla la <strong>leche de coco</strong> y el <strong>agua</strong> (ver cantidad en ingredientes). Cocina a fuego medio con la olla tapada durante 15-18 min, hasta que la <strong>patata</strong> esté blanda. <strong>Salpimienta</strong> al gusto. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c12f3cad3f4f35bef84/step-32a90420.jpg",
+          "path": "/63ca9c12f3cad3f4f35bef84/step-32a90420.jpg",
+          "caption": "Cocina la crema",
+          "localImage": "/images/recipes/63ca9c12f3cad3f4f35bef84-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Pon un cazo pequeño a calentar a fuego medio con el aceite de semillas (ver cantidad en ingredientes). En el bol con la cebolla, añade la harina (ver cantidad en ingredientes). Enharina los aros de cebolla con las manos. Una vez el aceite esté caliente, agrega la cebolla y fríe durante 2-3 min, hasta que esté dorada. Coloca la cebolla frita en un plato con papel de cocina para escurrir el exceso de grasa.",
+      "instructionsHTML": "<p>Pon un cazo pequeño a calentar a fuego medio con el <strong>aceite de semillas</strong> (ver cantidad en ingredientes). En el bol con la cebolla, añade la <strong>harina</strong> (ver cantidad en ingredientes). Enharina los <strong>aros de cebolla</strong> con las manos. Una vez el aceite esté caliente, agrega la <strong>cebolla</strong> y fríe durante 2-3 min, hasta que esté dorada. Coloca la <strong>cebolla frita</strong> en un plato con papel de cocina para escurrir el exceso de grasa.</p>",
+      "instructionsMarkdown": "<p>Pon un cazo pequeño a calentar a fuego medio con el <strong>aceite de semillas</strong> (ver cantidad en ingredientes). En el bol con la cebolla, añade la <strong>harina</strong> (ver cantidad en ingredientes). Enharina los <strong>aros de cebolla</strong> con las manos. Una vez el aceite esté caliente, agrega la <strong>cebolla</strong> y fríe durante 2-3 min, hasta que esté dorada. Coloca la <strong>cebolla frita</strong> en un plato con papel de cocina para escurrir el exceso de grasa.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c12f3cad3f4f35bef84/step-63b34c30.jpg",
+          "path": "/63ca9c12f3cad3f4f35bef84/step-63b34c30.jpg",
+          "caption": "Prepara la cebolla frita",
+          "localImage": "/images/recipes/63ca9c12f3cad3f4f35bef84-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Una vez los vegetales de la olla estén listos, tritura con la ayuda de un túrmix, hasta que quede una crema suave y lisa. ",
+      "instructionsHTML": "<p>Una vez los <strong>vegetales</strong> de la olla estén listos, tritura con la ayuda de un túrmix, hasta que quede una <strong>crema</strong> suave y lisa. </p>",
+      "instructionsMarkdown": "<p>Una vez los <strong>vegetales</strong> de la olla estén listos, tritura con la ayuda de un túrmix, hasta que quede una <strong>crema</strong> suave y lisa. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c12f3cad3f4f35bef84/step-76812240.jpg",
+          "path": "/63ca9c12f3cad3f4f35bef84/step-76812240.jpg",
+          "caption": "Tritura la crema",
+          "localImage": "/images/recipes/63ca9c12f3cad3f4f35bef84-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve la crema de espárragos en platos hondos. Espolvorea encima la cebolla frita y acaba agregando la crema de vinagre balsámico. Sirve las tostadas al orégano en un bol junto a tu plato.",
+      "instructionsHTML": "<p>Sirve la <strong>crema de espárragos</strong> en platos hondos. Espolvorea encima la <strong>cebolla frita</strong> y acaba agregando la <strong>crema de vinagre balsámico</strong>. Sirve las <strong>tostadas al orégano</strong> en un bol junto a tu plato.</p>",
+      "instructionsMarkdown": "<p>Sirve la <strong>crema de espárragos</strong> en platos hondos. Espolvorea encima la <strong>cebolla frita</strong> y acaba agregando la <strong>crema de vinagre balsámico</strong>. Sirve las <strong>tostadas al orégano</strong> en un bol junto a tu plato.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c12f3cad3f4f35bef84/step-08e8a950.jpg",
+          "path": "/63ca9c12f3cad3f4f35bef84/step-08e8a950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63ca9c12f3cad3f4f35bef84-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESVV13805-2",
+  "updatedAt": "2026-01-21T13:59:43+00:00",
+  "utensils": [
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "b29abe3e-500a-4518-ab3e-c8d47019e7a7",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/crema-casera-de-esparragos-con-cebolla-frita-63ca9c12f3cad3f4f35bef84",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436b233160a36674b9ea",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6352a87574b20ffb740efe5e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6397c09b9b30e60070f163ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63f4d45db6ae9e66039dd731",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436b233160a36674b9ea",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6352a87574b20ffb740efe5e",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6397c09b9b30e60070f163ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63f4d45db6ae9e66039dd731",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63ca9c12f3cad3f4f35bef84-Crema casera de espárragos con cebolla frita.jpg",
+  "localCard": "/pdf/63ca9c12f3cad3f4f35bef84-Crema casera de espárragos con cebolla frita.pdf"
+}

@@ -1,0 +1,635 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.5,
+  "canonical": "640f5144b1bd442c3cd15e17",
+  "canonicalLink": "https://www.hellofresh.es/recipes/gnocchis-gratinados-en-salsa-de-albahaca-640f5144b1bd442c3cd15e17",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/677d537284c33a69abdbe5f6-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "63e3cfbe3b44590bdbe08695",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-01-07T16:16:51+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Escoge esta receta y disfruta de unos gnocchi en salsa casera de albahaca con un toque de nuez moscada, potenciados por cebolla y setas portobello salteadas. Para mejorar si cabe el plato, agregamos queso italiano sobre el plato y lo gratinamos en el horno.",
+  "descriptionHTML": "<p>Escoge esta receta y disfruta de unos gnocchi en salsa casera de albahaca con un toque de nuez moscada, potenciados por cebolla y setas portobello salteadas. Para mejorar si cabe el plato, agregamos queso italiano sobre el plato y lo gratinamos en el horno.</p>",
+  "descriptionMarkdown": "Escoge esta receta y disfruta de unos gnocchi en salsa casera de albahaca con un toque de nuez moscada, potenciados por cebolla y setas portobello salteadas. Para mejorar si cabe el plato, agregamos queso italiano sobre el plato y lo gratinamos en el horno.",
+  "difficulty": 1,
+  "favoritesCount": 58,
+  "headline": "con portobellos salteados y queso italiano",
+  "id": "677d537284c33a69abdbe5f6",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R05_W22_ES_ESCVV14734-2_Main_high-d056ad5e.jpg",
+  "imagePath": "/image/HF_Y23_R05_W22_ES_ESCVV14734-2_Main_high-d056ad5e.jpg",
+  "ingredients": [
+    {
+      "id": "63eb9aca49bd0d0a6b225fa9",
+      "uuid": "1caec975-6da0-5803-bca6-6e86b575541d",
+      "name": "Gnocchi",
+      "type": "gnocchi",
+      "slug": "gnocchi",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63eb9aca49bd0d0a6b225fa9-088e2832.png",
+      "imagePath": "/ingredient/63eb9aca49bd0d0a6b225fa9-088e2832.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63eb9aca49bd0d0a6b225fa9-Gnocchi.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404376233160a36674ba19",
+      "uuid": "87dc56ae-88e0-530d-bd62-be00baab053b",
+      "name": "Portobello",
+      "type": "portobello-mushroom",
+      "slug": "portobello",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba19-66c19148.png",
+      "imagePath": "/ingredient/63404376233160a36674ba19-66c19148.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba19-Portobello.png"
+    },
+    {
+      "id": "6340436b233160a36674b9e9",
+      "uuid": "fae5ea17-1d10-5a79-acab-118ec738e69e",
+      "name": "Albahaca",
+      "type": "basil",
+      "slug": "albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "imagePath": "/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9e9-Albahaca.jpg"
+    },
+    {
+      "id": "634043742268bc1bff0d3cbc",
+      "uuid": "a6e1c36d-10e9-50a3-9b14-b914bda64151",
+      "name": "Nuez moscada",
+      "type": "nutmeg",
+      "slug": "nuez-moscada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043742268bc1bff0d3cbc-6042777e.png",
+      "imagePath": "/ingredient/634043742268bc1bff0d3cbc-6042777e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043742268bc1bff0d3cbc-Nuez moscada.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "6633472d270adf4f95c57fc5",
+      "uuid": "21a1020d-ac88-52c7-a9e3-531ddd24a275",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6633472d270adf4f95c57fc5-f6ab4a06.png",
+      "imagePath": "/ingredient/6633472d270adf4f95c57fc5-f6ab4a06.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6633472d270adf4f95c57fc5-Leche.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/677d537284c33a69abdbe5f6",
+  "name": "Gnocchis gratinados en salsa de albahaca",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1754,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 419,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 17.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 53.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 16.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.61,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 95,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 417,
+  "slug": "gnocchis-gratinados-en-salsa-de-albahaca",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC con la opción de gratinar. Deshoja la mitad de la albahaca (doble para 4p). En una jarra medidora, agrega la leche, la mitad de la albahaca deshojada y la mitad de la nuez moscada (doble para 4). Salpimienta y tritura con un túrmix, hasta que quede una salsa lisa.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC con la opción de gratinar. Deshoja la mitad de la <strong>albahaca</strong> (doble para 4p). En una jarra medidora, agrega la <strong>leche</strong>, la <span>mitad de la</span> <strong>albahaca</strong> deshojada y la mitad de la <strong>nuez moscada</strong> (doble para 4). <strong>Salpimienta</strong> y tritura con un túrmix, hasta que quede una <strong>salsa</strong> lisa.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC con la opción de gratinar. Deshoja la mitad de la <strong>albahaca</strong> (doble para 4p). En una jarra medidora, agrega la <strong>leche</strong>, la <span>mitad de la</span> <strong>albahaca</strong> deshojada y la mitad de la <strong>nuez moscada</strong> (doble para 4). <strong>Salpimienta</strong> y tritura con un túrmix, hasta que quede una <strong>salsa</strong> lisa.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d537284c33a69abdbe5f6/step-36250b00.jpg",
+          "path": "/677d537284c33a69abdbe5f6/step-36250b00.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/677d537284c33a69abdbe5f6-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. En una sartén, calienta a fuego medio un chorrito de aceite. Agrega la cebolla y una pizca de sal y cocina 4-5 min, removiendo ocasionalmente, hasta que quede transparente.",
+      "instructionsHTML": "<p>Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. En una sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo ocasionalmente, hasta que quede transparente.</p>",
+      "instructionsMarkdown": "<p>Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. En una sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Agrega la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo ocasionalmente, hasta que quede transparente.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d537284c33a69abdbe5f6/step-11c0b510.jpg",
+          "path": "/677d537284c33a69abdbe5f6/step-11c0b510.jpg",
+          "caption": "Saltea la cebolla",
+          "localImage": "/images/recipes/677d537284c33a69abdbe5f6-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Mientras tanto, limpia los portobellos con un paño húmedo. Retira y desecha el extremo del pie de los portobellos. Luego, córtalos por la mitad y haz láminas finas. Agrega los portobello laminados a la sartén de la cebolla y cocina durante 4-6 min a fuego medio-alto. Remueve regularmente.",
+      "instructionsHTML": "<p>Mientras tanto, limpia los <strong>portobellos</strong> con un paño húmedo. Retira y desecha el extremo del pie de los <strong>portobellos</strong>. Luego, córtalos por la mitad y haz láminas finas. Agrega los <strong>portobello</strong> laminados a la sartén de la <strong>cebolla</strong> y cocina durante 4-6 min a fuego medio-alto. Remueve regularmente.</p>",
+      "instructionsMarkdown": "<p>Mientras tanto, limpia los <strong>portobellos</strong> con un paño húmedo. Retira y desecha el extremo del pie de los <strong>portobellos</strong>. Luego, córtalos por la mitad y haz láminas finas. Agrega los <strong>portobello</strong> laminados a la sartén de la <strong>cebolla</strong> y cocina durante 4-6 min a fuego medio-alto. Remueve regularmente.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d537284c33a69abdbe5f6/step-e9a47c20.jpg",
+          "path": "/677d537284c33a69abdbe5f6/step-e9a47c20.jpg",
+          "caption": "Cocina los portobello",
+          "localImage": "/images/recipes/677d537284c33a69abdbe5f6-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Agrega la salsa de albahaca y los gnocchi a la sartén. Lleva a ebullición y cocina todo junto durante 2 min. Salpimienta y remueve para que los gnocchis queden cubiertos por la salsa.",
+      "instructionsHTML": "<p>Agrega la <strong>salsa de albahaca</strong> y los <strong>gnocchi</strong> a la sartén. Lleva a ebullición y cocina todo junto durante 2 min. <strong>Salpimienta</strong> y remueve para que los <strong>gnocchis</strong> queden cubiertos por la <strong>salsa</strong>.</p>",
+      "instructionsMarkdown": "<p>Agrega la <strong>salsa de albahaca</strong> y los <strong>gnocchi</strong> a la sartén. Lleva a ebullición y cocina todo junto durante 2 min. <strong>Salpimienta</strong> y remueve para que los <strong>gnocchis</strong> queden cubiertos por la <strong>salsa</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d537284c33a69abdbe5f6/step-adf57730.jpg",
+          "path": "/677d537284c33a69abdbe5f6/step-adf57730.jpg",
+          "caption": "Combina los gnocchis y la salsa",
+          "localImage": "/images/recipes/677d537284c33a69abdbe5f6-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Coloca los gnocchi en salsa de albahaca en una fuente para horno. Espolvorea el queso rallado por encima y hornea en el estante superior durante 10 min, hasta que el queso se gratine.",
+      "instructionsHTML": "<p>Coloca los<strong> gnocchi</strong> en <strong>salsa</strong> <strong>de albahaca</strong> en una fuente para horno. Espolvorea el <strong>queso rallado</strong> por encima y hornea en el estante superior durante 10 min, hasta que el <strong>queso</strong> se gratine.</p>",
+      "instructionsMarkdown": "<p>Coloca los<strong> gnocchi</strong> en <strong>salsa</strong> <strong>de albahaca</strong> en una fuente para horno. Espolvorea el <strong>queso rallado</strong> por encima y hornea en el estante superior durante 10 min, hasta que el <strong>queso</strong> se gratine.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d537284c33a69abdbe5f6/step-30b1d240.jpg",
+          "path": "/677d537284c33a69abdbe5f6/step-30b1d240.jpg",
+          "caption": "Gratina los gnocchi",
+          "localImage": "/images/recipes/677d537284c33a69abdbe5f6-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve los gnocchis gratinados con portobellos en salsa de albahaca en la fuente para horno y sirve en platos.",
+      "instructionsHTML": "<p>Sirve los <strong>gnocchis</strong> <strong>gratinados </strong>con<strong> portobellos</strong> en <strong>salsa de albahaca</strong> en la fuente para horno y sirve en platos.</p>",
+      "instructionsMarkdown": "<p>Sirve los <strong>gnocchis</strong> <strong>gratinados </strong>con<strong> portobellos</strong> en <strong>salsa de albahaca</strong> en la fuente para horno y sirve en platos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/677d537284c33a69abdbe5f6/step-41fb1750.jpg",
+          "path": "/677d537284c33a69abdbe5f6/step-41fb1750.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/677d537284c33a69abdbe5f6-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCVV14734-4",
+  "updatedAt": "2025-07-28T11:06:46+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    }
+  ],
+  "uuid": "d6aab202-3762-4585-99b1-dabe2fcec990",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/gnocchis-gratinados-en-salsa-de-albahaca-677d537284c33a69abdbe5f6",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63eb9aca49bd0d0a6b225fa9",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6633472d270adf4f95c57fc5",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63eb9aca49bd0d0a6b225fa9",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 80,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6633472d270adf4f95c57fc5",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/677d537284c33a69abdbe5f6-Gnocchis gratinados en salsa de albahaca.jpg",
+  "localCard": "/pdf/677d537284c33a69abdbe5f6-Gnocchis gratinados en salsa de albahaca.pdf"
+}

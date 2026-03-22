@@ -1,0 +1,917 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f4",
+      "name": "Crustáceos",
+      "type": "crustaceans",
+      "slug": "crustaceos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f4-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5de91d27f4c17e42c17aef94",
+      "name": "Mostaza",
+      "type": "traces-of-mustard",
+      "slug": "traces-of-mostaza",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acdaebaae08b54a70609b02",
+      "name": "Lupino",
+      "type": "traces-of-lupin",
+      "slug": "traces-of-lupino",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97a2ae08b54dad34eb82",
+      "name": "Sulfitos",
+      "type": "traces-of-sulphites",
+      "slug": "traces-of-sulfitos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf974c30006c4d667f88f1",
+      "name": "Pescado",
+      "type": "traces-of-fish",
+      "slug": "traces-of-pescado",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5fdcacf19520e811397b51c9",
+      "name": "Moluscos",
+      "type": "traces-of-molluscs",
+      "slug": "traces-of-moluscos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": "6655bfd5d9c97d64003b2140",
+  "canonicalLink": "https://www.hellofresh.es/recipes/langostinos-puerro-cherry-cuscus-6655bfd5d9c97d64003b2140",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66e14404323c9f705cd02e3e-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6595508ec7596f421e53d790",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-23T06:37:08+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "En esta receta, cortamos el puerro al bies pero, ¿qué significa esto? El corte \"al bies\" tiene sus raíces en la antigua China, donde se descubrió que cortar la carne en ángulo diagonal facilitaba su cocción y mejoraba su presentación. Esta técnica se ha adoptado en diversas culturas culinarias por su practicidad y estética.",
+  "descriptionHTML": "<p>En esta receta, cortamos el puerro al bies pero, ¿qué significa esto? El corte &quot;al bies&quot; tiene sus raíces en la antigua China, donde se descubrió que cortar la carne en ángulo diagonal facilitaba su cocción y mejoraba su presentación. Esta técnica se ha adoptado en diversas culturas culinarias por su practicidad y estética.</p>",
+  "descriptionMarkdown": "En esta receta, cortamos el puerro al bies pero, ¿qué significa esto? El corte \"al bies\" tiene sus raíces en la antigua China, donde se descubrió que cortar la carne en ángulo diagonal facilitaba su cocción y mejoraba su presentación. Esta técnica se ha adoptado en diversas culturas culinarias por su practicidad y estética.",
+  "difficulty": 1,
+  "favoritesCount": 13,
+  "headline": "servido sobre cuscús",
+  "id": "66e14404323c9f705cd02e3e",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R14_W28_ES_ESCQPS21746-2_Main_edit_high-99a9ed35.jpg",
+  "imagePath": "/image/HF_Y24_R14_W28_ES_ESCQPS21746-2_Main_edit_high-99a9ed35.jpg",
+  "ingredients": [
+    {
+      "id": "63bff2cfcbc82774435c312c",
+      "uuid": "66126f87-6575-51cd-8793-a3e973b7d691",
+      "name": "Cuscús",
+      "type": "couscous",
+      "slug": "cuscus",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bff2cfcbc82774435c312c-d4e3a069.png",
+      "imagePath": "/ingredient/63bff2cfcbc82774435c312c-d4e3a069.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b305303",
+        "5de91d27f4c17e42c17aef94",
+        "5b0532aaae08b52eb9420552",
+        "5acdaebaae08b54a70609b02",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bff2cfcbc82774435c312c-Cuscús.png"
+    },
+    {
+      "id": "64999164461c4ddf32309881",
+      "uuid": "0b18a29e-c9df-5b77-903e-c2e60206b65a",
+      "name": "Langostinos",
+      "type": "shrimps",
+      "slug": "langostinos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64999164461c4ddf32309881-ddbf44cc.png",
+      "imagePath": "/ingredient/64999164461c4ddf32309881-ddbf44cc.png",
+      "shipped": true,
+      "allergens": [
+        "5acf97a2ae08b54dad34eb82",
+        "5acf974c30006c4d667f88f1",
+        "5fdcacf19520e811397b51c9",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b305303",
+        "5b0532aaae08b52eb9420552",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f4"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64999164461c4ddf32309881-Langostinos.png"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6340437a41033266d7be9534",
+      "uuid": "c7440604-41b7-5ef5-b2b3-8f83c31bccf9",
+      "name": "Tomate concentrado",
+      "type": "tomato-puree",
+      "slug": "tomate-concentrado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "imagePath": "/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9534-Tomate concentrado.jpg"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3caa",
+      "uuid": "cf5787dc-613d-510e-988e-2a2d5c1e2fe9",
+      "name": "Tomillo seco",
+      "type": "dried-thyme",
+      "slug": "tomillo-seco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3caa-ecac0be6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3caa-Tomillo seco.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "638a2e674af6d1749044120b",
+      "uuid": "fc8c2d54-6b84-4100-83cc-95961f0853c6",
+      "name": "Agua para el cuscús",
+      "type": "water-for-the-couscous",
+      "slug": "agua-para-el-cuscus",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638a2e674af6d1749044120b-357c86b7.png",
+      "imagePath": "/ingredient/638a2e674af6d1749044120b-357c86b7.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638a2e674af6d1749044120b-Agua para el cuscús.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Exprés",
+    "handle": "super-quick",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/66e14404323c9f705cd02e3e",
+  "name": "Salteado de langostinos con puerro y cherrys",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2562,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 612,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 29.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 77.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 24.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.8,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT15M",
+  "promotion": null,
+  "ratingsCount": 39,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 413,
+  "slug": "salteado-de-langostinos-con-puerro-y-cherrys",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nEn una sartén, agrega el agua para el cuscús (ver cantidad en ingredientes), la mitad del caldo vegetal y sal y lleva a ebullición.\nEn un bol, agrega el cuscús y el caldo hirviendo, remueve y deja reposar tapado 5 min.\nUna vez listo, remueve para separar.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En una sartén, agrega el <strong>agua para el cuscús</strong> (ver cantidad en ingredientes), la mitad del <strong>caldo vegetal</strong> y <strong>sal</strong> y lleva a ebullición.</li>\n<li>En un bol, agrega el <strong>cuscús</strong> y el <strong>caldo</strong> hirviendo, remueve y deja reposar tapado 5 min.</li>\n<li>Una vez listo, remueve para separar.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En una sartén, agrega el <strong>agua para el cuscús</strong> (ver cantidad en ingredientes), la mitad del <strong>caldo vegetal</strong> y <strong>sal</strong> y lleva a ebullición.</li>\n<li>En un bol, agrega el <strong>cuscús</strong> y el <strong>caldo</strong> hirviendo, remueve y deja reposar tapado 5 min.</li>\n<li>Una vez listo, remueve para separar.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "59d49a9319279f8fe60e866f",
+        "57e2674fb7e8697d4b30538b",
+        "57e2674fb7e8697d4b30536a"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14404323c9f705cd02e3e/step-a6713100.jpg",
+          "path": "/66e14404323c9f705cd02e3e/step-a6713100.jpg",
+          "caption": "Cocina el cuscús",
+          "localImage": "/images/recipes/66e14404323c9f705cd02e3e-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Agrega los langostinos, salpimienta y cocina 1-2 min, hasta que se doren. Retira y reserva.\nCorta los tomates cherry por la mitad.\nLimpia el puerro y, en cortes diagonales, divide el puerro en trozos de 3-4 cm.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega los <strong>langostinos</strong>, <strong>salpimienta</strong> y cocina 1-2 min, hasta que se doren. Retira y reserva.</li>\n<li>Corta los<strong> tomates cherry</strong> por la mitad.</li>\n<li>Limpia el <strong>puerro</strong> y, en cortes diagonales, divide el <strong>puerro</strong> en trozos de 3-4 cm.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega los <strong>langostinos</strong>, <strong>salpimienta</strong> y cocina 1-2 min, hasta que se doren. Retira y reserva.</li>\n<li>Corta los<strong> tomates cherry</strong> por la mitad.</li>\n<li>Limpia el <strong>puerro</strong> y, en cortes diagonales, divide el <strong>puerro</strong> en trozos de 3-4 cm.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14404323c9f705cd02e3e/step-67a3be10.jpg",
+          "path": "/66e14404323c9f705cd02e3e/step-67a3be10.jpg",
+          "caption": "Saltea los langostinos",
+          "localImage": "/images/recipes/66e14404323c9f705cd02e3e-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, calienta a fuego medio un chorrito de aceite y la mantequilla (ver cantidad en ingredientes).\nAgrega el puerro, salpimienta y cocina 5-6 min, dando la vuelta.\nAñade el tomillo seco, el tomate concentrado, el caldo vegetal restante, el agua para la salsa y el azúcar (ver cantidad en ingredientes de ambos), mezcla y lleva a ebullición.\nCuando hierva, cocina a fuego medio 2-3 min, removiendo.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta a fuego medio un chorrito de <strong>aceite</strong> y la <strong>mantequilla</strong> (ver cantidad en ingredientes).</li>\n<li>Agrega el <strong>puerro</strong>, <strong>salpimienta</strong> y cocina 5-6 min, dando la vuelta.</li>\n<li>Añade el <strong>tomillo seco</strong>, el <strong>tomate concentrado</strong>, el <strong>caldo vegetal</strong> restante, el <strong>agua</strong> <strong>para la salsa</strong> y el <strong>azúcar</strong> (ver cantidad en ingredientes de ambos), mezcla y lleva a ebullición.</li>\n<li>Cuando hierva, cocina a fuego medio 2-3 min, removiendo.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta a fuego medio un chorrito de <strong>aceite</strong> y la <strong>mantequilla</strong> (ver cantidad en ingredientes).</li>\n<li>Agrega el <strong>puerro</strong>, <strong>salpimienta</strong> y cocina 5-6 min, dando la vuelta.</li>\n<li>Añade el <strong>tomillo seco</strong>, el <strong>tomate concentrado</strong>, el <strong>caldo vegetal</strong> restante, el <strong>agua</strong> <strong>para la salsa</strong> y el <strong>azúcar</strong> (ver cantidad en ingredientes de ambos), mezcla y lleva a ebullición.</li>\n<li>Cuando hierva, cocina a fuego medio 2-3 min, removiendo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14404323c9f705cd02e3e/step-33e31f20.jpg",
+          "path": "/66e14404323c9f705cd02e3e/step-33e31f20.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/66e14404323c9f705cd02e3e-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, añade las espinacas y cocina con la sartén tapada 2-3 min. Luego, cocina a fuego alto 2 min más.\nIncorpora los langostinos y los tomates cherry, cocina 1 min y retira del fuego. Prueba y rectifica de sal y pimienta.\nSirve el cuscús en la base de los platos y coloca encima los langostinos con puerro y la salsa de tomillo.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, añade las <strong>espinacas</strong> y cocina con la sartén tapada 2-3 min. Luego, cocina a fuego alto 2 min más.</li>\n<li>Incorpora los <strong>langostinos</strong> y los <strong>tomates cherry</strong>, cocina 1 min y retira del fuego. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Sirve el <strong>cuscús</strong> en la base de los platos y coloca encima los <strong>langostinos</strong> con <strong>puerro</strong> y la <strong>salsa de tomillo</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, añade las <strong>espinacas</strong> y cocina con la sartén tapada 2-3 min. Luego, cocina a fuego alto 2 min más.</li>\n<li>Incorpora los <strong>langostinos</strong> y los <strong>tomates cherry</strong>, cocina 1 min y retira del fuego. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Sirve el <strong>cuscús</strong> en la base de los platos y coloca encima los <strong>langostinos</strong> con <strong>puerro</strong> y la <strong>salsa de tomillo</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66e14404323c9f705cd02e3e/step-75db5130.jpg",
+          "path": "/66e14404323c9f705cd02e3e/step-75db5130.jpg",
+          "caption": "Combina y emplata",
+          "localImage": "/images/recipes/66e14404323c9f705cd02e3e-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "62163c70143a35226e03d85e",
+      "type": "super-quick",
+      "name": "Exprés",
+      "slug": "expres",
+      "colorHandle": "quickPrep",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCQPS21746-8",
+  "updatedAt": "2026-01-20T20:19:45+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536a",
+      "type": "plasticwrap",
+      "name": "Papel film"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    }
+  ],
+  "uuid": "e7181434-ddb3-442f-8033-d3d262f65dc5",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/salteado-de-langostinos-con-puerro-y-cherrys-66e14404323c9f705cd02e3e",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63bff2cfcbc82774435c312c",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64999164461c4ddf32309881",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638a2e674af6d1749044120b",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 250,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63bff2cfcbc82774435c312c",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64999164461c4ddf32309881",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3caa",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638a2e674af6d1749044120b",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66e14404323c9f705cd02e3e-Salteado de langostinos con puerro y cherrys.jpg",
+  "localCard": "/pdf/66e14404323c9f705cd02e3e-Salteado de langostinos con puerro y cherrys.pdf"
+}

@@ -1,0 +1,885 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "65de0658bcf4e5e5596dd28e",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-con-especias-acompanado-con-hummus-de-tomate-cherry-quinoa-crujiente-y-pan-crujiente-65de0658bcf4e5e5596dd28e",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6849325d56532819dcc1a1b8-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "65de0658bcf4e5e5596dd28e",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-11T07:38:06+00:00",
+  "cuisines": [
+    {
+      "id": "67ebf900b2ffe612cd83e51b",
+      "type": "",
+      "name": "Middle Eastern",
+      "slug": ""
+    }
+  ],
+  "description": "Aunque el origen del hummus no puede atribuirse definitivamente a un país, lo que está claro es que proviene del Medio Oriente, donde los ingredientes mediterráneos se fusionan con las especias más intensas de sus gastronomías. En este caso, preparamos un hummus de garbanzos y tomates cherry para acompañar el pollo y la quinoa crujiente.",
+  "descriptionHTML": "<p>Aunque el origen del hummus no puede atribuirse definitivamente a un país, lo que está claro es que proviene del Medio Oriente, donde los ingredientes mediterráneos se fusionan con las especias más intensas de sus gastronomías. En este caso, preparamos un hummus de garbanzos y tomates cherry para acompañar el pollo y la quinoa crujiente.</p>",
+  "descriptionMarkdown": "Aunque el origen del hummus no puede atribuirse definitivamente a un país, lo que está claro es que proviene del Medio Oriente, donde los ingredientes mediterráneos se fusionan con las especias más intensas de sus gastronomías. En este caso, preparamos un hummus de garbanzos y tomates cherry para acompañar el pollo y la quinoa crujiente.",
+  "difficulty": 2,
+  "favoritesCount": 1,
+  "headline": "con quinoa crujiente y totopos caseros",
+  "id": "6849325d56532819dcc1a1b8",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R25_W20_ES_ESCFQC23315-2_Main_high-48994e6e.jpg",
+  "imagePath": "/image/HF_Y25_R25_W20_ES_ESCFQC23315-2_Main_high-48994e6e.jpg",
+  "ingredients": [
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "63404376233160a36674ba1a",
+      "uuid": "dddc446f-dcdd-53de-a0df-b4b78c372e51",
+      "name": "Quinoa",
+      "type": "quinoa",
+      "slug": "quinoa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1a-324d6369.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1a-324d6369.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1a-Quinoa.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "6351196d34c59d5ef0faeb58",
+      "uuid": "39bcc210-2c4e-5d60-b33a-ac3e11cab204",
+      "name": "Mezcla de especias de Oriente Medio",
+      "type": "middle-eastern-style-spice-mix",
+      "slug": "mezcla-de-especias-de-oriente-medio",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6351196d34c59d5ef0faeb58-55638229.png",
+      "imagePath": "/ingredient/6351196d34c59d5ef0faeb58-55638229.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fe",
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6351196d34c59d5ef0faeb58-Mezcla de especias de Oriente Medio.png"
+    },
+    {
+      "id": "6348219ebb36093c54997964",
+      "uuid": "1f59d4e9-83f7-5dac-abec-916f5f2c6d99",
+      "name": "Tortillas de trigo",
+      "type": "6-pack-tortilla",
+      "slug": "tortillas-de-trigo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6348219ebb36093c54997964-209def95.png",
+      "imagePath": "/ingredient/6348219ebb36093c54997964-209def95.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6348219ebb36093c54997964-Tortillas de trigo.png"
+    },
+    {
+      "id": "688c9b871cc5cea71281245a",
+      "uuid": "ec2276be-64f8-485c-a464-8da34d88aa6c",
+      "name": "Chili seco en escamas",
+      "type": "chilli-flakes-dried",
+      "slug": "chili-seco-en-escamas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "imagePath": "/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/688c9b871cc5cea71281245a-Chili seco en escamas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6849325d56532819dcc1a1b8",
+  "name": "Pollo marinado con hummus de tomates cherry",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3546,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 847,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 42.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 78,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 5.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 14.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 56.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.95,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 517,
+  "slug": "pollo-marinado-con-hummus-de-tomates-cherry",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nEn un cazo, agrega el agua, el caldo vegetal, sal y la quinoa.\nLleva a ebullición, luego, cocina tapado a fuego medio-bajo 12 min.\nUna vez listo, remueve y deja reposar con la tapa puesta.\nMientras tanto, corta los tomates cherry por la mitad.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>En un cazo, agrega el <strong>agua,</strong> el <strong>caldo vegetal, sal</strong> y la <strong>quinoa.</strong></li>\n<li>Lleva a ebullición, luego, cocina tapado a fuego medio-bajo 12 min.</li>\n<li>Una vez listo, remueve y deja reposar con la tapa puesta.</li>\n<li>Mientras tanto, corta los <strong>tomates cherry</strong> por la mitad.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>En un cazo, agrega el <strong>agua,</strong> el <strong>caldo vegetal, sal</strong> y la <strong>quinoa.</strong></li>\n<li>Lleva a ebullición, luego, cocina tapado a fuego medio-bajo 12 min.</li>\n<li>Una vez listo, remueve y deja reposar con la tapa puesta.</li>\n<li>Mientras tanto, corta los <strong>tomates cherry</strong> por la mitad.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325d56532819dcc1a1b8/step-c1affa00.jpg",
+          "path": "/6849325d56532819dcc1a1b8/step-c1affa00.jpg",
+          "caption": "Cocina la quinoa",
+          "localImage": "/images/recipes/6849325d56532819dcc1a1b8-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y ralla el ajo.\nEn una sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAñade los tomates cherry, salpimienta y cocina a fuego medio-bajo 5-6 min, removiendo.\nEn una jarra medidora, añade casi todos los tomates cherry, los garbanzos escurridos, un chorrito generoso de aceite, sal y pimienta.\nTritura con un túrmix hasta conseguir un hummus homogéneo. \n",
+      "instructionsHTML": "<ul>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade los <strong>tomates cherry</strong>, <strong>salpimienta</strong> y cocina a fuego medio-bajo 5-6 min, removiendo.</li>\n<li>En una jarra medidora, añade casi todos los <strong>tomates cherry,</strong> los <strong>garbanzos</strong> escurridos, un chorrito generoso de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Tritura con un túrmix hasta conseguir un <strong>hummus</strong> homogéneo. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade los <strong>tomates cherry</strong>, <strong>salpimienta</strong> y cocina a fuego medio-bajo 5-6 min, removiendo.</li>\n<li>En una jarra medidora, añade casi todos los <strong>tomates cherry,</strong> los <strong>garbanzos</strong> escurridos, un chorrito generoso de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Tritura con un túrmix hasta conseguir un <strong>hummus</strong> homogéneo. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325d56532819dcc1a1b8/step-c0507610.jpg",
+          "path": "/6849325d56532819dcc1a1b8/step-c0507610.jpg",
+          "caption": "Prepara el hummus de tomate",
+          "localImage": "/images/recipes/6849325d56532819dcc1a1b8-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn un plato, mezcla el pollo, la mitad de las especias de Oriente Medio, un chorrito de aceite, sal y pimienta.\nCorta cada tortilla de trigo en 8 triángulos y adereza en otro bol con las especias de Oriente Medio restantes, un chorrito de aceite, sal y pimienta.\nExtiende las tortillas en una bandeja de horno con papel de horno y hornea a media altura 6-8 min o hasta que se doren.\n",
+      "instructionsHTML": "<ul>\n<li>En un plato, mezcla el <strong>pollo,</strong> la mitad de las <strong>especias de Oriente Medio</strong>, un chorrito de <strong>aceite,</strong> <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Corta cada <strong>tortilla de trigo</strong> en 8 triángulos y adereza en otro bol con las <strong>especias de Oriente Medio</strong> restantes, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Extiende las <strong>tortillas</strong> en una bandeja de horno con papel de horno y hornea a media altura 6-8 min o hasta que se doren.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un plato, mezcla el <strong>pollo,</strong> la mitad de las <strong>especias de Oriente Medio</strong>, un chorrito de <strong>aceite,</strong> <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Corta cada <strong>tortilla de trigo</strong> en 8 triángulos y adereza en otro bol con las <strong>especias de Oriente Medio</strong> restantes, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Extiende las <strong>tortillas</strong> en una bandeja de horno con papel de horno y hornea a media altura 6-8 min o hasta que se doren.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff525",
+        "57e2674fb7e8697d4b305372",
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325d56532819dcc1a1b8/step-d698e520.jpg",
+          "path": "/6849325d56532819dcc1a1b8/step-d698e520.jpg",
+          "caption": "Marina el pollo",
+          "localImage": "/images/recipes/6849325d56532819dcc1a1b8-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCuando la quinoa esté lista, agrega al cazo el chili en escamas, el orégano, un chorrito de aceite, sal y pimienta.\nMezcla y extiende en una bandeja de horno con papel de horno, de forma que quede una capa fina. Hornea a media altura 6 min.\nRemueve y hornea 3 min más, hasta que la quinoa quede crujiente. Si no queda crujiente, hornea 3 min más.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando la <strong>quinoa</strong> esté lista, agrega al cazo el <strong>chili en escamas</strong>, el <strong>orégano</strong>, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y extiende en una bandeja de horno con papel de horno, de forma que quede una capa fina. Hornea a media altura 6 min.</li>\n<li>Remueve y hornea 3 min más, hasta que la <strong>quinoa</strong> quede crujiente. Si no queda crujiente, hornea 3 min más.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando la <strong>quinoa</strong> esté lista, agrega al cazo el <strong>chili en escamas</strong>, el <strong>orégano</strong>, un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y extiende en una bandeja de horno con papel de horno, de forma que quede una capa fina. Hornea a media altura 6 min.</li>\n<li>Remueve y hornea 3 min más, hasta que la <strong>quinoa</strong> quede crujiente. Si no queda crujiente, hornea 3 min más.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325d56532819dcc1a1b8/step-4e504d30.jpg",
+          "path": "/6849325d56532819dcc1a1b8/step-4e504d30.jpg",
+          "caption": "Prepara la quinoa crujiente",
+          "localImage": "/images/recipes/6849325d56532819dcc1a1b8-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio. Cocina el pollo marinado 3-4 min por lado, hasta que esté dorado y bien cocinado en el interior.\nCorta el pollo en tiras finas de 1 cm. \n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>pollo</strong> marinado 3-4 min por lado, hasta que esté dorado y bien cocinado en el interior.</li>\n<li>Corta el <strong>pollo</strong> en tiras finas de 1 cm. </li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>pollo</strong> marinado 3-4 min por lado, hasta que esté dorado y bien cocinado en el interior.</li>\n<li>Corta el <strong>pollo</strong> en tiras finas de 1 cm. </li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325d56532819dcc1a1b8/step-d978ba40.jpg",
+          "path": "/6849325d56532819dcc1a1b8/step-d978ba40.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/6849325d56532819dcc1a1b8-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el hummus de tomates en un lado de los platos, creando una base, y coloca encima los tomates cherry restantes.\nColoca el pollo marinado y la quinoa crujiente al otro lado, por separado.\nSirve las tortillas crujientes junto a tu plato para acompañar el hummus.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>hummus</strong> de <strong>tomates</strong> en un lado de los platos, creando una base, y coloca encima los <strong>tomates cherry</strong> restantes.</li>\n<li>Coloca el <strong>pollo</strong> marinado y la <strong>quinoa</strong> crujiente al otro lado, por separado.</li>\n<li>Sirve las <strong>tortillas</strong> crujientes junto a tu plato para acompañar el <strong>hummus</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>hummus</strong> de <strong>tomates</strong> en un lado de los platos, creando una base, y coloca encima los <strong>tomates cherry</strong> restantes.</li>\n<li>Coloca el <strong>pollo</strong> marinado y la <strong>quinoa</strong> crujiente al otro lado, por separado.</li>\n<li>Sirve las <strong>tortillas</strong> crujientes junto a tu plato para acompañar el <strong>hummus</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325d56532819dcc1a1b8/step-69f5f250.jpg",
+          "path": "/6849325d56532819dcc1a1b8/step-69f5f250.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6849325d56532819dcc1a1b8-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCFQC23315-3",
+  "updatedAt": "2025-08-21T10:31:57+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff525",
+      "type": null,
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "7f804e6d-1f83-4f7b-ab0c-77659c59eb76",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-marinado-con-hummus-de-tomates-cherry-6849325d56532819dcc1a1b8",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 380,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6351196d34c59d5ef0faeb58",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 760,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6351196d34c59d5ef0faeb58",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 375,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 1140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6351196d34c59d5ef0faeb58",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 18,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6849325d56532819dcc1a1b8-Pollo marinado con hummus de tomates cherry.jpg",
+  "localCard": "/pdf/6849325d56532819dcc1a1b8-Pollo marinado con hummus de tomates cherry.pdf"
+}

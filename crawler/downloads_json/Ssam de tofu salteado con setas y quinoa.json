@@ -1,0 +1,897 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "67b4b74918c71cd69917a605",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ssam-de-tofu-con-setas-y-quinoa-con-mayonesa-de-shiracha-67b4b74918c71cd69917a605",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68fb93c787218af402501080-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "67b4b74918c71cd69917a605",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-24T14:57:11+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "Los ssams, típicos de la gastronomía coreana, suelen consistir en envoltorios comestibles, normalmente hojas de lechuga, que se rellenan con arroz y carne, aunque también hay versiones vegetarianas. En esta ocasión, escogemos esta opción y rellenamos con tofu, quinoa y champiñones en una mezcla de sabores original y fresh.",
+  "descriptionHTML": "<p>Los ssams, típicos de la gastronomía coreana, suelen consistir en envoltorios comestibles, normalmente hojas de lechuga, que se rellenan con arroz y carne, aunque también hay versiones vegetarianas. En esta ocasión, escogemos esta opción y rellenamos con tofu, quinoa y champiñones en una mezcla de sabores original y fresh.</p>",
+  "descriptionMarkdown": "Los ssams, típicos de la gastronomía coreana, suelen consistir en envoltorios comestibles, normalmente hojas de lechuga, que se rellenan con arroz y carne, aunque también hay versiones vegetarianas. En esta ocasión, escogemos esta opción y rellenamos con tofu, quinoa y champiñones en una mezcla de sabores original y fresh.",
+  "difficulty": 1,
+  "favoritesCount": 1,
+  "headline": "con cebolla crujiente y mayonesa de sriracha",
+  "id": "68fb93c787218af402501080",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R10_W22_ES_ESCLVQV40631-2_edit_Main_high-7f8abd74.jpg",
+  "imagePath": "/image/HF_Y25_R10_W22_ES_ESCLVQV40631-2_edit_Main_high-7f8abd74.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba1a",
+      "uuid": "dddc446f-dcdd-53de-a0df-b4b78c372e51",
+      "name": "Quinoa",
+      "type": "quinoa",
+      "slug": "quinoa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1a-324d6369.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1a-324d6369.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1a-Quinoa.png"
+    },
+    {
+      "id": "663dd43a5e4dcee2f122a3d9",
+      "uuid": "5efbe02d-9aa7-530e-bbb6-d3f77a8d6e9d",
+      "name": "Tofu",
+      "type": "tofu",
+      "slug": "tofu",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/663dd43a5e4dcee2f122a3d9-60345e10.png",
+      "imagePath": "/ingredient/663dd43a5e4dcee2f122a3d9-60345e10.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/663dd43a5e4dcee2f122a3d9-Tofu.png"
+    },
+    {
+      "id": "63404379233160a36674ba27",
+      "uuid": "62332e06-1bd9-5362-a8bd-eb869fce3bea",
+      "name": "Mix de especias tailandesas",
+      "type": "thai-style-spice-blend",
+      "slug": "mix-de-especias-tailandesas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "imagePath": "/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba27-Mix de especias tailandesas.png"
+    },
+    {
+      "id": "6340436b41033266d7be9505",
+      "uuid": "9a94a307-a64d-5b85-962a-663dff0b143e",
+      "name": "Cogollos de lechuga",
+      "type": "baby-gem-lettuce",
+      "slug": "cogollos-de-lechuga",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9505-Cogollos de lechuga.png"
+    },
+    {
+      "id": "66f6779e409e10e80694a8a2",
+      "uuid": "e3d17a31-dc7d-43e6-9d11-4f47e31b8102",
+      "name": "Cebolleta",
+      "type": "green-onion",
+      "slug": "cebolleta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/66f6779e409e10e80694a8a2-6cadf58e.png",
+      "imagePath": "/ingredient/66f6779e409e10e80694a8a2-6cadf58e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/66f6779e409e10e80694a8a2-Cebolleta.png"
+    },
+    {
+      "id": "6638ee6ba1cdc8933c577145",
+      "uuid": "cc791114-9cf5-4fad-8039-25b63aaf4256",
+      "name": "Champiñones laminados",
+      "type": "champignon-mushroom-slices",
+      "slug": "champinones-laminados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6638ee6ba1cdc8933c577145-37f480b6.png",
+      "imagePath": "/ingredient/6638ee6ba1cdc8933c577145-37f480b6.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6638ee6ba1cdc8933c577145-Champiñones laminados.png"
+    },
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "6340437941033266d7be9530",
+      "uuid": "4bb2d585-8bff-53e8-85b3-fc1744a8b5bd",
+      "name": "Sriracha",
+      "type": "sriracha",
+      "slug": "sriracha",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9530-1dc67998.png",
+      "imagePath": "/ingredient/6340437941033266d7be9530-1dc67998.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9530-Sriracha.png"
+    },
+    {
+      "id": "686e3eed69ddbf20131a6a7d",
+      "uuid": "0a15cb9b-a6c5-4fce-b32c-1f756821800c",
+      "name": "Cebolla frita",
+      "type": "crispy-onions",
+      "slug": "cebolla-frita",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/686e3eed69ddbf20131a6a7d-90217169.png",
+      "imagePath": "/ingredient/686e3eed69ddbf20131a6a7d-90217169.png",
+      "shipped": true,
+      "allergens": [
+        "5acf972fae08b54d333ac322",
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/686e3eed69ddbf20131a6a7d-Cebolla frita.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68fb93c787218af402501080",
+  "name": "Ssam de tofu salteado con setas y quinoa",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2503,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 598,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 35.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 59,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 12.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 18.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.52,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 483,
+  "slug": "ssam-de-tofu-salteado-con-setas-y-quinoa",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nEn un cazo, agrega el agua, sal y la quinoa.\nLleva a ebullición, luego, cocina tapado a fuego medio-bajo 12 min.\nUna vez listo, remueve y deja reposar con la tapa puesta.\nDesmenuza el tofu para conseguir trozos pequeños.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En un cazo, agrega el <strong>agua</strong>, <strong>sal</strong> y la <strong>quinoa.</strong></li>\n<li>Lleva a ebullición, luego, cocina tapado a fuego medio-bajo 12 min.</li>\n<li>Una vez listo, remueve y deja reposar con la tapa puesta.</li>\n<li>Desmenuza el <strong>tofu</strong> para conseguir trozos pequeños.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En un cazo, agrega el <strong>agua</strong>, <strong>sal</strong> y la <strong>quinoa.</strong></li>\n<li>Lleva a ebullición, luego, cocina tapado a fuego medio-bajo 12 min.</li>\n<li>Una vez listo, remueve y deja reposar con la tapa puesta.</li>\n<li>Desmenuza el <strong>tofu</strong> para conseguir trozos pequeños.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93c787218af402501080/step-adce5300.jpg",
+          "path": "/68fb93c787218af402501080/step-adce5300.jpg",
+          "caption": "Quinoa en marcha",
+          "localImage": "/images/recipes/68fb93c787218af402501080-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn un bol, agrega el tofu, la harina, las especias tailandesas, un chorrito de aceite, sal y pimienta. Mezcla bien.\nEn una sartén antiadherente, calienta un chorrito de aceite a fuego medio. Cocina el tofu 4-5 min. Luego, retira.\nRetira la base de los cogollos y separa las hojas más grandes.\nCorta el corazón de los cogollos en tiras y reserva en una ensaladera.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol, agrega el <strong>tofu,</strong> la <strong>harina</strong>, las <strong>especias tailandesas,</strong> un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> Mezcla bien.</li>\n<li>En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>tofu</strong> 4-5 min. Luego, retira.</li>\n<li>Retira la base de los <strong>cogollos</strong> y separa las hojas más grandes.</li>\n<li>Corta el corazón de los <strong>cogollos</strong> en tiras y reserva en una ensaladera.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol, agrega el <strong>tofu,</strong> la <strong>harina</strong>, las <strong>especias tailandesas,</strong> un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> Mezcla bien.</li>\n<li>En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>tofu</strong> 4-5 min. Luego, retira.</li>\n<li>Retira la base de los <strong>cogollos</strong> y separa las hojas más grandes.</li>\n<li>Corta el corazón de los <strong>cogollos</strong> en tiras y reserva en una ensaladera.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b30538d",
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93c787218af402501080/step-cb945a10.jpg",
+          "path": "/68fb93c787218af402501080/step-cb945a10.jpg",
+          "caption": "Tofu al fuego",
+          "localImage": "/images/recipes/68fb93c787218af402501080-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nPela la cebolleta y separa la parte verde. Pica ambas partes.\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Saltea los champiñones y la parte blanca de la cebolleta 4-5 min, removiendo. Salpimienta.\nEn un bol pequeño, mezcla la mayonesa y la sriracha.\n",
+      "instructionsHTML": "<ul>\n<li>Pela la <strong>cebolleta</strong> y separa la parte verde. Pica ambas partes.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Saltea los <strong>champiñones</strong> y la parte blanca de la <strong>cebolleta</strong> 4-5 min, removiendo. <strong>Salpimienta.</strong></li>\n<li>En un bol pequeño, mezcla la <strong>mayonesa</strong> y la <strong>sriracha.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela la <strong>cebolleta</strong> y separa la parte verde. Pica ambas partes.</li>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Saltea los <strong>champiñones</strong> y la parte blanca de la <strong>cebolleta</strong> 4-5 min, removiendo. <strong>Salpimienta.</strong></li>\n<li>En un bol pequeño, mezcla la <strong>mayonesa</strong> y la <strong>sriracha.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93c787218af402501080/step-3c8f3620.jpg",
+          "path": "/68fb93c787218af402501080/step-3c8f3620.jpg",
+          "caption": "¡Al rico salteado!",
+          "localImage": "/images/recipes/68fb93c787218af402501080-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la ensaladera, agrega la quinoa cocida, las setas salteadas y un chorrito de aceite. Mezcla.\nColoca las hojas de lechuga, la mezcla de quinoa y setas, el tofu y la mayonesa de sriracha en la mesa, por separado.\nMonta los ssam a tu gusto y decora con la parte verde de la cebolleta y la cebolla frita.\n\nSABÍAS QUE: Para que los cogollos de lechuga recuperen su firmeza, puedes sumergirlos durante unos minutos en agua con hielo.",
+      "instructionsHTML": "<ul>\n<li>En la ensaladera, agrega la <strong>quinoa</strong> cocida, las <strong>setas</strong> salteadas y un chorrito de <strong>aceite.</strong> Mezcla.</li>\n<li>Coloca las hojas de <strong>lechuga,</strong> la mezcla de <strong>quinoa</strong> y <strong>setas,</strong> el <strong>tofu</strong> y la <strong>mayonesa</strong> de <strong>sriracha</strong> en la mesa, por separado.</li>\n<li>Monta los <strong>ssam</strong> a tu gusto y decora con la parte verde de la <strong>cebolleta</strong> y la <strong>cebolla frita.</strong></li>\n</ul>\n<p>SABÍAS QUE: Para que los cogollos de lechuga recuperen su firmeza, puedes sumergirlos durante unos minutos en agua con hielo.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En la ensaladera, agrega la <strong>quinoa</strong> cocida, las <strong>setas</strong> salteadas y un chorrito de <strong>aceite.</strong> Mezcla.</li>\n<li>Coloca las hojas de <strong>lechuga,</strong> la mezcla de <strong>quinoa</strong> y <strong>setas,</strong> el <strong>tofu</strong> y la <strong>mayonesa</strong> de <strong>sriracha</strong> en la mesa, por separado.</li>\n<li>Monta los <strong>ssam</strong> a tu gusto y decora con la parte verde de la <strong>cebolleta</strong> y la <strong>cebolla frita.</strong></li>\n</ul>\n<p>SABÍAS QUE: Para que los cogollos de lechuga recuperen su firmeza, puedes sumergirlos durante unos minutos en agua con hielo.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93c787218af402501080/step-e4ce8330.jpg",
+          "path": "/68fb93c787218af402501080/step-e4ce8330.jpg",
+          "caption": "Monta los ssams y disfruta",
+          "localImage": "/images/recipes/68fb93c787218af402501080-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "61bcc274f0aa2a6e79272a5a",
+      "type": "extra-vegetables",
+      "name": ">250g de vegetales",
+      "slug": "250g-de-vegetales",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCLVQV40631-6",
+  "updatedAt": "2026-01-13T15:17:26+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "a02f4e07-26b3-4224-b259-b40c1e75f716",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ssam-de-tofu-salteado-con-setas-y-quinoa-68fb93c787218af402501080",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "66f6779e409e10e80694a8a2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6638ee6ba1cdc8933c577145",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437941033266d7be9530",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 1.5,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 440,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "66f6779e409e10e80694a8a2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6638ee6ba1cdc8933c577145",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437941033266d7be9530",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba1a",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "663dd43a5e4dcee2f122a3d9",
+          "amount": 540,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 660,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "66f6779e409e10e80694a8a2",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6638ee6ba1cdc8933c577145",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 9,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437941033266d7be9530",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 4.5,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68fb93c787218af402501080-Ssam de tofu salteado con setas y quinoa.jpg",
+  "localCard": "/pdf/68fb93c787218af402501080-Ssam de tofu salteado con setas y quinoa.pdf"
+}

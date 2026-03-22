@@ -1,0 +1,891 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "638a20cc16676f814583bbdb",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pizza-de-jamon-serrano-con-cebolla-roja-638a20cc16676f814583bbdb",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68d68a241d20e752a6dba8d0-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347ef44bb36093c54997910",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-09-26T12:42:12+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "La pizza es uno de los platos más versionados, así que te ofrecemos probar una receta en la que combinamos este clásico italiano con uno de los productos más representativos de nuestro país: el jamón serrano. Esta mezcla está lejos de ser arriesgada, pues los italianos agregan a la pizza el \"prosciutto\", un jamón curado típico de su país.",
+  "descriptionHTML": "<p>La pizza es uno de los platos más versionados, así que te ofrecemos probar una receta en la que combinamos este clásico italiano con uno de los productos más representativos de nuestro país: el jamón serrano. Esta mezcla está lejos de ser arriesgada, pues los italianos agregan a la pizza el &quot;prosciutto&quot;, un jamón curado típico de su país.</p>",
+  "descriptionMarkdown": "La pizza es uno de los platos más versionados, así que te ofrecemos probar una receta en la que combinamos este clásico italiano con uno de los productos más representativos de nuestro país: el jamón serrano. Esta mezcla está lejos de ser arriesgada, pues los italianos agregan a la pizza el \"prosciutto\", un jamón curado típico de su país. ",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "y ensalada aderezada con mostaza y miel",
+  "id": "68d68a241d20e752a6dba8d0",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/R07_W07_ES_ESFP0009-2_Main_high-451dbf55.jpg",
+  "imagePath": "/image/R07_W07_ES_ESFP0009-2_Main_high-451dbf55.jpg",
+  "ingredients": [
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "635bf32c715b05ed6af180bd",
+      "uuid": "92d67c8f-7ca6-5e50-b1ea-12d85a78d150",
+      "name": "Crème Fraîche",
+      "type": "creme-fraiche",
+      "slug": "creme-fraiche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "imagePath": "/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635bf32c715b05ed6af180bd-Crème Fraîche.png"
+    },
+    {
+      "id": "63497d88971d5eddb3ff71b2",
+      "uuid": "ca2eb932-2be6-58fe-9c2b-05bd27036489",
+      "name": "Base de pizza",
+      "type": "pizza-bases",
+      "slug": "base-de-pizza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b2-Base de pizza.png"
+    },
+    {
+      "id": "659c8d3fc7596f421e5449b1",
+      "uuid": "7a4c3ae4-ca74-4022-aa86-32db0c83d59f",
+      "name": "Queso rallado",
+      "type": "grated-cheese",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/659c8d3fc7596f421e5449b1-d8f6d2b4.png",
+      "imagePath": "/ingredient/659c8d3fc7596f421e5449b1-d8f6d2b4.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/659c8d3fc7596f421e5449b1-Queso rallado.png"
+    },
+    {
+      "id": "636923bb4cc379a27f60cc05",
+      "uuid": "12a33629-d36c-55db-9ccc-8f5a5cadb4de",
+      "name": "Semillas de calabaza",
+      "type": "pumpkin-seeds",
+      "slug": "semillas-de-calabaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636923bb4cc379a27f60cc05-e7db4109.png",
+      "imagePath": "/ingredient/636923bb4cc379a27f60cc05-e7db4109.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636923bb4cc379a27f60cc05-Semillas de calabaza.png"
+    },
+    {
+      "id": "6340437941033266d7be952e",
+      "uuid": "5039a7c1-5de6-5cc1-995f-aebbb994e544",
+      "name": "Ajo tierno",
+      "type": "spring-onion",
+      "slug": "ajo-tierno",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "imagePath": "/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be952e-Ajo tierno.png"
+    },
+    {
+      "id": "6340436b41033266d7be9505",
+      "uuid": "9a94a307-a64d-5b85-962a-663dff0b143e",
+      "name": "Cogollos de lechuga",
+      "type": "baby-gem-lettuce",
+      "slug": "cogollos-de-lechuga",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9505-Cogollos de lechuga.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "63404378233160a36674ba22",
+      "uuid": "58f62d79-1df8-568e-933c-6cd1db61067a",
+      "name": "Jamón serrano",
+      "type": "serrano-ham",
+      "slug": "jamon-serrano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404378233160a36674ba22-f1c3d2b8.png",
+      "imagePath": "/ingredient/63404378233160a36674ba22-f1c3d2b8.png",
+      "shipped": true,
+      "allergens": [
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404378233160a36674ba22-Jamón serrano.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68d68a241d20e752a6dba8d0",
+  "name": "La ibérica: pizza de jamón serrano con cebolla",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4212,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1007,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 29.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 94.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 14.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 39.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.39,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 516,
+  "slug": "pizza-de-jamon-serrano-de-teruel-con-cebolla-roja",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nPela la cebolla y córtala en tiras finitas.\nEn un bol pequeño, mezcla la mitad de la miel y la crème fraiche.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finitas.</li>\n<li>En un bol pequeño, mezcla la mitad de la <strong>miel</strong> y la <strong>crème fraiche</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finitas.</li>\n<li>En un bol pequeño, mezcla la mitad de la <strong>miel</strong> y la <strong>crème fraiche</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a241d20e752a6dba8d0/step-34906400.jpg",
+          "path": "/68d68a241d20e752a6dba8d0/step-34906400.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68d68a241d20e752a6dba8d0-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nSobre las bases de pizza, extiende la mezcla de miel y crème fraiche.\nDeja aproximadamente 1 cm del borde sin cubrir por la salsa.\n",
+      "instructionsHTML": "<ul>\n<li>Sobre las <strong>bases de pizza</strong>, extiende la mezcla de <strong>miel</strong> y <strong>crème fraiche</strong>.</li>\n<li>Deja aproximadamente 1 cm del borde sin cubrir por la <strong>salsa</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sobre las <strong>bases de pizza</strong>, extiende la mezcla de <strong>miel</strong> y <strong>crème fraiche</strong>.</li>\n<li>Deja aproximadamente 1 cm del borde sin cubrir por la <strong>salsa</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a241d20e752a6dba8d0/step-1b5ed010.jpg",
+          "path": "/68d68a241d20e752a6dba8d0/step-1b5ed010.jpg",
+          "caption": "Cubre las bases",
+          "localImage": "/images/recipes/68d68a241d20e752a6dba8d0-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nColoca la cebolla y el queso rallado sobre las base de pizza.\nSazona con sal y pimienta al gusto.\nHornea a media altura 13-15 min o hasta que estén tostadas.\n",
+      "instructionsHTML": "<ul>\n<li>Coloca la <strong>cebolla </strong>y el <strong>queso rallado</strong> sobre las <strong>base de pizza</strong>.</li>\n<li>Sazona con <strong>sal</strong> y <strong>pimienta</strong> al gusto.</li>\n<li>Hornea a media altura 13-15 min o hasta que estén tostadas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca la <strong>cebolla </strong>y el <strong>queso rallado</strong> sobre las <strong>base de pizza</strong>.</li>\n<li>Sazona con <strong>sal</strong> y <strong>pimienta</strong> al gusto.</li>\n<li>Hornea a media altura 13-15 min o hasta que estén tostadas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a241d20e752a6dba8d0/step-e5c80c20.jpg",
+          "path": "/68d68a241d20e752a6dba8d0/step-e5c80c20.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/68d68a241d20e752a6dba8d0-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCalienta una sartén a fuego alto sin aceite y tuesta las semillas de calabaza, hasta que comiencen a dorarse.\nReserva fuera de la sartén.\nCorta el ajo tierno en rodajas finas, separa la parte blanca de la verde.\nCorta los cogollos de lechuga en tiras finas.\n",
+      "instructionsHTML": "<ul>\n<li>Calienta una sartén a fuego alto sin aceite y tuesta las <strong>semillas de calabaza</strong>, hasta que comiencen a dorarse.</li>\n<li>Reserva fuera de la sartén.</li>\n<li>Corta el <strong>ajo tierno</strong> en rodajas finas, separa la parte blanca de la verde.</li>\n<li>Corta los <strong>cogollos de lechuga</strong> en tiras finas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Calienta una sartén a fuego alto sin aceite y tuesta las <strong>semillas de calabaza</strong>, hasta que comiencen a dorarse.</li>\n<li>Reserva fuera de la sartén.</li>\n<li>Corta el <strong>ajo tierno</strong> en rodajas finas, separa la parte blanca de la verde.</li>\n<li>Corta los <strong>cogollos de lechuga</strong> en tiras finas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a241d20e752a6dba8d0/step-a281aa30.jpg",
+          "path": "/68d68a241d20e752a6dba8d0/step-a281aa30.jpg",
+          "caption": "Mise en place",
+          "localImage": "/images/recipes/68d68a241d20e752a6dba8d0-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn una ensaladera, mezcla el vinagre balsámico, la mostaza, la miel restante y un chorrito de aceite y salpimienta.\nAñade la lechuga, la parte blanca del ajo tierno y las semillas de calabaza tostadas. Mezcla bien.\n",
+      "instructionsHTML": "<ul>\n<li>En una ensaladera, mezcla el <strong>vinagre balsámico</strong>, la <strong>mostaza</strong>, la <strong>miel</strong> restante y un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong>.</li>\n<li>Añade la <strong>lechuga</strong>, la parte blanca del <strong>ajo tierno</strong> y las <strong>semillas de calabaza</strong> tostadas. Mezcla bien.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una ensaladera, mezcla el <strong>vinagre balsámico</strong>, la <strong>mostaza</strong>, la <strong>miel</strong> restante y un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong>.</li>\n<li>Añade la <strong>lechuga</strong>, la parte blanca del <strong>ajo tierno</strong> y las <strong>semillas de calabaza</strong> tostadas. Mezcla bien.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a241d20e752a6dba8d0/step-9f780f40.jpg",
+          "path": "/68d68a241d20e752a6dba8d0/step-9f780f40.jpg",
+          "caption": "Que no falte verde",
+          "localImage": "/images/recipes/68d68a241d20e752a6dba8d0-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nTrocea las lonchas de jamón serrano.\nCuando la pizza está cocinada, sácala del horno.\nReparte el jamón serrano troceado entre las pizzas y decora con la parte verde del ajo tierno.\nAcompaña las pizzas con la ensalada.\n",
+      "instructionsHTML": "<ul>\n<li>Trocea las <strong>lonchas de jamón serrano</strong>.</li>\n<li>Cuando la <strong>pizza</strong> está cocinada, sácala del horno.</li>\n<li>Reparte el <strong>jamón serrano</strong> troceado entre las <strong>pizzas</strong> y decora con la parte verde del <strong>ajo tierno</strong>.</li>\n<li>Acompaña las <strong>pizzas</strong> con la <strong>ensalada</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Trocea las <strong>lonchas de jamón serrano</strong>.</li>\n<li>Cuando la <strong>pizza</strong> está cocinada, sácala del horno.</li>\n<li>Reparte el <strong>jamón serrano</strong> troceado entre las <strong>pizzas</strong> y decora con la parte verde del <strong>ajo tierno</strong>.</li>\n<li>Acompaña las <strong>pizzas</strong> con la <strong>ensalada</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d68a241d20e752a6dba8d0/step-c5fd7950.jpg",
+          "path": "/68d68a241d20e752a6dba8d0/step-c5fd7950.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68d68a241d20e752a6dba8d0-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESFP0009-3",
+  "updatedAt": "2025-12-18T15:05:01+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "f6dffbd9-5e99-4952-b6d3-f5a63f587624",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pizza-de-jamon-serrano-de-teruel-con-cebolla-roja-68d68a241d20e752a6dba8d0",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "659c8d3fc7596f421e5449b1",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404378233160a36674ba22",
+          "amount": 80,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "659c8d3fc7596f421e5449b1",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 440,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404378233160a36674ba22",
+          "amount": 160,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "659c8d3fc7596f421e5449b1",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 660,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404378233160a36674ba22",
+          "amount": 240,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68d68a241d20e752a6dba8d0-La ibérica pizza de jamón serrano con cebolla.jpg",
+  "localCard": "/pdf/68d68a241d20e752a6dba8d0-La ibérica pizza de jamón serrano con cebolla.pdf"
+}

@@ -1,0 +1,733 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b305301",
+      "name": "Moluscos",
+      "type": "molluscs",
+      "slug": "moluscos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf967d30006c4cbc61d152",
+      "name": "Crustáceos",
+      "type": "traces-of-crustaceans",
+      "slug": "traces-of-crustaceos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf974c30006c4d667f88f1",
+      "name": "Pescado",
+      "type": "traces-of-fish",
+      "slug": "traces-of-pescado",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.8,
+  "canonical": "6745e9c8b1d252afb328b04d",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pulpo-con-salsa-romesco-casera-y-verduras-asadas-6745e9c8b1d252afb328b04d",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/67af1b6628cb4b22b5761d76-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6745e9c8b1d252afb328b04d",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-02-14T10:31:03+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "La fusión gastronómica viene cogiendo fuerza en los últimos años principalmente por el atrevimiento de los mejores chefs alrededor del mundo. No queríamos quedarnos atrás, por lo que hemos combinado el pulpo, un clásico de la gastronomía gallega por su calidad y textura, con el romesco, una salsa catalana untuosa y versátil.",
+  "descriptionHTML": "<p>La fusión gastronómica viene cogiendo fuerza en los últimos años principalmente por el atrevimiento de los mejores chefs alrededor del mundo. No queríamos quedarnos atrás, por lo que hemos combinado el pulpo, un clásico de la gastronomía gallega por su calidad y textura, con el romesco, una salsa catalana untuosa y versátil.</p>",
+  "descriptionMarkdown": "La fusión gastronómica viene cogiendo fuerza en los últimos años principalmente por el atrevimiento de los mejores chefs alrededor del mundo. No queríamos quedarnos atrás, por lo que hemos combinado el pulpo, un clásico de la gastronomía gallega por su calidad y textura, con el romesco, una salsa catalana untuosa y versátil.",
+  "difficulty": 1,
+  "favoritesCount": 8,
+  "headline": "con pimientos del padrón y patatas asadas",
+  "id": "67af1b6628cb4b22b5761d76",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R16_W12_ES_ESSGF36347-2_Main_F1_high-53c01b72.jpg",
+  "imagePath": "/image/HF_Y25_R16_W12_ES_ESSGF36347-2_Main_F1_high-53c01b72.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340437a41033266d7be953a",
+      "uuid": "37ed7595-df72-47bb-92d6-c2080e7880cf",
+      "name": "Pimientos de padrón",
+      "type": "padron-peppers",
+      "slug": "pimientos-de-padron",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be953a-906a24be.png",
+      "imagePath": "/ingredient/6340437a41033266d7be953a-906a24be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be953a-Pimientos de padrón.png"
+    },
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "63bd8b8447216d30617cbe34",
+      "uuid": "eece3be8-5fc5-569f-9907-7644c9f41b9b",
+      "name": "Avellanas enteras crudas",
+      "type": "hazelnuts",
+      "slug": "avellanas-enteras-crudas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bd8b8447216d30617cbe34-30e80cfc.png",
+      "imagePath": "/ingredient/63bd8b8447216d30617cbe34-30e80cfc.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bd8b8447216d30617cbe34-Avellanas enteras crudas.png"
+    },
+    {
+      "id": "66f1724758baf82d2a96789f",
+      "uuid": "9f9a24ff-45c4-4949-901e-39d16fb5057a",
+      "name": "Pulpo",
+      "type": "pre-cooked-octopus",
+      "slug": "pulpo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/66f1724758baf82d2a96789f-04b2dc13.png",
+      "imagePath": "/ingredient/66f1724758baf82d2a96789f-04b2dc13.png",
+      "shipped": true,
+      "allergens": [
+        "5acf967d30006c4cbc61d152",
+        "5acf974c30006c4d667f88f1",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b305301"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/66f1724758baf82d2a96789f-Pulpo.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "65b9f37ed1da3988cdd8ea2e",
+      "uuid": "2172102e-c765-43f0-a8ee-369a17e6ad6f",
+      "name": "Vinagre",
+      "type": "vinegar-in-tbsp",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "imagePath": "/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65b9f37ed1da3988cdd8ea2e-Vinagre.png"
+    },
+    {
+      "id": "6450b971a7de25dd4f194163",
+      "uuid": "e8b4474a-caeb-43ea-870a-2b5963671f04",
+      "name": "Aceite para la salsa",
+      "type": "oil-for-the-sauce-tbsp",
+      "slug": "aceite-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6450b971a7de25dd4f194163-c451ce6e.png",
+      "imagePath": "/ingredient/6450b971a7de25dd4f194163-c451ce6e.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6450b971a7de25dd4f194163-Aceite para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Sabores del mar",
+    "handle": "best-of-the-sea",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#3c454a",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/67af1b6628cb4b22b5761d76",
+  "name": "Pulpo con salsa romesco casera",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2750,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 657,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 33.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 66.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 20.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 13,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 595,
+  "slug": "pulpo-con-salsa-romesco-casera",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220°C. Corta las patatas en gajos de 1-2 cm de grosor. Colócalos las patatas y los pimientos de padrón en una bandeja de horno con papel de horno y agrega un chorrito de aceite, sal y pimienta. Mezcla y hornea a media altura 20-25 min o hasta que se doren. Da la vuelta a mitad de cocción.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220°C. Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor. Colócalos las <strong>patatas</strong> y los <strong>pimientos de padrón</strong> en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong>. Mezcla y hornea a media altura 20-25 min o hasta que se doren. Da la vuelta a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220°C. Corta las <strong>patatas</strong> en gajos de 1-2 cm de grosor. Colócalos las <strong>patatas</strong> y los <strong>pimientos de padrón</strong> en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite, sal</strong> y <strong>pimienta</strong>. Mezcla y hornea a media altura 20-25 min o hasta que se doren. Da la vuelta a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b6628cb4b22b5761d76/step-10919c00.jpg",
+          "path": "/67af1b6628cb4b22b5761d76/step-10919c00.jpg",
+          "caption": "Hornea las patatas y pimientos",
+          "localImage": "/images/recipes/67af1b6628cb4b22b5761d76-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Corta el pimiento por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 2 cm. Corta el tomate en cuartos. Pela el ajo (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p>Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 2 cm. Corta el <strong>tomate</strong> en cuartos. Pela el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p>Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Luego, córtalo en cuadrados de 2 cm. Corta el <strong>tomate</strong> en cuartos. Pela el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b6628cb4b22b5761d76/step-9e46fe10.jpg",
+          "path": "/67af1b6628cb4b22b5761d76/step-9e46fe10.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/67af1b6628cb4b22b5761d76-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Coloca el pimiento, el tomate y el ajo en una fuente de horno y agrega un chorrito de aceite, sal y pimienta. Mezcla y hornea en el estante medio-alto 10-15 min. Pasado este tiempo, remueve y agrega las avellanas. Hornea 5 min más, hasta que los vegetales queden tiernos.",
+      "instructionsHTML": "<p>Coloca el <strong>pimiento,</strong> el <strong>tomate</strong> y el <strong>ajo</strong> en una fuente de horno y agrega un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Mezcla y hornea en el estante medio-alto 10-15 min. Pasado este tiempo, remueve y agrega las <strong>avellanas.</strong> Hornea 5 min más, hasta que los <strong>vegetales</strong> queden tiernos.</p>",
+      "instructionsMarkdown": "<p>Coloca el <strong>pimiento,</strong> el <strong>tomate</strong> y el <strong>ajo</strong> en una fuente de horno y agrega un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Mezcla y hornea en el estante medio-alto 10-15 min. Pasado este tiempo, remueve y agrega las <strong>avellanas.</strong> Hornea 5 min más, hasta que los <strong>vegetales</strong> queden tiernos.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b6628cb4b22b5761d76/step-40eed420.jpg",
+          "path": "/67af1b6628cb4b22b5761d76/step-40eed420.jpg",
+          "caption": "Hornea los vegetales",
+          "localImage": "/images/recipes/67af1b6628cb4b22b5761d76-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando a las patatas les queden 5-6 min para estar listas, seca el pulpo y salpimienta. En una sartén antiadherente, calienta un chorrito de aceite a fuego medio-alto. Agrega el pulpo y cocina 5-6 min, dando la vuelta para que quede uniformemente dorado y caliente.\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.",
+      "instructionsHTML": "<p>Cuando a las <strong>patatas</strong> les queden 5-6 min para estar listas, seca el <strong>pulpo</strong> y <strong>salpimienta.</strong> En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>pulpo</strong> y cocina 5-6 min, dando la vuelta para que quede uniformemente dorado y caliente.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "instructionsMarkdown": "<p>Cuando a las <strong>patatas</strong> les queden 5-6 min para estar listas, seca el <strong>pulpo</strong> y <strong>salpimienta.</strong> En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>pulpo</strong> y cocina 5-6 min, dando la vuelta para que quede uniformemente dorado y caliente.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b6628cb4b22b5761d76/step-de452430.jpg",
+          "path": "/67af1b6628cb4b22b5761d76/step-de452430.jpg",
+          "caption": "Cocina el pulpo",
+          "localImage": "/images/recipes/67af1b6628cb4b22b5761d76-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando el pimiento y el tomate estén listos, colócalos en una jarra medidora y añade la pulpa del ajo asado y las avellanas. Agrega el vinagre y el aceite para la salsa (ver cantidad en ingredientes de ambos), sal y pimienta y tritura con un túrmix hasta conseguir una salsa romesco cremosa. Prueba y agrega sal y aceite al gusto.",
+      "instructionsHTML": "<p>Cuando el <strong>pimiento</strong> y el <strong>tomate</strong> estén listos, colócalos en una jarra medidora y añade la pulpa del <strong>ajo</strong> asado y las <strong>avellanas.</strong> Agrega el <strong>vinagre</strong> y el <strong>aceite para la salsa</strong> (ver cantidad en ingredientes de ambos),<strong> sal</strong> y <strong>pimienta</strong> y tritura con un túrmix hasta conseguir una <strong>salsa romesco</strong> cremosa. Prueba y agrega <strong>sal</strong> y <strong>aceite</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Cuando el <strong>pimiento</strong> y el <strong>tomate</strong> estén listos, colócalos en una jarra medidora y añade la pulpa del <strong>ajo</strong> asado y las <strong>avellanas.</strong> Agrega el <strong>vinagre</strong> y el <strong>aceite para la salsa</strong> (ver cantidad en ingredientes de ambos),<strong> sal</strong> y <strong>pimienta</strong> y tritura con un túrmix hasta conseguir una <strong>salsa romesco</strong> cremosa. Prueba y agrega <strong>sal</strong> y <strong>aceite</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b6628cb4b22b5761d76/step-da039340.jpg",
+          "path": "/67af1b6628cb4b22b5761d76/step-da039340.jpg",
+          "caption": "Prepara el romesco",
+          "localImage": "/images/recipes/67af1b6628cb4b22b5761d76-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve la salsa romesco en un lado de los platos, creando una base, y cubre con el pulpo. Coloca las patatas y pimientos de padrón al otro lado del plato.",
+      "instructionsHTML": "<p>Sirve la <strong>salsa romesco</strong> en un lado de los platos, creando una base, y cubre con el <strong>pulpo.</strong> Coloca las <strong>patatas</strong> y <strong>pimientos</strong> <strong>de padrón</strong> al otro lado del plato.</p>",
+      "instructionsMarkdown": "<p>Sirve la <strong>salsa romesco</strong> en un lado de los platos, creando una base, y cubre con el <strong>pulpo.</strong> Coloca las <strong>patatas</strong> y <strong>pimientos</strong> <strong>de padrón</strong> al otro lado del plato.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b6628cb4b22b5761d76/step-d1f2f350.jpg",
+          "path": "/67af1b6628cb4b22b5761d76/step-d1f2f350.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/67af1b6628cb4b22b5761d76-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESSGF36347-3",
+  "updatedAt": "2026-03-10T12:25:04+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "40d84803-9f6a-4cd3-8beb-e12a48990a60",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pulpo-con-salsa-romesco-casera-67af1b6628cb4b22b5761d76",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437a41033266d7be953a",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63bd8b8447216d30617cbe34",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "66f1724758baf82d2a96789f",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437a41033266d7be953a",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63bd8b8447216d30617cbe34",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "66f1724758baf82d2a96789f",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6450b971a7de25dd4f194163",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/67af1b6628cb4b22b5761d76-Pulpo con salsa romesco casera.jpg",
+  "localCard": "/pdf/67af1b6628cb4b22b5761d76-Pulpo con salsa romesco casera.pdf"
+}

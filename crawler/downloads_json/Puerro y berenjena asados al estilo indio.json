@@ -1,0 +1,655 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": "65d8b0e5e15fd4f7b093a448",
+  "canonicalLink": "https://www.hellofresh.es/recipes/puerro-berenjena-pure-patata-boniato-garbanzos-65d8b0e5e15fd4f7b093a448",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6616b8e217fb871fe34f4a73-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "64f89ee871b62ce12833d3b4",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-04-24T09:25:40+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "La diferencia en el sabor entre la patata y el boniato se debe a que tienen composiciones químicas muy diferentes. Mientras la patata, que es rica en almidón, tiene un sabor neutro, el boniato tiene más azúcares naturales, como el glucógeno y la sacarosa, por lo que es más dulce y puede tener matices afrutados.",
+  "descriptionHTML": "<p>La diferencia en el sabor entre la patata y el boniato se debe a que tienen composiciones químicas muy diferentes. Mientras la patata, que es rica en almidón, tiene un sabor neutro, el boniato tiene más azúcares naturales, como el glucógeno y la sacarosa, por lo que es más dulce y puede tener matices afrutados.</p>",
+  "descriptionMarkdown": "La diferencia en el sabor entre la patata y el boniato se debe a que tienen composiciones químicas muy diferentes. Mientras la patata, que es rica en almidón, tiene un sabor neutro, el boniato tiene más azúcares naturales, como el glucógeno y la sacarosa, por lo que es más dulce y puede tener matices afrutados.",
+  "difficulty": 2,
+  "favoritesCount": 11,
+  "headline": "sobre puré cremoso de patata y boniato con garbanzos crujientes",
+  "id": "6616b8e217fb871fe34f4a73",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R12_W20_ES_ESVV18789-2_-1_Main__2high-d563b055.jpg",
+  "imagePath": "/image/HF_Y24_R12_W20_ES_ESVV18789-2_-1_Main__2high-d563b055.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340437941033266d7be9531",
+      "uuid": "61a2604a-ad14-5a3c-b00f-f81d58cb0c90",
+      "name": "Boniato",
+      "type": "sweet-potato",
+      "slug": "boniato",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "imagePath": "/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9531-Boniato.png"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "6340437a233160a36674ba2b",
+      "uuid": "b72f0046-564d-412b-b75a-8810fe101790",
+      "name": "Mezcla de especias indias",
+      "type": "indian-spice-mix",
+      "slug": "mezcla-de-especias-indias",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a233160a36674ba2b-e1df08de.png",
+      "imagePath": "/ingredient/6340437a233160a36674ba2b-e1df08de.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a233160a36674ba2b-Mezcla de especias indias.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3c9f",
+      "uuid": "1fa6c253-440c-5c98-9e4b-65a57a89f8b1",
+      "name": "Berenjena",
+      "type": "aubergine",
+      "slug": "berenjena",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3c9f-Berenjena.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "638d95012d9af192559539ba",
+      "uuid": "81735a05-eaac-4944-b263-c8299b14566d",
+      "name": "Agua de la cocción",
+      "type": "cooking-water",
+      "slug": "agua-de-la-coccion",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "imagePath": "/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638d95012d9af192559539ba-Agua de la cocción.jpg"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6616b8e217fb871fe34f4a73",
+  "name": "Puerro y berenjena asados al estilo indio",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2229,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 533,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 4.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 0.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 74.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 13.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 14.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.96,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 12,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 607,
+  "slug": "puerro-berenjena-asados-pure-garbanzos",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En un cazo grande, agrega abundante agua y lleva a ebullición. Mientras tanto, escurre los garbanzos y sécalos con papel de cocina. Coloca los garbanzos en un bandeja de horno con papel de horno y añade un chorrito de aceite. Salpimienta y remueve. Hornea en el estante superior durante 12 min.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En un cazo grande, agrega abundante <strong>agua</strong> y lleva a ebullición. Mientras tanto, escurre los <strong>garbanzos</strong> y sécalos con papel de cocina. Coloca los <strong>garbanzos</strong> en un bandeja de horno con papel de horno y añade un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y remueve. Hornea en el estante superior durante 12<span> min</span>.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. En un cazo grande, agrega abundante <strong>agua</strong> y lleva a ebullición. Mientras tanto, escurre los <strong>garbanzos</strong> y sécalos con papel de cocina. Coloca los <strong>garbanzos</strong> en un bandeja de horno con papel de horno y añade un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y remueve. Hornea en el estante superior durante 12<span> min</span>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b305376",
+        "623c805661a1b9d0034f9065"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8e217fb871fe34f4a73/step-eb97ba00.jpg",
+          "path": "/6616b8e217fb871fe34f4a73/step-eb97ba00.jpg",
+          "caption": "Hornea los garbanzos",
+          "localImage": "/images/recipes/6616b8e217fb871fe34f4a73-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Retira las raíces y el extremo verde del puerro y deséchalos. En cortes diagonales, divide el puerro en trozos de 3-4 cm. Cuando el agua del cazo hierva, agrega el puerro, reduce a fuego medio y cocina 3 min. Luego, conservando el agua en el cazo, retira el puerro con la ayuda de una araña o espumadera y escúrrelo. Luego, coloca el puerro en una bandeja de horno con papel de horno.",
+      "instructionsHTML": "<p>Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. En cortes diagonales, divide el puerro en trozos de 3-4 cm. Cuando el <strong>agua</strong> del cazo hierva, agrega el <strong>puerro</strong>, reduce a fuego medio y cocina 3 min. Luego, conservando el <strong>agua</strong> en el cazo, retira el <strong>puerro</strong> con la ayuda de una araña o espumadera y escúrrelo. Luego, coloca el <strong>puerro</strong> en una bandeja de horno con papel de horno.</p>",
+      "instructionsMarkdown": "<p>Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. En cortes diagonales, divide el puerro en trozos de 3-4 cm. Cuando el <strong>agua</strong> del cazo hierva, agrega el <strong>puerro</strong>, reduce a fuego medio y cocina 3 min. Luego, conservando el <strong>agua</strong> en el cazo, retira el <strong>puerro</strong> con la ayuda de una araña o espumadera y escúrrelo. Luego, coloca el <strong>puerro</strong> en una bandeja de horno con papel de horno.</p>",
+      "ingredients": [],
+      "utensils": [
+        "637ccf1f51efa9c65fc33334"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8e217fb871fe34f4a73/step-52fd4910.jpg",
+          "path": "/6616b8e217fb871fe34f4a73/step-52fd4910.jpg",
+          "caption": "Prepara el puerro",
+          "localImage": "/images/recipes/6616b8e217fb871fe34f4a73-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Retira el tallo de la berenjena y córtala por la mitad a lo largo. Luego, corta cada mitad en 4 tiras a lo largo y colócala junto al puerro en la bandeja de horno. Añade un chorrito de aceite, salpimienta y remueve. Cuando los garbanzos se hayan horneado 12 min, remueve bien. Hornea a media altura 13-15 min más, hasta que se doren. Hornea las verduras en el estante superior 10-12 min, hasta que estén tiernas.",
+      "instructionsHTML": "<p>Retira el tallo de la <strong>berenjena</strong> y córtala por la mitad a lo largo. Luego, corta cada mitad en 4 tiras a lo largo y colócala junto al <strong>puerro</strong> en la bandeja de horno. Añade un chorrito de <strong>aceite</strong>, <strong>salpimienta</strong> y remueve. Cuando los <strong>garbanzos</strong> se hayan horneado 12 min, remueve bien. Hornea a media altura 13-15 min más, hasta que se doren. Hornea las <strong>verduras</strong> en el estante superior 10-12 min, hasta que estén tiernas.</p>",
+      "instructionsMarkdown": "<p>Retira el tallo de la <strong>berenjena</strong> y córtala por la mitad a lo largo. Luego, corta cada mitad en 4 tiras a lo largo y colócala junto al <strong>puerro</strong> en la bandeja de horno. Añade un chorrito de <strong>aceite</strong>, <strong>salpimienta</strong> y remueve. Cuando los <strong>garbanzos</strong> se hayan horneado 12 min, remueve bien. Hornea a media altura 13-15 min más, hasta que se doren. Hornea las <strong>verduras</strong> en el estante superior 10-12 min, hasta que estén tiernas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8e217fb871fe34f4a73/step-2550ac20.jpg",
+          "path": "/6616b8e217fb871fe34f4a73/step-2550ac20.jpg",
+          "caption": "Hornea las verduras",
+          "localImage": "/images/recipes/6616b8e217fb871fe34f4a73-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Pela el boniato y córtalo en dados de 1-2 cm. Pela la patata y córtala en dados de 2 cm. En el cazo con el agua, agrega la patata y boniato junto a una pizca de sal y lleva a ebullición. Luego, cocina a fuego medio 15-18 min o hasta que estén blandos. Cuando estén listos, reserva el agua de la cocción (ver cantidad en ingredientes), luego, escurre con el colador.",
+      "instructionsHTML": "<p>Pela el <strong>boniato</strong> y córtalo en dados de 1-2 cm. Pela la <strong>patata</strong> y córtala en dados de 2 cm. En el cazo con el <strong>agua</strong>, agrega la <strong>patata</strong> y <strong>boniato</strong> junto a una pizca de <strong>sal</strong> y lleva a ebullición. Luego, cocina a fuego medio 15-18 min o hasta que estén blandos. Cuando estén listos, reserva el <strong>agua de la cocción</strong> (ver cantidad en ingredientes), luego, escurre con el colador.</p>",
+      "instructionsMarkdown": "<p>Pela el <strong>boniato</strong> y córtalo en dados de 1-2 cm. Pela la <strong>patata</strong> y córtala en dados de 2 cm. En el cazo con el <strong>agua</strong>, agrega la <strong>patata</strong> y <strong>boniato</strong> junto a una pizca de <strong>sal</strong> y lleva a ebullición. Luego, cocina a fuego medio 15-18 min o hasta que estén blandos. Cuando estén listos, reserva el <strong>agua de la cocción</strong> (ver cantidad en ingredientes), luego, escurre con el colador.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b305379",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8e217fb871fe34f4a73/step-dc430430.jpg",
+          "path": "/6616b8e217fb871fe34f4a73/step-dc430430.jpg",
+          "caption": "Cuece la patata y el boniato",
+          "localImage": "/images/recipes/6616b8e217fb871fe34f4a73-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En un bol grande, mezcla un chorrito generoso de aceite y el mix de especias del Norte de India. Cuando el puerro y la berenjena estén listos, agrégalos al bol y mezcla bien. Cuando el boniato y la patata estén tiernos, colócalos en la jarra medidora y agrega el agua de la cocción reservada. Tritura con ayuda de un túrmix hasta conseguir un puré fino. Salpimienta al gusto. ",
+      "instructionsHTML": "<p>En un bol grande, mezcla un chorrito generoso de <strong>aceite</strong> y el <strong>mix de especias del Norte de India</strong>. Cuando el <strong>puerro</strong> y la <strong>berenjena</strong> estén listos, agrégalos al bol y mezcla bien. Cuando el <strong>boniato</strong> y la <strong>patata</strong> estén tiernos, colócalos en la jarra medidora y agrega el <strong>agua de la cocción</strong> reservada. Tritura con ayuda de un túrmix hasta conseguir un <strong>puré</strong> fino. <strong>Salpimienta</strong> al gusto. </p>",
+      "instructionsMarkdown": "<p>En un bol grande, mezcla un chorrito generoso de <strong>aceite</strong> y el <strong>mix de especias del Norte de India</strong>. Cuando el <strong>puerro</strong> y la <strong>berenjena</strong> estén listos, agrégalos al bol y mezcla bien. Cuando el <strong>boniato</strong> y la <strong>patata</strong> estén tiernos, colócalos en la jarra medidora y agrega el <strong>agua de la cocción</strong> reservada. Tritura con ayuda de un túrmix hasta conseguir un <strong>puré</strong> fino. <strong>Salpimienta</strong> al gusto. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8e217fb871fe34f4a73/step-20e31340.jpg",
+          "path": "/6616b8e217fb871fe34f4a73/step-20e31340.jpg",
+          "caption": "Prepara el puré",
+          "localImage": "/images/recipes/6616b8e217fb871fe34f4a73-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el puré cremoso de patata y boniato en la base de los platos y coloca encima el puerro y la berenjena asados. Acaba el plato añadiendo los garbanzos asados.",
+      "instructionsHTML": "<p>Sirve el <strong>puré</strong> cremoso de <strong>patata</strong> y <strong>boniato</strong> en la base de los platos y coloca encima el <strong>puerro</strong> y la <strong>berenjena</strong> asados. Acaba el plato añadiendo los <strong>garbanzos</strong> asados.</p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>puré</strong> cremoso de <strong>patata</strong> y <strong>boniato</strong> en la base de los platos y coloca encima el <strong>puerro</strong> y la <strong>berenjena</strong> asados. Acaba el plato añadiendo los <strong>garbanzos</strong> asados.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8e217fb871fe34f4a73/step-dac43950.jpg",
+          "path": "/6616b8e217fb871fe34f4a73/step-dac43950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6616b8e217fb871fe34f4a73-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegano",
+      "slug": "vegano",
+      "colorHandle": "vegan",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "61bcc274f0aa2a6e79272a5a",
+      "type": "extra-vegetables",
+      "name": ">250g de vegetales",
+      "slug": "250g-de-vegetales",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESVV18789-4",
+  "updatedAt": "2026-01-21T14:00:08+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "623c805661a1b9d0034f9065",
+      "type": "largesaucepan",
+      "name": "Cazo grande"
+    },
+    {
+      "id": "637ccf1f51efa9c65fc33334",
+      "type": "skimmer",
+      "name": "Araña"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "43377634-8176-407f-8600-74858cbae022",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/puerro-berenjena-asados-pure-garbanzos-6616b8e217fb871fe34f4a73",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a233160a36674ba2b",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437a233160a36674ba2b",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6616b8e217fb871fe34f4a73-Puerro y berenjena asados al estilo indio.jpg",
+  "localCard": "/pdf/6616b8e217fb871fe34f4a73-Puerro y berenjena asados al estilo indio.pdf"
+}

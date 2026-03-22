@@ -1,0 +1,834 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3,
+  "canonical": "65d8b0caaf9837570334775b",
+  "canonicalLink": "https://www.hellofresh.es/recipes/gazpacho-remolacha-picatostes-65d8b0caaf9837570334775b",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6849323cb9b1c59f93d88a7e-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "65a640d070cc438cf4f7f321",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-11T07:37:33+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "La remolacha es un ingrediente especial por su intenso color rojo y por su característico sabor terroso y dulce. Sin embargo, sus particularidades no acaban ahí, pues es un producto con un gran contenido nutricional y con múltiples beneficios para la salud, como la reducción de la presión arterial y la promoción de la salud del cerebro.",
+  "descriptionHTML": "<p>La remolacha es un ingrediente especial por su intenso color rojo y por su característico sabor terroso y dulce. Sin embargo, sus particularidades no acaban ahí, pues es un producto con un gran contenido nutricional y con múltiples beneficios para la salud, como la reducción de la presión arterial y la promoción de la salud del cerebro.</p>",
+  "descriptionMarkdown": "La remolacha es un ingrediente especial por su intenso color rojo y por su característico sabor terroso y dulce. Sin embargo, sus particularidades no acaban ahí, pues es un producto con un gran contenido nutricional y con múltiples beneficios para la salud, como la reducción de la presión arterial y la promoción de la salud del cerebro.",
+  "difficulty": 2,
+  "favoritesCount": 4,
+  "headline": "con picatostes y láminas de remolacha aderezada",
+  "id": "6849323cb9b1c59f93d88a7e",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R14_W37_ES_ESQVV22118-7_Main_high-a070588c.jpg",
+  "imagePath": "/image/HF_Y25_R14_W37_ES_ESQVV22118-7_Main_high-a070588c.jpg",
+  "ingredients": [
+    {
+      "id": "6340437b233160a36674ba30",
+      "uuid": "e20d37da-83ce-490d-aeae-12ac9d3aa296",
+      "name": "Pimiento verde italiano",
+      "type": "pointed-bell-pepper-green",
+      "slug": "pimiento-verde-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "imagePath": "/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b233160a36674ba30-Pimiento verde italiano.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "64be8562a1aa6db20ea1184f",
+      "uuid": "1b7902f0-ec25-52cb-ab2d-d03b64525b3e",
+      "name": "Remolacha cocida",
+      "type": "cooked-beetroot",
+      "slug": "remolacha-cocida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64be8562a1aa6db20ea1184f-590d549e.png",
+      "imagePath": "/ingredient/64be8562a1aa6db20ea1184f-590d549e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64be8562a1aa6db20ea1184f-Remolacha cocida.png"
+    },
+    {
+      "id": "68936cd49643892dc8fb4ed8",
+      "uuid": "d2d77c69-bf14-56fc-84a0-9b45c341d2e3",
+      "name": "Picatostes",
+      "type": "croutons",
+      "slug": "picatostes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/68936cd49643892dc8fb4ed8-a59d6278.png",
+      "imagePath": "/ingredient/68936cd49643892dc8fb4ed8-a59d6278.png",
+      "shipped": true,
+      "allergens": [
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68936cd49643892dc8fb4ed8-Picatostes.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "634976b3e9568549b784980e",
+      "uuid": "29eb59dd-a095-51ac-b053-e2b300368bde",
+      "name": "Yogur griego",
+      "type": "greek-yogurt",
+      "slug": "yogur-griego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "imagePath": "/ingredient/634976b3e9568549b784980e-ed89042a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634976b3e9568549b784980e-Yogur griego.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "De La Abuela",
+    "handle": "grandma-style",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#b980d0",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/6849323cb9b1c59f93d88a7e",
+  "name": "Gazpacho casero de remolacha",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 1848,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 442,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 37.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 43,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 28.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 9.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.33,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 12,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 488,
+  "slug": "gazpacho-casero-de-remolacha",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nCorta el pimiento en dados de 0,5 cm.\nCorta los tomates en trozos.\nPela la chalota y córtala en trozos.\nCorta la mitad de la remolacha en trozos medianos.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Corta el <strong>pimiento</strong> en dados de 0,5 cm.</li>\n<li>Corta los <strong>tomates</strong> en trozos.</li>\n<li>Pela la <strong>chalota</strong> y córtala en trozos.</li>\n<li>Corta la mitad de la <strong>remolacha</strong> en trozos medianos.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Corta el <strong>pimiento</strong> en dados de 0,5 cm.</li>\n<li>Corta los <strong>tomates</strong> en trozos.</li>\n<li>Pela la <strong>chalota</strong> y córtala en trozos.</li>\n<li>Corta la mitad de la <strong>remolacha</strong> en trozos medianos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849323cb9b1c59f93d88a7e/step-d6f03300.jpg",
+          "path": "/6849323cb9b1c59f93d88a7e/step-d6f03300.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/6849323cb9b1c59f93d88a7e-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nAgrega todos los vegetales troceados y el ajo pelado en un bol grande.\nAñade al bol la mitad de los picatostes, el vinagre balsámico, un chorrito generoso de aceite y sal. Mezcla y deja marinar hasta el paso 4.\n",
+      "instructionsHTML": "<ul>\n<li>Agrega todos los <strong>vegetales</strong> troceados y el <strong>ajo</strong> pelado en un bol grande.</li>\n<li>Añade al bol la mitad de los <strong>picatostes,</strong> el <strong>vinagre balsámico</strong>, un chorrito generoso de <strong>aceite</strong> y <strong>sal</strong>. Mezcla y deja marinar hasta el paso 4.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Agrega todos los <strong>vegetales</strong> troceados y el <strong>ajo</strong> pelado en un bol grande.</li>\n<li>Añade al bol la mitad de los <strong>picatostes,</strong> el <strong>vinagre balsámico</strong>, un chorrito generoso de <strong>aceite</strong> y <strong>sal</strong>. Mezcla y deja marinar hasta el paso 4.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849323cb9b1c59f93d88a7e/step-68f49110.jpg",
+          "path": "/6849323cb9b1c59f93d88a7e/step-68f49110.jpg",
+          "caption": "Adereza los vegetales y el pan",
+          "localImage": "/images/recipes/6849323cb9b1c59f93d88a7e-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCorta la remolacha restante en láminas muy finas y reserva en un plato.\nAdereza con un chorrito de aceite, sal y pimienta y reserva hasta el emplatado.\nAdereza el yogur griego con un chorrito de aceite, sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>Corta la <strong>remolacha</strong> restante en láminas muy finas y reserva en un plato.</li>\n<li>Adereza con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y reserva hasta el emplatado.</li>\n<li>Adereza el <strong>yogur griego</strong> con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta la <strong>remolacha</strong> restante en láminas muy finas y reserva en un plato.</li>\n<li>Adereza con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y reserva hasta el emplatado.</li>\n<li>Adereza el <strong>yogur griego</strong> con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849323cb9b1c59f93d88a7e/step-c50e6920.jpg",
+          "path": "/6849323cb9b1c59f93d88a7e/step-c50e6920.jpg",
+          "caption": "Adereza la remolacha",
+          "localImage": "/images/recipes/6849323cb9b1c59f93d88a7e-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nAgrega la mitad de la mezcla de vegetales y pan en una jarra medidora.\nAñade el agua y tritura con un túrmix hasta que quede una mezcla líquida y homogénea.\nAñade los vegetales y pan restantes y tritura de nuevo, hasta que quede un gazpacho más espeso y liso.\nDebes triturar al menos durante 1 min para obtener una textura adecuada.\n",
+      "instructionsHTML": "<ul>\n<li>Agrega la mitad de la mezcla de <strong>vegetales</strong> y <strong>pan</strong> en una jarra medidora.</li>\n<li>Añade el <strong>agua</strong> y tritura con un túrmix hasta que quede una mezcla líquida y homogénea.</li>\n<li>Añade los <strong>vegetales</strong> y <strong>pan</strong> restantes y tritura de nuevo, hasta que quede un <strong>gazpacho</strong> más espeso y liso.</li>\n<li>Debes triturar al menos durante 1 min para obtener una textura adecuada.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Agrega la mitad de la mezcla de <strong>vegetales</strong> y <strong>pan</strong> en una jarra medidora.</li>\n<li>Añade el <strong>agua</strong> y tritura con un túrmix hasta que quede una mezcla líquida y homogénea.</li>\n<li>Añade los <strong>vegetales</strong> y <strong>pan</strong> restantes y tritura de nuevo, hasta que quede un <strong>gazpacho</strong> más espeso y liso.</li>\n<li>Debes triturar al menos durante 1 min para obtener una textura adecuada.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849323cb9b1c59f93d88a7e/step-bee1e030.jpg",
+          "path": "/6849323cb9b1c59f93d88a7e/step-bee1e030.jpg",
+          "caption": "Tritura el gazpacho",
+          "localImage": "/images/recipes/6849323cb9b1c59f93d88a7e-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nAdereza el gazpacho con un chorrito de aceite y sal al gusto y remueve bien.\n",
+      "instructionsHTML": "<ul>\n<li>Adereza el <strong>gazpacho</strong> con un chorrito de <strong>aceite</strong> y <strong>sal</strong> al gusto y remueve bien.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Adereza el <strong>gazpacho</strong> con un chorrito de <strong>aceite</strong> y <strong>sal</strong> al gusto y remueve bien.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849323cb9b1c59f93d88a7e/step-9f020340.jpg",
+          "path": "/6849323cb9b1c59f93d88a7e/step-9f020340.jpg",
+          "caption": "Cuela y adereza el gazpacho",
+          "localImage": "/images/recipes/6849323cb9b1c59f93d88a7e-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve el gazpacho de remolacha en platos hondos y agrega encima la remolacha aliñada cortada en láminas y el yogur aderezado.\nAñade picatostes sobre el gazpacho al gusto y sirve los picatostes restantes en un bol, para añadir más al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve el <strong>gazpacho de remolacha</strong> en platos hondos y agrega encima la <strong>remolacha</strong> aliñada cortada en láminas y el <strong>yogur</strong> aderezado.</li>\n<li>Añade <strong>picatostes</strong> sobre el <strong>gazpacho</strong> al gusto y sirve los <strong>picatostes</strong> restantes en un bol, para añadir más al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve el <strong>gazpacho de remolacha</strong> en platos hondos y agrega encima la <strong>remolacha</strong> aliñada cortada en láminas y el <strong>yogur</strong> aderezado.</li>\n<li>Añade <strong>picatostes</strong> sobre el <strong>gazpacho</strong> al gusto y sirve los <strong>picatostes</strong> restantes en un bol, para añadir más al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849323cb9b1c59f93d88a7e/step-22671c50.jpg",
+          "path": "/6849323cb9b1c59f93d88a7e/step-22671c50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6849323cb9b1c59f93d88a7e-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESQVV22118-7",
+  "updatedAt": "2026-02-24T15:11:39+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "b3cad5f4-0842-4c5f-8ba6-2d4789ac6d36",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/gazpacho-casero-de-remolacha-6849323cb9b1c59f93d88a7e",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68936cd49643892dc8fb4ed8",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 350,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 1000,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68936cd49643892dc8fb4ed8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 700,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64be8562a1aa6db20ea1184f",
+          "amount": 1500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68936cd49643892dc8fb4ed8",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634976b3e9568549b784980e",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1050,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6849323cb9b1c59f93d88a7e-Gazpacho casero de remolacha.jpg",
+  "localCard": "/pdf/6849323cb9b1c59f93d88a7e-Gazpacho casero de remolacha.pdf"
+}

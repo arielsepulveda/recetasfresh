@@ -1,0 +1,761 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": "638a20d44af6d174904411fe",
+  "canonicalLink": "https://www.hellofresh.es/recipes/lasana-de-calabacin-con-carne-de-ternera-638a20d44af6d174904411fe",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/684932739f34f686e2db881d-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "635021a9d60c92f32eff1cc5",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-11T07:38:28+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Si estabas buscando una receta tradicional, dudamos que puedas encontrar una con más historia que esta. La primera receta conocida de lasaña data del siglo XIV, pero la primera vez que se mencionó este clásico plato fue en 1282, en un poema escrito en la Bolonia de aquella época.",
+  "descriptionHTML": "<p>Si estabas buscando una receta tradicional, dudamos que puedas encontrar una con más historia que esta. La primera receta conocida de lasaña data del siglo XIV, pero la primera vez que se mencionó este clásico plato fue en 1282, en un poema escrito en la Bolonia de aquella época.</p>",
+  "descriptionMarkdown": "Si estabas buscando una receta tradicional, dudamos que puedas encontrar una con más historia que esta. La primera receta conocida de lasaña data del siglo XIV, pero la primera vez que se mencionó este clásico plato fue en 1282, en un poema escrito en la Bolonia de aquella época.",
+  "difficulty": 1,
+  "favoritesCount": 19,
+  "headline": "con queso gratinado",
+  "id": "684932739f34f686e2db881d",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R07_W08_ES_ESCL193-113425-2_Main_zucchini_high-953cc915.jpg",
+  "imagePath": "/image/HF_Y23_R07_W08_ES_ESCL193-113425-2_Main_zucchini_high-953cc915.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "6340436c2268bc1bff0d3ca4",
+      "uuid": "edb45406-e818-56a4-b9b9-2022a79d3087",
+      "name": "Carne de ternera picada",
+      "type": "beef-mince",
+      "slug": "carne-de-ternera-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c2268bc1bff0d3ca4-2bd5c4ce.png",
+      "imagePath": "/ingredient/6340436c2268bc1bff0d3ca4-2bd5c4ce.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c2268bc1bff0d3ca4-Carne de ternera picada.png"
+    },
+    {
+      "id": "64afc5bc565e2133abaa58a3",
+      "uuid": "27bdf929-2223-5877-8919-3bd93eb85c24",
+      "name": "Passata de tomate",
+      "type": "tomato-passata",
+      "slug": "passata-de-tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "imagePath": "/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64afc5bc565e2133abaa58a3-Passata de tomate.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "6340436e41033266d7be950e",
+      "uuid": "b443c50a-b3b3-510c-93ac-01d6610777a3",
+      "name": "Cebollino",
+      "type": "chives",
+      "slug": "cebollino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "imagePath": "/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be950e-Cebollino.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Recetas Estrella",
+    "handle": "bestseller",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#067A46",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/684932739f34f686e2db881d",
+  "name": "Lasaña de calabacín y carne de ternera",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2452,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 586,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 46.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 15.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 31.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 15.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 35.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.72,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 88,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 630,
+  "slug": "lasana-de-calabacin-y-carne-de-ternera",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC con la opción de gratinar.\nPela y pica el ajo.\nPela y ralla la zanahoria.\nPela la cebolla y córtala en daditos pequeños.\nRetira los extremos del calabacín y córtalo en rodajas de 0,5-1 cm.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 220ºC con la opción de gratinar.</li>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Pela y ralla la <strong>zanahoria</strong>.</li>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en daditos pequeños.</li>\n<li dir=\"ltr\">Retira los extremos del <strong>calabacín</strong> y córtalo en rodajas de 0,5-1 cm.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 220ºC con la opción de gratinar.</li>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Pela y ralla la <strong>zanahoria</strong>.</li>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en daditos pequeños.</li>\n<li dir=\"ltr\">Retira los extremos del <strong>calabacín</strong> y córtalo en rodajas de 0,5-1 cm.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5c0a9a5edbdd9fc57e863cd6",
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/684932739f34f686e2db881d/step-652d0800.jpg",
+          "path": "/684932739f34f686e2db881d/step-652d0800.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/684932739f34f686e2db881d-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio. Salpimienta las rodajas de calabacín y cocina 2 min por lado, hasta que se doren. Retira de la sartén.\nEn otra sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAgrega la cebolla y la zanahoria, salpimienta y rehoga 4-5 min o hasta que las verduras empiecen a abladarse. Remueve.\n",
+      "instructionsHTML": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. <strong>Salpimienta</strong> las rodajas de <strong>calabacín</strong> y cocina 2 min por lado, hasta que se doren. Retira de la sartén.</li>\n<li>En otra sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega la <strong>cebolla</strong> y la <strong>zanahoria</strong>, <strong>salpimienta</strong> y rehoga 4-5 min o hasta que las <strong>verduras</strong> empiecen a abladarse. Remueve.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. <strong>Salpimienta</strong> las rodajas de <strong>calabacín</strong> y cocina 2 min por lado, hasta que se doren. Retira de la sartén.</li>\n<li>En otra sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega la <strong>cebolla</strong> y la <strong>zanahoria</strong>, <strong>salpimienta</strong> y rehoga 4-5 min o hasta que las <strong>verduras</strong> empiecen a abladarse. Remueve.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375",
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/684932739f34f686e2db881d/step-b7ce4e10.jpg",
+          "path": "/684932739f34f686e2db881d/step-b7ce4e10.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/684932739f34f686e2db881d-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén con la cebolla y la zanahoria, agrega la carne de ternera, salpimienta y cocina 2-3 min, desmenuzando con una espátula, hasta que se dore.\nAgrega la passata de tomate y el orégano y mezcla. Cocina 5-6 min, hasta que la salsa espese.\nPrueba el sofrito y rectifica de sal y pimienta.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la sartén con la <strong>cebolla</strong> y la <strong>zanahoria</strong>, agrega la <strong>carne de ternera</strong>, <strong>salpimienta</strong> y cocina 2-3 min, desmenuzando con una espátula, hasta que se dore.</li>\n<li dir=\"ltr\">Agrega la <strong>passata de tomate</strong> y el <strong>orégano</strong> y mezcla. Cocina 5-6 min, hasta que la <strong>salsa</strong> espese.</li>\n<li>Prueba el <strong>sofrito</strong> y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la sartén con la <strong>cebolla</strong> y la <strong>zanahoria</strong>, agrega la <strong>carne de ternera</strong>, <strong>salpimienta</strong> y cocina 2-3 min, desmenuzando con una espátula, hasta que se dore.</li>\n<li dir=\"ltr\">Agrega la <strong>passata de tomate</strong> y el <strong>orégano</strong> y mezcla. Cocina 5-6 min, hasta que la <strong>salsa</strong> espese.</li>\n<li>Prueba el <strong>sofrito</strong> y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/684932739f34f686e2db881d/step-c2974620.jpg",
+          "path": "/684932739f34f686e2db881d/step-c2974620.jpg",
+          "caption": "Agrega la carne",
+          "localImage": "/images/recipes/684932739f34f686e2db881d-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nReparte un chorrito de aceite en la base de una fuente para horno.\nColoca una capa de rodajas de calabacín y cubre con parte del sofrito de verduras, carne y tomate.\nRepite el proceso dos veces más, de manera que tengas tres capas de calabacín y una última capa de sofrito de tomate y carne.\n",
+      "instructionsHTML": "<ul>\n<li>Reparte un chorrito de <strong>aceite</strong> en la base de una fuente para horno.</li>\n<li>Coloca una capa de <strong>rodajas de calabacín</strong> y cubre con parte del <strong>sofrito de verduras, carne y tomate</strong>.</li>\n<li>Repite el proceso dos veces más, de manera que tengas tres capas de <strong>calabacín</strong> y una última capa de <strong>sofrito </strong>de<strong> tomate </strong>y<strong> carne</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Reparte un chorrito de <strong>aceite</strong> en la base de una fuente para horno.</li>\n<li>Coloca una capa de <strong>rodajas de calabacín</strong> y cubre con parte del <strong>sofrito de verduras, carne y tomate</strong>.</li>\n<li>Repite el proceso dos veces más, de manera que tengas tres capas de <strong>calabacín</strong> y una última capa de <strong>sofrito </strong>de<strong> tomate </strong>y<strong> carne</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/684932739f34f686e2db881d/step-56428130.jpg",
+          "path": "/684932739f34f686e2db881d/step-56428130.jpg",
+          "caption": "Monta la lasaña",
+          "localImage": "/images/recipes/684932739f34f686e2db881d-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nAgrega el queso rallado sobre la lasaña.\nHornea a media altura durante 10-12 min, hasta que el queso se gratine.\nPica el cebollino.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Agrega el <strong>queso rallado</strong> sobre la <strong>lasaña</strong>.</li>\n<li dir=\"ltr\">Hornea a media altura durante 10-12 min, hasta que el <strong>queso</strong> se gratine.</li>\n<li>Pica el <strong>cebollino</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Agrega el <strong>queso rallado</strong> sobre la <strong>lasaña</strong>.</li>\n<li dir=\"ltr\">Hornea a media altura durante 10-12 min, hasta que el <strong>queso</strong> se gratine.</li>\n<li>Pica el <strong>cebollino</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/684932739f34f686e2db881d/step-7c2ef140.jpg",
+          "path": "/684932739f34f686e2db881d/step-7c2ef140.jpg",
+          "caption": "Añade el queso y hornea",
+          "localImage": "/images/recipes/684932739f34f686e2db881d-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nCuando la lasaña esté lista, sácala del horno y agrega cebollino al gusto por encima.\nSirve porciones de lasaña de calabacín y carne de ternera en los platos.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Cuando la <strong>lasaña</strong> esté lista, sácala del horno y agrega <strong>cebollino </strong>al gusto por encima.</li>\n<li dir=\"ltr\">Sirve porciones de <strong>lasaña de calabacín y carne de ternera</strong> en los platos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Cuando la <strong>lasaña</strong> esté lista, sácala del horno y agrega <strong>cebollino </strong>al gusto por encima.</li>\n<li dir=\"ltr\">Sirve porciones de <strong>lasaña de calabacín y carne de ternera</strong> en los platos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/684932739f34f686e2db881d/step-83e72050.jpg",
+          "path": "/684932739f34f686e2db881d/step-83e72050.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/684932739f34f686e2db881d-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCL193-113425-26",
+  "updatedAt": "2026-02-05T09:09:29+00:00",
+  "utensils": [
+    {
+      "id": "5c0a9a5edbdd9fc57e863cd6",
+      "type": "box-greater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    }
+  ],
+  "uuid": "dfcf7fcc-7e92-4d8f-bde8-eed8e159679f",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/lasana-de-calabacin-y-carne-de-ternera-684932739f34f686e2db881d",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 210,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 420,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 80,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 630,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/684932739f34f686e2db881d-Lasaña de calabacín y carne de ternera.jpg",
+  "localCard": "/pdf/684932739f34f686e2db881d-Lasaña de calabacín y carne de ternera.pdf"
+}

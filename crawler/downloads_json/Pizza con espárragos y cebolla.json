@@ -1,0 +1,658 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/pizza-esparragos-cebolla-rucula-63aaf39b7409f63ef1b32fbe-5fc2b04c.pdf",
+  "category": null,
+  "clonedFrom": "6347ef92bb36093c54997948",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-27T13:31:07+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europea",
+      "slug": "europea",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg"
+    }
+  ],
+  "description": "Las pizzas no siempre han de ser grasientas y sinónimo de comida rápida y poco saludable. Con esta receta te ofrecemos que cocines una pizza fresca y diferente, con una base de crème fraîche, espárragos salteados, crema de vinagre balsámico y rúcula aderezada.",
+  "descriptionHTML": "<p>Las pizzas no siempre han de ser grasientas y sinónimo de comida rápida y poco saludable. Con esta receta te ofrecemos que cocines una pizza fresca y diferente, con una base de crème fraîche, espárragos salteados, crema de vinagre balsámico y rúcula aderezada.</p>",
+  "descriptionMarkdown": "Las pizzas no siempre han de ser grasientas y sinónimo de comida rápida y poco saludable. Con esta receta te ofrecemos que cocines una pizza fresca y diferente, con una base de crème fraîche, espárragos salteados, crema de vinagre balsámico y rúcula aderezada.",
+  "difficulty": 1,
+  "favoritesCount": 11,
+  "headline": "acompañada de crema de vinagre balsámico y rúcula",
+  "id": "63aaf39b7409f63ef1b32fbe",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R08_W12_ES_ESVV0120-3_Main_high-c43126e7.jpg",
+  "imagePath": "/image/HF_Y23_R08_W12_ES_ESVV0120-3_Main_high-c43126e7.jpg",
+  "ingredients": [
+    {
+      "id": "63497d88971d5eddb3ff71b2",
+      "uuid": "ca2eb932-2be6-58fe-9c2b-05bd27036489",
+      "name": "Base de pizza",
+      "type": "pizza-bases",
+      "slug": "base-de-pizza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b2-Base de pizza.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ea",
+      "uuid": "2a05fc5d-f5d3-4afc-9bce-976b245e9b0c",
+      "name": "Espárragos verdes",
+      "type": "asparagus",
+      "slug": "esparragos-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ea-2feaf92e.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ea-2feaf92e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ea-Espárragos verdes.png"
+    },
+    {
+      "id": "635bf32c715b05ed6af180bd",
+      "uuid": "92d67c8f-7ca6-5e50-b1ea-12d85a78d150",
+      "name": "Crème Fraîche",
+      "type": "creme-fraiche",
+      "slug": "creme-fraiche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "imagePath": "/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635bf32c715b05ed6af180bd-Crème Fraîche.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "6397c09b9b30e60070f163ee",
+      "uuid": "85d8b218-c598-5e52-abcc-7557119abeec",
+      "name": "Crema de vinagre balsámico",
+      "type": "balsamic-cream",
+      "slug": "crema-de-vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6397c09b9b30e60070f163ee-5665472e.png",
+      "imagePath": "/ingredient/6397c09b9b30e60070f163ee-5665472e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6397c09b9b30e60070f163ee-Crema de vinagre balsámico.png"
+    },
+    {
+      "id": "63493a08ebf08332f1bff15d",
+      "uuid": "bd338898-c991-4bcf-ac07-74fe7e736c4f",
+      "name": "Queso rallado",
+      "type": "grated-cheese-mix",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "imagePath": "/ingredient/63493a08ebf08332f1bff15d-5fa370ad.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63493a08ebf08332f1bff15d-Queso rallado.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/63aaf39b7409f63ef1b32fbe",
+  "name": "Pizza con espárragos y cebolla",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 891,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3726,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 44.62,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 27.08,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 87.71,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 23.17,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.79,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 27,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 457,
+  "slug": "pizza-con-esparragos-y-cebolla",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 220ºC. Retira el tallo inferior a los espárragos y deséchalo. Corta la parte superior de los espárragos y sepárala del resto. Corta el resto del espárrago diagonalmente en trozos de 1-2 cm. Pela la cebolla y córtala por la mitad. Luego, corta una mitad (doble para 4p) en tiras finas.",
+      "instructionsHTML": "<p>Precalienta el horno a 220ºC. Retira el tallo inferior a los <strong>espárragos</strong> y deséchalo. Corta la parte superior de los <strong>espárragos</strong> y sepárala del resto. Corta el resto del <strong>espárrago</strong> diagonalmente en trozos de 1-2 cm. Pela la <strong>cebolla</strong> y córtala por la mitad. Luego, corta una mitad (doble para 4p) en tiras finas.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 220ºC. Retira el tallo inferior a los <strong>espárragos</strong> y deséchalo. Corta la parte superior de los <strong>espárragos</strong> y sepárala del resto. Corta el resto del <strong>espárrago</strong> diagonalmente en trozos de 1-2 cm. Pela la <strong>cebolla</strong> y córtala por la mitad. Luego, corta una mitad (doble para 4p) en tiras finas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39b7409f63ef1b32fbe/step-ee268e00.jpg",
+          "path": "/63aaf39b7409f63ef1b32fbe/step-ee268e00.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/63aaf39b7409f63ef1b32fbe-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pon una sartén a calentar con un chorrito de aceite a fuego medio. Una vez esté caliente, agrega los espárragos y cocina durante 3-4 min, hasta que se ablanden un poco.",
+      "instructionsHTML": "<p>Pon una sartén a calentar con un chorrito de <strong>aceite</strong> a fuego medio. Una vez esté caliente, agrega los <strong>espárragos</strong> y cocina durante 3-4 min, hasta que se ablanden un poco.</p>",
+      "instructionsMarkdown": "<p>Pon una sartén a calentar con un chorrito de <strong>aceite</strong> a fuego medio. Una vez esté caliente, agrega los <strong>espárragos</strong> y cocina durante 3-4 min, hasta que se ablanden un poco.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39b7409f63ef1b32fbe/step-017a8110.jpg",
+          "path": "/63aaf39b7409f63ef1b32fbe/step-017a8110.jpg",
+          "caption": "Saltea los espárragos",
+          "localImage": "/images/recipes/63aaf39b7409f63ef1b32fbe-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Coloca las bases de pizza en una bandeja de horno con papel de horno. Reparte la crème fraîche entre las bases de pizza, dejando sin cubrir los bordes. Salpimienta al gusto. Agrega la cebolla sobre las bases de pizza.",
+      "instructionsHTML": "<p>Coloca las <strong>bases de pizza</strong> en una bandeja de horno con papel de horno. Reparte la <strong>crème fraîche</strong> entre las <strong>bases de pizza</strong>, dejando sin cubrir los bordes. <strong>Salpimienta</strong> al gusto. Agrega la <strong>cebolla</strong> sobre las <strong>bases de pizza</strong>.</p>",
+      "instructionsMarkdown": "<p>Coloca las <strong>bases de pizza</strong> en una bandeja de horno con papel de horno. Reparte la <strong>crème fraîche</strong> entre las <strong>bases de pizza</strong>, dejando sin cubrir los bordes. <strong>Salpimienta</strong> al gusto. Agrega la <strong>cebolla</strong> sobre las <strong>bases de pizza</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39b7409f63ef1b32fbe/step-d328e520.jpg",
+          "path": "/63aaf39b7409f63ef1b32fbe/step-d328e520.jpg",
+          "caption": "Agrega la salsa y la cebolla",
+          "localImage": "/images/recipes/63aaf39b7409f63ef1b32fbe-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando los espárragos estén listos, repártelos entre las bases de pizza. Cubre las pizzas con el queso rallado. Hornea las pizzas 15-20 min, hasta que estén crujientes y doradas.",
+      "instructionsHTML": "<p>Cuando los <strong>espárragos</strong> estén listos, repártelos entre las <strong>bases de pizza</strong>. Cubre las <strong>pizzas</strong> con el <strong>queso rallado</strong>. Hornea las <strong>pizzas</strong> 15-20 min, hasta que estén crujientes y doradas.</p>",
+      "instructionsMarkdown": "<p>Cuando los <strong>espárragos</strong> estén listos, repártelos entre las <strong>bases de pizza</strong>. Cubre las <strong>pizzas</strong> con el <strong>queso rallado</strong>. Hornea las <strong>pizzas</strong> 15-20 min, hasta que estén crujientes y doradas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39b7409f63ef1b32fbe/step-436d6830.jpg",
+          "path": "/63aaf39b7409f63ef1b32fbe/step-436d6830.jpg",
+          "caption": "Agrega los espárragos y hornea",
+          "localImage": "/images/recipes/63aaf39b7409f63ef1b32fbe-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En una ensaladera, mezcla el vinagre de vino tinto (ver cantidad en ingredientes), un chorrito de aceite y salpimienta al gusto. Justo antes de servir, agrega la rúcula y mezcla bien.",
+      "instructionsHTML": "<p>En una ensaladera, mezcla el <strong>vinagre de vino tinto</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong> al gusto. Justo antes de servir, agrega la <strong>rúcula</strong> y mezcla bien.</p>",
+      "instructionsMarkdown": "<p>En una ensaladera, mezcla el <strong>vinagre de vino tinto</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite</strong> y <strong>salpimienta</strong> al gusto. Justo antes de servir, agrega la <strong>rúcula</strong> y mezcla bien.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39b7409f63ef1b32fbe/step-e46d4540.jpg",
+          "path": "/63aaf39b7409f63ef1b32fbe/step-e46d4540.jpg",
+          "caption": "Prepara la ensalada",
+          "localImage": "/images/recipes/63aaf39b7409f63ef1b32fbe-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Cuando las pizzas estén listas, sácalas del horno y añade la crema de vinagre balsámico encima. Agrega rúcula al gusto sobre las pizzas y sirve la rúcula restante como acompañamiento.",
+      "instructionsHTML": "<p>Cuando las <strong>pizzas</strong> estén listas, sácalas del horno y añade la <strong>crema de vinagre balsámico</strong> encima. Agrega <strong>rúcula</strong> al gusto sobre las <strong>pizzas</strong> y sirve la <strong>rúcula</strong> restante como acompañamiento.</p>",
+      "instructionsMarkdown": "<p>Cuando las <strong>pizzas</strong> estén listas, sácalas del horno y añade la <strong>crema de vinagre balsámico</strong> encima. Agrega <strong>rúcula</strong> al gusto sobre las <strong>pizzas</strong> y sirve la <strong>rúcula</strong> restante como acompañamiento.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63aaf39b7409f63ef1b32fbe/step-cceaf850.jpg",
+          "path": "/63aaf39b7409f63ef1b32fbe/step-cceaf850.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63aaf39b7409f63ef1b32fbe-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESVV0120-3",
+  "updatedAt": "2025-07-28T10:39:48+00:00",
+  "utensils": [
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "d7f408c7-e46a-42b7-8895-cb0655f1a266",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pizza-con-esparragos-y-cebolla-63aaf39b7409f63ef1b32fbe",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ea",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6397c09b9b30e60070f163ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9ea",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6397c09b9b30e60070f163ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63493a08ebf08332f1bff15d",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63aaf39b7409f63ef1b32fbe-Pizza con espárragos y cebolla.jpg",
+  "localCard": "/pdf/63aaf39b7409f63ef1b32fbe-Pizza con espárragos y cebolla.pdf"
+}

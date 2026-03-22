@@ -1,0 +1,728 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": "65d8b0dbe15fd4f7b093a40f",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-korma-patatas-verduras-65d8b0dbe15fd4f7b093a40f",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/682c9b227fe6dd267e29d84d-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "65a69d1b70cc438cf4f803fa",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-05-20T15:09:23+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "India",
+      "slug": "india",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg"
+    }
+  ],
+  "description": "Aunque el curry korma sea tradicional de la cocina india, nadie dijo que no pudiésemos utilizarlo para elaborar una cremosa salsa y cubrir una jugosa pechuga de pollo, que acompañaremos con patatas, pimiento verde y cebolla asada para crear un plato que escapa de lo rutinario.",
+  "descriptionHTML": "<p>Aunque el curry korma sea tradicional de la cocina india, nadie dijo que no pudiésemos utilizarlo para elaborar una cremosa salsa y cubrir una jugosa pechuga de pollo, que acompañaremos con patatas, pimiento verde y cebolla asada para crear un plato que escapa de lo rutinario.</p>",
+  "descriptionMarkdown": "Aunque el curry korma sea tradicional de la cocina india, nadie dijo que no pudiésemos utilizarlo para elaborar una cremosa salsa y cubrir una jugosa pechuga de pollo, que acompañaremos con patatas, pimiento verde y cebolla asada para crear un plato que escapa de lo rutinario.",
+  "difficulty": 1,
+  "favoritesCount": 8,
+  "headline": "con patatas panadera, pimiento y cebolla asada",
+  "id": "682c9b227fe6dd267e29d84d",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R14_W19_ES_ESCCLQC22126-2_Main_high-0db427a9.jpg",
+  "imagePath": "/image/HF_Y24_R14_W19_ES_ESCCLQC22126-2_Main_high-0db427a9.jpg",
+  "ingredients": [
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340437b233160a36674ba30",
+      "uuid": "e20d37da-83ce-490d-aeae-12ac9d3aa296",
+      "name": "Pimiento verde italiano",
+      "type": "pointed-bell-pepper-green",
+      "slug": "pimiento-verde-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "imagePath": "/ingredient/6340437b233160a36674ba30-7c228024.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b233160a36674ba30-Pimiento verde italiano.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "63404373233160a36674ba0b",
+      "uuid": "427c79c7-8c5a-567a-aec0-980b9e2aca8d",
+      "name": "Pasta de curry korma",
+      "type": "korma-style-paste",
+      "slug": "pasta-de-curry-korma",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404373233160a36674ba0b-0f9fba52.png",
+      "imagePath": "/ingredient/63404373233160a36674ba0b-0f9fba52.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404373233160a36674ba0b-Pasta de curry korma.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "6401c00b62bd092a213120b4",
+      "uuid": "72c3cf55-faca-413f-8642-cb185c54528d",
+      "name": "Harina",
+      "type": "flour-in-tsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401c00b62bd092a213120b4-632ba9f0.png",
+      "imagePath": "/ingredient/6401c00b62bd092a213120b4-632ba9f0.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401c00b62bd092a213120b4-Harina.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/682c9b227fe6dd267e29d84d",
+  "name": "Pechuga de pollo en salsa korma",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2260,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 540,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 28.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 50.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 34.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.99,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 15,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 514,
+  "slug": "pollo-en-salsa-korma",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nCorta las patatas en rodajas de 1 cm.\nPela la cebolla y córtala en tiras finas.\nCorta el pimiento en cuadrados de 2-3 cm.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Corta las <strong>patatas</strong> en rodajas de 1 cm.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Corta el <strong>pimiento</strong> en cuadrados de 2-3 cm.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Corta las <strong>patatas</strong> en rodajas de 1 cm.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Corta el <strong>pimiento</strong> en cuadrados de 2-3 cm.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b227fe6dd267e29d84d/step-e5555a00.jpg",
+          "path": "/682c9b227fe6dd267e29d84d/step-e5555a00.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/682c9b227fe6dd267e29d84d-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nColoca las patatas, el pimiento y la mitad de la cebolla a tiras en una bandeja de horno con papel de horno.\nAgrega encima un chorrito de aceite, sal y pimienta y remueve.\nHornea a media altura 20-25 min, hasta que los vegetales queden dorados y blandos. Remueve a mitad de cocción.\n",
+      "instructionsHTML": "<ul>\n<li>Coloca las <strong>patatas</strong>, el <strong>pimiento</strong> y la mitad de la <strong>cebolla</strong> a tiras en una bandeja de horno con papel de horno.</li>\n<li>Agrega encima un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y remueve.</li>\n<li>Hornea a media altura 20-25 min, hasta que los <strong>vegetales</strong> queden dorados y blandos. Remueve a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca las <strong>patatas</strong>, el <strong>pimiento</strong> y la mitad de la <strong>cebolla</strong> a tiras en una bandeja de horno con papel de horno.</li>\n<li>Agrega encima un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y remueve.</li>\n<li>Hornea a media altura 20-25 min, hasta que los <strong>vegetales</strong> queden dorados y blandos. Remueve a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b227fe6dd267e29d84d/step-e6c4bc10.jpg",
+          "path": "/682c9b227fe6dd267e29d84d/step-e6c4bc10.jpg",
+          "caption": "Hornea los vegetales",
+          "localImage": "/images/recipes/682c9b227fe6dd267e29d84d-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio. Agrega el pollo, salpimienta y cocina 3-4 min por lado, hasta que esté dorado y bien cocinado en el interior.\nCuando esté listo, retira de la sartén y reserva en un plato.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el<strong> pollo</strong>, <strong>salpimienta</strong> y cocina 3-4 min por lado, hasta que esté dorado y bien cocinado en el interior.</li>\n<li>Cuando esté listo, retira de la sartén y reserva en un plato.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el<strong> pollo</strong>, <strong>salpimienta</strong> y cocina 3-4 min por lado, hasta que esté dorado y bien cocinado en el interior.</li>\n<li>Cuando esté listo, retira de la sartén y reserva en un plato.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b227fe6dd267e29d84d/step-3f9b7720.jpg",
+          "path": "/682c9b227fe6dd267e29d84d/step-3f9b7720.jpg",
+          "caption": "Cocina el pollo",
+          "localImage": "/images/recipes/682c9b227fe6dd267e29d84d-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio. Agrega la cebolla a tiras restante y sal y cocina 4-5 min, removiendo, hasta que quede transparente.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> a tiras restante y <strong>sal</strong> y cocina 4-5 min, removiendo, hasta que quede transparente.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>cebolla</strong> a tiras restante y <strong>sal</strong> y cocina 4-5 min, removiendo, hasta que quede transparente.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b227fe6dd267e29d84d/step-ca5abe30.jpg",
+          "path": "/682c9b227fe6dd267e29d84d/step-ca5abe30.jpg",
+          "caption": "Saltea la cebolla",
+          "localImage": "/images/recipes/682c9b227fe6dd267e29d84d-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn la sartén, agrega la harina y cocina 1 min, mientras remueves.\nAñade la pasta de curry korma, el caldo de pollo y el agua y deja que hierva a fuego alto 3-4 min.\nIncorpora el queso crema y mezcla con una espátula.\nAgrega el pollo y cocina 1 min más, cubriendo el pollo con la salsa.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, agrega la <strong>harina</strong> y cocina 1 min, mientras remueves.</li>\n<li>Añade la <strong>pasta de curry korma</strong>, el <strong>caldo de pollo</strong> y el <strong>agua</strong> y deja que hierva a fuego alto 3-4 min.</li>\n<li>Incorpora el <strong>queso crema</strong> y mezcla con una espátula.</li>\n<li>Agrega el <strong>pollo</strong> y cocina 1 min más, cubriendo el <strong>pollo</strong> con la <strong>salsa</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, agrega la <strong>harina</strong> y cocina 1 min, mientras remueves.</li>\n<li>Añade la <strong>pasta de curry korma</strong>, el <strong>caldo de pollo</strong> y el <strong>agua</strong> y deja que hierva a fuego alto 3-4 min.</li>\n<li>Incorpora el <strong>queso crema</strong> y mezcla con una espátula.</li>\n<li>Agrega el <strong>pollo</strong> y cocina 1 min más, cubriendo el <strong>pollo</strong> con la <strong>salsa</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396",
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b227fe6dd267e29d84d/step-3b060940.jpg",
+          "path": "/682c9b227fe6dd267e29d84d/step-3b060940.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/682c9b227fe6dd267e29d84d-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la salsa korma con cebolla en un lado de los platos y coloca encima la pechuga de pollo.\nCubre el pollo con la salsa que quede en la sartén.\nSirve las verduras asadas al otro lado del plato como acompañamiento.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve la <strong>salsa korma</strong> con <strong>cebolla</strong> en un lado de los platos y coloca encima la <strong>pechuga de pollo</strong>.</li>\n<li>Cubre el <strong>pollo</strong> con la <strong>salsa</strong> que quede en la sartén.</li>\n<li>Sirve las <strong>verduras</strong> asadas al otro lado del plato como acompañamiento.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve la <strong>salsa korma</strong> con <strong>cebolla</strong> en un lado de los platos y coloca encima la <strong>pechuga de pollo</strong>.</li>\n<li>Cubre el <strong>pollo</strong> con la <strong>salsa</strong> que quede en la sartén.</li>\n<li>Sirve las <strong>verduras</strong> asadas al otro lado del plato como acompañamiento.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9b227fe6dd267e29d84d/step-00adeb50.jpg",
+          "path": "/682c9b227fe6dd267e29d84d/step-00adeb50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/682c9b227fe6dd267e29d84d-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCCLQC22126-15",
+  "updatedAt": "2026-01-21T14:00:52+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    }
+  ],
+  "uuid": "37cb07e5-070e-42e1-b5d3-f9718efb90c6",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-en-salsa-korma-682c9b227fe6dd267e29d84d",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0b",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401c00b62bd092a213120b4",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0b",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401c00b62bd092a213120b4",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b233160a36674ba30",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404373233160a36674ba0b",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401c00b62bd092a213120b4",
+          "amount": 6,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/682c9b227fe6dd267e29d84d-Pechuga de pollo en salsa korma.jpg",
+  "localCard": "/pdf/682c9b227fe6dd267e29d84d-Pechuga de pollo en salsa korma.pdf"
+}

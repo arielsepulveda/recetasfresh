@@ -1,0 +1,910 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f8",
+      "name": "Cacahuetes",
+      "type": "peanuts",
+      "slug": "cacahuetes",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.7,
+  "canonical": "64366976862feff0434c98e9",
+  "canonicalLink": "https://www.hellofresh.es/recipes/queso-estilo-chipriota-en-salsa-de-cacahuete-y-lima-64366976862feff0434c98e9",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68a4b0dbff4c5f79fb509d76-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "64131f067bee82308d551315",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-19T17:14:04+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Con esta receta, queremos convencerte de que una ensalada no tiene por qué ser aburrida ni rutinaria. Para ello, preparamos una receta que combina espinacas, zanahoria y garbanzos asados y pepino encurtido para cubrir con queso estilo chipriota a la plancha y una sabrosa salsa de cacahuete y lima.",
+  "descriptionHTML": "<p>Con esta receta, queremos convencerte de que una ensalada no tiene por qué ser aburrida ni rutinaria. Para ello, preparamos una receta que combina espinacas, zanahoria y garbanzos asados y pepino encurtido para cubrir con queso estilo chipriota a la plancha y una sabrosa salsa de cacahuete y lima.</p>",
+  "descriptionMarkdown": "Con esta receta, queremos convencerte de que una ensalada no tiene por qué ser aburrida ni rutinaria. Para ello, preparamos una receta que combina espinacas, zanahoria y garbanzos asados y pepino encurtido para cubrir con queso estilo chipriota a la plancha y una sabrosa salsa de cacahuete y lima.",
+  "difficulty": 1,
+  "favoritesCount": 4,
+  "headline": "sobre ensalada, garbanzos y zanahoria asada y pepino encurtido",
+  "id": "68a4b0dbff4c5f79fb509d76",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R11_W46_ES_ESVCLQV15428-10_Main_high-399379b6.jpg",
+  "imagePath": "/image/HF_Y25_R11_W46_ES_ESVCLQV15428-10_Main_high-399379b6.jpg",
+  "ingredients": [
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "6399e2044fc733684f4c6900",
+      "uuid": "f1a7c3f3-6783-46af-87b2-df2fd87c6820",
+      "name": "Pimentón ahumado",
+      "type": "smoked-paprika",
+      "slug": "pimenton-ahumado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "imagePath": "/ingredient/6399e2044fc733684f4c6900-fe9e19a8.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6399e2044fc733684f4c6900-Pimentón ahumado.png"
+    },
+    {
+      "id": "6340437141033266d7be951a",
+      "uuid": "ae95225f-9805-5f92-afa8-0649e7e90122",
+      "name": "Comino en polvo",
+      "type": "ground-cumin",
+      "slug": "comino-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "imagePath": "/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be951a-Comino en polvo.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340436f41033266d7be9513",
+      "uuid": "822e0f6e-0b50-54d0-9774-fee0a98b0271",
+      "name": "Pepino",
+      "type": "cucumber",
+      "slug": "pepino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9513-Pepino.png"
+    },
+    {
+      "id": "63652cde50d7477cd4c1cbc2",
+      "uuid": "de0fae82-049f-58e8-b8b5-26fa5d8ebd52",
+      "name": "Mantequilla de cacahuete",
+      "type": "peanut-butter",
+      "slug": "mantequilla-de-cacahuete",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63652cde50d7477cd4c1cbc2-35400f9f.png",
+      "imagePath": "/ingredient/63652cde50d7477cd4c1cbc2-35400f9f.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f8"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63652cde50d7477cd4c1cbc2-Mantequilla de cacahuete.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "6340437141033266d7be9519",
+      "uuid": "d2e5fa55-596e-4c1c-9284-209ef34a844b",
+      "name": "Queso estilo chipriota",
+      "type": "grill-cheese",
+      "slug": "queso-estilo-chipriota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be9519-79039dfb.png",
+      "imagePath": "/ingredient/6340437141033266d7be9519-79039dfb.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be9519-Queso estilo chipriota.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "65b9f37ed1da3988cdd8ea2e",
+      "uuid": "2172102e-c765-43f0-a8ee-369a17e6ad6f",
+      "name": "Vinagre",
+      "type": "vinegar-in-tbsp",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "imagePath": "/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65b9f37ed1da3988cdd8ea2e-Vinagre.png"
+    },
+    {
+      "id": "645bbdb422de2d12dae0e3ec",
+      "uuid": "a219293e-88f4-436d-a66e-6e9bc27c36d9",
+      "name": "Sal para encurtir",
+      "type": "salt-to-pickle",
+      "slug": "sal-para-encurtir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "imagePath": "/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/645bbdb422de2d12dae0e3ec-Sal para encurtir.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68a4b0dbff4c5f79fb509d76",
+  "name": "El bol chipriota: queso con salsa de cacahuete y lima",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3334,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 797,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 58.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 21.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 44.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 17.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 36.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 6.21,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 21,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 690,
+  "slug": "queso-estilo-chipriota-en-salsa-de-cacahuete-y-lima",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nEscurre los garbanzos y sécalos bien con papel de cocina.\nColoca los garbanzos en una bandeja de horno con papel de horno, dejando espacio para la zanahoria.\nAgrega encima el pimentón ahumado, el comino y un chorrito de aceite. Salpimienta y remueve. \n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Escurre los <strong>garbanzos</strong> y sécalos bien con papel de cocina.</li>\n<li>Coloca los <strong>garbanzos</strong> en una bandeja de horno con papel de horno, dejando espacio para la <strong>zanahoria</strong>.</li>\n<li>Agrega encima el <strong>pimentón ahumado</strong>, el <strong>comino</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y remueve. </li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Escurre los <strong>garbanzos</strong> y sécalos bien con papel de cocina.</li>\n<li>Coloca los <strong>garbanzos</strong> en una bandeja de horno con papel de horno, dejando espacio para la <strong>zanahoria</strong>.</li>\n<li>Agrega encima el <strong>pimentón ahumado</strong>, el <strong>comino</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y remueve. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0dbff4c5f79fb509d76/step-8d270800.jpg",
+          "path": "/68a4b0dbff4c5f79fb509d76/step-8d270800.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68a4b0dbff4c5f79fb509d76-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nPela y corta la zanahoria en bastones de 0,5-1 cm de grosor.\nExtiende los bastones de zanahoria en la otra mitad de la bandeja de horno y adereza con un chorrito de aceite, sal y pimienta.\nRemueve y hornea a media altura 20-25 min, hasta que los garbanzos estén dorados y la zanahoria esté tierna. Remueve a mitad de cocción.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y corta la <strong>zanahoria</strong> en bastones de 0,5-1 cm de grosor.</li>\n<li>Extiende los bastones de <strong>zanahoria</strong> en la otra mitad de la bandeja de horno y adereza con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Remueve y hornea a media altura <span style=\"color: rgb(0, 0, 0)\">20-25 min</span>, hasta que los <strong>garbanzos</strong> estén dorados y la <strong>zanahoria</strong> esté tierna. Remueve a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y corta la <strong>zanahoria</strong> en bastones de 0,5-1 cm de grosor.</li>\n<li>Extiende los bastones de <strong>zanahoria</strong> en la otra mitad de la bandeja de horno y adereza con un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Remueve y hornea a media altura <span style=\"color: rgb(0, 0, 0)\">20-25 min</span>, hasta que los <strong>garbanzos</strong> estén dorados y la <strong>zanahoria</strong> esté tierna. Remueve a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0dbff4c5f79fb509d76/step-777ed110.jpg",
+          "path": "/68a4b0dbff4c5f79fb509d76/step-777ed110.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/68a4b0dbff4c5f79fb509d76-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nRetira los extremos del pepino y córtalo por la mitad a lo largo. Corta en medias lunas finas.\nEn un bol, agrega el pepino, el vinagre y la sal para encurtir. Remueve y deja reposar hasta el emplatado.\nEn un bol pequeño, mezcla con varillas la mantequilla de cacahuete, el zumo de la mitad de la lima y el agua.\nCorta la lima restante en gajos.\n",
+      "instructionsHTML": "<ul>\n<li>Retira los extremos del <strong>pepino</strong> y córtalo por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>En un bol, agrega el <strong>pepino,</strong> el <strong>vinagre</strong> y la <strong>sal para encurtir</strong>. Remueve y deja reposar hasta el emplatado.</li>\n<li>En un bol pequeño, mezcla con varillas la <strong>mantequilla de cacahuete</strong>, el zumo de la mitad de la <strong>lima</strong> y el <strong>agua</strong>.</li>\n<li>Corta la <strong>lima</strong> restante en gajos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Retira los extremos del <strong>pepino</strong> y córtalo por la mitad a lo largo. Corta en medias lunas finas.</li>\n<li>En un bol, agrega el <strong>pepino,</strong> el <strong>vinagre</strong> y la <strong>sal para encurtir</strong>. Remueve y deja reposar hasta el emplatado.</li>\n<li>En un bol pequeño, mezcla con varillas la <strong>mantequilla de cacahuete</strong>, el zumo de la mitad de la <strong>lima</strong> y el <strong>agua</strong>.</li>\n<li>Corta la <strong>lima</strong> restante en gajos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305384",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0dbff4c5f79fb509d76/step-b41d4920.jpg",
+          "path": "/68a4b0dbff4c5f79fb509d76/step-b41d4920.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/68a4b0dbff4c5f79fb509d76-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCuando queden 5 min para que los garbanzos estén listos, seca el queso estilo chipriota y córtalo en rodajas de 0,5-1 cm.\nEn una sartén antiadherente, calienta un chorrito de aceite a fuego medio. Una vez caliente, cocina el queso 2 min por lado, hasta que esté dorado.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando queden 5 min para que los <strong>garbanzos</strong> estén listos, seca el <strong>queso estilo chipriota</strong> y córtalo en rodajas de 0,5-1 cm.</li>\n<li>En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, cocina el <strong>queso</strong> 2 min por lado, hasta que esté dorado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando queden 5 min para que los <strong>garbanzos</strong> estén listos, seca el <strong>queso estilo chipriota</strong> y córtalo en rodajas de 0,5-1 cm.</li>\n<li>En una sartén antiadherente, calienta un chorrito de <strong>aceite</strong> a fuego medio. Una vez caliente, cocina el <strong>queso</strong> 2 min por lado, hasta que esté dorado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0dbff4c5f79fb509d76/step-dc1b3030.jpg",
+          "path": "/68a4b0dbff4c5f79fb509d76/step-dc1b3030.jpg",
+          "caption": "Queso al fuego",
+          "localImage": "/images/recipes/68a4b0dbff4c5f79fb509d76-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando los garbanzos y bastones de zanahoria estén listos, agrégalos a una ensaladera.\nAñade las espinacas y remueve bien.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando los <strong>garbanzos</strong> y bastones de <strong>zanahoria</strong> estén listos, agrégalos a una ensaladera.</li>\n<li>Añade las <strong>espinacas</strong> y remueve bien.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando los <strong>garbanzos</strong> y bastones de <strong>zanahoria</strong> estén listos, agrégalos a una ensaladera.</li>\n<li>Añade las <strong>espinacas</strong> y remueve bien.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0dbff4c5f79fb509d76/step-5bb67140.jpg",
+          "path": "/68a4b0dbff4c5f79fb509d76/step-5bb67140.jpg",
+          "caption": "Que no falte el verde",
+          "localImage": "/images/recipes/68a4b0dbff4c5f79fb509d76-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la ensalada de espinacas, garbanzos y zanahoria en la base de los platos y agrega encima el queso estilo chipriota y el pepino encurtido escurrido.\nCubre el plato con la salsa de cacahuete y lima.\nSirve los gajos de lima restantes junto a tu plato y añade su zumo al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve la <strong>ensalada</strong> de <strong>espinacas</strong>, <strong>garbanzos</strong> y <strong>zanahoria</strong> en la base de los platos y agrega encima el <strong>queso estilo chipriota</strong> y el <strong>pepino</strong> encurtido escurrido.</li>\n<li>Cubre el plato con la <strong>salsa de cacahuete</strong> y <strong>lima</strong>.</li>\n<li>Sirve los gajos de <strong>lima</strong> restantes junto a tu plato y añade su zumo al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve la <strong>ensalada</strong> de <strong>espinacas</strong>, <strong>garbanzos</strong> y <strong>zanahoria</strong> en la base de los platos y agrega encima el <strong>queso estilo chipriota</strong> y el <strong>pepino</strong> encurtido escurrido.</li>\n<li>Cubre el plato con la <strong>salsa de cacahuete</strong> y <strong>lima</strong>.</li>\n<li>Sirve los gajos de <strong>lima</strong> restantes junto a tu plato y añade su zumo al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0dbff4c5f79fb509d76/step-094a9e50.jpg",
+          "path": "/68a4b0dbff4c5f79fb509d76/step-094a9e50.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/68a4b0dbff4c5f79fb509d76-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESVCLQV15428-10",
+  "updatedAt": "2026-01-21T17:19:25+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "38900dbc-fecc-4c5c-913a-9e5abb749c4f",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/queso-estilo-chipriota-en-salsa-de-cacahuete-y-lima-68a4b0dbff4c5f79fb509d76",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 380,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63652cde50d7477cd4c1cbc2",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be9519",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 25,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 760,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63652cde50d7477cd4c1cbc2",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be9519",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 1140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6399e2044fc733684f4c6900",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63652cde50d7477cd4c1cbc2",
+          "amount": 90,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437141033266d7be9519",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 75,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68a4b0dbff4c5f79fb509d76-El bol chipriota queso con salsa de cacahuete y lima.jpg",
+  "localCard": "/pdf/68a4b0dbff4c5f79fb509d76-El bol chipriota queso con salsa de cacahuete y lima.pdf"
+}

@@ -1,0 +1,824 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b305301",
+      "name": "Moluscos",
+      "type": "molluscs",
+      "slug": "moluscos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf974c30006c4d667f88f1",
+      "name": "Pescado",
+      "type": "traces-of-fish",
+      "slug": "traces-of-pescado",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf967d30006c4cbc61d152",
+      "name": "Crustáceos",
+      "type": "traces-of-crustaceans",
+      "slug": "traces-of-crustaceos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": "6458df5e572079217b737e21",
+  "canonicalLink": "https://www.hellofresh.es/recipes/arroz-chaufa-con-calamar-gigante-salteado-6458df5e572079217b737e21",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/65d8b0e3e15fd4f7b093a432.pdf",
+  "category": null,
+  "clonedFrom": "6408bb10683721c9a32b096f",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-04-15T15:56:50+00:00",
+  "cuisines": [
+    {
+      "id": "623d9cb65bdfb809438c0dc6",
+      "type": "southamerican",
+      "name": "Sud América",
+      "slug": "sud-america",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/no-image.jpg"
+    }
+  ],
+  "description": "El calamar gigante es un pariente cercano del calamar, algo más crecidito, y es conocido por infinidad de nombres, todos ellos correctos. Dependiendo del lugar del mundo en que se cocine, recibirá el nombre de \"pota\", \"jibia\", \"lura\", \"pasamar\" o, para los más exagerados, \"potón\". La verdad es que puedes llamarlo por el nombre que prefieras, porque el resultado de esta receta seguirá siendo delicioso.",
+  "descriptionHTML": "<p>El calamar gigante es un pariente cercano del calamar, algo más crecidito, y es conocido por infinidad de nombres, todos ellos correctos. Dependiendo del lugar del mundo en que se cocine, recibirá el nombre de &quot;pota&quot;, &quot;jibia&quot;, &quot;lura&quot;, &quot;pasamar&quot; o, para los más exagerados, &quot;potón&quot;. La verdad es que puedes llamarlo por el nombre que prefieras, porque el resultado de esta receta seguirá siendo delicioso.</p>",
+  "descriptionMarkdown": "El calamar gigante es un pariente cercano del calamar, algo más crecidito, y es conocido por infinidad de nombres, todos ellos correctos. Dependiendo del lugar del mundo en que se cocine, recibirá el nombre de \"pota\", \"jibia\", \"lura\", \"pasamar\" o, para los más exagerados, \"potón\". La verdad es que puedes llamarlo por el nombre que prefieras, porque el resultado de esta receta seguirá siendo delicioso.",
+  "difficulty": 1,
+  "favoritesCount": 22,
+  "headline": "con pimiento y cebolla",
+  "id": "65d8b0e3e15fd4f7b093a432",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R06_W30_ES_ESQCFF15313-3_remove_onions_Main_high-b137deda.jpg",
+  "imagePath": "/image/HF_Y23_R06_W30_ES_ESQCFF15313-3_remove_onions_Main_high-b137deda.jpg",
+  "ingredients": [
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "64768e1d22f7f34e1f95d26c",
+      "uuid": "d7520bf2-8844-42e7-89a1-0588cb721a45",
+      "name": "Aros de pota",
+      "type": "squid",
+      "slug": "aros-de-pota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64768e1d22f7f34e1f95d26c-81f7050c.png",
+      "imagePath": "/ingredient/64768e1d22f7f34e1f95d26c-81f7050c.png",
+      "shipped": true,
+      "allergens": [
+        "5acf974c30006c4d667f88f1",
+        "5acf967d30006c4cbc61d152",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b305301"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64768e1d22f7f34e1f95d26c-Aros de pota.png"
+    },
+    {
+      "id": "63404376233160a36674ba1b",
+      "uuid": "6b9b5891-6a0f-43b7-abac-f1d515dd2d91",
+      "name": "Pimiento rojo",
+      "type": "red-bell-pepper",
+      "slug": "pimiento-rojo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "imagePath": "/ingredient/63404376233160a36674ba1b-9d364abc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba1b-Pimiento rojo.png"
+    },
+    {
+      "id": "63404377233160a36674ba1c",
+      "uuid": "257316a0-d7d2-5624-8408-32ad6195596b",
+      "name": "Cebolla roja",
+      "type": "red-onion",
+      "slug": "cebolla-roja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "imagePath": "/ingredient/63404377233160a36674ba1c-cd73aca1.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba1c-Cebolla roja.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff179",
+      "uuid": "ebd2f698-4242-5deb-b767-d529fb84b42f",
+      "name": "Aceite de sésamo",
+      "type": "sesame-oil",
+      "slug": "aceite-de-sesamo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff179-Aceite de sésamo.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "634d5daaebf08332f1bff1a8",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "imagePath": "/ingredient/634d5daaebf08332f1bff1a8-35922f9d.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d5daaebf08332f1bff1a8-Salsa de soja.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/65d8b0e3e15fd4f7b093a432",
+  "name": "Arroz chaufa con calamar gigante salteado",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2559,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 612,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 8.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 1.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 74.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 20.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0.1,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 5.25,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 16,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 520,
+  "slug": "arroz-chaufa-pota-verduras",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el agua (ver cantidad en ingredientes), añade el arroz y sal al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el arroz con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Llena un cazo con el <strong>agua</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y tapa el cazo. Deja cocinar 11-13 min y remueve de vez en cuando. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0e3e15fd4f7b093a432/step-82da9f00.jpg",
+          "path": "/65d8b0e3e15fd4f7b093a432/step-82da9f00.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/65d8b0e3e15fd4f7b093a432-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela la cebolla, divídela en dos y córtala en tiras finas. Corta el pimiento por la mitad y quítale las semillas. Córtalo en tiras finas de 0,5 cm de grosor. Pela y ralla el ajo (ver cantidad en ingredientes). Ralla 1/4 del jengibre (doble para 4p).",
+      "instructionsHTML": "<p dir=\"ltr\">Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en tiras finas de 0,5 cm de grosor. Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Ralla 1/4 del <strong>jengibre</strong> (doble para 4p).</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pela la <strong>cebolla</strong>, divídela en dos y córtala en tiras finas. Corta el <strong>pimiento</strong> por la mitad y quítale las semillas. Córtalo en tiras finas de 0,5 cm de grosor. Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Ralla 1/4 del <strong>jengibre</strong> (doble para 4p).</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0e3e15fd4f7b093a432/step-50f3ac10.jpg",
+          "path": "/65d8b0e3e15fd4f7b093a432/step-50f3ac10.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/65d8b0e3e15fd4f7b093a432-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Corta los aros de pota (calamar gigante) por la mitad, de forma que queden dos tiras. En una sartén grande, calienta un chorrito de aceite a fuego medio-alto. Cuando esté caliente, saltea la pota durante 3-4 min, removiendo regularmente. Salpimienta, retira de la sartén y reserva.\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.",
+      "instructionsHTML": "<p>Corta los <strong>aros de</strong> <strong>pota</strong> (calamar gigante) por la mitad, de forma que queden dos tiras. En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cuando esté caliente, saltea la <strong>pota</strong> durante 3-4 min, removiendo regularmente. <strong>Salpimienta</strong>, retira de la sartén y reserva.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "instructionsMarkdown": "<p>Corta los <strong>aros de</strong> <strong>pota</strong> (calamar gigante) por la mitad, de forma que queden dos tiras. En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cuando esté caliente, saltea la <strong>pota</strong> durante 3-4 min, removiendo regularmente. <strong>Salpimienta</strong>, retira de la sartén y reserva.</p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular marisco crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0e3e15fd4f7b093a432/step-57f8b520.jpg",
+          "path": "/65d8b0e3e15fd4f7b093a432/step-57f8b520.jpg",
+          "caption": "Saltea la pota",
+          "localImage": "/images/recipes/65d8b0e3e15fd4f7b093a432-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la sartén, agrega un chorrito de aceite junto al ajo y el jengibre. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Agrega la cebolla y el pimiento y saltea a fuego medio-alto durante 6-7 min, removiendo regularmente, hasta que las verduras empiecen a ablandarse. Salpimienta. Mientras tanto, en un bol pequeño, casca el huevo (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto al <strong>ajo</strong> y el <strong>jengibre</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Agrega la <strong>cebolla</strong> y el <strong>pimiento</strong> y saltea a fuego medio-alto durante<span> <span>6-7 min</span></span>, removiendo regularmente, hasta que las <strong>verduras</strong> empiecen a ablandarse. <strong>Salpimienta</strong>. Mientras tanto, en un bol pequeño, casca el <strong>huevo</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto al <strong>ajo</strong> y el <strong>jengibre</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Agrega la <strong>cebolla</strong> y el <strong>pimiento</strong> y saltea a fuego medio-alto durante<span> <span>6-7 min</span></span>, removiendo regularmente, hasta que las <strong>verduras</strong> empiecen a ablandarse. <strong>Salpimienta</strong>. Mientras tanto, en un bol pequeño, casca el <strong>huevo</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0e3e15fd4f7b093a432/step-a8ca7130.jpg",
+          "path": "/65d8b0e3e15fd4f7b093a432/step-a8ca7130.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/65d8b0e3e15fd4f7b093a432-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la sartén con las verduras, agrega el arroz basmati cocido, la pota salteada y la salsa de soja y saltea a fuego medio 1-2 min, removiendo frecuentemente. Luego, aparta los ingredientes hacia los bordes de la sartén y agrega un chorrito de aceite en el centro. Añade el huevo y cocina 30 segundos sin moverlo. Luego, remueve con ayuda de una espátula, de forma que el huevo se integre con el arroz y las verduras.",
+      "instructionsHTML": "<p>En la sartén con las <strong>verduras</strong>, agrega el <strong>arroz basmati</strong> cocido, la <strong>pota</strong> salteada y la <strong>salsa de soja</strong> y saltea a fuego medio 1-2 min, removiendo frecuentemente. Luego, aparta los ingredientes hacia los bordes de la sartén y agrega un chorrito de <strong>aceite</strong> en el centro. Añade el <strong>huevo</strong> y cocina 30 segundos sin moverlo. Luego, remueve con ayuda de una espátula, de forma que el <strong>huevo</strong> se integre con el <strong>arroz</strong> y las <strong>verduras</strong>.</p>",
+      "instructionsMarkdown": "<p>En la sartén con las <strong>verduras</strong>, agrega el <strong>arroz basmati</strong> cocido, la <strong>pota</strong> salteada y la <strong>salsa de soja</strong> y saltea a fuego medio 1-2 min, removiendo frecuentemente. Luego, aparta los ingredientes hacia los bordes de la sartén y agrega un chorrito de <strong>aceite</strong> en el centro. Añade el <strong>huevo</strong> y cocina 30 segundos sin moverlo. Luego, remueve con ayuda de una espátula, de forma que el <strong>huevo</strong> se integre con el <strong>arroz</strong> y las <strong>verduras</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0e3e15fd4f7b093a432/step-a6bf6540.jpg",
+          "path": "/65d8b0e3e15fd4f7b093a432/step-a6bf6540.jpg",
+          "caption": "Agrega el arroz y la pota",
+          "localImage": "/images/recipes/65d8b0e3e15fd4f7b093a432-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Finalmente, agrega a la sartén el aceite de sésamo y remueve para integrar. Prueba y rectifica de sal y pimienta. Sirve el arroz chaufa con pota salteada en platos.\nSABÍAS QUE: La pota se tiene que cocinar por poco tiempo o por mucho tiempo para que quede en su punto óptimo. Si optas por un tiempo intermedio, la pota quedará chiclosa.",
+      "instructionsHTML": "<p>Finalmente, agrega a la sartén el <strong>aceite de sésamo</strong> y remueve para integrar. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>. Sirve el <strong>arroz</strong> <strong>chaufa</strong> con <strong>pota</strong> salteada en platos.</p>\n<p>SABÍAS QUE: La pota se tiene que cocinar por poco tiempo o por mucho tiempo para que quede en su punto óptimo. Si optas por un tiempo intermedio, la pota quedará chiclosa.</p>",
+      "instructionsMarkdown": "<p>Finalmente, agrega a la sartén el <strong>aceite de sésamo</strong> y remueve para integrar. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>. Sirve el <strong>arroz</strong> <strong>chaufa</strong> con <strong>pota</strong> salteada en platos.</p>\n<p>SABÍAS QUE: La pota se tiene que cocinar por poco tiempo o por mucho tiempo para que quede en su punto óptimo. Si optas por un tiempo intermedio, la pota quedará chiclosa.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/65d8b0e3e15fd4f7b093a432/step-a15dbb50.jpg",
+          "path": "/65d8b0e3e15fd4f7b093a432/step-a15dbb50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/65d8b0e3e15fd4f7b093a432-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESQCFF15313-13",
+  "updatedAt": "2025-11-13T22:42:12+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    }
+  ],
+  "uuid": "3152c969-5784-4b71-a4aa-434e6475775c",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/arroz-chaufa-pota-verduras-65d8b0e3e15fd4f7b093a432",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64768e1d22f7f34e1f95d26c",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.25,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64768e1d22f7f34e1f95d26c",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba1b",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba1c",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d5daaebf08332f1bff1a8",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/65d8b0e3e15fd4f7b093a432-Arroz chaufa con calamar gigante salteado.jpg",
+  "localCard": "/pdf/65d8b0e3e15fd4f7b093a432-Arroz chaufa con calamar gigante salteado.pdf"
+}

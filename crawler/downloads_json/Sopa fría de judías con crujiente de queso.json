@@ -1,0 +1,843 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3,
+  "canonical": "643669797d6ab6d3a5175c49",
+  "canonicalLink": "https://www.hellofresh.es/recipes/sopa-fria-de-judias-con-crujiente-de-queso-643669797d6ab6d3a5175c49",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6616b8db17fb871fe34f4a2a-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "63ff767d7cb532b7de19ed78",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-04-30T13:20:58+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "¿Quién dijo que las sopas eran para el invierno? Atrévete a probar esta sopa fría de judías y de sus múltiples acompañamientos y aderezos. Por una parte, preparamos un aceite casero de perejil y lo agregamos sobre la sopa junto a una crema de vinagre balsámico. Finalmente, acabamos el plato con tomates cherrys marinados y un crujiente de queso.",
+  "descriptionHTML": "<p>¿Quién dijo que las sopas eran para el invierno? Atrévete a probar esta sopa fría de judías y de sus múltiples acompañamientos y aderezos. Por una parte, preparamos un aceite casero de perejil y lo agregamos sobre la sopa junto a una crema de vinagre balsámico. Finalmente, acabamos el plato con tomates cherrys marinados y un crujiente de queso.</p>",
+  "descriptionMarkdown": "¿Quién dijo que las sopas eran para el invierno? Atrévete a probar esta sopa fría de judías y de sus múltiples acompañamientos y aderezos. Por una parte, preparamos un aceite casero de perejil y lo agregamos sobre la sopa junto a una crema de vinagre balsámico. Finalmente, acabamos el plato con tomates cherrys marinados y un crujiente de queso.",
+  "difficulty": 1,
+  "favoritesCount": 12,
+  "headline": "con aceite de perejil, tomates cherry y vinagre balsámico",
+  "id": "6616b8db17fb871fe34f4a2a",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/R10_W26_ES_ESQCV15173-2-2_Main_high-405b8343.jpg",
+  "imagePath": "/image/R10_W26_ES_ESQCV15173-2-2_Main_high-405b8343.jpg",
+  "ingredients": [
+    {
+      "id": "63566c5eb174d9ebd3c35bc8",
+      "uuid": "180dba5b-4f37-51f9-80a9-efb9c27c5351",
+      "name": "Judías blancas",
+      "type": "cannellini-beans",
+      "slug": "judias-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63566c5eb174d9ebd3c35bc8-f34b7bec.png",
+      "imagePath": "/ingredient/63566c5eb174d9ebd3c35bc8-f34b7bec.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63566c5eb174d9ebd3c35bc8-Judías blancas.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "6397c09b9b30e60070f163ee",
+      "uuid": "85d8b218-c598-5e52-abcc-7557119abeec",
+      "name": "Crema de vinagre balsámico",
+      "type": "balsamic-cream",
+      "slug": "crema-de-vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6397c09b9b30e60070f163ee-5665472e.png",
+      "imagePath": "/ingredient/6397c09b9b30e60070f163ee-5665472e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6397c09b9b30e60070f163ee-Crema de vinagre balsámico.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "638e17f58c9d9b72748a9366",
+      "uuid": "deb547a0-a744-4f8b-8a22-d66c485b5b4c",
+      "name": "Aceite para la salsa",
+      "type": "olive-oil-for-the-sauce-ml",
+      "slug": "aceite-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638e17f58c9d9b72748a9366-1a867c7a.png",
+      "imagePath": "/ingredient/638e17f58c9d9b72748a9366-1a867c7a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638e17f58c9d9b72748a9366-Aceite para la salsa.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6616b8db17fb871fe34f4a2a",
+  "name": "Sopa fría de judías con crujiente de queso",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2623,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 627,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 4.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 2.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 48,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 8.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 26.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 26,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.33,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT20M",
+  "promotion": null,
+  "ratingsCount": 8,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 488,
+  "slug": "sopa-judias-queso-perejil",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Deshoja el perejil. En una jarra medidora, añade el perejil, el aceite para la salsa, el agua para la salsa (ver cantidad en ingredientes de ambos) y sal al gusto. Tritura con un túrmix hasta que quede un aceite de perejil homogéneo. Reserva el aceite de perejil en un bol y limpia la jarra medidora.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Deshoja el <strong>perejil</strong>. En una jarra medidora, añade el <strong>perejil</strong>, el <strong>aceite para la salsa</strong>, el <strong>agua para la salsa</strong> (ver cantidad en ingredientes de ambos) y <strong>sal</strong> al gusto. Tritura con un túrmix hasta que quede un <strong>aceite de</strong> <strong>perejil</strong> homogéneo. Reserva el <strong>aceite de perejil</strong> en un bol y limpia la jarra medidora.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Deshoja el <strong>perejil</strong>. En una jarra medidora, añade el <strong>perejil</strong>, el <strong>aceite para la salsa</strong>, el <strong>agua para la salsa</strong> (ver cantidad en ingredientes de ambos) y <strong>sal</strong> al gusto. Tritura con un túrmix hasta que quede un <strong>aceite de</strong> <strong>perejil</strong> homogéneo. Reserva el <strong>aceite de perejil</strong> en un bol y limpia la jarra medidora.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8db17fb871fe34f4a2a/step-f8418b00.jpg",
+          "path": "/6616b8db17fb871fe34f4a2a/step-f8418b00.jpg",
+          "caption": "Prepara el aceite de perejil",
+          "localImage": "/images/recipes/6616b8db17fb871fe34f4a2a-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Escurre las judías blancas. Pela y pica el ajo (ver cantidad en ingredientes). En una sartén antiadherente, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega la mitad de las judías blancas y cocina 2 min. Cuando estén listas, retira y reserva.",
+      "instructionsHTML": "<p>Escurre las <strong>judías blancas</strong>. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En una sartén antiadherente, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega la mitad de las <strong>judías blancas</strong> y cocina 2 min. Cuando estén listas, retira y reserva.</p>",
+      "instructionsMarkdown": "<p>Escurre las <strong>judías blancas</strong>. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). En una sartén antiadherente, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Agrega la mitad de las <strong>judías blancas</strong> y cocina 2 min. Cuando estén listas, retira y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305397",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8db17fb871fe34f4a2a/step-bd696110.jpg",
+          "path": "/6616b8db17fb871fe34f4a2a/step-bd696110.jpg",
+          "caption": "Saltea las judías blancas",
+          "localImage": "/images/recipes/6616b8db17fb871fe34f4a2a-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la jarra medidora, mezcla el caldo vegetal en polvo y el agua (ver cantidad en ingredientes). Luego, agrega las judías blancas salteadas y las judías blancas que no se han cocinado. Agrega un chorrito de aceite, salpimienta y tritura con el túrmix hasta conseguir una sopa lisa. Reserva en la nevera hasta el emplatado.",
+      "instructionsHTML": "<p dir=\"ltr\">En la jarra medidora, mezcla el <strong>caldo vegetal</strong> en polvo y el <strong>agua</strong> (ver cantidad en ingredientes). Luego, agrega las <strong>judías blancas</strong> salteadas y las <strong>judías blancas</strong> que no se han cocinado. Agrega un chorrito de <strong>aceite</strong>, <strong>salpimienta</strong> y tritura con el túrmix hasta conseguir una <strong>sopa</strong> lisa. Reserva en la nevera hasta el emplatado.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En la jarra medidora, mezcla el <strong>caldo vegetal</strong> en polvo y el <strong>agua</strong> (ver cantidad en ingredientes). Luego, agrega las <strong>judías blancas</strong> salteadas y las <strong>judías blancas</strong> que no se han cocinado. Agrega un chorrito de <strong>aceite</strong>, <strong>salpimienta</strong> y tritura con el túrmix hasta conseguir una <strong>sopa</strong> lisa. Reserva en la nevera hasta el emplatado.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8db17fb871fe34f4a2a/step-72abce20.jpg",
+          "path": "/6616b8db17fb871fe34f4a2a/step-72abce20.jpg",
+          "caption": "Prepara la sopa fría",
+          "localImage": "/images/recipes/6616b8db17fb871fe34f4a2a-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Corta los tomates cherry por la mitad y agrégalos a un bol. Añade un chorrito de aceite y el orégano (ver cantidad en ingredientes). Salpimienta y mezcla.",
+      "instructionsHTML": "<p dir=\"ltr\">Corta los <strong>tomates cherry</strong> por la mitad y agrégalos a un bol. Añade un chorrito de <strong>aceite</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes). <strong>S</strong><strong>alpimienta</strong> y mezcla.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Corta los <strong>tomates cherry</strong> por la mitad y agrégalos a un bol. Añade un chorrito de <strong>aceite</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes). <strong>S</strong><strong>alpimienta</strong> y mezcla.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8db17fb871fe34f4a2a/step-90302330.jpg",
+          "path": "/6616b8db17fb871fe34f4a2a/step-90302330.jpg",
+          "caption": "Marina los tomates cherry",
+          "localImage": "/images/recipes/6616b8db17fb871fe34f4a2a-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Limpia la sartén con un papel de cocina. Calienta la sartén a fuego medio sin aceite y reparte el queso italiano en dos pequeños montones en la sartén, dejando un espacio entre ellos. Cocina durante 2 min, dales la vuelta con ayuda de una espátula y cocina 2 min más, hasta conseguir dos piezas de queso tostado y crujiente.",
+      "instructionsHTML": "<p><span>Limpia la sartén con un papel de cocina.</span> Calienta la sartén a fuego medio sin aceite y reparte el <strong>queso</strong> <strong>italiano</strong> en dos pequeños montones en la sartén, dejando un espacio entre ellos. Cocina durante 2 min, dales la vuelta con ayuda de una espátula y cocina 2 min más, hasta conseguir dos piezas de <strong>queso</strong> tostado y crujiente.</p>",
+      "instructionsMarkdown": "<p><span>Limpia la sartén con un papel de cocina.</span> Calienta la sartén a fuego medio sin aceite y reparte el <strong>queso</strong> <strong>italiano</strong> en dos pequeños montones en la sartén, dejando un espacio entre ellos. Cocina durante 2 min, dales la vuelta con ayuda de una espátula y cocina 2 min más, hasta conseguir dos piezas de <strong>queso</strong> tostado y crujiente.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8db17fb871fe34f4a2a/step-3ee70c40.jpg",
+          "path": "/6616b8db17fb871fe34f4a2a/step-3ee70c40.jpg",
+          "caption": "Prepara el crujiente de queso",
+          "localImage": "/images/recipes/6616b8db17fb871fe34f4a2a-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve la sopa fría de judías blancas en platos hondos y agrega encima los tomates cherry marinados, la crema de vinagre balsámico y el aceite de perejil. Finalmente, trocea el crujiente de queso y agrégalo sobre el plato.",
+      "instructionsHTML": "<p>Sirve la <strong>sopa fría</strong> de <strong>judías blancas</strong> en platos hondos y agrega encima los <strong>tomates cherry</strong> marinados, la <strong>crema de vinagre balsámico</strong> y el <strong>aceite de perejil</strong>. Finalmente, trocea el <strong>crujiente de queso</strong> y agrégalo sobre el plato.</p>",
+      "instructionsMarkdown": "<p>Sirve la <strong>sopa fría</strong> de <strong>judías blancas</strong> en platos hondos y agrega encima los <strong>tomates cherry</strong> marinados, la <strong>crema de vinagre balsámico</strong> y el <strong>aceite de perejil</strong>. Finalmente, trocea el <strong>crujiente de queso</strong> y agrégalo sobre el plato.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8db17fb871fe34f4a2a/step-e9314950.jpg",
+          "path": "/6616b8db17fb871fe34f4a2a/step-e9314950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6616b8db17fb871fe34f4a2a-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305316",
+      "type": "low-carb",
+      "name": "<50g carbohidratos",
+      "slug": "50g-carbohidratos",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5c0a7148e3f3397e2b672602",
+      "type": "under-550-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESQCV15173-7",
+  "updatedAt": "2025-06-12T15:55:12+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538e",
+      "type": "mixingbowl",
+      "name": "Bol para mezclar"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    }
+  ],
+  "uuid": "4b7d6c7d-734f-41cf-b7f9-54e3ad8d32fc",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/sopa-judias-queso-perejil-6616b8db17fb871fe34f4a2a",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63566c5eb174d9ebd3c35bc8",
+          "amount": 760,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6397c09b9b30e60070f163ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638e17f58c9d9b72748a9366",
+          "amount": 30,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 20,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63566c5eb174d9ebd3c35bc8",
+          "amount": 1520,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6397c09b9b30e60070f163ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638e17f58c9d9b72748a9366",
+          "amount": 60,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 40,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6616b8db17fb871fe34f4a2a-Sopa fría de judías con crujiente de queso.jpg",
+  "localCard": "/pdf/6616b8db17fb871fe34f4a2a-Sopa fría de judías con crujiente de queso.pdf"
+}

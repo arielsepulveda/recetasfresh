@@ -1,0 +1,714 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 2,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/butifarra-judias-salsa-verde-638a20904af6d174904411f1-c5feaf1e.pdf",
+  "category": null,
+  "clonedFrom": "6347ef924eacd7e8b5e77c10",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-02T15:58:08+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Con este plato inspirado en la gastronomía catalana podrás probar la butifarra autóctona acompañada de unas judías con salsa verde a partir de perejil, ajo y aceite. Para completar el plato, como no podía ser de otra manera, prepara un \"pa amb tomàquet\" al más puro estilo de la Costa Brava.",
+  "descriptionHTML": "<p>Con este plato inspirado en la gastronomía catalana podrás probar la butifarra autóctona acompañada de unas judías con salsa verde a partir de perejil, ajo y aceite. Para completar el plato, como no podía ser de otra manera, prepara un &quot;pa amb tomàquet&quot; al más puro estilo de la Costa Brava.</p>",
+  "descriptionMarkdown": "Con este plato inspirado en la gastronomía catalana podrás probar la butifarra autóctona acompañada de unas judías con salsa verde a partir de perejil, ajo y aceite. Para completar el plato, como no podía ser de otra manera, prepara un \"pa amb tomàquet\" al más puro estilo de la Costa Brava.",
+  "difficulty": 1,
+  "favoritesCount": 2,
+  "headline": "aderezadas con salsa verde casera, pan con tomate y alioli",
+  "id": "638a20904af6d174904411f1",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221227_R05_W06_ES_ESCF0000-2_KB_Main_single_saucage_high-8c5a391b.jpg",
+  "imagePath": "/image/HF221227_R05_W06_ES_ESCF0000-2_KB_Main_single_saucage_high-8c5a391b.jpg",
+  "ingredients": [
+    {
+      "id": "636535e40a112d281e8e7e06",
+      "uuid": "80a2d680-e62d-4cd3-ab2e-85dd9dc4c054",
+      "name": "Butifarra",
+      "type": "catalan-sausage-pork-meat",
+      "slug": "butifarra",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636535e40a112d281e8e7e06-1656cb57.png",
+      "imagePath": "/ingredient/636535e40a112d281e8e7e06-1656cb57.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636535e40a112d281e8e7e06-Butifarra.png"
+    },
+    {
+      "id": "63566c5eb174d9ebd3c35bc8",
+      "uuid": "180dba5b-4f37-51f9-80a9-efb9c27c5351",
+      "name": "Judías blancas",
+      "type": "cannellini-beans",
+      "slug": "judias-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63566c5eb174d9ebd3c35bc8-f34b7bec.png",
+      "imagePath": "/ingredient/63566c5eb174d9ebd3c35bc8-f34b7bec.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63566c5eb174d9ebd3c35bc8-Judías blancas.png"
+    },
+    {
+      "id": "63404370233160a36674ba03",
+      "uuid": "88253f9b-1a28-5a16-8fb2-0ef3494216fd",
+      "name": "Perejil",
+      "type": "flat-leaf-parsley",
+      "slug": "perejil",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "imagePath": "/ingredient/63404370233160a36674ba03-f8fc9a1d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404370233160a36674ba03-Perejil.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "6352a87574b20ffb740efe5e",
+      "uuid": "529b21e5-df06-5f4b-be4f-d3d03cfd43ae",
+      "name": "Pan de chapata",
+      "type": "ciabatta",
+      "slug": "pan-de-chapata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352a87574b20ffb740efe5e-5a30d77e.png",
+      "imagePath": "/ingredient/6352a87574b20ffb740efe5e-5a30d77e.png",
+      "shipped": true,
+      "allergens": [
+        "5b0532aaae08b52eb9420552",
+        "5acf972fae08b54d333ac322",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b305303",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352a87574b20ffb740efe5e-Pan de chapata.png"
+    },
+    {
+      "id": "634043a62268bc1bff0d3cd4",
+      "uuid": "931e72be-8132-585e-9855-9dfe0f2cd32c",
+      "name": "Alioli",
+      "type": "aioli",
+      "slug": "alioli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043a62268bc1bff0d3cd4-b14f7f3e.png",
+      "imagePath": "/ingredient/634043a62268bc1bff0d3cd4-b14f7f3e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043a62268bc1bff0d3cd4-Alioli.png"
+    },
+    {
+      "id": "634928fd971d5eddb3ff7177",
+      "uuid": "c63c07ea-c24b-4755-9b18-2f50b921b048",
+      "name": "Sal",
+      "type": "salt",
+      "slug": "sal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634928fd971d5eddb3ff7177-ae56d76e.png",
+      "imagePath": "/ingredient/634928fd971d5eddb3ff7177-ae56d76e.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634928fd971d5eddb3ff7177-Sal.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "638e17f58c9d9b72748a9366",
+      "uuid": "deb547a0-a744-4f8b-8a22-d66c485b5b4c",
+      "name": "Aceite para la salsa",
+      "type": "olive-oil-for-the-sauce-ml",
+      "slug": "aceite-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638e17f58c9d9b72748a9366-1a867c7a.png",
+      "imagePath": "/ingredient/638e17f58c9d9b72748a9366-1a867c7a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638e17f58c9d9b72748a9366-Aceite para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/638a20904af6d174904411f1",
+  "name": "Butifarra a la plancha con judías",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 995,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4165,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 34.11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 11.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 74.16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 4.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 10.64,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 38.34,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.54,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 8,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 442,
+  "slug": "butifarra-a-la-plancha-con-judias",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 200ºC. Deshoja la mitad del perejil (doble para 4p). Pela el ajo (ver cantidad en ingredientes), pícalo y ponlo en una jarra medidora junto con el perejil deshojado y el aceite para la salsa (ver cantidad en ingredientes). Con ayuda de un túrmix, tritura la salsa hasta que quede homogénea. Reserva.",
+      "instructionsHTML": "<p dir=\"ltr\">Precalienta el horno a 200ºC. Deshoja la mitad del <strong>perejil</strong> (doble para 4p). Pela el <strong>ajo </strong>(ver cantidad en ingredientes), pícalo y ponlo en una jarra medidora junto con el <strong>perejil</strong> deshojado y el <strong>aceite para la salsa</strong> (ver cantidad en ingredientes). Con ayuda de un túrmix, tritura la <strong>salsa</strong> hasta que quede homogénea. Reserva.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Precalienta el horno a 200ºC. Deshoja la mitad del <strong>perejil</strong> (doble para 4p). Pela el <strong>ajo </strong>(ver cantidad en ingredientes), pícalo y ponlo en una jarra medidora junto con el <strong>perejil</strong> deshojado y el <strong>aceite para la salsa</strong> (ver cantidad en ingredientes). Con ayuda de un túrmix, tritura la <strong>salsa</strong> hasta que quede homogénea. Reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20904af6d174904411f1/step-c85dad00.jpg",
+          "path": "/638a20904af6d174904411f1/step-c85dad00.jpg",
+          "caption": "Prepara la salsa verde",
+          "localImage": "/images/recipes/638a20904af6d174904411f1-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Abre los panes de chapata y colócalos hacia arriba en una bandeja de horno con papel de horno. Hornea 10 min o hasta que esté tostado. Si lo prefieres, puedes utilizar una tostadora. Corta la butifarra por la mitad, de forma que queden dos butifarras del mismo tamaño. Pincha las butifarras con la ayuda de un tenedor para evitar que se abran al cocinarlas.",
+      "instructionsHTML": "<p>Abre los <strong>panes de chapata</strong> y colócalos hacia arriba en una bandeja de horno con papel de horno. Hornea 10 min o hasta que esté tostado. Si lo prefieres, puedes utilizar una tostadora. Corta la <strong>butifarra</strong> por la mitad, de forma que queden dos <strong>butifarras</strong> del mismo tamaño. Pincha las <strong>butifarras</strong> con la ayuda de un tenedor para evitar que se abran al cocinarlas.</p>",
+      "instructionsMarkdown": "<p>Abre los <strong>panes de chapata</strong> y colócalos hacia arriba en una bandeja de horno con papel de horno. Hornea 10 min o hasta que esté tostado. Si lo prefieres, puedes utilizar una tostadora. Corta la <strong>butifarra</strong> por la mitad, de forma que queden dos <strong>butifarras</strong> del mismo tamaño. Pincha las <strong>butifarras</strong> con la ayuda de un tenedor para evitar que se abran al cocinarlas.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20904af6d174904411f1/step-528a8410.jpg",
+          "path": "/638a20904af6d174904411f1/step-528a8410.jpg",
+          "caption": "Tuesta el pan",
+          "localImage": "/images/recipes/638a20904af6d174904411f1-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén, calienta un chorrito de aceite. Agrega las butifarras a la sartén y cocina a fuego medio durante 8 min, dándoles la vuelta de vez en cuando. Tapa la sartén y baja el fuego a medio. Cocina tapado durante 2 min. Cuando las butifarras estén listas, resérvalas en un plato.",
+      "instructionsHTML": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong>. Agrega las <strong>butifarras</strong> a la sartén y cocina a fuego medio durante 8 min, dándoles la vuelta de vez en cuando. Tapa la sartén y baja el fuego a medio. Cocina tapado durante 2 min. Cuando las <strong>butifarras</strong> estén listas, resérvalas en un plato.</p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong>. Agrega las <strong>butifarras</strong> a la sartén y cocina a fuego medio durante 8 min, dándoles la vuelta de vez en cuando. Tapa la sartén y baja el fuego a medio. Cocina tapado durante 2 min. Cuando las <strong>butifarras</strong> estén listas, resérvalas en un plato.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b",
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20904af6d174904411f1/step-6cdf2420.jpg",
+          "path": "/638a20904af6d174904411f1/step-6cdf2420.jpg",
+          "caption": "Cocina las butifarras",
+          "localImage": "/images/recipes/638a20904af6d174904411f1-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En la misma sartén, agrega las judías y saltea durante 2 min. Transcurrido ese tiempo, añade la salsa verde y cocina todo junto durante 2 min más.",
+      "instructionsHTML": "<p>En la misma sartén, agrega las <strong>judías</strong> y saltea durante 2 min. Transcurrido ese tiempo, añade la <strong>salsa verde</strong> y cocina todo junto durante 2 min más.</p>",
+      "instructionsMarkdown": "<p>En la misma sartén, agrega las <strong>judías</strong> y saltea durante 2 min. Transcurrido ese tiempo, añade la <strong>salsa verde</strong> y cocina todo junto durante 2 min más.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20904af6d174904411f1/step-6fa0f230.jpg",
+          "path": "/638a20904af6d174904411f1/step-6fa0f230.jpg",
+          "caption": "Saltea las judías con la salsa verde",
+          "localImage": "/images/recipes/638a20904af6d174904411f1-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando el pan esté tostado, corta el tomate por la mitad y úntalo en el pan, hasta que tome un color rojizo. Agrega un chorrito de aceite y sal al gusto.",
+      "instructionsHTML": "<p>Cuando el <strong>pan</strong> esté tostado, corta el <strong>tomate</strong> por la mitad y úntalo en el pan, hasta que tome un color rojizo. Agrega un chorrito de <strong>aceite</strong> y <strong>sal</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Cuando el <strong>pan</strong> esté tostado, corta el <strong>tomate</strong> por la mitad y úntalo en el pan, hasta que tome un color rojizo. Agrega un chorrito de <strong>aceite</strong> y <strong>sal</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20904af6d174904411f1/step-b1ab0340.jpg",
+          "path": "/638a20904af6d174904411f1/step-b1ab0340.jpg",
+          "caption": "Adereza el pan",
+          "localImage": "/images/recipes/638a20904af6d174904411f1-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Divide las judías y las butifarras en los platos y acompaña con el pan. Sirve el alioli a un lado.",
+      "instructionsHTML": "<p dir=\"ltr\">Divide las <strong>judías</strong> y las <strong>butifarras</strong> en los platos y acompaña con el <strong>pan</strong>. Sirve el <strong>alioli</strong> a un lado.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Divide las <strong>judías</strong> y las <strong>butifarras</strong> en los platos y acompaña con el <strong>pan</strong>. Sirve el <strong>alioli</strong> a un lado.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20904af6d174904411f1/step-2fbb1450.jpg",
+          "path": "/638a20904af6d174904411f1/step-2fbb1450.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/638a20904af6d174904411f1-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESCF0000-2",
+  "updatedAt": "2025-11-19T17:59:07+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    }
+  ],
+  "uuid": "f133c4a2-8d27-49d0-9720-0630d09d98d0",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/butifarra-a-la-plancha-con-judias-638a20904af6d174904411f1",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "636535e40a112d281e8e7e06",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63566c5eb174d9ebd3c35bc8",
+          "amount": 340,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352a87574b20ffb740efe5e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043a62268bc1bff0d3cd4",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634928fd971d5eddb3ff7177",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "638e17f58c9d9b72748a9366",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "636535e40a112d281e8e7e06",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63566c5eb174d9ebd3c35bc8",
+          "amount": 680,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404370233160a36674ba03",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352a87574b20ffb740efe5e",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043a62268bc1bff0d3cd4",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634928fd971d5eddb3ff7177",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "638e17f58c9d9b72748a9366",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/638a20904af6d174904411f1-Butifarra a la plancha con judías.jpg",
+  "localCard": "/pdf/638a20904af6d174904411f1-Butifarra a la plancha con judías.pdf"
+}

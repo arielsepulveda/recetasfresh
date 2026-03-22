@@ -1,0 +1,791 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "63aaf3d57409f63ef1b32fc2",
+  "canonicalLink": "https://www.hellofresh.es/recipes/risotto-cremoso-con-butifarra-63aaf3d57409f63ef1b32fc2",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64c3e7c92864fe111ef96740.pdf",
+  "category": null,
+  "clonedFrom": "6347ef44e9568549b784978d",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-07-28T16:07:37+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Disfruta de un cremoso risotto con esta receta en la que lo cocinamos con carne de butifarra en lugar de agregar otra carne picada, ingrediente habitual en este tipo de plato. El risotto se prepara con el maravilloso queso pecorino y agregamos encima un aceite casero de albahaca.",
+  "descriptionHTML": "<p>Disfruta de un cremoso risotto con esta receta en la que lo cocinamos con carne de butifarra en lugar de agregar otra carne picada, ingrediente habitual en este tipo de plato. El risotto se prepara con el maravilloso queso pecorino y agregamos encima un aceite casero de albahaca.</p>",
+  "descriptionMarkdown": "Disfruta de un cremoso risotto con esta receta en la que lo cocinamos con carne de butifarra en lugar de agregar otra carne picada, ingrediente habitual en este tipo de plato. El risotto se prepara con el maravilloso queso pecorino y agregamos encima un aceite casero de albahaca.",
+  "difficulty": 1,
+  "favoritesCount": 15,
+  "headline": "con aceite de albahaca y queso pecorino",
+  "id": "64c3e7c92864fe111ef96740",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/R05_W26_ES_ESCFP0025-4Main_high-519f1b39.jpg",
+  "imagePath": "/image/R05_W26_ES_ESCFP0025-4Main_high-519f1b39.jpg",
+  "ingredients": [
+    {
+      "id": "634043772268bc1bff0d3cc8",
+      "uuid": "8b7ec7ac-7dc0-5fcd-8702-58c8a214b61b",
+      "name": "Arroz de risotto",
+      "type": "risotto-rice",
+      "slug": "arroz-de-risotto",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043772268bc1bff0d3cc8-aee353ef.jpg",
+      "imagePath": "/ingredient/634043772268bc1bff0d3cc8-aee353ef.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043772268bc1bff0d3cc8-Arroz de risotto.jpg"
+    },
+    {
+      "id": "636535e40a112d281e8e7e06",
+      "uuid": "80a2d680-e62d-4cd3-ab2e-85dd9dc4c054",
+      "name": "Butifarra",
+      "type": "catalan-sausage-pork-meat",
+      "slug": "butifarra",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636535e40a112d281e8e7e06-1656cb57.png",
+      "imagePath": "/ingredient/636535e40a112d281e8e7e06-1656cb57.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636535e40a112d281e8e7e06-Butifarra.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "646c6e918c393b044d74495c",
+      "uuid": "d5a29260-26eb-42f9-ac36-b9cf8bf64138",
+      "name": "Pecorino italiano",
+      "type": "pecorino-romano",
+      "slug": "pecorino-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/646c6e918c393b044d74495c-35e92fd7.png",
+      "imagePath": "/ingredient/646c6e918c393b044d74495c-35e92fd7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/646c6e918c393b044d74495c-Pecorino italiano.png"
+    },
+    {
+      "id": "6340436b233160a36674b9e9",
+      "uuid": "fae5ea17-1d10-5a79-acab-118ec738e69e",
+      "name": "Albahaca",
+      "type": "basil",
+      "slug": "albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "imagePath": "/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9e9-Albahaca.jpg"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "638e17f58c9d9b72748a9366",
+      "uuid": "deb547a0-a744-4f8b-8a22-d66c485b5b4c",
+      "name": "Aceite para la salsa",
+      "type": "olive-oil-for-the-sauce-ml",
+      "slug": "aceite-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638e17f58c9d9b72748a9366-1a867c7a.png",
+      "imagePath": "/ingredient/638e17f58c9d9b72748a9366-1a867c7a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638e17f58c9d9b72748a9366-Aceite para la salsa.png"
+    },
+    {
+      "id": "63886fb54e2cf97f0e0a2efc",
+      "uuid": "7e29f1b2-3833-4494-acd6-2d77ff5d40c7",
+      "name": "Agua para el caldo",
+      "type": "water-for-broth",
+      "slug": "agua-para-el-caldo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886fb54e2cf97f0e0a2efc-bf83517c.png",
+      "imagePath": "/ingredient/63886fb54e2cf97f0e0a2efc-bf83517c.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886fb54e2cf97f0e0a2efc-Agua para el caldo.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/64c3e7c92864fe111ef96740",
+  "name": "Risotto cremoso con butifarra",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4451,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1064,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 28.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 96.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 4.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 28.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0.1,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.83,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT45M",
+  "promotion": null,
+  "ratingsCount": 49,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 336,
+  "slug": "risotto-cremoso-con-butifarra",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En un cazo, agrega el agua para el caldo (ver cantidad en ingredientes) y el caldo vegetal y lleva a ebullición. Remueve para que se disuelva. Con un cuchillo, haz un corte en la piel de la butifarra y retírala, quedándote con la carne. Separa la carne en trozos grandes.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En un cazo, agrega el <strong>agua para el caldo</strong> (ver cantidad en ingredientes) y el <strong>caldo vegetal</strong> y lleva a ebullición. Remueve para que se disuelva. Con un cuchillo, haz un corte en la piel de la <strong>butifarra</strong> y retírala, quedándote con la <strong>carne</strong>. Separa la <strong>carne</strong> en trozos grandes.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En un cazo, agrega el <strong>agua para el caldo</strong> (ver cantidad en ingredientes) y el <strong>caldo vegetal</strong> y lleva a ebullición. Remueve para que se disuelva. Con un cuchillo, haz un corte en la piel de la <strong>butifarra</strong> y retírala, quedándote con la <strong>carne</strong>. Separa la <strong>carne</strong> en trozos grandes.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "637ccf1f51efa9c65fc33335"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c3e7c92864fe111ef96740/step-598e8e00.jpg",
+          "path": "/64c3e7c92864fe111ef96740/step-598e8e00.jpg",
+          "caption": "Prepara el caldo",
+          "localImage": "/images/recipes/64c3e7c92864fe111ef96740-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela y pica el ajo (ver cantidad en ingredientes). Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. En una olla grande, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore.",
+      "instructionsHTML": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. En una<span> <span>olla</span> </span>grande, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore.</p>",
+      "instructionsMarkdown": "<p>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. En una<span> <span>olla</span> </span>grande, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c3e7c92864fe111ef96740/step-02582a10.jpg",
+          "path": "/64c3e7c92864fe111ef96740/step-02582a10.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/64c3e7c92864fe111ef96740-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la olla, agrega la cebolla, la carne de la butifarra y el orégano (ver cantidad en ingredientes). Dora todo a fuego medio-alto 3-4 min, mientras remueves para desmenuzar la carne. Luego, cocina a fuego medio-bajo durante 4-5 min, hasta que la cebolla quede tierna y la carne quede bien cocinada. Salpimienta al gusto.",
+      "instructionsHTML": "<p>En la olla, agrega la <strong>cebolla</strong>, la <strong>carne</strong> de la <strong>butifarra</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes).<span> Dora todo a fuego medio-alto 3-4 min, mientras remueves para desmenuzar la <strong>carne</strong>. L</span>uego, cocina a fuego medio-bajo durante 4-5 min, hasta que la <strong>cebolla</strong> quede tierna y la <strong>carne</strong> quede bien cocinada. <span><strong>Salpimienta</strong> al gusto.</span></p>",
+      "instructionsMarkdown": "<p>En la olla, agrega la <strong>cebolla</strong>, la <strong>carne</strong> de la <strong>butifarra</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes).<span> Dora todo a fuego medio-alto 3-4 min, mientras remueves para desmenuzar la <strong>carne</strong>. L</span>uego, cocina a fuego medio-bajo durante 4-5 min, hasta que la <strong>cebolla</strong> quede tierna y la <strong>carne</strong> quede bien cocinada. <span><strong>Salpimienta</strong> al gusto.</span></p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c3e7c92864fe111ef96740/step-69aba120.jpg",
+          "path": "/64c3e7c92864fe111ef96740/step-69aba120.jpg",
+          "caption": "Cocina la verdura y la carne",
+          "localImage": "/images/recipes/64c3e7c92864fe111ef96740-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Agrega el arroz de risotto a la olla junto a un chorrito de aceite. Sofríe durante 2 min a fuego bajo, removiendo regularmente. En la olla, agrega dos cucharones de caldo vegetal y remueve con una espátula, hasta que el arroz absorba el caldo. Repite el proceso agregando cucharones de caldo cada vez que el arroz lo absorba, hasta que el arroz esté cocido. El proceso debería tomar 20-23 min y el arroz debe quedar cremoso, no seco.",
+      "instructionsHTML": "<p>Agrega el <strong>arroz de risotto</strong> <span><span>a la olla</span> <span>j</span></span>unto a un chorrito de <strong>aceite</strong>. Sofríe durante 2 min a fuego bajo, removiendo regularmente. En la olla, agrega dos cucharones de <strong>caldo vegetal</strong> y remueve con una espátula, hasta que el <strong>arroz</strong> absorba el caldo. Repite el proceso agregando cucharones de <strong>caldo</strong> cada vez que el <strong>arroz</strong> lo absorba, hasta que el <strong>arroz</strong> esté cocido. El proceso debería tomar<span> <span>20-23 min</span></span> y el <strong>arroz</strong> debe quedar cremoso, no seco.</p>",
+      "instructionsMarkdown": "<p>Agrega el <strong>arroz de risotto</strong> <span><span>a la olla</span> <span>j</span></span>unto a un chorrito de <strong>aceite</strong>. Sofríe durante 2 min a fuego bajo, removiendo regularmente. En la olla, agrega dos cucharones de <strong>caldo vegetal</strong> y remueve con una espátula, hasta que el <strong>arroz</strong> absorba el caldo. Repite el proceso agregando cucharones de <strong>caldo</strong> cada vez que el <strong>arroz</strong> lo absorba, hasta que el <strong>arroz</strong> esté cocido. El proceso debería tomar<span> <span>20-23 min</span></span> y el <strong>arroz</strong> debe quedar cremoso, no seco.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396",
+        "57e2674fb7e8697d4b305371"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c3e7c92864fe111ef96740/step-6c58a530.jpg",
+          "path": "/64c3e7c92864fe111ef96740/step-6c58a530.jpg",
+          "caption": "Agrega y cocina el arroz",
+          "localImage": "/images/recipes/64c3e7c92864fe111ef96740-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Deshoja la albahaca. En una jarra medidora, añade la albahaca, el aceite para la salsa y el agua para la salsa (ver cantidad en ingredientes de ambos). Tritura con un túrmix hasta que quede un aceite de albahaca homogéneo. Cuando el arroz esté listo, agrega a la olla la mitad del queso pecorino y la mantequilla (ver cantidad en ingredientes). Mezcla bien para que el queso se integre con el arroz y el risotto quede cremoso. Salpimienta a tu gusto.",
+      "instructionsHTML": "<p>Deshoja la <strong>albahaca</strong>. En una jarra medidora, añade la <strong>albahaca</strong>, el <strong>aceite</strong> <strong>para la salsa</strong> y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes de ambos). Tritura con un túrmix hasta que quede un <strong>aceite de albahaca</strong> homogéneo. Cuando el <strong>arroz</strong> esté listo, <span>agrega a la olla la mitad del <strong>queso pecorino</strong> y la <strong>mantequilla</strong> (ver cantidad en ingredientes). Mezcla bien para que el <strong>queso</strong> se integre con el <strong>arroz</strong> y el <strong>risotto</strong> quede cremoso. <strong>Salpimienta</strong> a tu gusto.</span></p>",
+      "instructionsMarkdown": "<p>Deshoja la <strong>albahaca</strong>. En una jarra medidora, añade la <strong>albahaca</strong>, el <strong>aceite</strong> <strong>para la salsa</strong> y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes de ambos). Tritura con un túrmix hasta que quede un <strong>aceite de albahaca</strong> homogéneo. Cuando el <strong>arroz</strong> esté listo, <span>agrega a la olla la mitad del <strong>queso pecorino</strong> y la <strong>mantequilla</strong> (ver cantidad en ingredientes). Mezcla bien para que el <strong>queso</strong> se integre con el <strong>arroz</strong> y el <strong>risotto</strong> quede cremoso. <strong>Salpimienta</strong> a tu gusto.</span></p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c3e7c92864fe111ef96740/step-eb54da40.jpg",
+          "path": "/64c3e7c92864fe111ef96740/step-eb54da40.jpg",
+          "caption": "Prepara el aceite de albahaca",
+          "localImage": "/images/recipes/64c3e7c92864fe111ef96740-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el risotto con butifarra en platos hondos y agrega el aceite de albahaca por encima. Espolvorea orégano al gusto y el queso pecorino restante sobre el plato.",
+      "instructionsHTML": "<p>Sirve el <strong>risotto con butifarra </strong>en platos hondos y<span> <span>agrega el <strong>aceite de albahaca</strong> por encima. Espolvorea <strong>orégano</strong> al gusto y el <strong>queso pecorino</strong> restante sobre el plato.</span></span></p>",
+      "instructionsMarkdown": "<p>Sirve el <strong>risotto con butifarra </strong>en platos hondos y<span> <span>agrega el <strong>aceite de albahaca</strong> por encima. Espolvorea <strong>orégano</strong> al gusto y el <strong>queso pecorino</strong> restante sobre el plato.</span></span></p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64c3e7c92864fe111ef96740/step-b7dfd950.jpg",
+          "path": "/64c3e7c92864fe111ef96740/step-b7dfd950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/64c3e7c92864fe111ef96740-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT40M",
+  "uniqueRecipeCode": "ESCFP0025-5",
+  "updatedAt": "2025-07-28T11:05:57+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "637ccf1f51efa9c65fc33335",
+      "type": "medium-saucepan",
+      "name": "Cazo mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305371",
+      "type": "ladle",
+      "name": "Cucharón"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "c5cd228f-b707-4efa-9096-71e7c890e353",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/risotto-cremoso-con-butifarra-64c3e7c92864fe111ef96740",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "634043772268bc1bff0d3cc8",
+          "amount": 225,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636535e40a112d281e8e7e06",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "646c6e918c393b044d74495c",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638e17f58c9d9b72748a9366",
+          "amount": 30,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886fb54e2cf97f0e0a2efc",
+          "amount": 900,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 20,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "634043772268bc1bff0d3cc8",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636535e40a112d281e8e7e06",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "646c6e918c393b044d74495c",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638e17f58c9d9b72748a9366",
+          "amount": 60,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886fb54e2cf97f0e0a2efc",
+          "amount": 1800,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 40,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64c3e7c92864fe111ef96740-Risotto cremoso con butifarra.jpg",
+  "localCard": "/pdf/64c3e7c92864fe111ef96740-Risotto cremoso con butifarra.pdf"
+}

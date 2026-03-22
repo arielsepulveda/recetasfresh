@@ -1,0 +1,906 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.6,
+  "canonical": "63f785adbbe06d8c7489cdfc",
+  "canonicalLink": "https://www.hellofresh.es/recipes/vichyssoise-con-manzana-caramelizada-63f785adbbe06d8c7489cdfc",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6849325156532819dcc1a195-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "664cc3ac7d59947cc3a73d66",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-06-11T07:37:54+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "Si buscabas una crema clásica y llena de sabor, has dado con la receta perfecta. La vichyssoise tiene una gran historia en Francia y es preparada allí desde hace décadas. En este caso, te ofrecemos una versión que va más allá, agregando manzana caramelizada y sirviendo a un lado berenjenas a la miel como acompañamiento.",
+  "descriptionHTML": "<p>Si buscabas una crema clásica y llena de sabor, has dado con la receta perfecta. La vichyssoise tiene una gran historia en Francia y es preparada allí desde hace décadas. En este caso, te ofrecemos una versión que va más allá, agregando manzana caramelizada y sirviendo a un lado berenjenas a la miel como acompañamiento.</p>",
+  "descriptionMarkdown": "Si buscabas una crema clásica y llena de sabor, has dado con la receta perfecta. La vichyssoise tiene una gran historia en Francia y es preparada allí desde hace décadas. En este caso, te ofrecemos una versión que va más allá, agregando manzana caramelizada y sirviendo a un lado berenjenas a la miel como acompañamiento.",
+  "difficulty": 2,
+  "favoritesCount": 4,
+  "headline": "con berenjenas a la miel",
+  "id": "6849325156532819dcc1a195",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R12_W31_ES_ESVVCL13450-13_switch_bowls_edit_Main_balanced_background_edit_high-f6214f57.jpeg",
+  "imagePath": "/image/HF_Y24_R12_W31_ES_ESVVCL13450-13_switch_bowls_edit_Main_balanced_background_edit_high-f6214f57.jpeg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca0",
+      "uuid": "e2769482-364e-53c8-97cc-79b0d2b33e8a",
+      "name": "Manzana",
+      "type": "apple",
+      "slug": "manzana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca0-Manzana.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "634043742268bc1bff0d3cbc",
+      "uuid": "a6e1c36d-10e9-50a3-9b14-b914bda64151",
+      "name": "Nuez moscada",
+      "type": "nutmeg",
+      "slug": "nuez-moscada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043742268bc1bff0d3cbc-6042777e.png",
+      "imagePath": "/ingredient/634043742268bc1bff0d3cbc-6042777e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043742268bc1bff0d3cbc-Nuez moscada.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3c9f",
+      "uuid": "1fa6c253-440c-5c98-9e4b-65a57a89f8b1",
+      "name": "Berenjena",
+      "type": "aubergine",
+      "slug": "berenjena",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3c9f-Berenjena.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "6340436e41033266d7be950e",
+      "uuid": "b443c50a-b3b3-510c-93ac-01d6610777a3",
+      "name": "Cebollino",
+      "type": "chives",
+      "slug": "cebollino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "imagePath": "/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be950e-Cebollino.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "De La Abuela",
+    "handle": "grandma-style",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#b980d0",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/6849325156532819dcc1a195",
+  "name": "Vichyssoise con manzana caramelizada",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2163,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 517,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 33.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 14.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 62.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 30.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 5.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 7.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 5,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 550,
+  "slug": "vichyssoise-con-manzana-caramelizada",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela y pica el ajo.\nPela la cebolla y corta en daditos.\nRetira las raíces y el extremo verde del puerro y deséchalos. Córtalo por la mitad a lo largo, luego, corta en medias lunas finas.\nCorta la manzana en dados de 1 cm.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y corta en daditos.</li>\n<li dir=\"ltr\">Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. Córtalo por la mitad a lo largo, luego, corta en medias lunas finas.</li>\n<li dir=\"ltr\">Corta la <strong>manzana</strong> en dados de 1 cm.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y corta en daditos.</li>\n<li dir=\"ltr\">Retira las raíces y el extremo verde del <strong>puerro</strong> y deséchalos. Córtalo por la mitad a lo largo, luego, corta en medias lunas finas.</li>\n<li dir=\"ltr\">Corta la <strong>manzana</strong> en dados de 1 cm.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325156532819dcc1a195/step-bfc39200.jpg",
+          "path": "/6849325156532819dcc1a195/step-bfc39200.jpg",
+          "caption": "Prepara las verduras",
+          "localImage": "/images/recipes/6849325156532819dcc1a195-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una olla, añade un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAgrega la cebolla y el puerro, salpimienta y cocina 5-6 min, removiendo.\nAñade la nata líquida, el caldo vegetal y el agua. Salpimienta, mezcla y tapa la olla.\nLleva a ebullición, luego, cocina a fuego medio-bajo 6-7 min, hasta que las verduras estén blandas.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una olla, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Agrega la <strong>cebolla</strong> y el <strong>puerro</strong>, <strong>salpimienta</strong> y cocina 5-6 min, removiendo.</li>\n<li dir=\"ltr\">Añade la <strong>nata líquida</strong>, el <strong>caldo vegetal</strong><em> </em>y el <strong>agua</strong><em>.</em> <strong>Salpimienta</strong>, mezcla y tapa la olla.</li>\n<li dir=\"ltr\">Lleva a ebullición, luego, cocina a fuego medio-bajo 6-7 min, hasta que las <strong>verduras</strong> estén blandas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una olla, añade un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Agrega la <strong>cebolla</strong> y el <strong>puerro</strong>, <strong>salpimienta</strong> y cocina 5-6 min, removiendo.</li>\n<li dir=\"ltr\">Añade la <strong>nata líquida</strong>, el <strong>caldo vegetal</strong><em> </em>y el <strong>agua</strong><em>.</em> <strong>Salpimienta</strong>, mezcla y tapa la olla.</li>\n<li dir=\"ltr\">Lleva a ebullición, luego, cocina a fuego medio-bajo 6-7 min, hasta que las <strong>verduras</strong> estén blandas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b30537c",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325156532819dcc1a195/step-cdd3dc10.jpg",
+          "path": "/6849325156532819dcc1a195/step-cdd3dc10.jpg",
+          "caption": "Cocina la vichyssoise",
+          "localImage": "/images/recipes/6849325156532819dcc1a195-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nMientras tanto, calienta una sartén antiadherente a fuego medio. Agrega la manzana, el azúcar, la nuez moscada y un chorrito de agua.\nCocina 3 min con la tapa puesta y, luego, 3 min sin tapar, hasta que la manzana se haya oscurecido y esté caramelizada. Remueve ocasionalmente.\nCuando esté lista, reserva en un plato.\n",
+      "instructionsHTML": "<ul>\n<li>Mientras tanto, calienta una sartén antiadherente a fuego medio. Agrega la <strong>manzana</strong>, el <strong>azúcar</strong>, la <strong>nuez moscada</strong> y un chorrito de <strong>agua</strong>.</li>\n<li>Cocina 3 min con la tapa puesta y, luego, 3 min sin tapar, hasta que la <strong>manzana</strong> se haya oscurecido y esté caramelizada. Remueve ocasionalmente.</li>\n<li>Cuando esté lista, reserva en un plato.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Mientras tanto, calienta una sartén antiadherente a fuego medio. Agrega la <strong>manzana</strong>, el <strong>azúcar</strong>, la <strong>nuez moscada</strong> y un chorrito de <strong>agua</strong>.</li>\n<li>Cocina 3 min con la tapa puesta y, luego, 3 min sin tapar, hasta que la <strong>manzana</strong> se haya oscurecido y esté caramelizada. Remueve ocasionalmente.</li>\n<li>Cuando esté lista, reserva en un plato.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325156532819dcc1a195/step-da731820.jpg",
+          "path": "/6849325156532819dcc1a195/step-da731820.jpg",
+          "caption": "Carameliza la manzana",
+          "localImage": "/images/recipes/6849325156532819dcc1a195-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nRetira el tallo de la berenjena y córtala en bastones de 1-2 cm de ancho y 2-3 cm de longitud.\nColoca la berenjena en un bol y añade una pizca generosa de sal.\nEn otra sartén, calienta un chorrito generoso de aceite a fuego medio-alto. Saltea la berenjena 8-10, removiendo, hasta que se ablande.\nAñade la miel y cocina 1 min más, removiendo para cubrir.\n",
+      "instructionsHTML": "<ul>\n<li><span>Retira el tallo de la <strong>berenjena</strong> y córtala en bastones de 1-2 cm de ancho y 2-3 cm de longitud.</span></li>\n<li><span>Coloca la <strong>berenjena</strong> en un bol y añade una pizca generosa de <strong>sal</strong>.</span></li>\n<li><span>En otra sartén, calienta un chorrito generoso de <strong>aceite</strong> a fuego medio-alto. Saltea la <strong>berenjena</strong> 8-10, removiendo, hasta que se ablande.</span></li>\n<li><span>Añade la <strong>miel</strong> y cocina 1 min más, removiendo para cubrir.</span></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li><span>Retira el tallo de la <strong>berenjena</strong> y córtala en bastones de 1-2 cm de ancho y 2-3 cm de longitud.</span></li>\n<li><span>Coloca la <strong>berenjena</strong> en un bol y añade una pizca generosa de <strong>sal</strong>.</span></li>\n<li><span>En otra sartén, calienta un chorrito generoso de <strong>aceite</strong> a fuego medio-alto. Saltea la <strong>berenjena</strong> 8-10, removiendo, hasta que se ablande.</span></li>\n<li><span>Añade la <strong>miel</strong> y cocina 1 min más, removiendo para cubrir.</span></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325156532819dcc1a195/step-a1ecf930.jpg",
+          "path": "/6849325156532819dcc1a195/step-a1ecf930.jpg",
+          "caption": "Cocina la berenjena",
+          "localImage": "/images/recipes/6849325156532819dcc1a195-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando las verduras de la olla se hayan cocinado, tritúralas con un túrmix, de manera que quede una crema lisa.\nPrueba la crema y rectifica de sal y pimienta.\nPica el cebollino.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Cuando las <strong>verduras</strong> de la olla se hayan cocinado, tritúralas con un túrmix, de manera que quede una <strong>crema</strong> lisa.</li>\n<li dir=\"ltr\">Prueba la <strong>crema</strong> y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Pica el <strong>cebollino</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Cuando las <strong>verduras</strong> de la olla se hayan cocinado, tritúralas con un túrmix, de manera que quede una <strong>crema</strong> lisa.</li>\n<li dir=\"ltr\">Prueba la <strong>crema</strong> y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Pica el <strong>cebollino</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325156532819dcc1a195/step-aec12340.jpg",
+          "path": "/6849325156532819dcc1a195/step-aec12340.jpg",
+          "caption": "Tritura la vichyssoise",
+          "localImage": "/images/recipes/6849325156532819dcc1a195-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la vichyssoise en platos hondos y agrega encima la manzana caramelizada.\nEspolvorea el cebollino picado al gusto sobre la crema.\nSirve la berenjena a la miel en un bol junto a tu plato para acompañar la vichyssoise.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve la <strong>vichyssoise</strong> en platos hondos y agrega encima la <strong>manzana caramelizada</strong>.</li>\n<li>Espolvorea el <strong>cebollino</strong> picado al gusto sobre la <strong>crema</strong>.</li>\n<li>Sirve la <strong>berenjena a la mie</strong>l en un bol junto a tu plato para acompañar la <strong>vichyssoise</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve la <strong>vichyssoise</strong> en platos hondos y agrega encima la <strong>manzana caramelizada</strong>.</li>\n<li>Espolvorea el <strong>cebollino</strong> picado al gusto sobre la <strong>crema</strong>.</li>\n<li>Sirve la <strong>berenjena a la mie</strong>l en un bol junto a tu plato para acompañar la <strong>vichyssoise</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6849325156532819dcc1a195/step-53cb4650.jpg",
+          "path": "/6849325156532819dcc1a195/step-53cb4650.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6849325156532819dcc1a195-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESVVCL27172-4",
+  "updatedAt": "2025-09-01T16:01:58+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "cfc8088a-67dc-401d-910c-717f3638e54e",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/vichyssoise-con-manzana-caramelizada-6849325156532819dcc1a195",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 450,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6849325156532819dcc1a195-Vichyssoise con manzana caramelizada.jpeg",
+  "localCard": "/pdf/6849325156532819dcc1a195-Vichyssoise con manzana caramelizada.pdf"
+}

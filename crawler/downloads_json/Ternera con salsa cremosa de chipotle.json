@@ -1,0 +1,713 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": "6584baa6f9c7ff8689943e57",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ternera-chipotle-verduras-patatas-6584baa6f9c7ff8689943e57",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/67af1b4b28cb4b22b5761d0f-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "63a04f324ebc48e2888d6a6c",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-02-14T10:30:36+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexicana",
+      "slug": "mexicana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg"
+    }
+  ],
+  "description": "El picante no solo pone a prueba tu paladar, sino que también desencadena una especie de \"subidón\" de felicidad al liberar endorfinas. A medida que te acostumbras al picante, puedes necesitar dosis más altas para conseguir el mismo efecto, lo cual ocurre en culturas como la mexicana o la india, que tanto utilizan el picante en sus gastronomías.",
+  "descriptionHTML": "<p>El picante no solo pone a prueba tu paladar, sino que también desencadena una especie de &quot;subidón&quot; de felicidad al liberar endorfinas. A medida que te acostumbras al picante, puedes necesitar dosis más altas para conseguir el mismo efecto, lo cual ocurre en culturas como la mexicana o la india, que tanto utilizan el picante en sus gastronomías.</p>",
+  "descriptionMarkdown": "El picante no solo pone a prueba tu paladar, sino que también desencadena una especie de \"subidón\" de felicidad al liberar endorfinas. A medida que te acostumbras al picante, puedes necesitar dosis más altas para conseguir el mismo efecto, lo cual ocurre en culturas como la mexicana o la india, que tanto utilizan el picante en sus gastronomías.",
+  "difficulty": 1,
+  "favoritesCount": 14,
+  "headline": "con verduras salteadas y patatas asadas",
+  "id": "67af1b4b28cb4b22b5761d0f",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R11_W11_ES_ESCB14102-5_MAIN_high-18bde742.jpg",
+  "imagePath": "/image/HF_Y24_R11_W11_ES_ESCB14102-5_MAIN_high-18bde742.jpg",
+  "ingredients": [
+    {
+      "id": "6340437741033266d7be952b",
+      "uuid": "26c839a7-90d5-5ab1-808a-7f16c7526471",
+      "name": "Filete de ternera",
+      "type": "rump-steak",
+      "slug": "filete-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "imagePath": "/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437741033266d7be952b-Filete de ternera.png"
+    },
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f3",
+      "uuid": "7e69f80c-67d4-45b1-a3bd-d76e5d9e539b",
+      "name": "Maíz dulce",
+      "type": "canned-corn",
+      "slug": "maiz-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f3-1a190857.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f3-Maíz dulce.png"
+    },
+    {
+      "id": "63565b58edd6336545dbe131",
+      "uuid": "04d854ae-33e4-599b-b3bc-3e9c0acb3298",
+      "name": "Pasta chipotle",
+      "type": "chipotle-paste",
+      "slug": "pasta-chipotle",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63565b58edd6336545dbe131-250b7f4b.png",
+      "imagePath": "/ingredient/63565b58edd6336545dbe131-250b7f4b.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff",
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63565b58edd6336545dbe131-Pasta chipotle.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/67af1b4b28cb4b22b5761d0f",
+  "name": "Ternera con salsa cremosa de chipotle",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2456,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 587,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 34.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 9.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 51.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 12.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 33.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.82,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 40,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 534,
+  "slug": "ternera-con-salsa-cremosa-de-chipotle",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nCorta las patatas en dados de 2-3 cm y colócalas en una bandeja de horno con papel de horno.\nAgrega un chorrito de aceite, sal y pimienta y mezcla.\nHornea a media altura 20-25 min, removiendo a mitad de cocción.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Corta las <strong>patatas</strong> en dados de 2-3 cm y colócalas en una bandeja de horno con papel de horno.</li>\n<li>Agrega un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y mezcla.</li>\n<li>Hornea a media altura 20-25 min, removiendo a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Corta las <strong>patatas</strong> en dados de 2-3 cm y colócalas en una bandeja de horno con papel de horno.</li>\n<li>Agrega un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y mezcla.</li>\n<li>Hornea a media altura 20-25 min, removiendo a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b4b28cb4b22b5761d0f/step-4fd1b400.jpg",
+          "path": "/67af1b4b28cb4b22b5761d0f/step-4fd1b400.jpg",
+          "caption": "Hornea las patatas",
+          "localImage": "/images/recipes/67af1b4b28cb4b22b5761d0f-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEscurre el maíz dulce.\nCalienta una sartén a fuego medio-alto sin aceite. Reparte el maíz en una sola capa y cocina 3 min sin remover.\nRemueve y cocina otros 3 min.\nReserva fuera de la sartén y reserva.\nPela y pica el ajo (ver cantidad en ingredientes).\n",
+      "instructionsHTML": "<ul>\n<li>Escurre el <strong>maíz dulce</strong>.</li>\n<li>Calienta una sartén a fuego medio-alto sin aceite. Reparte el <strong>maíz</strong> en una sola capa y cocina 3 min sin remover.</li>\n<li>Remueve y cocina otros 3 min.</li>\n<li>Reserva fuera de la sartén y reserva.</li>\n<li>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Escurre el <strong>maíz dulce</strong>.</li>\n<li>Calienta una sartén a fuego medio-alto sin aceite. Reparte el <strong>maíz</strong> en una sola capa y cocina 3 min sin remover.</li>\n<li>Remueve y cocina otros 3 min.</li>\n<li>Reserva fuera de la sartén y reserva.</li>\n<li>Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b305373"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b4b28cb4b22b5761d0f/step-63def310.jpg",
+          "path": "/67af1b4b28cb4b22b5761d0f/step-63def310.jpg",
+          "caption": "Tuesta el maíz",
+          "localImage": "/images/recipes/67af1b4b28cb4b22b5761d0f-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCorta el pimiento en tiras finas.\nEn la sartén, calienta un chorrito de aceite a fuego medio. Cocina el pimiento 4-5 min, removiendo.\nAñade el ajo y cocina 1 min más.\nVuelve a poner el maíz en la sartén, salpimienta y remueve. Luego, reserva fuera de la sartén.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Corta el <strong>pimiento</strong> en tiras finas.</li>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>pimiento</strong> 4-5 min, removiendo.</li>\n<li dir=\"ltr\">Añade el <strong>ajo</strong> y cocina 1 min más.</li>\n<li dir=\"ltr\">Vuelve a poner el <strong>maíz</strong> en la sartén, <strong>salpimienta</strong> y remueve. Luego, reserva fuera de la sartén.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Corta el <strong>pimiento</strong> en tiras finas.</li>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>pimiento</strong> 4-5 min, removiendo.</li>\n<li dir=\"ltr\">Añade el <strong>ajo</strong> y cocina 1 min más.</li>\n<li dir=\"ltr\">Vuelve a poner el <strong>maíz</strong> en la sartén, <strong>salpimienta</strong> y remueve. Luego, reserva fuera de la sartén.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b4b28cb4b22b5761d0f/step-4d076f20.jpg",
+          "path": "/67af1b4b28cb4b22b5761d0f/step-4d076f20.jpg",
+          "caption": "Saltea las verduras",
+          "localImage": "/images/recipes/67af1b4b28cb4b22b5761d0f-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Añade la ternera, salpimienta y cocina 1 min por lado o hasta que esté cocinada.\nRetira la ternera de la sartén y reserva.\nNo laves la sartén.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Añade la <strong>ternera</strong>, <strong>salpimienta</strong> y cocina 1 min por lado o hasta que esté cocinada.</li>\n<li dir=\"ltr\">Retira la <strong>ternera</strong> de la sartén y reserva.</li>\n<li dir=\"ltr\">No laves la sartén.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Añade la <strong>ternera</strong>, <strong>salpimienta</strong> y cocina 1 min por lado o hasta que esté cocinada.</li>\n<li dir=\"ltr\">Retira la <strong>ternera</strong> de la sartén y reserva.</li>\n<li dir=\"ltr\">No laves la sartén.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b4b28cb4b22b5761d0f/step-c7f42230.jpg",
+          "path": "/67af1b4b28cb4b22b5761d0f/step-c7f42230.jpg",
+          "caption": "Cocina la carne",
+          "localImage": "/images/recipes/67af1b4b28cb4b22b5761d0f-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn la sartén, agrega el agua (ver cantidad en ingredientes), el caldo de pollo en polvo, el queso crema y la mitad de la pasta chipotle (doble para 4p). Mezcla y lleva a ebullición.\nLuego, cocina a fuego medio 2-3 min, mientras remueves, hasta que espese.\nPrueba y rectifica de sal y pimienta.\nPuedes agregar un chorrito de agua si prefieres la salsa menos espesa.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la sartén, agrega el <strong>agua </strong>(ver cantidad en ingredientes), el <strong>caldo de pollo</strong> en polvo, el <strong>queso crema</strong> y la mitad de la <strong>pasta chipotle</strong> (doble para 4p). Mezcla y lleva a ebullición.</li>\n<li dir=\"ltr\">Luego, cocina a fuego medio 2-3 min, mientras remueves, hasta que espese.</li>\n<li dir=\"ltr\">Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Puedes agregar un chorrito de <strong>agua</strong> si prefieres la <strong>salsa</strong> menos espesa.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la sartén, agrega el <strong>agua </strong>(ver cantidad en ingredientes), el <strong>caldo de pollo</strong> en polvo, el <strong>queso crema</strong> y la mitad de la <strong>pasta chipotle</strong> (doble para 4p). Mezcla y lleva a ebullición.</li>\n<li dir=\"ltr\">Luego, cocina a fuego medio 2-3 min, mientras remueves, hasta que espese.</li>\n<li dir=\"ltr\">Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Puedes agregar un chorrito de <strong>agua</strong> si prefieres la <strong>salsa</strong> menos espesa.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b4b28cb4b22b5761d0f/step-a40b8440.jpg",
+          "path": "/67af1b4b28cb4b22b5761d0f/step-a40b8440.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/67af1b4b28cb4b22b5761d0f-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la ternera en platos y cubre con la salsa de chipotle al gusto.\nAcompaña con las verduras salteadas y las patatas asadas.\n\nSABÍAS QUE: Si tus utensilios de cocina de madera absorben olores o se tiñen al cocinar, puedes hervirlos en agua y vinagre durante unos minutos y luego secarlos al sol para higienizarlos.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Sirve la <strong>ternera</strong> en platos y cubre con la <strong>salsa de chipotle</strong> al gusto.</li>\n<li dir=\"ltr\">Acompaña con las<strong> verduras </strong>salteadas y las <strong>patatas</strong> asadas.</li>\n</ul>\n<p>SABÍAS QUE: Si tus utensilios de cocina de madera absorben olores o se tiñen al cocinar, puedes hervirlos en agua y vinagre durante unos minutos y luego secarlos al sol para higienizarlos.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Sirve la <strong>ternera</strong> en platos y cubre con la <strong>salsa de chipotle</strong> al gusto.</li>\n<li dir=\"ltr\">Acompaña con las<strong> verduras </strong>salteadas y las <strong>patatas</strong> asadas.</li>\n</ul>\n<p>SABÍAS QUE: Si tus utensilios de cocina de madera absorben olores o se tiñen al cocinar, puedes hervirlos en agua y vinagre durante unos minutos y luego secarlos al sol para higienizarlos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/67af1b4b28cb4b22b5761d0f/step-5f7caf50.jpg",
+          "path": "/67af1b4b28cb4b22b5761d0f/step-5f7caf50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/67af1b4b28cb4b22b5761d0f-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCB14102-6",
+  "updatedAt": "2026-01-21T14:00:35+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    }
+  ],
+  "uuid": "fafdd0f2-9cea-4abd-9e36-2c1f76b75fa1",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ternera-con-salsa-cremosa-de-chipotle-67af1b4b28cb4b22b5761d0f",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 140,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63565b58edd6336545dbe131",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f3",
+          "amount": 280,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63565b58edd6336545dbe131",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 4,
+          "unit": "paquete"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/67af1b4b28cb4b22b5761d0f-Ternera con salsa cremosa de chipotle.jpg",
+  "localCard": "/pdf/67af1b4b28cb4b22b5761d0f-Ternera con salsa cremosa de chipotle.pdf"
+}

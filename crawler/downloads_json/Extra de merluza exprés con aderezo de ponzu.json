@@ -1,0 +1,988 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5fdcaafebae25f267232a16f",
+      "name": "Anacardos",
+      "type": "cashew_nuts",
+      "slug": "anacardos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "63c00da4c4bb723852bbf3ef",
+      "name": "Pistachos",
+      "type": "traces-of-pistachio",
+      "slug": "traces-of-pistachos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559424",
+      "name": "Avellanas",
+      "type": "traces-of-hazelnuts",
+      "slug": "traces-of-avellanas",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "63c00da40c675b6b333afd9e",
+      "name": "Nueces de Macadamia",
+      "type": "traces-of-macadamia",
+      "slug": "traces-of-nueces-de-macadamia",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "63c00da40c675b6b333afdb4",
+      "name": "Nueces de pecán",
+      "type": "traces-of-pecan_nuts",
+      "slug": "traces-of-nueces-de-pecan",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62038a7c614fc10b645e85b9",
+      "name": "Almendras",
+      "type": "traces-of-almonds",
+      "slug": "traces-of-almendras",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62038b0335f8ee1bcc1ce196",
+      "name": "Nueces",
+      "type": "traces-of-walnuts",
+      "slug": "traces-of-nueces",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "63c00da40c675b6b333afdb0",
+      "name": "Nueces de Brasil",
+      "type": "traces-of-brazil_nuts",
+      "slug": "traces-of-nueces-de-brasil",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf967d30006c4cbc61d152",
+      "name": "Crustáceos",
+      "type": "traces-of-crustaceans",
+      "slug": "traces-of-crustaceos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5fdcacf19520e811397b51c9",
+      "name": "Moluscos",
+      "type": "traces-of-molluscs",
+      "slug": "traces-of-moluscos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97a2ae08b54dad34eb82",
+      "name": "Sulfitos",
+      "type": "traces-of-sulphites",
+      "slug": "traces-of-sulfitos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 4,
+  "canonical": "682dd27fc4a648afcad0ce06",
+  "canonicalLink": "https://www.hellofresh.es/recipes/merluza-con-salsa-asiatica-y-cebolleta-acompanado-de-ensalada-con-semillas-de-sesamo-682dd27fc4a648afcad0ce06",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "68e8dd22a267a9c2fbff760e",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-15T08:53:13+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "Preparar un pescado con una ensalada variada puede ser una de las mejores opciones para cuidar de tu salud y nos gustaría ayudarte a que sea tan sabrosa como saludable. En esta ocasión, añadimos a la receta un aderezo de ponzu y aceite de sésamo para darle un toque exótico sin añadir salsas calóricas.",
+  "descriptionHTML": "<p>Preparar un pescado con una ensalada variada puede ser una de las mejores opciones para cuidar de tu salud y nos gustaría ayudarte a que sea tan sabrosa como saludable. En esta ocasión, añadimos a la receta un aderezo de ponzu y aceite de sésamo para darle un toque exótico sin añadir salsas calóricas.</p>",
+  "descriptionMarkdown": "Preparar un pescado con una ensalada variada puede ser una de las mejores opciones para cuidar de tu salud y nos gustaría ayudarte a que sea tan sabrosa como saludable. En esta ocasión, añadimos a la receta un aderezo de ponzu y aceite de sésamo para darle un toque exótico sin añadir salsas calóricas.",
+  "difficulty": 1,
+  "favoritesCount": 6,
+  "headline": "con ensalada de canónigos y bulgur",
+  "id": "68ef60f8a267a9c2fbffcf58",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R17_W47_ES_ESCQCLPF45033-4_Main_4_more_bulgur_edit_high-cfd50767.jpg",
+  "imagePath": "/image/HF_Y25_R17_W47_ES_ESCQCLPF45033-4_Main_4_more_bulgur_edit_high-cfd50767.jpg",
+  "ingredients": [
+    {
+      "id": "6640069a4e43120cb074afb5",
+      "uuid": "b3347b9d-a516-5604-b609-7d76c9df17ad",
+      "name": "Bulgur",
+      "type": "bulgur",
+      "slug": "bulgur",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6640069a4e43120cb074afb5-b0e6d860.png",
+      "imagePath": "/ingredient/6640069a4e43120cb074afb5-b0e6d860.png",
+      "shipped": true,
+      "allergens": [
+        "5acf972fae08b54d333ac322",
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "5b0532aaae08b52eb9420552",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6640069a4e43120cb074afb5-Bulgur.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "68253233e8cfeb704a4745b3",
+      "uuid": "2cd2870c-6728-4406-af69-4d8a67d6d0a7",
+      "name": "Anacardos tostados",
+      "type": "cashew-nuts-roasted",
+      "slug": "anacardos-tostados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/68253233e8cfeb704a4745b3-28959ced.png",
+      "imagePath": "/ingredient/68253233e8cfeb704a4745b3-28959ced.png",
+      "shipped": true,
+      "allergens": [
+        "63c00da4c4bb723852bbf3ef",
+        "62cc417a2f15d58ec3559424",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "5acf972fae08b54d333ac322",
+        "63c00da40c675b6b333afd9e",
+        "63c00da40c675b6b333afdb4",
+        "62038a7c614fc10b645e85b9",
+        "62038b0335f8ee1bcc1ce196",
+        "63c00da40c675b6b333afdb0",
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fb",
+        "5fdcaafebae25f267232a16f"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68253233e8cfeb704a4745b3-Anacardos tostados.png"
+    },
+    {
+      "id": "634043732268bc1bff0d3cb6",
+      "uuid": "2d495436-fcfc-468b-aaf8-dbb3a7c1018e",
+      "name": "Canónigos",
+      "type": "lambs-lettuce",
+      "slug": "canonigos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043732268bc1bff0d3cb6-96d82224.jpg",
+      "imagePath": "/ingredient/634043732268bc1bff0d3cb6-96d82224.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043732268bc1bff0d3cb6-Canónigos.jpg"
+    },
+    {
+      "id": "6499912eb4dbfc471f9896ea",
+      "uuid": "8affa715-d53c-55e5-b4fb-03c54db1aca8",
+      "name": "Merluza",
+      "type": "hake-fillet",
+      "slug": "merluza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6499912eb4dbfc471f9896ea-24c605c1.png",
+      "imagePath": "/ingredient/6499912eb4dbfc471f9896ea-24c605c1.png",
+      "shipped": true,
+      "allergens": [
+        "5acf967d30006c4cbc61d152",
+        "5fdcacf19520e811397b51c9",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b305303",
+        "5b0532aaae08b52eb9420552",
+        "62cc417a2f15d58ec3559423",
+        "5acf97a2ae08b54dad34eb82",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6499912eb4dbfc471f9896ea-Merluza.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff179",
+      "uuid": "ebd2f698-4242-5deb-b767-d529fb84b42f",
+      "name": "Aceite de sésamo",
+      "type": "sesame-oil",
+      "slug": "aceite-de-sesamo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff179-a280537c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff179-Aceite de sésamo.png"
+    },
+    {
+      "id": "6797564089d6104200fdc4c2",
+      "uuid": "5054c961-daa9-5d12-b3c4-5aa49343e0c4",
+      "name": "Ponzu",
+      "type": "ponzu",
+      "slug": "ponzu",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6797564089d6104200fdc4c2-f8551273.png",
+      "imagePath": "/ingredient/6797564089d6104200fdc4c2-f8551273.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6797564089d6104200fdc4c2-Ponzu.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Exprés",
+    "handle": "super-quick",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68ef60f8a267a9c2fbffcf58",
+  "name": "Extra de merluza exprés con aderezo de ponzu",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2707,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 647,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 31.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 4.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 57.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 3.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 50.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.39,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT15M",
+  "promotion": null,
+  "ratingsCount": 1,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 496,
+  "slug": "extra-de-merluza-expres-con-aderezo-de-ponzu",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nEn un cazo, agrega el agua y sal y lleva a ebullición.\nAgrega el bulgur y lleva a ebullición de nuevo.\nLuego, cocina a fuego medio 4 min.\nRetira del fuego y reserva tapado al menos 10 min.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En un cazo, agrega el <strong>agua</strong> y <strong>sal</strong> y lleva a ebullición.</li>\n<li>Agrega el <strong>bulgur</strong> y lleva a ebullición de nuevo.</li>\n<li>Luego, cocina a fuego medio 4 min.</li>\n<li>Retira del fuego y reserva tapado al menos 10 min.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En un cazo, agrega el <strong>agua</strong> y <strong>sal</strong> y lleva a ebullición.</li>\n<li>Agrega el <strong>bulgur</strong> y lleva a ebullición de nuevo.</li>\n<li>Luego, cocina a fuego medio 4 min.</li>\n<li>Retira del fuego y reserva tapado al menos 10 min.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68ef60f8a267a9c2fbffcf58/step-4f88d700.jpg",
+          "path": "/68ef60f8a267a9c2fbffcf58/step-4f88d700.jpg",
+          "caption": "Bulgur en marcha",
+          "localImage": "/images/recipes/68ef60f8a267a9c2fbffcf58-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCorta el tomate en cubitos.\nPela y ralla la zanahoria.\nPica los anacardos.\nEn una ensaladera, agrega el tomate, la zanahoria, los anacardos y los canónigos.\n",
+      "instructionsHTML": "<ul>\n<li>Corta el <strong>tomate</strong> en cubitos.</li>\n<li>Pela y ralla la <strong>zanahoria.</strong></li>\n<li>Pica los <strong>anacardos.</strong></li>\n<li>En una ensaladera, agrega el <strong>tomate,</strong> la <strong>zanahoria,</strong> los <strong>anacardos</strong> y los <strong>canónigos.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta el <strong>tomate</strong> en cubitos.</li>\n<li>Pela y ralla la <strong>zanahoria.</strong></li>\n<li>Pica los <strong>anacardos.</strong></li>\n<li>En una ensaladera, agrega el <strong>tomate,</strong> la <strong>zanahoria,</strong> los <strong>anacardos</strong> y los <strong>canónigos.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5c0a9a5edbdd9fc57e863cd6",
+        "57e2674fb7e8697d4b305379",
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68ef60f8a267a9c2fbffcf58/step-2c8ca110.jpg",
+          "path": "/68ef60f8a267a9c2fbffcf58/step-2c8ca110.jpg",
+          "caption": "Que no falte el verde",
+          "localImage": "/images/recipes/68ef60f8a267a9c2fbffcf58-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nSeca la merluza y salpimienta.\nEn una sartén, calienta un chorrito de aceite a fuego medio. Cuando el aceite esté caliente, cocina la merluza 3 min por el lado de la piel y 2 min por el otro lado, hasta que esté dorada y bien hecha en el interior.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<ul>\n<li>Seca la <strong>merluza</strong> y <strong>salpimienta.</strong></li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cuando el <strong>aceite</strong> esté caliente, cocina la <strong>merluza</strong> 3 min por el lado de la piel y 2 min por el otro lado, hasta que esté dorada y bien hecha en el interior.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Seca la <strong>merluza</strong> y <strong>salpimienta.</strong></li>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cuando el <strong>aceite</strong> esté caliente, cocina la <strong>merluza</strong> 3 min por el lado de la piel y 2 min por el otro lado, hasta que esté dorada y bien hecha en el interior.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68ef60f8a267a9c2fbffcf58/step-a2481320.jpg",
+          "path": "/68ef60f8a267a9c2fbffcf58/step-a2481320.jpg",
+          "caption": "Merluza al fuego",
+          "localImage": "/images/recipes/68ef60f8a267a9c2fbffcf58-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn un bol pequeño, mezcla el aceite de sésamo, el ponzu, un chorrito de aceite y sal.\nAgrega el bulgur y la mitad del aderezo de ponzu a la ensaladera y remueve con cuidado. Sirve en un lado de los platos.\nAl otro lado, coloca la merluza y cubre con el aderezo de ponzu restante.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol pequeño, mezcla el <strong>aceite de sésamo</strong>, el <strong>ponzu</strong>, un chorrito de <strong>aceite</strong> y <strong>sal.</strong></li>\n<li>Agrega el <strong>bulgur</strong> y la mitad del aderezo de <strong>ponzu</strong> a la ensaladera y remueve con cuidado. Sirve en un lado de los platos.</li>\n<li>Al otro lado, coloca la <strong>merluza</strong> y cubre con el aderezo de <strong>ponzu</strong> restante.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol pequeño, mezcla el <strong>aceite de sésamo</strong>, el <strong>ponzu</strong>, un chorrito de <strong>aceite</strong> y <strong>sal.</strong></li>\n<li>Agrega el <strong>bulgur</strong> y la mitad del aderezo de <strong>ponzu</strong> a la ensaladera y remueve con cuidado. Sirve en un lado de los platos.</li>\n<li>Al otro lado, coloca la <strong>merluza</strong> y cubre con el aderezo de <strong>ponzu</strong> restante.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68ef60f8a267a9c2fbffcf58/step-07455e30.jpg",
+          "path": "/68ef60f8a267a9c2fbffcf58/step-07455e30.jpg",
+          "caption": "Prepara el aderezo y emplata",
+          "localImage": "/images/recipes/68ef60f8a267a9c2fbffcf58-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "62163c70143a35226e03d85e",
+      "type": "super-quick",
+      "name": "Exprés",
+      "slug": "expres",
+      "colorHandle": "quickPrep",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCQCLPF45033-DP-1-2",
+  "updatedAt": "2026-01-29T17:48:58+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "5c0a9a5edbdd9fc57e863cd6",
+      "type": "box-greater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "8f812a81-8a0f-44e5-b543-f500057b6fcb",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/extra-de-merluza-expres-con-aderezo-de-ponzu-68ef60f8a267a9c2fbffcf58",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6640069a4e43120cb074afb5",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68253233e8cfeb704a4745b3",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb6",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6499912eb4dbfc471f9896ea",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6797564089d6104200fdc4c2",
+          "amount": 30,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6640069a4e43120cb074afb5",
+          "amount": 240,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68253233e8cfeb704a4745b3",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb6",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6499912eb4dbfc471f9896ea",
+          "amount": 1000,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6797564089d6104200fdc4c2",
+          "amount": 60,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6640069a4e43120cb074afb5",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "68253233e8cfeb704a4745b3",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb6",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6499912eb4dbfc471f9896ea",
+          "amount": 1500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff179",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6797564089d6104200fdc4c2",
+          "amount": 90,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68ef60f8a267a9c2fbffcf58-Extra de merluza exprés con aderezo de ponzu.jpg"
+}

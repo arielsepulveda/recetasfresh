@@ -1,0 +1,909 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 2.8,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64788ade904daffe76f26a2c.pdf",
+  "category": null,
+  "clonedFrom": "642539db2e8f18047b34f1e6",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-06-01T12:11:10+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "India",
+      "slug": "india",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg"
+    }
+  ],
+  "description": "El palak es un plato tradicional de la gastronomía india en el que se prepara un curry a base de espinacas, que le da este intenso color verde, y que puede contener verduras, queso o tofu. En esta ocasión, hemos optado por ofrecerte una versión vegana con tofu salteado, aunque el plato se suele presentar habitualmente con \"paneer\", un queso fresco muy utilizado en India.",
+  "descriptionHTML": "<p>El palak es un plato tradicional de la gastronomía india en el que se prepara un curry a base de espinacas, que le da este intenso color verde, y que puede contener verduras, queso o tofu. En esta ocasión, hemos optado por ofrecerte una versión vegana con tofu salteado, aunque el plato se suele presentar habitualmente con &quot;paneer&quot;, un queso fresco muy utilizado en India.</p>",
+  "descriptionMarkdown": "El palak es un plato tradicional de la gastronomía india en el que se prepara un curry a base de espinacas, que le da este intenso color verde, y que puede contener verduras, queso o tofu. En esta ocasión, hemos optado por ofrecerte una versión vegana con tofu salteado, aunque el plato se suele presentar habitualmente con \"paneer\", un queso fresco muy utilizado en India.",
+  "difficulty": 1,
+  "favoritesCount": 16,
+  "headline": "acompañado de arroz basmati",
+  "id": "64788ade904daffe76f26a2c",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R08_W35_ES_ESCVV15656-2_Main_high-da9954da.jpg",
+  "imagePath": "/image/HF_Y23_R08_W35_ES_ESCVV15656-2_Main_high-da9954da.jpg",
+  "ingredients": [
+    {
+      "id": "6364e13d9ccfe8a8d40564bb",
+      "uuid": "5efbe02d-9aa7-530e-bbb6-d3f77a8d6e9d",
+      "name": "Tofu",
+      "type": "tofu",
+      "slug": "tofu",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364e13d9ccfe8a8d40564bb-c8185087.png",
+      "imagePath": "/ingredient/6364e13d9ccfe8a8d40564bb-c8185087.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f9",
+        "62cc417a2f15d58ec3559423"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364e13d9ccfe8a8d40564bb-Tofu.png"
+    },
+    {
+      "id": "6340436c41033266d7be9507",
+      "uuid": "40329dfe-9539-5610-9e3c-5a1f4eb36c2e",
+      "name": "Arroz basmati",
+      "type": "basmati-rice",
+      "slug": "arroz-basmati",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "imagePath": "/ingredient/6340436c41033266d7be9507-971f843d.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c41033266d7be9507-Arroz basmati.png"
+    },
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "636536890a112d281e8e7e07",
+      "uuid": "7a108e48-7055-504e-be58-b2df98b60529",
+      "name": "Anacardos",
+      "type": "cashew-nuts",
+      "slug": "anacardos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636536890a112d281e8e7e07-74839dc8.png",
+      "imagePath": "/ingredient/636536890a112d281e8e7e07-74839dc8.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636536890a112d281e8e7e07-Anacardos.png"
+    },
+    {
+      "id": "6340437141033266d7be951a",
+      "uuid": "ae95225f-9805-5f92-afa8-0649e7e90122",
+      "name": "Comino en polvo",
+      "type": "ground-cumin",
+      "slug": "comino-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "imagePath": "/ingredient/6340437141033266d7be951a-b2fad797.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be951a-Comino en polvo.png"
+    },
+    {
+      "id": "63404371233160a36674ba06",
+      "uuid": "b4937cf5-9f86-592c-903e-767ec461fb7f",
+      "name": "Chile",
+      "type": "green-chilli",
+      "slug": "chile",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba06-1adf9604.png",
+      "imagePath": "/ingredient/63404371233160a36674ba06-1adf9604.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba06-Chile.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "634043742268bc1bff0d3cbd",
+      "uuid": "af1e8a57-2f4e-5123-9b7b-bfc0e3c5b4dc",
+      "name": "Mix de especias del Norte de India",
+      "type": "north-indian-style-spice-mix",
+      "slug": "mix-de-especias-del-norte-de-india",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043742268bc1bff0d3cbd-e16ee434.png",
+      "imagePath": "/ingredient/634043742268bc1bff0d3cbd-e16ee434.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043742268bc1bff0d3cbd-Mix de especias del Norte de India.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "634932f0e9568549b78497e9",
+      "uuid": "4397acb9-bff7-43e2-94b4-f047a3f9f168",
+      "name": "Agua para el arroz",
+      "type": "water-for-rice",
+      "slug": "agua-para-el-arroz",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "imagePath": "/ingredient/634932f0e9568549b78497e9-3ca1fcc2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634932f0e9568549b78497e9-Agua para el arroz.png"
+    },
+    {
+      "id": "63886e5a842e06702e39a015",
+      "uuid": "f99ddce3-ffce-480c-8076-26b14011e6a8",
+      "name": "Agua para la salsa",
+      "type": "water-for-the-sauce",
+      "slug": "agua-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "imagePath": "/ingredient/63886e5a842e06702e39a015-00335584.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63886e5a842e06702e39a015-Agua para la salsa.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/64788ade904daffe76f26a2c",
+  "name": "Palak casero de espinacas con tofu",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 539,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2256,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 10.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 1.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 68.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 4.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 21.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.2,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 18,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 320,
+  "slug": "palak-casero-de-espinacas-con-tofu",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Llena un cazo con el agua para el arroz (ver cantidad en ingredientes), añade el arroz y sal al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el arroz con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.",
+      "instructionsHTML": "<p>Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "instructionsMarkdown": "<p>Llena un cazo con el <strong>agua para el arroz</strong> (ver cantidad en ingredientes), añade el <strong>arroz</strong> y <strong>sal</strong> al gusto y lleva a ebullición con el cazo tapado. Cuando hierva, baja a fuego medio-bajo y deja cocinar 11-13 min, removiendo ocasionalmente. Una vez cocinado, remueve el <strong>arroz</strong> con la ayuda de un tenedor para separar los granos y resérvalo en el cazo tapado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ade904daffe76f26a2c/step-3faeb300.jpg",
+          "path": "/64788ade904daffe76f26a2c/step-3faeb300.jpg",
+          "caption": "Cuece el arroz",
+          "localImage": "/images/recipes/64788ade904daffe76f26a2c-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una olla, agrega abundante agua y una pizca de sal. Cubre con una tapa y lleva a ebullición. Cuando el agua hierva, agrega las espinacas y cocina 15-20 segundos, luego, escúrrelas con el colador. Agrega las espinacas a un bol con agua fría durante 1-2 min, luego, escurre de nuevo y reserva en la jarra medidora.",
+      "instructionsHTML": "<p dir=\"ltr\">En una olla, agrega abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Cubre con una tapa y lleva a ebullición. Cuando el <strong>agua</strong> hierva, agrega las <strong>espinacas</strong> y cocina 15-20 segundos, luego, escúrrelas con el colador. Agrega las <strong>espinacas</strong> a un bol con <strong>agua fría</strong> durante 1-2 min, luego, escurre de nuevo y reserva en la jarra medidora.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">En una olla, agrega abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Cubre con una tapa y lleva a ebullición. Cuando el <strong>agua</strong> hierva, agrega las <strong>espinacas</strong> y cocina 15-20 segundos, luego, escúrrelas con el colador. Agrega las <strong>espinacas</strong> a un bol con <strong>agua fría</strong> durante 1-2 min, luego, escurre de nuevo y reserva en la jarra medidora.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b30537c",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ade904daffe76f26a2c/step-81df0a10.jpg",
+          "path": "/64788ade904daffe76f26a2c/step-81df0a10.jpg",
+          "caption": "Cocina las espinacas",
+          "localImage": "/images/recipes/64788ade904daffe76f26a2c-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Seca el tofu con papel de cocina y córtalo en dados de 1-2 cm. En una sartén grande, calienta un chorrito de aceite a fuego medio. Cuando esté caliente, agrega el tofu y cocina 3-4 min, hasta que se dore. Remueve para que se cocine uniformemente. Retira y reserva.",
+      "instructionsHTML": "<p>Seca el <strong>tofu</strong> con papel de cocina y córtalo en dados de 1-2 cm. En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cuando esté caliente, agrega el <strong>tofu</strong> y cocina 3-4 min, hasta que se dore. Remueve para que se cocine uniformemente. Retira y reserva.</p>",
+      "instructionsMarkdown": "<p>Seca el <strong>tofu</strong> con papel de cocina y córtalo en dados de 1-2 cm. En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cuando esté caliente, agrega el <strong>tofu</strong> y cocina 3-4 min, hasta que se dore. Remueve para que se cocine uniformemente. Retira y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ade904daffe76f26a2c/step-bde85920.jpg",
+          "path": "/64788ade904daffe76f26a2c/step-bde85920.jpg",
+          "caption": "Saltea el tofu",
+          "localImage": "/images/recipes/64788ade904daffe76f26a2c-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Pela y ralla el ajo (ver cantidad en ingredientes). Ralla la mitad del jengibre (doble para 4p). Pela la cebolla, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. Corta el tomate por la mitad, luego, corta en cubos pequeños. Corta la mitad del chili verde (doble para 4p) por la mitad a lo largo y retira las semillas. Luego, corta en rodajas finas.\n \nRECUERDA: Lávate bien las manos después de manipular el chili.",
+      "instructionsHTML": "<p dir=\"ltr\">Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Ralla la mitad del <strong>jengibre</strong> (doble para 4p). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. Corta el <strong>tomate</strong> por la mitad, luego, corta en cubos pequeños. Corta la mitad del <strong>chili verde</strong> (doble para 4p) por la mitad a lo largo y retira las semillas. Luego, corta en rodajas finas.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate bien las manos después de manipular el chili.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Ralla la mitad del <strong>jengibre</strong> (doble para 4p). Pela la <strong>cebolla</strong>, divídela en dos y corta una mitad (doble para 4p) en daditos pequeños. Corta el <strong>tomate</strong> por la mitad, luego, corta en cubos pequeños. Corta la mitad del <strong>chili verde</strong> (doble para 4p) por la mitad a lo largo y retira las semillas. Luego, corta en rodajas finas.</p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\">RECUERDA: Lávate bien las manos después de manipular el chili.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ade904daffe76f26a2c/step-84803330.jpg",
+          "path": "/64788ade904daffe76f26a2c/step-84803330.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/64788ade904daffe76f26a2c-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la sartén, agrega un chorrito de aceite junto con el ajo y el jengibre. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Agrega la cebolla junto con una pizca de sal y cocina 4-5 min, hasta que quede transparente. Luego, añade el tomate, la mitad del comino (doble para 4p), el mix de especias del norte de India y remueve bien. Cocina todo junto 3-4 min más, hasta que el tomate se ablande.",
+      "instructionsHTML": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y el <strong>jengibre</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Agrega la <strong>cebolla</strong> junto con una pizca de <strong>sal</strong> y cocina 4-5 min, hasta que quede transparente. Luego, añade el <strong>tomate</strong>, la mitad del <strong>comino</strong> (doble para 4p), el mix de <strong>especias del norte de India</strong> y remueve bien. Cocina todo junto 3-4 min más, hasta que el <strong>tomate</strong> se ablande.</p>",
+      "instructionsMarkdown": "<p>En la sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y el <strong>jengibre</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se doren. Agrega la <strong>cebolla</strong> junto con una pizca de <strong>sal</strong> y cocina 4-5 min, hasta que quede transparente. Luego, añade el <strong>tomate</strong>, la mitad del <strong>comino</strong> (doble para 4p), el mix de <strong>especias del norte de India</strong> y remueve bien. Cocina todo junto 3-4 min más, hasta que el <strong>tomate</strong> se ablande.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ade904daffe76f26a2c/step-89977840.jpg",
+          "path": "/64788ade904daffe76f26a2c/step-89977840.jpg",
+          "caption": "Cocina y especia las verduras",
+          "localImage": "/images/recipes/64788ade904daffe76f26a2c-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "En la jarra medidora con las espinacas, agrega los anacardos, chili verde al gusto y el agua para la salsa (ver cantidad en ingredientes). Con ayuda de un túrmix, tritura la mezcla hasta que quede homogénea. En la sartén con la cebolla y el tomate, agrega la salsa de espinacas y el tofu, remueve y cocina 1-2 min a fuego medio-alto. Cuando esté listo, sirve el palak de tofu en un lado de los platos y acompaña con el arroz basmati al otro lado.",
+      "instructionsHTML": "<p>En la jarra medidora con las <strong>espinacas</strong>, agrega los <strong>anacardos</strong>, <strong>chili verde</strong> al gusto y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes). Con ayuda de un túrmix, tritura la mezcla hasta que quede homogénea. En la sartén con la <strong>cebolla</strong> y el <strong>tomate</strong>, agrega la <strong>salsa de espinacas</strong> y el <strong>tofu</strong>, remueve y cocina 1-2 min a fuego medio-alto. Cuando esté listo, sirve el <strong>palak de tofu</strong> en un lado de los platos y acompaña con el <strong>arroz basmati</strong> al otro lado.</p>",
+      "instructionsMarkdown": "<p>En la jarra medidora con las <strong>espinacas</strong>, agrega los <strong>anacardos</strong>, <strong>chili verde</strong> al gusto y el <strong>agua para la salsa</strong> (ver cantidad en ingredientes). Con ayuda de un túrmix, tritura la mezcla hasta que quede homogénea. En la sartén con la <strong>cebolla</strong> y el <strong>tomate</strong>, agrega la <strong>salsa de espinacas</strong> y el <strong>tofu</strong>, remueve y cocina 1-2 min a fuego medio-alto. Cuando esté listo, sirve el <strong>palak de tofu</strong> en un lado de los platos y acompaña con el <strong>arroz basmati</strong> al otro lado.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ade904daffe76f26a2c/step-81fde550.jpg",
+          "path": "/64788ade904daffe76f26a2c/step-81fde550.jpg",
+          "caption": "Acaba el palak y emplata",
+          "localImage": "/images/recipes/64788ade904daffe76f26a2c-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegano",
+      "slug": "vegano",
+      "colorHandle": "vegan",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCVV15656-2",
+  "updatedAt": "2025-11-19T17:59:13+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "e873a929-08ef-4674-a240-823fa90c56c0",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/palak-casero-de-espinacas-con-tofu-64788ade904daffe76f26a2c",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6364e13d9ccfe8a8d40564bb",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636536890a112d281e8e7e07",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404371233160a36674ba06",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbd",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 320,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6364e13d9ccfe8a8d40564bb",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c41033266d7be9507",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636536890a112d281e8e7e07",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437141033266d7be951a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404371233160a36674ba06",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbd",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634932f0e9568549b78497e9",
+          "amount": 640,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63886e5a842e06702e39a015",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64788ade904daffe76f26a2c-Palak casero de espinacas con tofu.jpg",
+  "localCard": "/pdf/64788ade904daffe76f26a2c-Palak casero de espinacas con tofu.pdf"
+}

@@ -1,0 +1,815 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6616b8c99064812f61712c57-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "65d5b2372fd93ee7e59edee7",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-04-23T14:14:07+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Un alimento de color verde sugiere la presencia de nutrientes como la clorofila, antioxidantes y vitaminas como la C y K, así como minerales como el potasio y el magnesio. Estos nutrientes pueden fortalecer el sistema inmunológico, mejorar la salud ósea y cardiovascular y promover la digestión. Además, muchos alimentos verdes son bajos en calorías y ricos en fibra, favoreciendo la saciedad.",
+  "descriptionHTML": "<p>Un alimento de color verde sugiere la presencia de nutrientes como la clorofila, antioxidantes y vitaminas como la C y K, así como minerales como el potasio y el magnesio. Estos nutrientes pueden fortalecer el sistema inmunológico, mejorar la salud ósea y cardiovascular y promover la digestión. Además, muchos alimentos verdes son bajos en calorías y ricos en fibra, favoreciendo la saciedad.</p>",
+  "descriptionMarkdown": "\nUn alimento de color verde sugiere la presencia de nutrientes como la clorofila, antioxidantes y vitaminas como la C y K, así como minerales como el potasio y el magnesio. Estos nutrientes pueden fortalecer el sistema inmunológico, mejorar la salud ósea y cardiovascular y promover la digestión. Además, muchos alimentos verdes son bajos en calorías y ricos en fibra, favoreciendo la saciedad.",
+  "difficulty": 2,
+  "favoritesCount": 24,
+  "headline": "con nueces tostadas y queso pecorino",
+  "id": "6616b8c99064812f61712c57",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R09_W22_ES_ESFVV23162-2_Main_high-ea064313.jpg",
+  "imagePath": "/image/HF_Y24_R09_W22_ES_ESFVV23162-2_Main_high-ea064313.jpg",
+  "ingredients": [
+    {
+      "id": "6340436b41033266d7be9506",
+      "uuid": "83debc4f-e731-5de0-b54d-f0c8bc201099",
+      "name": "Brotes de espinacas",
+      "type": "baby-spinach",
+      "slug": "brotes-de-espinacas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9506-b250bed7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9506-Brotes de espinacas.png"
+    },
+    {
+      "id": "634043772268bc1bff0d3cc8",
+      "uuid": "8b7ec7ac-7dc0-5fcd-8702-58c8a214b61b",
+      "name": "Arroz de risotto",
+      "type": "risotto-rice",
+      "slug": "arroz-de-risotto",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043772268bc1bff0d3cc8-aee353ef.jpg",
+      "imagePath": "/ingredient/634043772268bc1bff0d3cc8-aee353ef.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043772268bc1bff0d3cc8-Arroz de risotto.jpg"
+    },
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "6364e2c11c8a9adf8ea7f79d",
+      "uuid": "4b76e78b-72cc-5898-b33d-3ada326fa8ba",
+      "name": "Nueces peladas",
+      "type": "walnuts",
+      "slug": "nueces-peladas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "imagePath": "/ingredient/6364e2c11c8a9adf8ea7f79d-2f6ecff3.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fb",
+        "62cc417a2f15d58ec3559423",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364e2c11c8a9adf8ea7f79d-Nueces peladas.png"
+    },
+    {
+      "id": "65a5166d70cc438cf4f7d21a",
+      "uuid": "ba765ed8-7344-4b46-bd37-25eddb1421de",
+      "name": "Pecorino italiano",
+      "type": "pecorino-vegetariano",
+      "slug": "pecorino-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65a5166d70cc438cf4f7d21a-88693f84.png",
+      "imagePath": "/ingredient/65a5166d70cc438cf4f7d21a-88693f84.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65a5166d70cc438cf4f7d21a-Pecorino italiano.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    },
+    {
+      "id": "64887dee343321ec36639897",
+      "uuid": "f2be8154-077b-4c4d-a7c0-ddcb313ce8da",
+      "name": "Mantequilla para la salsa",
+      "type": "butter-for-the-sauce",
+      "slug": "mantequilla-para-la-salsa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64887dee343321ec36639897-ba10f7f2.png",
+      "imagePath": "/ingredient/64887dee343321ec36639897-ba10f7f2.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64887dee343321ec36639897-Mantequilla para la salsa.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6616b8c99064812f61712c57",
+  "name": "Risotto de espinacas con crujiente de queso",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2643,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 632,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 13.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 4.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 97.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 4.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 17.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.05,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 24,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 251,
+  "slug": "risotto-espinacas-queso-nueces",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, agrega el agua (ver cantidad en ingredientes) y sal y lleva a ebullición. Luego, agrega casi todas las espinacas y cocina 1 min. Conservando el agua en la olla, retira las espinacas con una araña o espumadera y colócalas en una jarra medidora. Agrega la mantequilla para la salsa (ver cantidad en ingredientes) y sal y tritura con un túrmix.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, agrega el <strong>agua</strong> (ver cantidad en ingredientes) y <strong>sal</strong> y lleva a ebullición. Luego, agrega casi todas las <strong>espinacas</strong> y cocina 1 min. Conservando el <strong>agua</strong> en la olla, retira las <strong>espinacas</strong> con una araña o espumadera y colócalas en una jarra medidora. Agrega la <strong>mantequilla para la salsa</strong> (ver cantidad en ingredientes) y <strong>sal</strong> y tritura con un túrmix.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! En una olla, agrega el <strong>agua</strong> (ver cantidad en ingredientes) y <strong>sal</strong> y lleva a ebullición. Luego, agrega casi todas las <strong>espinacas</strong> y cocina 1 min. Conservando el <strong>agua</strong> en la olla, retira las <strong>espinacas</strong> con una araña o espumadera y colócalas en una jarra medidora. Agrega la <strong>mantequilla para la salsa</strong> (ver cantidad en ingredientes) y <strong>sal</strong> y tritura con un túrmix.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b3053a0",
+        "57e2674fb7e8697d4b30539c",
+        "637ccf1f51efa9c65fc33334"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8c99064812f61712c57/step-596a5c00.jpg",
+          "path": "/6616b8c99064812f61712c57/step-596a5c00.jpg",
+          "caption": "Elabora la salsa de espinacas",
+          "localImage": "/images/recipes/6616b8c99064812f61712c57-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En la olla con el agua, agrega el caldo vegetal en polvo y mantén caliente a fuego bajo. Calienta una sartén antiadherente a fuego medio sin aceite. Reparte el queso italiano en dos pequeños montones en la sartén, dejando un espacio entre ellos. Cocina durante 2 min, dales la vuelta con ayuda de una espátula y cocina 2 min más, hasta conseguir dos piezas de queso tostado y crujiente.",
+      "instructionsHTML": "<p>En la olla con el <strong>agua</strong>, agrega el <strong>caldo vegetal</strong> en polvo y mantén caliente a fuego bajo. Calienta una sartén antiadherente a fuego medio sin aceite. Reparte el <strong>queso italiano</strong> en dos pequeños montones en la sartén, dejando un espacio entre ellos. Cocina durante 2 min, dales la vuelta con ayuda de una espátula y cocina 2 min más, hasta conseguir dos piezas de <strong>queso</strong> tostado y crujiente.</p>",
+      "instructionsMarkdown": "<p>En la olla con el <strong>agua</strong>, agrega el <strong>caldo vegetal</strong> en polvo y mantén caliente a fuego bajo. Calienta una sartén antiadherente a fuego medio sin aceite. Reparte el <strong>queso italiano</strong> en dos pequeños montones en la sartén, dejando un espacio entre ellos. Cocina durante 2 min, dales la vuelta con ayuda de una espátula y cocina 2 min más, hasta conseguir dos piezas de <strong>queso</strong> tostado y crujiente.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396",
+        "57e2674fb7e8697d4b305397"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8c99064812f61712c57/step-86b6f910.jpg",
+          "path": "/6616b8c99064812f61712c57/step-86b6f910.jpg",
+          "caption": "Prepara el crujiente de queso",
+          "localImage": "/images/recipes/6616b8c99064812f61712c57-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Calienta la sartén a fuego medio sin aceite y tuesta las nueces 2-3 min, luego, retira de la sartén. Pela y pica finamente la chalota. En la sartén, calienta un chorrito de aceite a fuego medio. Agrega la chalota y cocina 2-3 min, removiendo frecuentemente, hasta que se dore. Luego, añade el arroz de risotto y cocina a fuego medio-alto 1-2 min más, mientras remueves.",
+      "instructionsHTML": "<p>Calienta la sartén a fuego medio sin aceite y tuesta las <strong>nueces</strong> 2-3 min, luego, retira de la sartén. Pela y pica finamente la <strong>chalota</strong>. En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>chalota</strong> y cocina 2-3 min, removiendo frecuentemente, hasta que se dore. Luego, añade el <strong>arroz</strong> <strong>de risotto</strong> y cocina a fuego medio-alto 1-2 min más, mientras remueves.</p>",
+      "instructionsMarkdown": "<p>Calienta la sartén a fuego medio sin aceite y tuesta las <strong>nueces</strong> 2-3 min, luego, retira de la sartén. Pela y pica finamente la <strong>chalota</strong>. En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>chalota</strong> y cocina 2-3 min, removiendo frecuentemente, hasta que se dore. Luego, añade el <strong>arroz</strong> <strong>de risotto</strong> y cocina a fuego medio-alto 1-2 min más, mientras remueves.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8c99064812f61712c57/step-56f11f20.jpg",
+          "path": "/6616b8c99064812f61712c57/step-56f11f20.jpg",
+          "caption": "Prepara el sofrito",
+          "localImage": "/images/recipes/6616b8c99064812f61712c57-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Agrega dos cucharones del caldo vegetal de la olla a la sartén con el arroz y remueve, hasta que el arroz absorba el caldo. Repite el proceso agregando cucharones de caldo cada vez que el arroz lo absorba, hasta que el arroz esté cocido. El proceso debería tomar 19-22 min y el arroz debe quedar cremoso, no seco.",
+      "instructionsHTML": "<p>Agrega dos cucharones del <strong>caldo vegetal</strong> de la olla a la sartén con el <strong>arroz</strong> y remueve, hasta que el <strong>arroz</strong> absorba el <strong>caldo</strong>. Repite el proceso agregando cucharones de <strong>caldo</strong> cada vez que el <strong>arroz</strong> lo absorba, hasta que el <strong>arroz</strong> esté cocido. El proceso debería tomar 19-22 min y el <strong>arroz</strong> debe quedar cremoso, no seco.</p>",
+      "instructionsMarkdown": "<p>Agrega dos cucharones del <strong>caldo vegetal</strong> de la olla a la sartén con el <strong>arroz</strong> y remueve, hasta que el <strong>arroz</strong> absorba el <strong>caldo</strong>. Repite el proceso agregando cucharones de <strong>caldo</strong> cada vez que el <strong>arroz</strong> lo absorba, hasta que el <strong>arroz</strong> esté cocido. El proceso debería tomar 19-22 min y el <strong>arroz</strong> debe quedar cremoso, no seco.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305371"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8c99064812f61712c57/step-320d9830.jpg",
+          "path": "/6616b8c99064812f61712c57/step-320d9830.jpg",
+          "caption": "Cocina el arroz",
+          "localImage": "/images/recipes/6616b8c99064812f61712c57-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCuando el arroz esté listo, retira la sartén del fuego y agrega la salsa de espinacas. Mezcla bien para integrar. Luego, agrega el pecorino y la mantequilla (ver cantidad en ingredientes) y mezcla de nuevo para mantecar el risotto y que quede untuoso. Prueba y rectifica de sal y pimienta.\n \nSABÍAS QUE: Mantecar es una técnica culinaria que consiste en agregar una grasa, en forma de queso y/o mantequilla, al risotto para que quede meloso.\n",
+      "instructionsHTML": "<p><div>\n<p>Cuando el <strong>arroz</strong> esté listo, retira la sartén del fuego y agrega la <strong>salsa de espinacas</strong>. Mezcla bien para integrar. Luego, agrega el <strong>pecorino</strong> y la <strong>mantequilla</strong> (ver cantidad en ingredientes) y mezcla de nuevo para mantecar el <strong>risotto</strong> y que quede untuoso. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</p>\n<p> </p>\n<p>SABÍAS QUE: Mantecar es una técnica culinaria que consiste en agregar una grasa, en forma de queso y/o mantequilla, al risotto para que quede meloso.</p>\n</div></p>",
+      "instructionsMarkdown": "<div>\n<p>Cuando el <strong>arroz</strong> esté listo, retira la sartén del fuego y agrega la <strong>salsa de espinacas</strong>. Mezcla bien para integrar. Luego, agrega el <strong>pecorino</strong> y la <strong>mantequilla</strong> (ver cantidad en ingredientes) y mezcla de nuevo para mantecar el <strong>risotto</strong> y que quede untuoso. Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</p>\n<p> </p>\n<p>SABÍAS QUE: Mantecar es una técnica culinaria que consiste en agregar una grasa, en forma de queso y/o mantequilla, al risotto para que quede meloso.</p>\n</div>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8c99064812f61712c57/step-60f2fb40.jpg",
+          "path": "/6616b8c99064812f61712c57/step-60f2fb40.jpg",
+          "caption": "Agrega el queso y la salsa",
+          "localImage": "/images/recipes/6616b8c99064812f61712c57-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Pica las nueces tostadas y trocea el crujiente de queso. Sirve el risotto de espinacas y pecorino en platos y agrega encima las nueces tostadas, las hojas de espinacas reservadas y el crujiente de queso.",
+      "instructionsHTML": "<p>Pica las <strong>nueces</strong> tostadas y trocea el <strong>crujiente de queso</strong>. Sirve el <strong>risotto </strong>de<strong> espinacas</strong> y <strong>pecorino</strong> en platos y agrega encima las <strong>nueces</strong> tostadas, las hojas de <strong>espinacas</strong> reservadas y el <strong>crujiente de queso</strong>.</p>",
+      "instructionsMarkdown": "<p>Pica las <strong>nueces</strong> tostadas y trocea el <strong>crujiente de queso</strong>. Sirve el <strong>risotto </strong>de<strong> espinacas</strong> y <strong>pecorino</strong> en platos y agrega encima las <strong>nueces</strong> tostadas, las hojas de <strong>espinacas</strong> reservadas y el <strong>crujiente de queso</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6616b8c99064812f61712c57/step-10232c50.jpg",
+          "path": "/6616b8c99064812f61712c57/step-10232c50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/6616b8c99064812f61712c57-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESFVV23162-3",
+  "updatedAt": "2026-01-05T10:26:06+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Olla grande"
+    },
+    {
+      "id": "637ccf1f51efa9c65fc33334",
+      "type": "skimmer",
+      "name": "Araña"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Sartén antiadherente"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305371",
+      "type": "ladle",
+      "name": "Cucharón"
+    }
+  ],
+  "uuid": "7e6832a6-dd38-4124-9e74-6dbbe7bb52a0",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/risotto-espinacas-queso-nueces-6616b8c99064812f61712c57",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043772268bc1bff0d3cc8",
+          "amount": 225,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "65a5166d70cc438cf4f7d21a",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "64887dee343321ec36639897",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436b41033266d7be9506",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043772268bc1bff0d3cc8",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6364e2c11c8a9adf8ea7f79d",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "65a5166d70cc438cf4f7d21a",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 2400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "64887dee343321ec36639897",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6616b8c99064812f61712c57-Risotto de espinacas con crujiente de queso.jpg",
+  "localCard": "/pdf/6616b8c99064812f61712c57-Risotto de espinacas con crujiente de queso.pdf"
+}

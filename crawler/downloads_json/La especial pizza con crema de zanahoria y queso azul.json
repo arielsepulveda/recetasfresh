@@ -1,0 +1,802 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": "63ca9c13f3cad3f4f35bef85",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pizza-de-crema-de-zanahoria-y-queso-azul-63ca9c13f3cad3f4f35bef85",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68a4b0e97e1f6c64ca675496-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6358111dc60a873ac92c408e",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-19T17:14:18+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Queremos demostrar al mundo que la pizza no es una base de tomate con queso acompañado de otros ingredientes y podrás comprobarlo con nosotros si te atreves a cocinar esta diferente pizza. En la base, agregamos créme fraîche y la cubrimos con una crema casera de zanahoria, para después añadir queso azul, albahaca fresca y crema de vinagre balsámico.",
+  "descriptionHTML": "<p>Queremos demostrar al mundo que la pizza no es una base de tomate con queso acompañado de otros ingredientes y podrás comprobarlo con nosotros si te atreves a cocinar esta diferente pizza. En la base, agregamos créme fraîche y la cubrimos con una crema casera de zanahoria, para después añadir queso azul, albahaca fresca y crema de vinagre balsámico.</p>",
+  "descriptionMarkdown": "Queremos demostrar al mundo que la pizza no es una base de tomate con queso acompañado de otros ingredientes y podrás comprobarlo con nosotros si te atreves a cocinar esta diferente pizza. En la base, agregamos créme fraîche y la cubrimos con una crema casera de zanahoria, para después añadir queso azul, albahaca fresca y crema de vinagre balsámico.",
+  "difficulty": 2,
+  "favoritesCount": 4,
+  "headline": "con albahaca fresca y crema de vinagre balsámico",
+  "id": "68a4b0e97e1f6c64ca675496",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R09_W14_ES_ESCVV13485-2_Main_10_high-2e50749e.jpg",
+  "imagePath": "/image/HF_Y23_R09_W14_ES_ESCVV13485-2_Main_10_high-2e50749e.jpg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "6340436b233160a36674b9e9",
+      "uuid": "fae5ea17-1d10-5a79-acab-118ec738e69e",
+      "name": "Albahaca",
+      "type": "basil",
+      "slug": "albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "imagePath": "/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9e9-Albahaca.jpg"
+    },
+    {
+      "id": "6352b13f0f0324d2cd53b1bd",
+      "uuid": "20f72727-c8b3-5616-a31c-7b4594015052",
+      "name": "Queso azul",
+      "type": "blue-cheese",
+      "slug": "queso-azul",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6352b13f0f0324d2cd53b1bd-35325c9c.png",
+      "imagePath": "/ingredient/6352b13f0f0324d2cd53b1bd-35325c9c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6352b13f0f0324d2cd53b1bd-Queso azul.png"
+    },
+    {
+      "id": "63497d88971d5eddb3ff71b2",
+      "uuid": "ca2eb932-2be6-58fe-9c2b-05bd27036489",
+      "name": "Base de pizza",
+      "type": "pizza-bases",
+      "slug": "base-de-pizza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b2-Base de pizza.png"
+    },
+    {
+      "id": "635bf32c715b05ed6af180bd",
+      "uuid": "92d67c8f-7ca6-5e50-b1ea-12d85a78d150",
+      "name": "Crème Fraîche",
+      "type": "creme-fraiche",
+      "slug": "creme-fraiche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "imagePath": "/ingredient/635bf32c715b05ed6af180bd-25e14843.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635bf32c715b05ed6af180bd-Crème Fraîche.png"
+    },
+    {
+      "id": "6397c09b9b30e60070f163ee",
+      "uuid": "85d8b218-c598-5e52-abcc-7557119abeec",
+      "name": "Crema de vinagre balsámico",
+      "type": "balsamic-cream",
+      "slug": "crema-de-vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6397c09b9b30e60070f163ee-5665472e.png",
+      "imagePath": "/ingredient/6397c09b9b30e60070f163ee-5665472e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6397c09b9b30e60070f163ee-Crema de vinagre balsámico.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68a4b0e97e1f6c64ca675496",
+  "name": "La especial: pizza con crema de zanahoria y queso azul",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4343,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1038,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 67,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 94.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 26.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 5.22,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 5,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 443,
+  "slug": "pizza-de-crema-de-zanahoria-y-queso-azul",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nPela y pica el ajo.\nPela la cebolla y córtala en daditos.\nPela la zanahoria y córtala por la mitad a lo largo. Corta en medias lunas finas.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 220ºC.</li>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en daditos.</li>\n<li dir=\"ltr\">Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas finas.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 220ºC.</li>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en daditos.</li>\n<li dir=\"ltr\">Pela la <strong>zanahoria</strong> y córtala por la mitad a lo largo. Corta en medias lunas finas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e97e1f6c64ca675496/step-01110600.jpg",
+          "path": "/68a4b0e97e1f6c64ca675496/step-01110600.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68a4b0e97e1f6c64ca675496-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAñade la cebolla y la zanahoria y cocina 4-5 min, removiendo, hasta que se ablanden. \n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Añade la <strong>cebolla</strong> y la <strong>zanahoria</strong> y cocina 4-5 min, removiendo, hasta que se ablanden. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Añade la <strong>cebolla</strong> y la <strong>zanahoria</strong> y cocina 4-5 min, removiendo, hasta que se ablanden. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e97e1f6c64ca675496/step-30876810.jpg",
+          "path": "/68a4b0e97e1f6c64ca675496/step-30876810.jpg",
+          "caption": "Verduras al fuego",
+          "localImage": "/images/recipes/68a4b0e97e1f6c64ca675496-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, añade el agua y el caldo vegetal en polvo.\nCocina 8-9 min a fuego medio-bajo con la sartén tapada, hasta que las zanahorias estén tiernas. Remueve de vez en cuando. Salpimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, añade el <strong>agua</strong> y el <strong>caldo vegetal</strong> en polvo.</li>\n<li>Cocina 8-9 min a fuego medio-bajo con la sartén tapada, hasta que las <strong>zanahorias</strong> estén tiernas. Remueve de vez en cuando. <strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, añade el <strong>agua</strong> y el <strong>caldo vegetal</strong> en polvo.</li>\n<li>Cocina 8-9 min a fuego medio-bajo con la sartén tapada, hasta que las <strong>zanahorias</strong> estén tiernas. Remueve de vez en cuando. <strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e97e1f6c64ca675496/step-600d0220.jpg",
+          "path": "/68a4b0e97e1f6c64ca675496/step-600d0220.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/68a4b0e97e1f6c64ca675496-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nCuando la zanahoria esté tierna, añade el caldo y las verduras en la jarra medidora.\nCon un túrmix, tritura la crema de zanahoria hasta que quede lisa y homogénea. Prueba la salsa y rectifica y sal y pimienta.\nDeshoja la albahaca.\nDesmenuza el queso azul.\n",
+      "instructionsHTML": "<ul>\n<li>Cuando la <strong>zanahoria</strong> esté tierna, añade el <strong>caldo</strong> y las <strong>verduras</strong> en la jarra medidora.</li>\n<li>Con un túrmix, tritura la <strong>crema de zanahoria</strong> hasta que quede lisa y homogénea. Prueba la <strong>salsa</strong> y rectifica y <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Deshoja la <strong>albahaca</strong>.</li>\n<li>Desmenuza el <strong>queso azul</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando la <strong>zanahoria</strong> esté tierna, añade el <strong>caldo</strong> y las <strong>verduras</strong> en la jarra medidora.</li>\n<li>Con un túrmix, tritura la <strong>crema de zanahoria</strong> hasta que quede lisa y homogénea. Prueba la <strong>salsa</strong> y rectifica y <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li>Deshoja la <strong>albahaca</strong>.</li>\n<li>Desmenuza el <strong>queso azul</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e97e1f6c64ca675496/step-3c102030.jpg",
+          "path": "/68a4b0e97e1f6c64ca675496/step-3c102030.jpg",
+          "caption": "Tritura la crema",
+          "localImage": "/images/recipes/68a4b0e97e1f6c64ca675496-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nColoca las bases de pizza en una bandeja de horno con papel de horno.\nReparte la crème fraiche entre las bases, dejando 1 cm del borde sin cubrir.\nCubre las pizzas con la crema de zanahoria.\nAñade el queso azul troceado y un chorrito de aceite en cada pizza.\nHornea a media altura 15-20 min o hasta que esté dorada. \n",
+      "instructionsHTML": "<ul>\n<li>Coloca las <strong>bases de pizza</strong> en una bandeja de horno con papel de horno.</li>\n<li>Reparte la <strong>crème fraiche</strong> entre las <strong>bases</strong>, dejando 1 cm del borde sin cubrir.</li>\n<li>Cubre las <strong>pizzas</strong> con la <strong>crema de zanahoria</strong>.</li>\n<li>Añade el <strong>queso azul troceado</strong> y un chorrito de <strong>aceite </strong>en cada <strong>pizza</strong>.</li>\n<li>Hornea a media altura 15-20 min o hasta que esté dorada. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca las <strong>bases de pizza</strong> en una bandeja de horno con papel de horno.</li>\n<li>Reparte la <strong>crème fraiche</strong> entre las <strong>bases</strong>, dejando 1 cm del borde sin cubrir.</li>\n<li>Cubre las <strong>pizzas</strong> con la <strong>crema de zanahoria</strong>.</li>\n<li>Añade el <strong>queso azul troceado</strong> y un chorrito de <strong>aceite </strong>en cada <strong>pizza</strong>.</li>\n<li>Hornea a media altura 15-20 min o hasta que esté dorada. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e97e1f6c64ca675496/step-a1b47e40.jpg",
+          "path": "/68a4b0e97e1f6c64ca675496/step-a1b47e40.jpg",
+          "caption": "Todos a bordo",
+          "localImage": "/images/recipes/68a4b0e97e1f6c64ca675496-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nCuando las pizzas estén horneadas, sácalas del horno y sirve en platos.\nDecóralas con las hojas de albahaca y la crema de vinagre balsámico. \n",
+      "instructionsHTML": "<ul>\n<li>Cuando las <strong>pizzas</strong> estén horneadas, sácalas del horno y sirve en platos.</li>\n<li>Decóralas con las hojas de <strong>albahaca </strong>y la <strong>crema de vinagre balsámico</strong>. </li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cuando las <strong>pizzas</strong> estén horneadas, sácalas del horno y sirve en platos.</li>\n<li>Decóralas con las hojas de <strong>albahaca </strong>y la <strong>crema de vinagre balsámico</strong>. </li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e97e1f6c64ca675496/step-05a82050.jpg",
+          "path": "/68a4b0e97e1f6c64ca675496/step-05a82050.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68a4b0e97e1f6c64ca675496-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCVV13485-17",
+  "updatedAt": "2026-01-21T17:19:26+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    }
+  ],
+  "uuid": "b94d21c7-f0ab-4963-a334-7004a42d4945",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pizza-de-crema-de-zanahoria-y-queso-azul-68a4b0e97e1f6c64ca675496",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352b13f0f0324d2cd53b1bd",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6397c09b9b30e60070f163ee",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352b13f0f0324d2cd53b1bd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6397c09b9b30e60070f163ee",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6352b13f0f0324d2cd53b1bd",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "635bf32c715b05ed6af180bd",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6397c09b9b30e60070f163ee",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68a4b0e97e1f6c64ca675496-La especial pizza con crema de zanahoria y queso azul.jpg",
+  "localCard": "/pdf/68a4b0e97e1f6c64ca675496-La especial pizza con crema de zanahoria y queso azul.pdf"
+}

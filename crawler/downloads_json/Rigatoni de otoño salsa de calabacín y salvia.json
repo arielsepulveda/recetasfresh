@@ -1,0 +1,926 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acdaebaae08b54a70609b02",
+      "name": "Lupino",
+      "type": "traces-of-lupin",
+      "slug": "traces-of-lupino",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5de91d27f4c17e42c17aef94",
+      "name": "Mostaza",
+      "type": "traces-of-mustard",
+      "slug": "traces-of-mostaza",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5de91db7c7d1a818111194b2",
+      "name": "Apio",
+      "type": "traces-of-celery",
+      "slug": "traces-of-apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "6584baa7600988fb9c067a2a",
+  "canonicalLink": "https://www.hellofresh.es/recipes/rigatoni-salsa-calabaza-queso-cabra-6584baa7600988fb9c067a2a",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68a4b0e6da1c2cdbdf516a43-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "64b5a8eafc268e84eb1cd619",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-19T17:14:15+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Aunque lo parezca, esta no es una receta cualquier de pasta, pues cubrimos los rigatoni con una salsa casera de calabaza que, además de sabrosa, tiene un abanico de beneficios que seguro desconocías. Este vegetal de intenso color naranja promueve la salud ocular, favorece la salud del corazón y regula el azúcar en sangre, ¡entre muchos otros!",
+  "descriptionHTML": "<p>Aunque lo parezca, esta no es una receta cualquier de pasta, pues cubrimos los rigatoni con una salsa casera de calabaza que, además de sabrosa, tiene un abanico de beneficios que seguro desconocías. Este vegetal de intenso color naranja promueve la salud ocular, favorece la salud del corazón y regula el azúcar en sangre, ¡entre muchos otros!</p>",
+  "descriptionMarkdown": "Aunque lo parezca, esta no es una receta cualquier de pasta, pues cubrimos los rigatoni con una salsa casera de calabaza que, además de sabrosa, tiene un abanico de beneficios que seguro desconocías. Este vegetal de intenso color naranja promueve la salud ocular, favorece la salud del corazón y regula el azúcar en sangre, ¡entre muchos otros!",
+  "difficulty": 1,
+  "favoritesCount": 1,
+  "headline": "con queso de cabra y pipas de calabaza",
+  "id": "68a4b0e6da1c2cdbdf516a43",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R04_W11_ES_ESCVV17777-5_edit_MAIN_high-ee95a8dd.jpg",
+  "imagePath": "/image/HF_Y24_R04_W11_ES_ESCVV17777-5_edit_MAIN_high-ee95a8dd.jpg",
+  "ingredients": [
+    {
+      "id": "68248cf6b511ee4a266be130",
+      "uuid": "e20204d9-67bd-5351-a602-b284967157cf",
+      "name": "Rigatoni",
+      "type": "rigatoni",
+      "slug": "rigatoni",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437741033266d7be952a-d3bf5d24.png",
+      "imagePath": "/ingredient/6340437741033266d7be952a-d3bf5d24.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b305303",
+        "5acdaebaae08b54a70609b02",
+        "5de91d27f4c17e42c17aef94",
+        "5b0532aaae08b52eb9420552",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68248cf6b511ee4a266be130-Rigatoni.png"
+    },
+    {
+      "id": "636923bb4cc379a27f60cc05",
+      "uuid": "12a33629-d36c-55db-9ccc-8f5a5cadb4de",
+      "name": "Semillas de calabaza",
+      "type": "pumpkin-seeds",
+      "slug": "semillas-de-calabaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636923bb4cc379a27f60cc05-e7db4109.png",
+      "imagePath": "/ingredient/636923bb4cc379a27f60cc05-e7db4109.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5a9614ab30006c2c026cf562",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636923bb4cc379a27f60cc05-Semillas de calabaza.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63404377233160a36674ba21",
+      "uuid": "a0a27456-c913-541e-9124-9265f732cca7",
+      "name": "Salvia",
+      "type": "sage",
+      "slug": "salvia",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404377233160a36674ba21-325a7911.jpg",
+      "imagePath": "/ingredient/63404377233160a36674ba21-325a7911.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404377233160a36674ba21-Salvia.jpg"
+    },
+    {
+      "id": "6893f5fd9643892dc8fb80b3",
+      "uuid": "ee90258d-e1dc-4156-8e8a-0964c10de606",
+      "name": "Calabaza violín a dados",
+      "type": "butternut-squash-diced",
+      "slug": "calabaza-violin-a-dados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b233160a36674ba2f-ab110e19.png",
+      "imagePath": "/ingredient/6340437b233160a36674ba2f-ab110e19.png",
+      "shipped": true,
+      "allergens": [
+        "5de91db7c7d1a818111194b2",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6893f5fd9643892dc8fb80b3-Calabaza violín a dados.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "635bdce25ebcac2718d2feda",
+      "uuid": "d5c29ed4-e71e-4488-89db-2068f0aab73a",
+      "name": "Rulo de queso de cabra",
+      "type": "goat-cheese-roll",
+      "slug": "rulo-de-queso-de-cabra",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635bdce25ebcac2718d2feda-bbec7b21.png",
+      "imagePath": "/ingredient/635bdce25ebcac2718d2feda-bbec7b21.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635bdce25ebcac2718d2feda-Rulo de queso de cabra.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "638d95012d9af192559539ba",
+      "uuid": "81735a05-eaac-4944-b263-c8299b14566d",
+      "name": "Agua de la cocción",
+      "type": "cooking-water",
+      "slug": "agua-de-la-coccion",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "imagePath": "/ingredient/638d95012d9af192559539ba-3201a0a8.jpg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/638d95012d9af192559539ba-Agua de la cocción.jpg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68a4b0e6da1c2cdbdf516a43",
+  "name": "Rigatoni de otoño: salsa de calabacín y salvia",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2626,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 628,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 25.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 12.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 83.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 7.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 7.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 23.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.22,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 387,
+  "slug": "rigatoni-con-salsa-casera-de-calabaza",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nEn una olla, agrega abundante agua y una pizca de sal. Cubre con una tapa y lleva a ebullición.\nCuando el agua hierva, añade los rigatoni a la olla y cocina 10-12 min o hasta que queden tiernos.\nCuando la pasta esté lista, reserva el agua de cocción.\nLuego, escurre y reserva la pasta en la misma olla.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">En una olla, agrega abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Cubre con una tapa y lleva a ebullición.</li>\n<li dir=\"ltr\">Cuando el <strong>agua</strong> hierva, añade los <strong>rigatoni</strong> a la olla y cocina 10-12 min o hasta que queden tiernos.</li>\n<li dir=\"ltr\">Cuando la <strong>pasta</strong> esté lista, reserva el <strong>agua de cocción</strong>.</li>\n<li dir=\"ltr\">Luego, escurre y reserva la <strong>pasta</strong> en la misma olla.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">En una olla, agrega abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Cubre con una tapa y lleva a ebullición.</li>\n<li dir=\"ltr\">Cuando el <strong>agua</strong> hierva, añade los <strong>rigatoni</strong> a la olla y cocina 10-12 min o hasta que queden tiernos.</li>\n<li dir=\"ltr\">Cuando la <strong>pasta</strong> esté lista, reserva el <strong>agua de cocción</strong>.</li>\n<li dir=\"ltr\">Luego, escurre y reserva la <strong>pasta</strong> en la misma olla.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b30537c",
+        "5e3ad24efcf61c18c30ff538",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e6da1c2cdbdf516a43/step-db214200.jpg",
+          "path": "/68a4b0e6da1c2cdbdf516a43/step-db214200.jpg",
+          "caption": "Pasta en marcha",
+          "localImage": "/images/recipes/68a4b0e6da1c2cdbdf516a43-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCalienta una sartén a fuego medio-alto sin aceite y tuesta las semillas de calabaza 1-2 min, hasta que se doren.\nReserva en un plato y agrega una pizca de sal.\nPela y pica finamente el ajo.\nPela la cebolla y córtala en tiras finas.\n",
+      "instructionsHTML": "<ul>\n<li>Calienta una sartén a fuego medio-alto sin aceite y tuesta las<strong> semillas de calabaza </strong>1-2 min, hasta que se doren.</li>\n<li>Reserva en un plato y agrega una pizca de <strong>sal.</strong></li>\n<li>Pela y pica finamente el <strong>ajo</strong>.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Calienta una sartén a fuego medio-alto sin aceite y tuesta las<strong> semillas de calabaza </strong>1-2 min, hasta que se doren.</li>\n<li>Reserva en un plato y agrega una pizca de <strong>sal.</strong></li>\n<li>Pela y pica finamente el <strong>ajo</strong>.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e6da1c2cdbdf516a43/step-237bc210.jpg",
+          "path": "/68a4b0e6da1c2cdbdf516a43/step-237bc210.jpg",
+          "caption": "Tuesta las semillas",
+          "localImage": "/images/recipes/68a4b0e6da1c2cdbdf516a43-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, calienta a fuego medio un chorrito generoso de aceite.\nUna vez caliente, añade las hojas de salvia y cocina 30 segundos por lado. Retira y reserva.\nEn la sartén, agrega el ajo y cocina a fuego medio 1-2 min.\nAñade la cebolla y una pizca de sal y cocina 4-5 min, removiendo frecuentemente.\nAgrega la calabaza y cocina a fuego medio alto 3-4 min más, removiendo.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la sartén, calienta a fuego medio un chorrito generoso de <strong>aceite.</strong></li>\n<li dir=\"ltr\">Una vez caliente, añade las hojas de <strong>salvia</strong> y cocina 30 segundos por lado. Retira y reserva.</li>\n<li dir=\"ltr\">En la sartén, agrega el <strong>ajo</strong> y cocina a fuego medio 1-2 min.</li>\n<li dir=\"ltr\">Añade la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo frecuentemente.</li>\n<li dir=\"ltr\">Agrega la <strong>calabaza</strong> y cocina a fuego medio alto 3-4 min más, removiendo.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la sartén, calienta a fuego medio un chorrito generoso de <strong>aceite.</strong></li>\n<li dir=\"ltr\">Una vez caliente, añade las hojas de <strong>salvia</strong> y cocina 30 segundos por lado. Retira y reserva.</li>\n<li dir=\"ltr\">En la sartén, agrega el <strong>ajo</strong> y cocina a fuego medio 1-2 min.</li>\n<li dir=\"ltr\">Añade la <strong>cebolla</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo frecuentemente.</li>\n<li dir=\"ltr\">Agrega la <strong>calabaza</strong> y cocina a fuego medio alto 3-4 min más, removiendo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e6da1c2cdbdf516a43/step-675d1020.jpg",
+          "path": "/68a4b0e6da1c2cdbdf516a43/step-675d1020.jpg",
+          "caption": "Verduras al fuego",
+          "localImage": "/images/recipes/68a4b0e6da1c2cdbdf516a43-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la sartén con las verduras, agrega el agua y lleva a ebullición.\nLuego, cocina a fuego medio-bajo, con la sartén tapada, 10-15 min o hasta que la calabaza esté tierna.\nAgrega el caldo y las verduras en la jarra medidora junto al agua de cocción reservada, sal y pimienta.\nCon un túrmix, tritura hasta obtener una salsa cremosa.\nAñade el queso crema y tritura de nuevo, hasta que quede homogéneo.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la sartén con las <strong>verduras</strong>, agrega el <strong>agua</strong> y lleva a ebullición.</li>\n<li dir=\"ltr\">Luego, cocina a fuego medio-bajo, con la sartén tapada, 10-15 min o hasta que la <strong>calabaza</strong> esté tierna.</li>\n<li dir=\"ltr\">Agrega el <strong>caldo</strong> y las <strong>verduras</strong> en la jarra medidora junto al <strong>agua de cocción</strong> reservada, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Con un túrmix, tritura hasta obtener una <strong>salsa</strong> cremosa.</li>\n<li dir=\"ltr\">Añade el <strong>queso crema</strong> y tritura de nuevo, hasta que quede homogéneo.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la sartén con las <strong>verduras</strong>, agrega el <strong>agua</strong> y lleva a ebullición.</li>\n<li dir=\"ltr\">Luego, cocina a fuego medio-bajo, con la sartén tapada, 10-15 min o hasta que la <strong>calabaza</strong> esté tierna.</li>\n<li dir=\"ltr\">Agrega el <strong>caldo</strong> y las <strong>verduras</strong> en la jarra medidora junto al <strong>agua de cocción</strong> reservada, <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Con un túrmix, tritura hasta obtener una <strong>salsa</strong> cremosa.</li>\n<li dir=\"ltr\">Añade el <strong>queso crema</strong> y tritura de nuevo, hasta que quede homogéneo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e6da1c2cdbdf516a43/step-788a6a30.jpg",
+          "path": "/68a4b0e6da1c2cdbdf516a43/step-788a6a30.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/68a4b0e6da1c2cdbdf516a43-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nAgrega la salsa de calabaza a la olla con los rigatoni y mezcla bien.\nPrueba y rectifica de sal y pimienta.\nDesmenuza el queso de cabra.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Agrega la <strong>salsa de calabaza</strong> a la olla con los <strong>rigatoni</strong> y mezcla bien.</li>\n<li dir=\"ltr\">Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Desmenuza el <strong>queso de cabra</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Agrega la <strong>salsa de calabaza</strong> a la olla con los <strong>rigatoni</strong> y mezcla bien.</li>\n<li dir=\"ltr\">Prueba y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n<li dir=\"ltr\">Desmenuza el <strong>queso de cabra</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e6da1c2cdbdf516a43/step-87ce0c40.jpg",
+          "path": "/68a4b0e6da1c2cdbdf516a43/step-87ce0c40.jpg",
+          "caption": "Combina los ingredientes",
+          "localImage": "/images/recipes/68a4b0e6da1c2cdbdf516a43-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve los rigatoni con salsa de calabaza en platos y cubre con el queso de cabra desmenuzado y las semillas de calabaza tostadas.\nDecora con las hojas de salvia.\n\nSABÍAS QUE: La expresión italiana \"al dente\", en español \"al diente\", se refiere al punto de cocción ideal para la pasta, de forma que quede tierna pero firme al morderla.",
+      "instructionsHTML": "<ul>\n<li>Sirve los <strong>rigatoni</strong> con <strong>salsa de calabaza</strong> en platos y cubre con el <strong>queso de cabra</strong> desmenuzado y las <strong>semillas de calabaza</strong> tostadas.</li>\n<li>Decora con las hojas de <strong>salvia</strong>.</li>\n</ul>\n<p>SABÍAS QUE: La expresión italiana &#34;al dente&#34;, en español &#34;al diente&#34;, se refiere al punto de cocción ideal para la pasta, de forma que quede tierna pero firme al morderla.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve los <strong>rigatoni</strong> con <strong>salsa de calabaza</strong> en platos y cubre con el <strong>queso de cabra</strong> desmenuzado y las <strong>semillas de calabaza</strong> tostadas.</li>\n<li>Decora con las hojas de <strong>salvia</strong>.</li>\n</ul>\n<p>SABÍAS QUE: La expresión italiana &#34;al dente&#34;, en español &#34;al diente&#34;, se refiere al punto de cocción ideal para la pasta, de forma que quede tierna pero firme al morderla.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0e6da1c2cdbdf516a43/step-465cb850.jpg",
+          "path": "/68a4b0e6da1c2cdbdf516a43/step-465cb850.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68a4b0e6da1c2cdbdf516a43-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESCVV17777-8",
+  "updatedAt": "2025-11-04T04:55:47+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Túrmix"
+    }
+  ],
+  "uuid": "b48bb610-6a39-428f-b207-0776c15b8d67",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/rigatoni-con-salsa-casera-de-calabaza-68a4b0e6da1c2cdbdf516a43",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "68248cf6b511ee4a266be130",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba21",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6893f5fd9643892dc8fb80b3",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "635bdce25ebcac2718d2feda",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 25,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 100,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "68248cf6b511ee4a266be130",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba21",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6893f5fd9643892dc8fb80b3",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 4,
+          "unit": "paquete"
+        },
+        {
+          "id": "635bdce25ebcac2718d2feda",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 50,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "68248cf6b511ee4a266be130",
+          "amount": 540,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636923bb4cc379a27f60cc05",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404377233160a36674ba21",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6893f5fd9643892dc8fb80b3",
+          "amount": 900,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 6,
+          "unit": "paquete"
+        },
+        {
+          "id": "635bdce25ebcac2718d2feda",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 3,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "638d95012d9af192559539ba",
+          "amount": 75,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68a4b0e6da1c2cdbdf516a43-Rigatoni de otoño salsa de calabacín y salvia.jpg",
+  "localCard": "/pdf/68a4b0e6da1c2cdbdf516a43-Rigatoni de otoño salsa de calabacín y salvia.pdf"
+}

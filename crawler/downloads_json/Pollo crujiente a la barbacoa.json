@@ -1,0 +1,830 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.4,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/pollo-barbacoa-patatas-alioli-63ca9c19f3cad3f4f35bef87-358971f6.pdf",
+  "category": null,
+  "clonedFrom": "6347ef444eacd7e8b5e77bf5",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-01-20T13:50:17+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Americana",
+      "slug": "americana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg"
+    }
+  ],
+  "description": "Viaja a Estados Unidos con este pollo crujiente a la barbacoa acompañado de patatas al horno y una ensalada de zanahoria, lechuga y manzana. Esta sabrosa receta se completa con un delicioso alioli, que aporta el toque local al plato.",
+  "descriptionHTML": "<p>Viaja a Estados Unidos con este pollo crujiente a la barbacoa acompañado de patatas al horno y una ensalada de zanahoria, lechuga y manzana. Esta sabrosa receta se completa con un delicioso alioli, que aporta el toque local al plato.</p>",
+  "descriptionMarkdown": "Viaja a Estados Unidos con este pollo crujiente a la barbacoa acompañado de patatas al horno y una ensalada de zanahoria, lechuga y manzana. Esta sabrosa receta se completa con un delicioso alioli, que aporta el toque local al plato.",
+  "difficulty": 1,
+  "favoritesCount": 55,
+  "headline": "con ensalada, patatas al horno y alioli",
+  "id": "63ca9c19f3cad3f4f35bef87",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R11_W14_IE_IEXCF0175-2_Main_classic_high-7713cb4f.jpg",
+  "imagePath": "/image/HF_Y23_R11_W14_IE_IEXCF0175-2_Main_classic_high-7713cb4f.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340436c2268bc1bff0d3ca3",
+      "uuid": "f75c0a34-b8c9-4c80-b8f9-62d711a18d61",
+      "name": "Sazonador barbacoa",
+      "type": "bbq-rub",
+      "slug": "sazonador-barbacoa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c2268bc1bff0d3ca3-13b5238b.png",
+      "imagePath": "/ingredient/6340436c2268bc1bff0d3ca3-13b5238b.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c2268bc1bff0d3ca3-Sazonador barbacoa.png"
+    },
+    {
+      "id": "6340436b2268bc1bff0d3ca0",
+      "uuid": "e2769482-364e-53c8-97cc-79b0d2b33e8a",
+      "name": "Manzana",
+      "type": "apple",
+      "slug": "manzana",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3ca0-d3df9df5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3ca0-Manzana.png"
+    },
+    {
+      "id": "634043a62268bc1bff0d3cd4",
+      "uuid": "931e72be-8132-585e-9855-9dfe0f2cd32c",
+      "name": "Alioli",
+      "type": "aioli",
+      "slug": "alioli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043a62268bc1bff0d3cd4-b14f7f3e.png",
+      "imagePath": "/ingredient/634043a62268bc1bff0d3cd4-b14f7f3e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043a62268bc1bff0d3cd4-Alioli.png"
+    },
+    {
+      "id": "6369182b27b0db08e0fb84ac",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6369182b27b0db08e0fb84ac-6854f2b5.png",
+      "imagePath": "/ingredient/6369182b27b0db08e0fb84ac-6854f2b5.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6369182b27b0db08e0fb84ac-Panko.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340436b41033266d7be9505",
+      "uuid": "9a94a307-a64d-5b85-962a-663dff0b143e",
+      "name": "Cogollos de lechuga",
+      "type": "baby-gem-lettuce",
+      "slug": "cogollos-de-lechuga",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9505-Cogollos de lechuga.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Recetas Estrella",
+    "handle": "bestseller",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#067A46",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/63ca9c19f3cad3f4f35bef87",
+  "name": "Pollo crujiente a la barbacoa",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 620,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2594,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 9.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 1.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 75.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 16.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 1.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 35.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.23,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 88,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 614,
+  "slug": "pollo-crujiente-a-la-barbacoa",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 200ºC. Corta las patatas por la mitad a lo largo y corta en gajos de 1-2 cm de grosor. Pela y pica el ajo (ver cantidad en ingredientes). Pon las patatas en un bol mediano y agrega un chorrito de aceite de oliva, ¼ del sazonador barbacoa, el ajo, sal y pimienta al gusto. Mezcla todo y dispón las patatas en una bandeja de horno con papel de horno. Hornea durante 20-25 min o hasta que estén doradas.",
+      "instructionsHTML": "<p>Precalienta el horno a 200ºC. Corta las <strong>patatas</strong> por la mitad a lo largo y corta en gajos de 1-2 cm de grosor. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pon las <strong>patatas</strong> en un bol mediano y agrega un chorrito de <strong>aceite de oliva</strong>, ¼ del <strong>sazonador barbacoa</strong>, el <strong>ajo</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto. Mezcla todo y dispón las <strong>patatas</strong> en una bandeja de horno con papel de horno. Hornea durante 20-25 min o hasta que estén doradas.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 200ºC. Corta las <strong>patatas</strong> por la mitad a lo largo y corta en gajos de 1-2 cm de grosor. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes). Pon las <strong>patatas</strong> en un bol mediano y agrega un chorrito de <strong>aceite de oliva</strong>, ¼ del <strong>sazonador barbacoa</strong>, el <strong>ajo</strong>, <strong>sal</strong> y <strong>pimienta</strong> al gusto. Mezcla todo y dispón las <strong>patatas</strong> en una bandeja de horno con papel de horno. Hornea durante 20-25 min o hasta que estén doradas.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c19f3cad3f4f35bef87/step-d1882500.jpg",
+          "path": "/63ca9c19f3cad3f4f35bef87/step-d1882500.jpg",
+          "caption": "Hornea las patatas",
+          "localImage": "/images/recipes/63ca9c19f3cad3f4f35bef87-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Mientras, pela y ralla la zanahoria. Corta la manzana por la mitad y retira el corazón. Luego, corta cada mitad en láminas finas. Corta las pechugas de pollo en tiras longitudinales (tres por persona) y resérvalas en un bol.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>Mientras, pela y ralla la <strong>zanahoria</strong>. Corta la <strong>manzana</strong> por la mitad y retira el corazón. Luego, corta cada mitad en láminas finas. Corta las <strong>pechugas de pollo</strong> en tiras longitudinales (tres por persona) y resérvalas en un bol.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>Mientras, pela y ralla la <strong>zanahoria</strong>. Corta la <strong>manzana</strong> por la mitad y retira el corazón. Luego, corta cada mitad en láminas finas. Corta las <strong>pechugas de pollo</strong> en tiras longitudinales (tres por persona) y resérvalas en un bol.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5c0a9a5edbdd9fc57e863cd6",
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c19f3cad3f4f35bef87/step-d27c6910.jpg",
+          "path": "/63ca9c19f3cad3f4f35bef87/step-d27c6910.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/63ca9c19f3cad3f4f35bef87-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En un bol mediano, mezcla la mostaza, un chorrito de aceite de oliva y el vinagre balsámico para hacer una vinagreta. Retira la parte inferior de la mitad de la lechuga (doble para 4p) y separa las hojas. Justo antes de servir, añade la lechuga, la zanahoria y la manzana. Mezcla bien.",
+      "instructionsHTML": "<p>En un bol mediano, mezcla la <strong>mostaza</strong>, un chorrito de <strong>aceite de oliva</strong> y el <strong>vinagre balsámico</strong> para hacer una <strong>vinagreta</strong>. Retira la parte inferior de la mitad de la <strong>lechuga</strong> (doble para 4p) y separa las hojas. Justo antes de servir, añade la <strong>lechuga</strong>, la <strong>zanahoria</strong> y la <strong>manzana</strong>. Mezcla bien.</p>",
+      "instructionsMarkdown": "<p>En un bol mediano, mezcla la <strong>mostaza</strong>, un chorrito de <strong>aceite de oliva</strong> y el <strong>vinagre balsámico</strong> para hacer una <strong>vinagreta</strong>. Retira la parte inferior de la mitad de la <strong>lechuga</strong> (doble para 4p) y separa las hojas. Justo antes de servir, añade la <strong>lechuga</strong>, la <strong>zanahoria</strong> y la <strong>manzana</strong>. Mezcla bien.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c19f3cad3f4f35bef87/step-24cb7b20.jpg",
+          "path": "/63ca9c19f3cad3f4f35bef87/step-24cb7b20.jpg",
+          "caption": "Prepara la ensalada",
+          "localImage": "/images/recipes/63ca9c19f3cad3f4f35bef87-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En un plato hondo, mezcla el panko, ⅔ del sazonador barbacoa restante, sal y pimienta al gusto. En otro plato hondo, bate el huevo (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p>En un plato hondo, mezcla el <strong>panko</strong>, ⅔ del <strong>sazonador barbacoa</strong> restante, <strong>sal</strong> y <strong>pimienta</strong> al gusto. En otro plato hondo, bate el <strong>huevo</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p>En un plato hondo, mezcla el <strong>panko</strong>, ⅔ del <strong>sazonador barbacoa</strong> restante, <strong>sal</strong> y <strong>pimienta</strong> al gusto. En otro plato hondo, bate el <strong>huevo</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff525"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c19f3cad3f4f35bef87/step-71587b30.jpg",
+          "path": "/63ca9c19f3cad3f4f35bef87/step-71587b30.jpg",
+          "caption": "Prepara el rebozado",
+          "localImage": "/images/recipes/63ca9c19f3cad3f4f35bef87-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Cuando queden 7-8 min para que las patatas terminen de cocinarse, pon una sartén a calentar a fuego medio-alto con un chorrito generoso de aceite. Sumerge el pollo en el huevo y, luego, pásalo por el panko, comprobando que queda uniformemente cubierto. Cocínalo en la sartén 3-4 min por cada lado. Luego, ponlo sobre un papel de cocina para escurrir el exceso de aceite. Espolvorea el resto de sazonador barbacoa sobre el pollo.",
+      "instructionsHTML": "<p>Cuando queden 7-8 min para que las <strong>patatas</strong> terminen de cocinarse, pon una sartén a calentar a fuego medio-alto con un chorrito generoso de <strong>aceite</strong>. Sumerge el <strong>pollo</strong> en el <strong>huevo</strong> y, luego, pásalo por el <strong>panko</strong>, comprobando que queda uniformemente cubierto. Cocínalo en la sartén 3-4 min por cada lado. Luego, ponlo sobre un papel de cocina para escurrir el exceso de <strong>aceite</strong>. Espolvorea el resto de <strong>sazonador barbacoa</strong> sobre el <strong>pollo</strong>.</p>",
+      "instructionsMarkdown": "<p>Cuando queden 7-8 min para que las <strong>patatas</strong> terminen de cocinarse, pon una sartén a calentar a fuego medio-alto con un chorrito generoso de <strong>aceite</strong>. Sumerge el <strong>pollo</strong> en el <strong>huevo</strong> y, luego, pásalo por el <strong>panko</strong>, comprobando que queda uniformemente cubierto. Cocínalo en la sartén 3-4 min por cada lado. Luego, ponlo sobre un papel de cocina para escurrir el exceso de <strong>aceite</strong>. Espolvorea el resto de <strong>sazonador barbacoa</strong> sobre el <strong>pollo</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "63c5205377be7505f4d9a13c",
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c19f3cad3f4f35bef87/step-0e49fc40.jpg",
+          "path": "/63ca9c19f3cad3f4f35bef87/step-0e49fc40.jpg",
+          "caption": "Fríe el pollo",
+          "localImage": "/images/recipes/63ca9c19f3cad3f4f35bef87-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve el pollo crujiente a la barbacoa en platos y acompaña con la ensalada y las patatas al horno. Agrega el alioli en un bol y sirve junto al plato.",
+      "instructionsHTML": "<p dir=\"ltr\">Sirve el <strong>pollo crujiente a la barbacoa</strong> en platos y acompaña con la <strong>ensalada</strong> y las <strong>patatas</strong> al horno. Agrega el <strong>alioli</strong> en un bol y sirve junto al plato.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Sirve el <strong>pollo crujiente a la barbacoa</strong> en platos y acompaña con la <strong>ensalada</strong> y las <strong>patatas</strong> al horno. Agrega el <strong>alioli</strong> en un bol y sirve junto al plato.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c19f3cad3f4f35bef87/step-80f32950.jpg",
+          "path": "/63ca9c19f3cad3f4f35bef87/step-80f32950.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63ca9c19f3cad3f4f35bef87-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESCFC0008-5",
+  "updatedAt": "2026-01-21T17:18:12+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "5c0a9a5edbdd9fc57e863cd6",
+      "type": "box-greater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff525",
+      "type": null,
+      "name": "Plato hondo"
+    },
+    {
+      "id": "63c5205377be7505f4d9a13c",
+      "type": "kitchen-paper",
+      "name": "Kitchen Paper"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "5b02ca33-4924-439b-beca-2ad96197bc65",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pollo-crujiente-a-la-barbacoa-63ca9c19f3cad3f4f35bef87",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca3",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043a62268bc1bff0d3cd4",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6369182b27b0db08e0fb84ac",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 110,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca3",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b2268bc1bff0d3ca0",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043a62268bc1bff0d3cd4",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6369182b27b0db08e0fb84ac",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63ca9c19f3cad3f4f35bef87-Pollo crujiente a la barbacoa.jpg",
+  "localCard": "/pdf/63ca9c19f3cad3f4f35bef87-Pollo crujiente a la barbacoa.pdf"
+}

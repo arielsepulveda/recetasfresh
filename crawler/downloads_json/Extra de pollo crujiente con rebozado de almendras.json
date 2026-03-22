@@ -1,0 +1,832 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "name": "Frutos secos",
+      "type": "nuts",
+      "slug": "frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5fdcaac412e5336f910e70bd",
+      "name": "Almendras",
+      "type": "almonds",
+      "slug": "almendras",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 4,
+  "canonical": "6436696c7d6ab6d3a5175c45",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-crujiente-con-rebozado-de-almendras-6436696c7d6ab6d3a5175c45",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "6887172a1cc5cea712803b4e",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-24T14:56:59+00:00",
+  "cuisines": [
+    {
+      "id": "67ebf900b2ffe612cd83e51a",
+      "type": "",
+      "name": "American",
+      "slug": ""
+    }
+  ],
+  "description": "Incluso este plato, aparentemente sencillo y reconocible, te ofrecerá una alternativa más divertida y atrevida a recetas tradicionales que puedes disfrutar en familia. El pollo está rebozado en panko y almendras, que aportan una nueva textura, además de su inconfundible sabor.",
+  "descriptionHTML": "<p>Incluso este plato, aparentemente sencillo y reconocible, te ofrecerá una alternativa más divertida y atrevida a recetas tradicionales que puedes disfrutar en familia. El pollo está rebozado en panko y almendras, que aportan una nueva textura, además de su inconfundible sabor.</p>",
+  "descriptionMarkdown": "Incluso este plato, aparentemente sencillo y reconocible, te ofrecerá una alternativa más divertida y atrevida a recetas tradicionales que puedes disfrutar en familia. El pollo está rebozado en panko y almendras, que aportan una nueva textura, además de su inconfundible sabor.",
+  "difficulty": 1,
+  "favoritesCount": 1,
+  "headline": "con puré de patata y calabacín salteado",
+  "id": "68fb93bb29be8924040c2f9c",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF210816_R23_W40_CA_RC0296-12_edit_veg_and_mash__Main_high-926faee6.jpg",
+  "imagePath": "/image/HF210816_R23_W40_CA_RC0296-12_edit_veg_and_mash__Main_high-926faee6.jpg",
+  "ingredients": [
+    {
+      "id": "6874cb2f5a587f17f4588c97",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "imagePath": "/ingredient/6874cb2f5a587f17f4588c97-2ab81060.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6874cb2f5a587f17f4588c97-Panko.png"
+    },
+    {
+      "id": "68befa92f655999316000c6e",
+      "uuid": "ba743c71-aa0e-56f6-9a65-1dc7cd42dbb5",
+      "name": "Almendras laminadas",
+      "type": "flaked-almonds",
+      "slug": "almendras-laminadas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/68befa92f655999316000c6e-70b3586e.png",
+      "imagePath": "/ingredient/68befa92f655999316000c6e-70b3586e.png",
+      "shipped": true,
+      "allergens": [
+        "5a9614ab30006c2c026cf562",
+        "62cc417a2f15d58ec3559423",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fb",
+        "5fdcaac412e5336f910e70bd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68befa92f655999316000c6e-Almendras laminadas.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "67800faf7160a0945c5e38e4",
+      "uuid": "81b3c69b-2097-5c00-baa8-2cf099ef66e8",
+      "name": "Pimiento",
+      "type": "bell-pepper",
+      "slug": "pimiento",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "imagePath": "/ingredient/67800faf7160a0945c5e38e4-20a77524.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67800faf7160a0945c5e38e4-Pimiento.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68fb93bb29be8924040c2f9c",
+  "name": "Extra de pollo crujiente con rebozado de almendras",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3579,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 855,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 45.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 5.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 58.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 75.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.29,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 1,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 725,
+  "slug": "extra-de-pollo-crujiente-con-rebozado-de-almendras",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nEn una sartén grande, calienta un chorrito de aceite a fuego medio-alto. Tuesta el panko y las almendras 1-2 min, mientras remueves, hasta que se doren.\nReserva en un plato y salpimienta.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Tuesta el <strong>panko</strong> y las <strong>almendras</strong> 1-2 min, mientras remueves, hasta que se doren.</li>\n<li>Reserva en un plato y <strong>salpimienta</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Tuesta el <strong>panko</strong> y las <strong>almendras</strong> 1-2 min, mientras remueves, hasta que se doren.</li>\n<li>Reserva en un plato y <strong>salpimienta</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b",
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93bb29be8924040c2f9c/step-c9ed1500.jpg",
+          "path": "/68fb93bb29be8924040c2f9c/step-c9ed1500.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68fb93bb29be8924040c2f9c-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nSeca el pollo y apóyalo sobre una tabla. Realiza un corte en uno de los lados, sin llegar hasta el final, de forma que puedas abrir las pechugas y tener un filete más grande y fino.\nColoca las pechugas en un plato hondo, agrega la mayonesa, sal y pimienta y mezcla.\nReboza el pollo con la mezcla de panko y almendras. Presiona ligeramente para que el rebozado quede bien adherido.\n",
+      "instructionsHTML": "<ul>\n<li>Seca el<strong> pollo </strong>y apóyalo sobre una tabla. Realiza un corte en uno de los lados, sin llegar hasta el final, de forma que puedas abrir las <strong>pechugas</strong> y tener un filete más grande y fino.</li>\n<li>Coloca las <strong>pechugas</strong> en un plato hondo, agrega la <strong>mayonesa</strong>, <strong>sal</strong> y <strong>pimienta</strong> y mezcla.</li>\n<li>Reboza el <strong>pollo</strong> con la mezcla de <strong>panko</strong> y <strong>almendras</strong>. Presiona ligeramente para que el rebozado quede bien adherido.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Seca el<strong> pollo </strong>y apóyalo sobre una tabla. Realiza un corte en uno de los lados, sin llegar hasta el final, de forma que puedas abrir las <strong>pechugas</strong> y tener un filete más grande y fino.</li>\n<li>Coloca las <strong>pechugas</strong> en un plato hondo, agrega la <strong>mayonesa</strong>, <strong>sal</strong> y <strong>pimienta</strong> y mezcla.</li>\n<li>Reboza el <strong>pollo</strong> con la mezcla de <strong>panko</strong> y <strong>almendras</strong>. Presiona ligeramente para que el rebozado quede bien adherido.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9419279f8fe60e867a",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93bb29be8924040c2f9c/step-60f3e610.jpg",
+          "path": "/68fb93bb29be8924040c2f9c/step-60f3e610.jpg",
+          "caption": "Reboza las pechugas",
+          "localImage": "/images/recipes/68fb93bb29be8924040c2f9c-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nColoca el pollo en una bandeja de horno con papel de horno y agrega un chorrito de aceite encima.\nHornea el pollo a media altura 18-20 min, hasta que esté dorado por fuera y deje de estar rosado en el interior. Da la vuelta a mitad de cocción.\nMientras tanto, pela las patatas y córtalas en dados de 2 cm.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Coloca el <strong>pollo</strong> en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite</strong> encima.</li>\n<li>Hornea el <strong>pollo</strong> a media altura 18-20 min, hasta que esté dorado por fuera y deje de estar rosado en el interior. Da la vuelta a mitad de cocción.</li>\n<li>Mientras tanto, pela las <strong>patatas</strong> y córtalas en dados de 2 cm.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Coloca el <strong>pollo</strong> en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite</strong> encima.</li>\n<li>Hornea el <strong>pollo</strong> a media altura 18-20 min, hasta que esté dorado por fuera y deje de estar rosado en el interior. Da la vuelta a mitad de cocción.</li>\n<li>Mientras tanto, pela las <strong>patatas</strong> y córtalas en dados de 2 cm.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93bb29be8924040c2f9c/step-a3800220.jpg",
+          "path": "/68fb93bb29be8924040c2f9c/step-a3800220.jpg",
+          "caption": "¡Esto se calienta!",
+          "localImage": "/images/recipes/68fb93bb29be8924040c2f9c-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn una olla, agrega las patatas, cúbrelas con agua y añade sal.\nLleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas.\nEscurre las patatas y colócalas en la olla de nuevo, añade un chorrito de aceite o mantequilla al gusto, sal y pimienta.\nCon un pasapurés o un tenedor, aplasta las patatas hasta conseguir un puré.\n",
+      "instructionsHTML": "<ul>\n<li>En una olla, agrega las <strong>patatas,</strong> cúbrelas con <strong>agua</strong> y añade <strong>sal</strong>.</li>\n<li>Lleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas.</li>\n<li>Escurre las <strong>patatas</strong> y colócalas en la olla de nuevo, añade un chorrito de <strong>aceite</strong> o <strong>mantequilla</strong> al gusto, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Con un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta conseguir un <strong>puré.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una olla, agrega las <strong>patatas,</strong> cúbrelas con <strong>agua</strong> y añade <strong>sal</strong>.</li>\n<li>Lleva a ebullición, luego, cocina a fuego medio 15-18 min o hasta que estén blandas.</li>\n<li>Escurre las <strong>patatas</strong> y colócalas en la olla de nuevo, añade un chorrito de <strong>aceite</strong> o <strong>mantequilla</strong> al gusto, <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Con un pasapurés o un tenedor, aplasta las <strong>patatas</strong> hasta conseguir un <strong>puré.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305393",
+        "57e2674fb7e8697d4b30537c",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93bb29be8924040c2f9c/step-e8d77330.jpg",
+          "path": "/68fb93bb29be8924040c2f9c/step-e8d77330.jpg",
+          "caption": "Da forma al puré",
+          "localImage": "/images/recipes/68fb93bb29be8924040c2f9c-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nPela y pica el ajo.\nRetira los extremos del calabacín y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.\nEn la sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAgrega el calabacín y cocina 5-6 min, removiendo, hasta que se dore.\nSalpimienta y reserva fuera de la sartén.\n",
+      "instructionsHTML": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega el <strong>calabacín</strong> y cocina 5-6 min, removiendo, hasta que se dore.</li>\n<li><strong>Salpimienta</strong> y reserva fuera de la sartén.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Retira los extremos del <strong>calabacín</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5-1 cm.</li>\n<li>En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega el <strong>calabacín</strong> y cocina 5-6 min, removiendo, hasta que se dore.</li>\n<li><strong>Salpimienta</strong> y reserva fuera de la sartén.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93bb29be8924040c2f9c/step-50638740.jpg",
+          "path": "/68fb93bb29be8924040c2f9c/step-50638740.jpg",
+          "caption": "Calabacín al fuego",
+          "localImage": "/images/recipes/68fb93bb29be8924040c2f9c-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la pechuga rebozada en almendras en platos y acompaña con el puré de patata y el calabacín con ajo.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve la <strong>pechuga rebozada en almendras</strong> en platos y acompaña con el <strong>puré de patata</strong> y el <strong>calabacín</strong> con <strong>ajo</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve la <strong>pechuga rebozada en almendras</strong> en platos y acompaña con el <strong>puré de patata</strong> y el <strong>calabacín</strong> con <strong>ajo</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93bb29be8924040c2f9c/step-63a7b750.jpg",
+          "path": "/68fb93bb29be8924040c2f9c/step-63a7b750.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68fb93bb29be8924040c2f9c-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESFC27662-DP-1-13",
+  "updatedAt": "2026-01-21T14:01:27+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "59d49a9419279f8fe60e867a",
+      "type": "shallow-dish",
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305393",
+      "type": "potato-masher",
+      "name": "Pasapurés"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "87907a73-c025-4c12-832b-387a0c783aaf",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/extra-de-pollo-crujiente-con-rebozado-de-almendras-68fb93bb29be8924040c2f9c",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68befa92f655999316000c6e",
+          "amount": 15,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68befa92f655999316000c6e",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 8,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6874cb2f5a587f17f4588c97",
+          "amount": 75,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68befa92f655999316000c6e",
+          "amount": 45,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67800faf7160a0945c5e38e4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68fb93bb29be8924040c2f9c-Extra de pollo crujiente con rebozado de almendras.jpg"
+}

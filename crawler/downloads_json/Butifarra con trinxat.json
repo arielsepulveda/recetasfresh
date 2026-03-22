@@ -1,0 +1,554 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/butifarra-trinxat-kale-bacon-638a20d24af6d174904411fc-8f3ee765.pdf",
+  "category": null,
+  "clonedFrom": "6358139fc60a873ac92c408f",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-02T15:59:14+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "En esta ocasión, desde HelloFresh, te ofrecemos una receta clásica de la gastronomía catalana con esta butifarra con trinxat de kale y bacon. Tradicionalmente, el trinxat es una mezcla de patata y col, frecuentemente acompañada de bacon o tocino, como en este caso. Sin embargo, para aportar un toque distintivo, te proponemos que utilices la col kale para el trinxat que, aunque es menos conocida, también tiene su origen en el Mediterráneo.",
+  "descriptionHTML": "<p>En esta ocasión, desde HelloFresh, te ofrecemos una receta clásica de la gastronomía catalana con esta butifarra con trinxat de kale y bacon. Tradicionalmente, el trinxat es una mezcla de patata y col, frecuentemente acompañada de bacon o tocino, como en este caso. Sin embargo, para aportar un toque distintivo, te proponemos que utilices la col kale para el trinxat que, aunque es menos conocida, también tiene su origen en el Mediterráneo.</p>",
+  "descriptionMarkdown": "En esta ocasión, desde HelloFresh, te ofrecemos una receta clásica de la gastronomía catalana con esta butifarra con trinxat de kale y bacon. Tradicionalmente, el trinxat es una mezcla de patata y col, frecuentemente acompañada de bacon o tocino, como en este caso. Sin embargo, para aportar un toque distintivo, te proponemos que utilices la col kale para el trinxat que, aunque es menos conocida, también tiene su origen en el Mediterráneo.",
+  "difficulty": 2,
+  "favoritesCount": 16,
+  "headline": "de col kale y bacon con alioli",
+  "id": "638a20d24af6d174904411fc",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R01_W08_ES_ESVQV13488-2_Main_2_high-a2660cd2.jpg",
+  "imagePath": "/image/HF_Y23_R01_W08_ES_ESVQV13488-2_Main_2_high-a2660cd2.jpg",
+  "ingredients": [
+    {
+      "id": "63404372233160a36674ba0a",
+      "uuid": "da5a5db9-d6f6-5e0c-94fe-9874b0b466ec",
+      "name": "Kale",
+      "type": "kale",
+      "slug": "kale",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404372233160a36674ba0a-bfa418a7.png",
+      "imagePath": "/ingredient/63404372233160a36674ba0a-bfa418a7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404372233160a36674ba0a-Kale.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca9",
+      "uuid": "debd5f6f-0733-5585-b043-3ed70d63f35b",
+      "name": "Bacon",
+      "type": "dry-cured-streaky-bacon",
+      "slug": "bacon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca9-75c30ae5.jpg",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca9-75c30ae5.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca9-Bacon.jpg"
+    },
+    {
+      "id": "636535e40a112d281e8e7e06",
+      "uuid": "80a2d680-e62d-4cd3-ab2e-85dd9dc4c054",
+      "name": "Butifarra",
+      "type": "catalan-sausage-pork-meat",
+      "slug": "butifarra",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636535e40a112d281e8e7e06-1656cb57.png",
+      "imagePath": "/ingredient/636535e40a112d281e8e7e06-1656cb57.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636535e40a112d281e8e7e06-Butifarra.png"
+    },
+    {
+      "id": "634043a62268bc1bff0d3cd4",
+      "uuid": "931e72be-8132-585e-9855-9dfe0f2cd32c",
+      "name": "Alioli",
+      "type": "aioli",
+      "slug": "alioli",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043a62268bc1bff0d3cd4-b14f7f3e.png",
+      "imagePath": "/ingredient/634043a62268bc1bff0d3cd4-b14f7f3e.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043a62268bc1bff0d3cd4-Alioli.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/638a20d24af6d174904411fc",
+  "name": "Butifarra con trinxat ",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 688,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2879,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 44.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 15.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 37.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 3.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 29.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.45,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 62,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 385,
+  "slug": "butifarra-con-trinxat",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Pon a hervir una olla con abundante agua y una pizca de sal. Pela las patatas y córtalas en dados de 3 cm. Agrega la patata a la olla y cocina durante 12-13 min o hasta que esté blanda. Una vez cocinada, escúrrela con ayuda de un colador.",
+      "instructionsHTML": "<p dir=\"ltr\">Pon a hervir una olla con abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Pela las <strong>patatas</strong> y córtalas en dados de 3 cm. Agrega la <strong>patata</strong> a la olla y cocina durante 12-13 min o hasta que esté blanda. Una vez cocinada, escúrrela con ayuda de un colador.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Pon a hervir una olla con abundante <strong>agua</strong> y una pizca de <strong>sal</strong>. Pela las <strong>patatas</strong> y córtalas en dados de 3 cm. Agrega la <strong>patata</strong> a la olla y cocina durante 12-13 min o hasta que esté blanda. Una vez cocinada, escúrrela con ayuda de un colador.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fc/step-0eee5f00.jpg",
+          "path": "/638a20d24af6d174904411fc/step-0eee5f00.jpg",
+          "caption": "Cuece las patatas ",
+          "localImage": "/images/recipes/638a20d24af6d174904411fc-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Mientras tanto, pica el kale finamente. Corta la mitad del bacon (doble para 4p) en tiras finas de 1 cm de grosor. Pela y pica el ajo (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p>Mientras tanto, pica el <strong>kale</strong> finamente. Corta la mitad del <strong>bacon</strong> (doble para 4p) en tiras finas de 1 cm de grosor. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p>Mientras tanto, pica el <strong>kale</strong> finamente. Corta la mitad del <strong>bacon</strong> (doble para 4p) en tiras finas de 1 cm de grosor. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fc/step-3baa4410.jpg",
+          "path": "/638a20d24af6d174904411fc/step-3baa4410.jpg",
+          "caption": "Corta los ingredientes",
+          "localImage": "/images/recipes/638a20d24af6d174904411fc-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Calienta una sartén a fuego medio-alto y añade un chorrito de aceite. Saltea el bacon durante 2-3 min, hasta que esté dorado y crujiente. Reserva fuera de la sartén. Agrega el ajo a la sartén y cocina 2-3 min o hasta que esté dorado. Añade el kale y saltea 4-5 min a fuego medio. Salpimienta al gusto y reserva.",
+      "instructionsHTML": "<p>Calienta una sartén a fuego medio-alto y añade un chorrito de <strong>aceite</strong>. Saltea el <strong>bacon</strong> durante 2-3 min, hasta que esté dorado y crujiente. Reserva fuera de la sartén. Agrega el <strong>ajo</strong> a la sartén y cocina 2-3 min o hasta que esté dorado. Añade el <strong>kale</strong> y saltea 4-5 min a fuego medio. <strong>Salpimienta</strong> al gusto y reserva.</p>",
+      "instructionsMarkdown": "<p>Calienta una sartén a fuego medio-alto y añade un chorrito de <strong>aceite</strong>. Saltea el <strong>bacon</strong> durante 2-3 min, hasta que esté dorado y crujiente. Reserva fuera de la sartén. Agrega el <strong>ajo</strong> a la sartén y cocina 2-3 min o hasta que esté dorado. Añade el <strong>kale</strong> y saltea 4-5 min a fuego medio. <strong>Salpimienta</strong> al gusto y reserva.</p>",
+      "ingredients": [],
+      "utensils": [
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fc/step-04c5ff20.jpg",
+          "path": "/638a20d24af6d174904411fc/step-04c5ff20.jpg",
+          "caption": "Saltea el bacon y el kale",
+          "localImage": "/images/recipes/638a20d24af6d174904411fc-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En un bol, añade la patata cocida y el kale y aplástalo todo bien con un tenedor. Añade el bacon y salpimienta. Divide la mezcla en dos partes y dales forma de hamburguesa de 1-2 cm de grosor. Calienta a fuego medio la sartén utilizada anteriormente y añade un chorrito de aceite. Añade el trinxat de patata, kale y bacon a la sartén y cocina por 2 min, dándole la vuelta para que quede tostado por ambos lados. Reserva fuera de la sartén.",
+      "instructionsHTML": "<p>En un bol, añade la <strong>patata cocida</strong> y el <strong>kale</strong> y aplástalo todo bien con un tenedor. Añade el <strong>bacon</strong> y <strong>salpimienta</strong>. Divide la mezcla en dos partes y dales forma de hamburguesa de 1-2 cm de grosor. Calienta a fuego medio la sartén utilizada anteriormente y añade un chorrito de <strong>aceite</strong>. Añade el <strong>trinxat</strong> de <strong>patata</strong>, <strong>kale</strong> y <strong>bacon</strong> a la sartén y cocina por 2 min, dándole la vuelta para que quede tostado por ambos lados. Reserva fuera de la sartén.</p>",
+      "instructionsMarkdown": "<p>En un bol, añade la <strong>patata cocida</strong> y el <strong>kale</strong> y aplástalo todo bien con un tenedor. Añade el <strong>bacon</strong> y <strong>salpimienta</strong>. Divide la mezcla en dos partes y dales forma de hamburguesa de 1-2 cm de grosor. Calienta a fuego medio la sartén utilizada anteriormente y añade un chorrito de <strong>aceite</strong>. Añade el <strong>trinxat</strong> de <strong>patata</strong>, <strong>kale</strong> y <strong>bacon</strong> a la sartén y cocina por 2 min, dándole la vuelta para que quede tostado por ambos lados. Reserva fuera de la sartén.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fc/step-8b3aec30.jpg",
+          "path": "/638a20d24af6d174904411fc/step-8b3aec30.jpg",
+          "caption": "Tuesta el trinxat",
+          "localImage": "/images/recipes/638a20d24af6d174904411fc-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Divide la butifarra por la mitad, de forma que queden dos butifarras del mismo tamaño. Luego, corta el largo de cada butifarra por la mitad, sin llegar al final, de manera que puedan abrirse. Calienta la sartén utilizada a fuego medio con un chorrito de aceite y cocina la butifarra 2-3 min por lado.\n \nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>Divide la <strong>butifarra</strong> por la mitad, de forma que queden dos <strong>butifarras</strong> del mismo tamaño. Luego, corta el largo de cada <strong>butifarra</strong> por la mitad, sin llegar al final, de manera que puedan abrirse. Calienta la sartén utilizada a fuego medio con un chorrito de <strong>aceite</strong> y cocina la <strong>butifarra</strong> 2-3 min por lado.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>Divide la <strong>butifarra</strong> por la mitad, de forma que queden dos <strong>butifarras</strong> del mismo tamaño. Luego, corta el largo de cada <strong>butifarra</strong> por la mitad, sin llegar al final, de manera que puedan abrirse. Calienta la sartén utilizada a fuego medio con un chorrito de <strong>aceite</strong> y cocina la <strong>butifarra</strong> 2-3 min por lado.</p>\n<p> </p>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fc/step-bb02a240.jpg",
+          "path": "/638a20d24af6d174904411fc/step-bb02a240.jpg",
+          "caption": "Cocina la butifarra",
+          "localImage": "/images/recipes/638a20d24af6d174904411fc-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Reparte las butifarras entre los platos, acompaña con el trinxat de patatas, kale y bacon y agrega un poco de alioli a un lado.",
+      "instructionsHTML": "<p>Reparte las <strong>butifarras</strong> entre los platos, acompaña con el <strong>trinxat</strong> de <strong>patatas, kale </strong>y<strong> bacon</strong> y agrega un poco de <strong>alioli</strong> a un lado.</p>",
+      "instructionsMarkdown": "<p>Reparte las <strong>butifarras</strong> entre los platos, acompaña con el <strong>trinxat</strong> de <strong>patatas, kale </strong>y<strong> bacon</strong> y agrega un poco de <strong>alioli</strong> a un lado.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a20d24af6d174904411fc/step-1c2fda50.jpg",
+          "path": "/638a20d24af6d174904411fc/step-1c2fda50.jpg",
+          "caption": "Emplata",
+          "localImage": "/images/recipes/638a20d24af6d174904411fc-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESVQV13488-2",
+  "updatedAt": "2026-01-21T13:59:41+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    }
+  ],
+  "uuid": "ad9584cc-2b28-4e62-afa3-a524b3b74a79",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/butifarra-con-trinxat-638a20d24af6d174904411fc",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404372233160a36674ba0a",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca9",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636535e40a112d281e8e7e06",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043a62268bc1bff0d3cd4",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404372233160a36674ba0a",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca9",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636535e40a112d281e8e7e06",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043a62268bc1bff0d3cd4",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/638a20d24af6d174904411fc-Butifarra con trinxat.jpg",
+  "localCard": "/pdf/638a20d24af6d174904411fc-Butifarra con trinxat.pdf"
+}

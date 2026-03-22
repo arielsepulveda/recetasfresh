@@ -1,0 +1,965 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b305303",
+      "name": "Huevo",
+      "type": "traces-of-egg",
+      "slug": "traces-of-huevo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 4,
+  "canonical": "6616b8fec415e8779118fd8f",
+  "canonicalLink": "https://www.hellofresh.es/recipes/banh-mi-ternera-encurtidos-bocadillo-6616b8fec415e8779118fd8f",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68d69e2bd232ff05cfc4aaf0-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "656064ce5234ba85b73bb502",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-09-26T14:07:39+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ba",
+      "type": "vietnamise",
+      "name": "Vietnamese",
+      "slug": "vietnamese",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ba-93abc4f8.jpg"
+    }
+  ],
+  "description": "¿Conoces el origen del bánh mì vietnamita? Se remonta al siglo XIX, cuando la baguette fue introducida en Vietnam durante la época de influencia francesa en la región. Esta fusión culinaria se desarrolló a partir de la combinación de la baguette con ingredientes locales como carnes, vegetales frescos, hierbas aromáticas y condimentos tradicionales.",
+  "descriptionHTML": "<p>¿Conoces el origen del bánh mì vietnamita? Se remonta al siglo XIX, cuando la baguette fue introducida en Vietnam durante la época de influencia francesa en la región. Esta fusión culinaria se desarrolló a partir de la combinación de la baguette con ingredientes locales como carnes, vegetales frescos, hierbas aromáticas y condimentos tradicionales.</p>",
+  "descriptionMarkdown": "¿Conoces el origen del bánh mì vietnamita? Se remonta al siglo XIX, cuando la baguette fue introducida en Vietnam durante la época de influencia francesa en la región. Esta fusión culinaria se desarrolló a partir de la combinación de la baguette con ingredientes locales como carnes, vegetales frescos, hierbas aromáticas y condimentos tradicionales.",
+  "difficulty": 1,
+  "favoritesCount": 2,
+  "headline": "con mayonesa de sriracha y encurtidos caseros",
+  "id": "68d69e2bd232ff05cfc4aaf0",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R21_W25_ES_ESSGSTB20897-2_Main_high-ad3ee045.jpg",
+  "imagePath": "/image/HF_Y24_R21_W25_ES_ESSGSTB20897-2_Main_high-ad3ee045.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340436f41033266d7be9513",
+      "uuid": "822e0f6e-0b50-54d0-9774-fee0a98b0271",
+      "name": "Pepino",
+      "type": "cucumber",
+      "slug": "pepino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9513-Pepino.png"
+    },
+    {
+      "id": "63404371233160a36674ba06",
+      "uuid": "b4937cf5-9f86-592c-903e-767ec461fb7f",
+      "name": "Chile",
+      "type": "green-chilli",
+      "slug": "chile",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba06-1adf9604.png",
+      "imagePath": "/ingredient/63404371233160a36674ba06-1adf9604.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba06-Chile.png"
+    },
+    {
+      "id": "6340437741033266d7be952b",
+      "uuid": "26c839a7-90d5-5ab1-808a-7f16c7526471",
+      "name": "Filete de ternera",
+      "type": "rump-steak",
+      "slug": "filete-de-ternera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "imagePath": "/ingredient/6340437741033266d7be952b-c1db133c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437741033266d7be952b-Filete de ternera.png"
+    },
+    {
+      "id": "6340437941033266d7be9530",
+      "uuid": "4bb2d585-8bff-53e8-85b3-fc1744a8b5bd",
+      "name": "Sriracha",
+      "type": "sriracha",
+      "slug": "sriracha",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9530-1dc67998.png",
+      "imagePath": "/ingredient/6340437941033266d7be9530-1dc67998.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9530-Sriracha.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "651fde076c05521bbf6dcf15",
+      "uuid": "71334aea-36bf-400e-b95f-da84e7cb27d3",
+      "name": "Baguette",
+      "type": "baguette",
+      "slug": "baguette",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/651fde076c05521bbf6dcf15-4a9e7cff.png",
+      "imagePath": "/ingredient/651fde076c05521bbf6dcf15-4a9e7cff.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b305303",
+        "5acf97b7ae08b54d88061162",
+        "5b0532aaae08b52eb9420552",
+        "5acf972fae08b54d333ac322",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/651fde076c05521bbf6dcf15-Baguette.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63d3a4d1f3cad3f4f35bf204",
+      "uuid": "1eeff9e7-ab1f-4b96-870d-8adfda146614",
+      "name": "Aceite",
+      "type": "generic-oil",
+      "slug": "aceite",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63d3a4d1f3cad3f4f35bf204-2591a337.png",
+      "imagePath": "/ingredient/63d3a4d1f3cad3f4f35bf204-2591a337.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63d3a4d1f3cad3f4f35bf204-Aceite.png"
+    },
+    {
+      "id": "645bbdb422de2d12dae0e3ec",
+      "uuid": "a219293e-88f4-436d-a66e-6e9bc27c36d9",
+      "name": "Sal para encurtir",
+      "type": "salt-to-pickle",
+      "slug": "sal-para-encurtir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "imagePath": "/ingredient/645bbdb422de2d12dae0e3ec-3a9a6b8a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/645bbdb422de2d12dae0e3ec-Sal para encurtir.png"
+    },
+    {
+      "id": "65b9f37ed1da3988cdd8ea2e",
+      "uuid": "2172102e-c765-43f0-a8ee-369a17e6ad6f",
+      "name": "Vinagre",
+      "type": "vinegar-in-tbsp",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "imagePath": "/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65b9f37ed1da3988cdd8ea2e-Vinagre.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68d69e2bd232ff05cfc4aaf0",
+  "name": "Banh Mi: bocadillo vietnamita de ternera",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2846,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 680,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 33.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 6.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 59.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 6.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 36.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 6.27,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 1,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 486,
+  "slug": "banh-mi-bocadillo-vietnamita-de-ternera",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela la zanahoria y córtala en bastones de 0,5 cm de grosor.\nRetira los extremos del pepino y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5 cm.\nCorta el chile en rodajas finas.\n\nRECUERDA: Utiliza guantes para manipular el chile y lávate las manos y los utensilios después.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela la <strong>zanahoria </strong>y córtala en bastones de 0,5 cm de grosor.</li>\n<li>Retira los extremos del <strong>pepino</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5 cm.</li>\n<li>Corta el <strong>chile</strong> en rodajas finas.</li>\n</ul>\n<p>RECUERDA: Utiliza guantes para manipular el chile y lávate las manos y los utensilios después.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela la <strong>zanahoria </strong>y córtala en bastones de 0,5 cm de grosor.</li>\n<li>Retira los extremos del <strong>pepino</strong> y córtalo por la mitad a lo largo. Corta en medias lunas de 0,5 cm.</li>\n<li>Corta el <strong>chile</strong> en rodajas finas.</li>\n</ul>\n<p>RECUERDA: Utiliza guantes para manipular el chile y lávate las manos y los utensilios después.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d69e2bd232ff05cfc4aaf0/step-968adf00.jpg",
+          "path": "/68d69e2bd232ff05cfc4aaf0/step-968adf00.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68d69e2bd232ff05cfc4aaf0-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn un bol grande, agrega la zanahoria, el pepino, chile al gusto, la sal para encurtir y el vinagre.\nMezcla bien y deja marinar hasta el emplatado.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol grande, agrega la <strong>zanahoria</strong>, el <strong>pepino</strong>, <strong>chile</strong> al gusto, la <strong>sal para encurtir</strong> y el <strong>vinagre</strong>.</li>\n<li>Mezcla bien y deja marinar hasta el emplatado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol grande, agrega la <strong>zanahoria</strong>, el <strong>pepino</strong>, <strong>chile</strong> al gusto, la <strong>sal para encurtir</strong> y el <strong>vinagre</strong>.</li>\n<li>Mezcla bien y deja marinar hasta el emplatado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d69e2bd232ff05cfc4aaf0/step-ae615d10.jpg",
+          "path": "/68d69e2bd232ff05cfc4aaf0/step-ae615d10.jpg",
+          "caption": "A encurtir se ha dicho",
+          "localImage": "/images/recipes/68d69e2bd232ff05cfc4aaf0-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nPela y ralla el ajo.\nCorta la ternera en tiras de 1 cm de grosor.\nEn un bol, agrega la ternera, el ajo rallado, la mitad de la sriracha, 2/3 de la salsa de soja y un chorrito de aceite. Salpimienta y mezcla. Reserva hasta el paso 5.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Corta la <strong>ternera</strong> en tiras de 1 cm de grosor.</li>\n<li>En un bol, agrega la <strong>ternera</strong>, el <strong>ajo</strong> rallado, la mitad de la <strong>sriracha</strong>, 2/3 de la <strong>salsa de soja</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y mezcla. Reserva hasta el paso 5.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>Pela y ralla el <strong>ajo</strong>.</li>\n<li>Corta la <strong>ternera</strong> en tiras de 1 cm de grosor.</li>\n<li>En un bol, agrega la <strong>ternera</strong>, el <strong>ajo</strong> rallado, la mitad de la <strong>sriracha</strong>, 2/3 de la <strong>salsa de soja</strong> y un chorrito de <strong>aceite</strong>. <strong>Salpimienta</strong> y mezcla. Reserva hasta el paso 5.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305385"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d69e2bd232ff05cfc4aaf0/step-94574820.jpg",
+          "path": "/68d69e2bd232ff05cfc4aaf0/step-94574820.jpg",
+          "caption": "Marina la carne ",
+          "localImage": "/images/recipes/68d69e2bd232ff05cfc4aaf0-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn un bol, mezcla la mayonesa, la salsa de soja restante y la sriracha restante.\nDeshoja el cilantro.\nCorta las baguettes a lo largo sin llegar hasta el final, de manera que puedas abrirlas.\nTuesta en la tostadora para que se doren ligeramente.\n",
+      "instructionsHTML": "<ul>\n<li>En un bol, mezcla la <strong>mayonesa</strong>, la <strong>salsa de soja</strong> restante y la <strong>sriracha</strong> restante.</li>\n<li>Deshoja el <strong>cilantro</strong>.</li>\n<li>Corta las <strong>baguettes</strong> a lo largo sin llegar hasta el final, de manera que puedas abrirlas.</li>\n<li>Tuesta en la tostadora para que se doren ligeramente.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un bol, mezcla la <strong>mayonesa</strong>, la <strong>salsa de soja</strong> restante y la <strong>sriracha</strong> restante.</li>\n<li>Deshoja el <strong>cilantro</strong>.</li>\n<li>Corta las <strong>baguettes</strong> a lo largo sin llegar hasta el final, de manera que puedas abrirlas.</li>\n<li>Tuesta en la tostadora para que se doren ligeramente.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d69e2bd232ff05cfc4aaf0/step-a7abb630.jpg",
+          "path": "/68d69e2bd232ff05cfc4aaf0/step-a7abb630.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/68d69e2bd232ff05cfc4aaf0-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCalienta una sartén a fuego medio-alto. Luego, agrega un chorrito de aceite.\nCuando la sartén esté bien caliente, cocina la ternera 1 min, hasta que se dore y se cocine en el interior.\nRetira la ternera de la sartén y conserva los jugos que hayan quedado en la sartén.\n",
+      "instructionsHTML": "<ul>\n<li>Calienta una sartén a fuego medio-alto. Luego, agrega un chorrito de <strong>aceite</strong>.</li>\n<li>Cuando la sartén esté bien caliente, cocina la <strong>ternera</strong> 1 min, hasta que se dore y se cocine en el interior.</li>\n<li>Retira la <strong>ternera</strong> de la sartén y conserva los jugos que hayan quedado en la sartén.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Calienta una sartén a fuego medio-alto. Luego, agrega un chorrito de <strong>aceite</strong>.</li>\n<li>Cuando la sartén esté bien caliente, cocina la <strong>ternera</strong> 1 min, hasta que se dore y se cocine en el interior.</li>\n<li>Retira la <strong>ternera</strong> de la sartén y conserva los jugos que hayan quedado en la sartén.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d69e2bd232ff05cfc4aaf0/step-fb069140.jpg",
+          "path": "/68d69e2bd232ff05cfc4aaf0/step-fb069140.jpg",
+          "caption": "Ternera al fuego",
+          "localImage": "/images/recipes/68d69e2bd232ff05cfc4aaf0-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nEn el interior de un lado de las baguettes, unta la mayonesa de soja y sriracha.\nSobre el otro lado, agrega los jugos de la sartén.\nAñade la ternera y los vegetales encurtidos escurridos.\nAcaba agregando cilantro al gusto y cerrando el bocadillo.\nSirve en platos y acompaña con los encurtidos restantes.\n",
+      "instructionsHTML": "<ul>\n<li>En el interior de un lado de las <strong>baguettes</strong>, unta la <strong>mayonesa de soja y sriracha</strong>.</li>\n<li>Sobre el otro lado, agrega los <strong>jugos</strong> de la sartén.</li>\n<li>Añade la <strong>ternera</strong> y los <strong>vegetales</strong> encurtidos escurridos.</li>\n<li>Acaba agregando <strong>cilantro</strong> al gusto y cerrando el <strong>bocadillo</strong>.</li>\n<li>Sirve en platos y acompaña con los <strong>encurtidos</strong> restantes.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En el interior de un lado de las <strong>baguettes</strong>, unta la <strong>mayonesa de soja y sriracha</strong>.</li>\n<li>Sobre el otro lado, agrega los <strong>jugos</strong> de la sartén.</li>\n<li>Añade la <strong>ternera</strong> y los <strong>vegetales</strong> encurtidos escurridos.</li>\n<li>Acaba agregando <strong>cilantro</strong> al gusto y cerrando el <strong>bocadillo</strong>.</li>\n<li>Sirve en platos y acompaña con los <strong>encurtidos</strong> restantes.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68d69e2bd232ff05cfc4aaf0/step-cc478750.jpg",
+          "path": "/68d69e2bd232ff05cfc4aaf0/step-cc478750.jpg",
+          "caption": "Monta los bocadillos y disfruta",
+          "localImage": "/images/recipes/68d69e2bd232ff05cfc4aaf0-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "Picante",
+      "slug": "picante",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305321",
+      "type": "high-protein",
+      "name": "Proteico",
+      "slug": "proteico",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESSGSTB20897-10",
+  "updatedAt": "2026-01-21T17:19:38+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    }
+  ],
+  "uuid": "105fffde-4c92-49ce-856d-a4e07ea59eab",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/banh-mi-bocadillo-vietnamita-de-ternera-68d69e2bd232ff05cfc4aaf0",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba06",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9530",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "651fde076c05521bbf6dcf15",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d3a4d1f3cad3f4f35bf204",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba06",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9530",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "651fde076c05521bbf6dcf15",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d3a4d1f3cad3f4f35bf204",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404371233160a36674ba06",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437741033266d7be952b",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9530",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 9,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "651fde076c05521bbf6dcf15",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63d3a4d1f3cad3f4f35bf204",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "645bbdb422de2d12dae0e3ec",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68d69e2bd232ff05cfc4aaf0-Banh Mi bocadillo vietnamita de ternera.jpg",
+  "localCard": "/pdf/68d69e2bd232ff05cfc4aaf0-Banh Mi bocadillo vietnamita de ternera.pdf"
+}

@@ -1,0 +1,578 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5acf97a2ae08b54dad34eb82",
+      "name": "Sulfitos",
+      "type": "traces-of-sulphites",
+      "slug": "traces-of-sulfitos",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3,
+  "canonical": "640f515e7bee82308d5512a1",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pizza-de-chorizo-y-mini-mozzarellas-640f515e7bee82308d5512a1",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64a3d3ecd1915b06b70acfa0.pdf",
+  "category": null,
+  "clonedFrom": "63cf9865812a821893bf053e",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-07-04T08:10:20+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b2",
+      "type": "spanish",
+      "name": "Española",
+      "slug": "espanola",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b2-b3f4f4d2.jpg"
+    }
+  ],
+  "description": "Seguro que has probado los macarrones con chorizo, una receta de origen aún indeterminado que divide a los defensores más puristas de la gastronomía italiana. Con esta pizza con chorizo buscamos precisamente lo contrario: que todos los que la prueben coincidan en que está buenísima.",
+  "descriptionHTML": "<p>Seguro que has probado los macarrones con chorizo, una receta de origen aún indeterminado que divide a los defensores más puristas de la gastronomía italiana. Con esta pizza con chorizo buscamos precisamente lo contrario: que todos los que la prueben coincidan en que está buenísima.</p>",
+  "descriptionMarkdown": "Seguro que has probado los macarrones con chorizo, una receta de origen aún indeterminado que divide a los defensores más puristas de la gastronomía italiana. Con esta pizza con chorizo buscamos precisamente lo contrario: que todos los que la prueben coincidan en que está buenísima.",
+  "difficulty": 1,
+  "favoritesCount": 50,
+  "headline": "con tomates cherry y queso italiano curado",
+  "id": "64a3d3ecd1915b06b70acfa0",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R14_W25_ES_ESQCP14485-2_Main_high-6485e371.jpg",
+  "imagePath": "/image/HF_Y23_R14_W25_ES_ESQCP14485-2_Main_high-6485e371.jpg",
+  "ingredients": [
+    {
+      "id": "63497d88971d5eddb3ff71b2",
+      "uuid": "ca2eb932-2be6-58fe-9c2b-05bd27036489",
+      "name": "Base de pizza",
+      "type": "pizza-bases",
+      "slug": "base-de-pizza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "imagePath": "/ingredient/63497d88971d5eddb3ff71b2-4610f8cc.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63497d88971d5eddb3ff71b2-Base de pizza.png"
+    },
+    {
+      "id": "6340436d2268bc1bff0d3ca5",
+      "uuid": "53a96a7f-0a28-58a9-bccd-f846bf404e1a",
+      "name": "Tomate cherry",
+      "type": "cherry-tomatoes",
+      "slug": "tomate-cherry",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "imagePath": "/ingredient/6340436d2268bc1bff0d3ca5-1c5c10dd.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d2268bc1bff0d3ca5-Tomate cherry.png"
+    },
+    {
+      "id": "6449bb2cc14bb2bf7af4787f",
+      "uuid": "9bcd0897-d822-4f07-8474-e4c19bff7776",
+      "name": "Chorizo troceado",
+      "type": "chorizo-diced",
+      "slug": "chorizo-troceado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6449bb2cc14bb2bf7af4787f-843da8c3.png",
+      "imagePath": "/ingredient/6449bb2cc14bb2bf7af4787f-843da8c3.png",
+      "shipped": true,
+      "allergens": [
+        "5acf97a2ae08b54dad34eb82",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6449bb2cc14bb2bf7af4787f-Chorizo troceado.png"
+    },
+    {
+      "id": "6340437a41033266d7be9534",
+      "uuid": "c7440604-41b7-5ef5-b2b3-8f83c31bccf9",
+      "name": "Tomate concentrado",
+      "type": "tomato-puree",
+      "slug": "tomate-concentrado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "imagePath": "/ingredient/6340437a41033266d7be9534-55cf834c.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437a41033266d7be9534-Tomate concentrado.jpg"
+    },
+    {
+      "id": "634d4809971d5eddb3ff71c6",
+      "uuid": "557e23a0-acf7-4784-950e-04026032a724",
+      "name": "Mini queso mozzarella",
+      "type": "bocconcini",
+      "slug": "mini-queso-mozzarella",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d4809971d5eddb3ff71c6-ba34210a.png",
+      "imagePath": "/ingredient/634d4809971d5eddb3ff71c6-ba34210a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d4809971d5eddb3ff71c6-Mini queso mozzarella.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/64a3d3ecd1915b06b70acfa0",
+  "name": "Pizza de chorizo y mini mozzarellas",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3706,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 886,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 37.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 18.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 88.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 43.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.89,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 36,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 381,
+  "slug": "pizza-de-chorizo-y-mini-mozzarellas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta los tomates cherry por la mitad. En un bol pequeño, mezcla el tomate concentrado con un chorrito de agua. Coloca las bases de pizza en un bandeja de horno con papel de horno y agrega la salsa de tomate encima, dejando 1 cm del borde sin cubrir.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta los <strong>tomates cherry</strong> por la mitad. En un bol pequeño, mezcla el <strong>tomate concentrado</strong> con un chorrito de <strong>agua</strong>. Coloca las <strong>bases de pizza</strong> en un bandeja de horno con papel de horno y agrega la <strong>salsa de tomate</strong> encima, dejando 1 cm del borde sin cubrir.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta los <strong>tomates cherry</strong> por la mitad. En un bol pequeño, mezcla el <strong>tomate concentrado</strong> con un chorrito de <strong>agua</strong>. Coloca las <strong>bases de pizza</strong> en un bandeja de horno con papel de horno y agrega la <strong>salsa de tomate</strong> encima, dejando 1 cm del borde sin cubrir.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64a3d3ecd1915b06b70acfa0/step-4d8ed700.jpg",
+          "path": "/64a3d3ecd1915b06b70acfa0/step-4d8ed700.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/64a3d3ecd1915b06b70acfa0-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Escurre las mini mozzarellas con ayuda de un colador. Sobre las bases de pizza, agrega el chorizo troceado, los tomates cherry, el queso italiano rallado y las mini mozzarellas.",
+      "instructionsHTML": "<p>Escurre las <strong>mini mozzarellas</strong> con ayuda de un colador. Sobre las <strong>bases de pizza</strong>, agrega el <strong>chorizo troceado</strong>, los <strong>tomates cherry</strong>, el <strong>queso italiano rallado</strong> y las <strong>mini mozzarellas</strong>.</p>",
+      "instructionsMarkdown": "<p>Escurre las <strong>mini mozzarellas</strong> con ayuda de un colador. Sobre las <strong>bases de pizza</strong>, agrega el <strong>chorizo troceado</strong>, los <strong>tomates cherry</strong>, el <strong>queso italiano rallado</strong> y las <strong>mini mozzarellas</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64a3d3ecd1915b06b70acfa0/step-9e6eec10.jpg",
+          "path": "/64a3d3ecd1915b06b70acfa0/step-9e6eec10.jpg",
+          "caption": "Cubre la pizza con los ingredientes",
+          "localImage": "/images/recipes/64a3d3ecd1915b06b70acfa0-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Hornea las pizzas en la parte superior del horno durante 15-20 min o hasta que estén crujientes y doradas.",
+      "instructionsHTML": "<p>Hornea las <strong>pizzas</strong> en la parte superior del horno durante 15-20 min o hasta que estén crujientes y doradas.</p>",
+      "instructionsMarkdown": "<p>Hornea las <strong>pizzas</strong> en la parte superior del horno durante 15-20 min o hasta que estén crujientes y doradas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64a3d3ecd1915b06b70acfa0/step-20f8d520.jpg",
+          "path": "/64a3d3ecd1915b06b70acfa0/step-20f8d520.jpg",
+          "caption": "Hornea la pizza",
+          "localImage": "/images/recipes/64a3d3ecd1915b06b70acfa0-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Sirve las pizzas de chorizo y mini mozzarellas en platos y agrega encima la miel y orégano al gusto.",
+      "instructionsHTML": "<p dir=\"ltr\">Sirve las <strong>pizzas de chorizo</strong> y <strong>mini mozzarellas</strong> en platos y agrega encima la <strong>miel</strong> y <strong>orégano</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Sirve las <strong>pizzas de chorizo</strong> y <strong>mini mozzarellas</strong> en platos y agrega encima la <strong>miel</strong> y <strong>orégano</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64a3d3ecd1915b06b70acfa0/step-b2a0cb30.jpg",
+          "path": "/64a3d3ecd1915b06b70acfa0/step-b2a0cb30.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/64a3d3ecd1915b06b70acfa0-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT5M",
+  "uniqueRecipeCode": "ESQCP14485-3",
+  "updatedAt": "2025-06-12T13:57:17+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    }
+  ],
+  "uuid": "8841b4f2-d119-44fa-a788-28da2f4c8825",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/pizza-de-chorizo-y-mini-mozzarellas-64a3d3ecd1915b06b70acfa0",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 125,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6449bb2cc14bb2bf7af4787f",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d4809971d5eddb3ff71c6",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63497d88971d5eddb3ff71b2",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d2268bc1bff0d3ca5",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6449bb2cc14bb2bf7af4787f",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437a41033266d7be9534",
+          "amount": 4,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634d4809971d5eddb3ff71c6",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64a3d3ecd1915b06b70acfa0-Pizza de chorizo y mini mozzarellas.jpg",
+  "localCard": "/pdf/64a3d3ecd1915b06b70acfa0-Pizza de chorizo y mini mozzarellas.pdf"
+}

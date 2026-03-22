@@ -1,0 +1,712 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/64788ad922f7f34e1f95d335.pdf",
+  "category": null,
+  "clonedFrom": "64253cd76153ff0f6d9decc2",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-06-01T12:11:05+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "India",
+      "slug": "india",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg"
+    }
+  ],
+  "description": "Con este plato inspirado en la amplia y variada gastronomía india, queremos conseguir que tu paladar viaje por las orillas del río Ganges mientras tus fosas nasales perciben el intenso olor de las especias locales escapándose de las cocinas.",
+  "descriptionHTML": "<p>Con este plato inspirado en la amplia y variada gastronomía india, queremos conseguir que tu paladar viaje por las orillas del río Ganges mientras tus fosas nasales perciben el intenso olor de las especias locales escapándose de las cocinas.</p>",
+  "descriptionMarkdown": "Con este plato inspirado en la amplia y variada gastronomía india, queremos conseguir que tu paladar viaje por las orillas del río Ganges mientras tus fosas nasales perciben el intenso olor de las especias locales escapándose de las cocinas.",
+  "difficulty": 1,
+  "favoritesCount": 23,
+  "headline": "con garbanzos y queso crema al cilantro",
+  "id": "64788ad922f7f34e1f95d335",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R04_W34_ES_ESCVV15657-2_Main__5high-17c1e44b.jpg",
+  "imagePath": "/image/HF_Y23_R04_W34_ES_ESCVV15657-2_Main__5high-17c1e44b.jpg",
+  "ingredients": [
+    {
+      "id": "6340437b233160a36674ba2f",
+      "uuid": "ee90258d-e1dc-4156-8e8a-0964c10de606",
+      "name": "Calabaza violín a dados",
+      "type": "butternut-squash-diced",
+      "slug": "calabaza-violin-a-dados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b233160a36674ba2f-ab110e19.png",
+      "imagePath": "/ingredient/6340437b233160a36674ba2f-ab110e19.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b233160a36674ba2f-Calabaza violín a dados.png"
+    },
+    {
+      "id": "634d532eebf08332f1bff1a5",
+      "uuid": "b330fdf9-ab81-5b42-bc68-7b5748ae00ba",
+      "name": "Curry en polvo",
+      "type": "curry-powder",
+      "slug": "curry-en-polvo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d532eebf08332f1bff1a5-11f940df.png",
+      "imagePath": "/ingredient/634d532eebf08332f1bff1a5-11f940df.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d532eebf08332f1bff1a5-Curry en polvo.png"
+    },
+    {
+      "id": "6340436e233160a36674b9fd",
+      "uuid": "4be57e09-204f-50f6-abf5-a91e4a8099db",
+      "name": "Leche de coco",
+      "type": "coconut-milk",
+      "slug": "leche-de-coco",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "imagePath": "/ingredient/6340436e233160a36674b9fd-84a9d0d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e233160a36674b9fd-Leche de coco.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "634977d1ebf08332f1bff177",
+      "uuid": "81ee030d-c41d-5521-acb8-338b9e877fca",
+      "name": "Garbanzos",
+      "type": "chickpeas",
+      "slug": "garbanzos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "imagePath": "/ingredient/634977d1ebf08332f1bff177-9d257107.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634977d1ebf08332f1bff177-Garbanzos.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "63bbfe06bc019e6ee3f1ab84",
+      "uuid": "c4ac6805-11a7-55c4-be5e-68aaa3c0f835",
+      "name": "Floretes de coliflor",
+      "type": "cauliflower-florets",
+      "slug": "floretes-de-coliflor",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63bbfe06bc019e6ee3f1ab84-22b9bb05.png",
+      "imagePath": "/ingredient/63bbfe06bc019e6ee3f1ab84-22b9bb05.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63bbfe06bc019e6ee3f1ab84-Floretes de coliflor.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/64788ad922f7f34e1f95d335",
+  "name": "Curry de calabaza y coliflor asada",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 550,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2300,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 25.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 37.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 8.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 7.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 17.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.33,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT35M",
+  "promotion": null,
+  "ratingsCount": 22,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 657,
+  "slug": "curry-de-calabaza-y-coliflor-asada",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 220ºC. En una bandeja de horno con papel de horno, coloca la calabaza a dados y los floretes de coliflor. Agrega un chorrito de aceite, salpimienta y remueve para que quede bien aderezado. Hornea 20-25 min, hasta que los vegetales estén dorados y tiernos. Remueve a mitad de cocción.",
+      "instructionsHTML": "<p>Precalienta el horno a 220ºC. En una bandeja de horno con papel de horno, coloca la <strong>calabaza</strong> a dados y los <strong>floretes de coliflor</strong>. Agrega un chorrito de <strong>aceite</strong>, <strong>salpimienta</strong> y remueve para que quede bien aderezado. Hornea 20-25 min, hasta que los <strong>vegetales</strong> estén dorados y tiernos. Remueve a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 220ºC. En una bandeja de horno con papel de horno, coloca la <strong>calabaza</strong> a dados y los <strong>floretes de coliflor</strong>. Agrega un chorrito de <strong>aceite</strong>, <strong>salpimienta</strong> y remueve para que quede bien aderezado. Hornea 20-25 min, hasta que los <strong>vegetales</strong> estén dorados y tiernos. Remueve a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad922f7f34e1f95d335/step-e8fae100.jpg",
+          "path": "/64788ad922f7f34e1f95d335/step-e8fae100.jpg",
+          "caption": "Hornea las verduras",
+          "localImage": "/images/recipes/64788ad922f7f34e1f95d335-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Pela el ajo (ver cantidad en ingredientes). Ralla el ajo y la mitad del jengibre (doble para 4p). Escurre los garbanzos con ayuda de un colador.",
+      "instructionsHTML": "<p>Pela el <strong>ajo</strong> (ver cantidad en ingredientes). Ralla el <strong>ajo</strong> y la mitad del <strong>jengibre</strong> (doble para 4p). Escurre los <strong>garbanzos</strong> con ayuda de un colador.</p>",
+      "instructionsMarkdown": "<p>Pela el <strong>ajo</strong> (ver cantidad en ingredientes). Ralla el <strong>ajo</strong> y la mitad del <strong>jengibre</strong> (doble para 4p). Escurre los <strong>garbanzos</strong> con ayuda de un colador.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad922f7f34e1f95d335/step-3c9afd10.jpg",
+          "path": "/64788ad922f7f34e1f95d335/step-3c9afd10.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/64788ad922f7f34e1f95d335-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una olla, agrega un chorrito de aceite junto con el ajo y el jengibre. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega los garbanzos y rehoga durante 1 min más, mientras remueves.",
+      "instructionsHTML": "<p>En una olla, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y el <strong>jengibre</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega los <strong>garbanzos</strong> y rehoga durante 1 min más, mientras remueves.</p>",
+      "instructionsMarkdown": "<p>En una olla, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong> y el <strong>jengibre</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega los <strong>garbanzos</strong> y rehoga durante 1 min más, mientras remueves.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad922f7f34e1f95d335/step-0789f720.jpg",
+          "path": "/64788ad922f7f34e1f95d335/step-0789f720.jpg",
+          "caption": "Saltea los garbanzos",
+          "localImage": "/images/recipes/64788ad922f7f34e1f95d335-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Luego, añade a la olla el curry en polvo y la leche de coco y cocina 5-6 min, hasta que espese ligeramente. Salpimienta al gusto.",
+      "instructionsHTML": "<p>Luego, añade a la olla el <strong>curry en polvo</strong> y la <strong>leche de coco</strong> y cocina 5-6 min, hasta que espese ligeramente. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Luego, añade a la olla el <strong>curry en polvo</strong> y la <strong>leche de coco</strong> y cocina 5-6 min, hasta que espese ligeramente. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad922f7f34e1f95d335/step-11c19930.jpg",
+          "path": "/64788ad922f7f34e1f95d335/step-11c19930.jpg",
+          "caption": "Cocina el curry",
+          "localImage": "/images/recipes/64788ad922f7f34e1f95d335-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Mientras tanto, deshoja y pica finamente la mitad del cilantro (doble para 4). En un bol, mezcla el queso crema y el cilantro picado. Salpimienta al gusto.",
+      "instructionsHTML": "<p>Mientras tanto, deshoja y pica finamente la mitad del <strong>cilantro</strong> (doble para 4). En un bol, mezcla el <strong>queso crema</strong> y el <strong>cilantro</strong> picado. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Mientras tanto, deshoja y pica finamente la mitad del <strong>cilantro</strong> (doble para 4). En un bol, mezcla el <strong>queso crema</strong> y el <strong>cilantro</strong> picado. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad922f7f34e1f95d335/step-10320140.jpg",
+          "path": "/64788ad922f7f34e1f95d335/step-10320140.jpg",
+          "caption": "Prepara el queso",
+          "localImage": "/images/recipes/64788ad922f7f34e1f95d335-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve la calabaza y la coliflor asadas en la base de los platos y cubre con el curry de garbanzos. Decora el plato con queso al cilantro.",
+      "instructionsHTML": "<p>Sirve la <strong>calabaza</strong> y la <strong>coliflor</strong> asadas en la base de los platos y cubre con el <strong>curry de garbanzos</strong>. Decora el plato con <strong>queso al cilantro</strong>.</p>",
+      "instructionsMarkdown": "<p>Sirve la <strong>calabaza</strong> y la <strong>coliflor</strong> asadas en la base de los platos y cubre con el <strong>curry de garbanzos</strong>. Decora el plato con <strong>queso al cilantro</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/64788ad922f7f34e1f95d335/step-bc163650.jpg",
+          "path": "/64788ad922f7f34e1f95d335/step-bc163650.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/64788ad922f7f34e1f95d335-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCVV15657-2",
+  "updatedAt": "2026-01-26T13:46:28+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "e7ebafb8-b2e3-4b4c-ad5c-24d75c1e98f0",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/curry-de-calabaza-y-coliflor-asada-64788ad922f7f34e1f95d335",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437b233160a36674ba2f",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d532eebf08332f1bff1a5",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 340,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "63bbfe06bc019e6ee3f1ab84",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437b233160a36674ba2f",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d532eebf08332f1bff1a5",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436e233160a36674b9fd",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634977d1ebf08332f1bff177",
+          "amount": 680,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "63bbfe06bc019e6ee3f1ab84",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/64788ad922f7f34e1f95d335-Curry de calabaza y coliflor asada.jpg",
+  "localCard": "/pdf/64788ad922f7f34e1f95d335-Curry de calabaza y coliflor asada.pdf"
+}

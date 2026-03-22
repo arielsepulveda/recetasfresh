@@ -1,0 +1,799 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 4,
+  "canonical": "671914a7feb5bb81ef3ad48a",
+  "canonicalLink": "https://www.hellofresh.es/recipes/moussaka-de-carne-de-ternera-671914a7feb5bb81ef3ad48a",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/695fe122b2a0b177eea11b5e-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "671914a7feb5bb81ef3ad48a",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2026-01-08T16:56:14+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a9",
+      "type": "greek",
+      "name": "Griega",
+      "slug": "griega",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a9-66a3ad00.jpg"
+    }
+  ],
+  "description": "La moussaka es un delicioso pastel de origen griego que combina berenjena, carne especiada y una suave bechamel dorada al horno. Esta sabrosa receta se distingue por su armonía de sabores y texturas, donde cada bocado evoca la calidez de las recetas caseras y la tradición de generaciones.",
+  "descriptionHTML": "<p>La moussaka es un delicioso pastel de origen griego que combina berenjena, carne especiada y una suave bechamel dorada al horno. Esta sabrosa receta se distingue por su armonía de sabores y texturas, donde cada bocado evoca la calidez de las recetas caseras y la tradición de generaciones.</p>",
+  "descriptionMarkdown": "La moussaka es un delicioso pastel de origen griego que combina berenjena, carne especiada y una suave bechamel dorada al horno. Esta sabrosa receta se distingue por su armonía de sabores y texturas, donde cada bocado evoca la calidez de las recetas caseras y la tradición de generaciones.",
+  "difficulty": 2,
+  "favoritesCount": 8,
+  "headline": "con queso italiano gratinado",
+  "id": "695fe122b2a0b177eea11b5e",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R32_W08_ES_ESSF34760-9_Main__5high-fa7ac9d0.jpg",
+  "imagePath": "/image/HF_Y26_R32_W08_ES_ESSF34760-9_Main__5high-fa7ac9d0.jpg",
+  "ingredients": [
+    {
+      "id": "6340436b2268bc1bff0d3c9f",
+      "uuid": "1fa6c253-440c-5c98-9e4b-65a57a89f8b1",
+      "name": "Berenjena",
+      "type": "aubergine",
+      "slug": "berenjena",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "imagePath": "/ingredient/6340436b2268bc1bff0d3c9f-3eeecd70.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b2268bc1bff0d3c9f-Berenjena.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436b233160a36674b9e9",
+      "uuid": "fae5ea17-1d10-5a79-acab-118ec738e69e",
+      "name": "Albahaca",
+      "type": "basil",
+      "slug": "albahaca",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "imagePath": "/ingredient/6340436b233160a36674b9e9-41589ed9.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9e9-Albahaca.jpg"
+    },
+    {
+      "id": "6340436c2268bc1bff0d3ca4",
+      "uuid": "edb45406-e818-56a4-b9b9-2022a79d3087",
+      "name": "Carne de ternera picada",
+      "type": "beef-mince",
+      "slug": "carne-de-ternera-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c2268bc1bff0d3ca4-2bd5c4ce.png",
+      "imagePath": "/ingredient/6340436c2268bc1bff0d3ca4-2bd5c4ce.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c2268bc1bff0d3ca4-Carne de ternera picada.png"
+    },
+    {
+      "id": "64afc5bc565e2133abaa58a3",
+      "uuid": "27bdf929-2223-5877-8919-3bd93eb85c24",
+      "name": "Passata de tomate",
+      "type": "tomato-passata",
+      "slug": "passata-de-tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "imagePath": "/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64afc5bc565e2133abaa58a3-Passata de tomate.png"
+    },
+    {
+      "id": "6633472d270adf4f95c57fc5",
+      "uuid": "21a1020d-ac88-52c7-a9e3-531ddd24a275",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6633472d270adf4f95c57fc5-f6ab4a06.png",
+      "imagePath": "/ingredient/6633472d270adf4f95c57fc5-f6ab4a06.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6633472d270adf4f95c57fc5-Leche.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "641c1ac4fd99775f18f75d84",
+      "uuid": "2800d797-d25c-40f4-8672-ebb3ce75af28",
+      "name": "Mantequilla",
+      "type": "butter-with-kcal",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "imagePath": "/ingredient/641c1ac4fd99775f18f75d84-6ab3d1bc.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/641c1ac4fd99775f18f75d84-Mantequilla.png"
+    },
+    {
+      "id": "63492a38ebf08332f1bff158",
+      "uuid": "f3edd1e7-4508-4709-aa78-41efa824db4d",
+      "name": "Harina",
+      "type": "flour",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a38ebf08332f1bff158-ff411a48.png",
+      "imagePath": "/ingredient/63492a38ebf08332f1bff158-ff411a48.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a38ebf08332f1bff158-Harina.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Taberna griega",
+    "handle": "greek-dish",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#CE4500",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/695fe122b2a0b177eea11b5e",
+  "name": "Moussaka griega de ternera y berenjena",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3520,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 841,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 64.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 30.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 43.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 5.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 40.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.91,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT45M",
+  "promotion": null,
+  "ratingsCount": 1,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 695,
+  "slug": "moussaka-griega-de-ternera-y-berenjena",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 220ºC.\nRetira el extremo de la berenjena y córtala en láminas de 1 cm.\nAgrega abundante sal sobre la berenjena y déjala reposar al menos 5 min.\nPela y pica el ajo.\nPela la cebolla y córtala en daditos pequeños.\nDeshoja la albahaca y pica la mitad.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Retira el extremo de la <strong>berenjena</strong> y córtala en láminas de 1 cm.</li>\n<li>Agrega abundante <strong>sal</strong> sobre la <strong>berenjena</strong> y déjala reposar al menos 5 min.</li>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos pequeños.</li>\n<li>Deshoja la <strong>albahaca</strong> y pica la mitad.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Precalienta el horno a 220ºC.</li>\n<li>Retira el extremo de la <strong>berenjena</strong> y córtala en láminas de 1 cm.</li>\n<li>Agrega abundante <strong>sal</strong> sobre la <strong>berenjena</strong> y déjala reposar al menos 5 min.</li>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n<li>Pela la <strong>cebolla</strong> y córtala en daditos pequeños.</li>\n<li>Deshoja la <strong>albahaca</strong> y pica la mitad.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/695fe122b2a0b177eea11b5e/step-8575e100.jpg",
+          "path": "/695fe122b2a0b177eea11b5e/step-8575e100.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/695fe122b2a0b177eea11b5e-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nRetira el exceso de sal de la berenjena y colócala en una bandeja de horno con papel de horno.\nAgrega un chorrito de aceite, sal y pimienta y hornea en el estante medio-alto 13-15 min o hasta que empiece a dorarse. Da la vuelta a mitad de cocción.\nEn una sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAñade la cebolla y sal y cocina 4-5 min, removiendo, hasta que se dore un poco.\n",
+      "instructionsHTML": "<ul>\n<li>Retira el exceso de <strong>sal</strong> de la <strong>berenjena</strong> y colócala en una bandeja de horno con papel de horno.</li>\n<li>Agrega un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y hornea en el estante medio-alto 13-15 min o hasta que empiece a dorarse. Da la vuelta a mitad de cocción.</li>\n<li>En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade la <strong>cebolla</strong> y <strong>sal</strong> y cocina 4-5 min, removiendo, hasta que se dore un poco.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Retira el exceso de <strong>sal</strong> de la <strong>berenjena</strong> y colócala en una bandeja de horno con papel de horno.</li>\n<li>Agrega un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta</strong> y hornea en el estante medio-alto 13-15 min o hasta que empiece a dorarse. Da la vuelta a mitad de cocción.</li>\n<li>En una sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo.</strong> Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Añade la <strong>cebolla</strong> y <strong>sal</strong> y cocina 4-5 min, removiendo, hasta que se dore un poco.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522",
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/695fe122b2a0b177eea11b5e/step-ed807410.jpg",
+          "path": "/695fe122b2a0b177eea11b5e/step-ed807410.jpg",
+          "caption": "Cebolla al fuego",
+          "localImage": "/images/recipes/695fe122b2a0b177eea11b5e-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, agrega la carne de ternera picada y cocina 3-4 min, desmenuzando con una espátula, hasta que se dore.\nSalpimienta y añade la passata de tomate, la mitad de la albahaca picada y un chorrito de agua.\nCocina 3-4 min, hasta que la salsa se reduzca.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li>En la sartén, agrega la <strong>carne de ternera picada</strong> y cocina 3-4 min, desmenuzando con una espátula, hasta que se dore.</li>\n<li><strong>Salpimienta</strong> y añade la <strong>passata</strong> <strong>de tomate</strong>, la mitad de la <strong>albahaca</strong> picada y un chorrito de <strong>agua</strong>.</li>\n<li>Cocina 3-4 min, hasta que la <strong>salsa</strong> se reduzca.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, agrega la <strong>carne de ternera picada</strong> y cocina 3-4 min, desmenuzando con una espátula, hasta que se dore.</li>\n<li><strong>Salpimienta</strong> y añade la <strong>passata</strong> <strong>de tomate</strong>, la mitad de la <strong>albahaca</strong> picada y un chorrito de <strong>agua</strong>.</li>\n<li>Cocina 3-4 min, hasta que la <strong>salsa</strong> se reduzca.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305396"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/695fe122b2a0b177eea11b5e/step-d0df8c20.jpg",
+          "path": "/695fe122b2a0b177eea11b5e/step-d0df8c20.jpg",
+          "caption": "Turno de la carne",
+          "localImage": "/images/recipes/695fe122b2a0b177eea11b5e-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn un cazo, calienta a fuego medio la mantequilla, hasta que se funda.\nAgrega la harina y cocina 2-3 min, removiendo con varillas.\nAñade la leche poco a poco, mientras remueves, durante 2-4 min, hasta que hayas usado toda la leche y quede una bechamel espesa y homogénea. Salpimienta al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>En un cazo, calienta a fuego medio la <strong>mantequilla</strong>, hasta que se funda.</li>\n<li>Agrega la <strong>harina</strong> y cocina 2-3 min, removiendo con varillas.</li>\n<li>Añade la <strong>leche</strong> poco a poco, mientras remueves, durante 2-4 min, hasta que hayas usado toda la <strong>leche</strong> y quede una <strong>bechamel</strong> espesa y homogénea. <strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En un cazo, calienta a fuego medio la <strong>mantequilla</strong>, hasta que se funda.</li>\n<li>Agrega la <strong>harina</strong> y cocina 2-3 min, removiendo con varillas.</li>\n<li>Añade la <strong>leche</strong> poco a poco, mientras remueves, durante 2-4 min, hasta que hayas usado toda la <strong>leche</strong> y quede una <strong>bechamel</strong> espesa y homogénea. <strong>Salpimienta</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384",
+        "57e2674fb7e8697d4b30538c"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/695fe122b2a0b177eea11b5e/step-d7852930.jpg",
+          "path": "/695fe122b2a0b177eea11b5e/step-d7852930.jpg",
+          "caption": "Prepara la bechamel",
+          "localImage": "/images/recipes/695fe122b2a0b177eea11b5e-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCambia el horno a la opción de gratinado.\nEn la base de una fuente para horno, agrega una capa de berenjenas y cubre con la mitad de la carne y de la bechamel.\nAgrega otra capa de berenjenas, el resto de la carne y la bechamel restante.\nAcaba con el queso italiano.\nHornea a media altura 12-15 min o hasta que el queso se gratine.\n",
+      "instructionsHTML": "<ul>\n<li>Cambia el horno a la opción de gratinado.</li>\n<li>En la base de una fuente para horno, agrega una capa de <strong>berenjenas</strong> y cubre con la mitad de la <strong>carne</strong> y de la <strong>bechamel.</strong></li>\n<li>Agrega otra capa de <strong>berenjenas,</strong> el resto de la <strong>carne</strong> y la <strong>bechamel</strong> restante.</li>\n<li>Acaba con el <strong>queso italiano.</strong></li>\n<li>Hornea a media altura 12-15 min o hasta que el <strong>queso</strong> se gratine.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Cambia el horno a la opción de gratinado.</li>\n<li>En la base de una fuente para horno, agrega una capa de <strong>berenjenas</strong> y cubre con la mitad de la <strong>carne</strong> y de la <strong>bechamel.</strong></li>\n<li>Agrega otra capa de <strong>berenjenas,</strong> el resto de la <strong>carne</strong> y la <strong>bechamel</strong> restante.</li>\n<li>Acaba con el <strong>queso italiano.</strong></li>\n<li>Hornea a media altura 12-15 min o hasta que el <strong>queso</strong> se gratine.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/695fe122b2a0b177eea11b5e/step-56892040.jpg",
+          "path": "/695fe122b2a0b177eea11b5e/step-56892040.jpg",
+          "caption": "Monta la moussaka",
+          "localImage": "/images/recipes/695fe122b2a0b177eea11b5e-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la fuente con la moussaka en el centro de la mesa.\nSirve raciones de moussaka en los platos.\n",
+      "instructionsHTML": "<ul>\n<li>Sirve la fuente con la <strong>moussaka</strong> en el centro de la mesa.</li>\n<li>Sirve raciones de <strong>moussaka</strong> en los platos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Sirve la fuente con la <strong>moussaka</strong> en el centro de la mesa.</li>\n<li>Sirve raciones de <strong>moussaka</strong> en los platos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/695fe122b2a0b177eea11b5e/step-5b034d50.jpg",
+          "path": "/695fe122b2a0b177eea11b5e/step-5b034d50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/695fe122b2a0b177eea11b5e-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "67efb4b9fb316d4edf08966f",
+      "type": "cuisine-spotlight",
+      "name": "cuisine-spotlight",
+      "slug": "cuisine-spotlight",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT35M",
+  "uniqueRecipeCode": "ESSF34760-10",
+  "updatedAt": "2026-02-24T08:14:08+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305396",
+      "type": "spatula",
+      "name": "Espátula"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538c",
+      "type": "saucepan",
+      "name": "Cazo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    }
+  ],
+  "uuid": "0c299459-0451-4dfe-98bc-f8e83a15d3b4",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/moussaka-griega-de-ternera-y-berenjena-695fe122b2a0b177eea11b5e",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 210,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6633472d270adf4f95c57fc5",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 3,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 30,
+          "unit": "gramo(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 420,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6633472d270adf4f95c57fc5",
+          "amount": 800,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 80,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 60,
+          "unit": "gramo(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436b2268bc1bff0d3c9f",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436b233160a36674b9e9",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 630,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6633472d270adf4f95c57fc5",
+          "amount": 1200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "641c1ac4fd99775f18f75d84",
+          "amount": 9,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a38ebf08332f1bff158",
+          "amount": 90,
+          "unit": "gramo(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/695fe122b2a0b177eea11b5e-Moussaka griega de ternera y berenjena.jpg",
+  "localCard": "/pdf/695fe122b2a0b177eea11b5e-Moussaka griega de ternera y berenjena.pdf"
+}

@@ -1,0 +1,735 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "640f514b7bee82308d551296",
+  "canonicalLink": "https://www.hellofresh.es/recipes/pollo-a-la-crema-con-puerro-640f514b7bee82308d551296",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "692ef7d5114b735a00618e31",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-10T12:12:24+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Francesa",
+      "slug": "francesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg"
+    }
+  ],
+  "description": "Si estás buscando una receta sabrosa que puedas disfrutar con toda la familia y preparar rápidamente, prueba estos dados de pollo acompañados con una salsa cremosa con puerro y nuez moscada. Lo servimos con quinoa y lo cubrimos con orégano para tener un plato completo y saciante en tan solo 25 minutos.",
+  "descriptionHTML": "<p>Si estás buscando una receta sabrosa que puedas disfrutar con toda la familia y preparar rápidamente, prueba estos dados de pollo acompañados con una salsa cremosa con puerro y nuez moscada. Lo servimos con quinoa y lo cubrimos con orégano para tener un plato completo y saciante en tan solo 25 minutos.</p>",
+  "descriptionMarkdown": "Si estás buscando una receta sabrosa que puedas disfrutar con toda la familia y preparar rápidamente, prueba estos dados de pollo acompañados con una salsa cremosa con puerro y nuez moscada. Lo servimos con quinoa y lo cubrimos con orégano para tener un plato completo y saciante en tan solo 25 minutos.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con quinoa tricolor y un toque de nuez moscada",
+  "id": "693959bdc92924105eca2ab5",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R07_W03_ES_ESFQC0112-17_Main_edit_high-b113a2f9.jpg",
+  "imagePath": "/image/HF_Y26_R07_W03_ES_ESFQC0112-17_Main_edit_high-b113a2f9.jpg",
+  "ingredients": [
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340437b2268bc1bff0d3cd1",
+      "uuid": "9838d4d1-5c2e-4e68-a073-54d514ccfdb0",
+      "name": "Pechuga de pollo troceada",
+      "type": "chicken-breast-diced",
+      "slug": "pechuga-de-pollo-troceada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "imagePath": "/ingredient/6340437b2268bc1bff0d3cd1-9a44d04f.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437b2268bc1bff0d3cd1-Pechuga de pollo troceada.jpg"
+    },
+    {
+      "id": "660c47363f0f2e6d306d88d8",
+      "uuid": "0e397890-0271-5886-930f-388b82971540",
+      "name": "Quinoa tricolor",
+      "type": "tri-colour-quinoa",
+      "slug": "quinoa-tricolor",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/660c47363f0f2e6d306d88d8-19905dba.png",
+      "imagePath": "/ingredient/660c47363f0f2e6d306d88d8-19905dba.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/660c47363f0f2e6d306d88d8-Quinoa tricolor.png"
+    },
+    {
+      "id": "63481b08bb36093c54997960",
+      "uuid": "1900d2d4-2bd6-5097-a7bb-a815555b5b14",
+      "name": "Nata líquida",
+      "type": "cooking-cream",
+      "slug": "nata-liquida",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997960-7e65d521.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997960-Nata líquida.png"
+    },
+    {
+      "id": "6340437341033266d7be9520",
+      "uuid": "029ef3d7-a6d9-5458-86fb-6d437b3a3d7f",
+      "name": "Puerro",
+      "type": "leek",
+      "slug": "puerro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9520-7eded593.png",
+      "imagePath": "/ingredient/6340437341033266d7be9520-7eded593.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9520-Puerro.png"
+    },
+    {
+      "id": "634043742268bc1bff0d3cbc",
+      "uuid": "a6e1c36d-10e9-50a3-9b14-b914bda64151",
+      "name": "Nuez moscada",
+      "type": "nutmeg",
+      "slug": "nuez-moscada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043742268bc1bff0d3cbc-6042777e.png",
+      "imagePath": "/ingredient/634043742268bc1bff0d3cbc-6042777e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043742268bc1bff0d3cbc-Nuez moscada.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/693959bdc92924105eca2ab5",
+  "name": "Extra de dados de pollo con salsa cremosa de puerro",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4111,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 983,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 44,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 14.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 77.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 14.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 84.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.08,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 667,
+  "slug": "extra-de-dados-de-pollo-con-salsa-cremosa-de-puerro",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nEn un cazo, agrega el agua, el caldo vegetal, una pizca de sal y la quinoa tricolor.\nLleva a ebullición, luego, cocina a fuego medio-bajo 12 min, con el cazo tapado.\nRemueve y deja reposar con la tapa puesta hasta el momento de servir.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En un cazo, agrega el <strong>agua</strong>, el <strong>caldo</strong> <strong>vegetal</strong>, una pizca de <strong>sal</strong> y la <strong>quinoa tricolor</strong>.</li>\n<li>Lleva a ebullición, luego, cocina a fuego medio-bajo 12 min, con el cazo tapado.</li>\n<li>Remueve y deja reposar con la tapa puesta hasta el momento de servir.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En un cazo, agrega el <strong>agua</strong>, el <strong>caldo</strong> <strong>vegetal</strong>, una pizca de <strong>sal</strong> y la <strong>quinoa tricolor</strong>.</li>\n<li>Lleva a ebullición, luego, cocina a fuego medio-bajo 12 min, con el cazo tapado.</li>\n<li>Remueve y deja reposar con la tapa puesta hasta el momento de servir.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/693959bdc92924105eca2ab5/step-4de65e00.jpg",
+          "path": "/693959bdc92924105eca2ab5/step-4de65e00.jpg",
+          "caption": "Quinoa en marcha",
+          "localImage": "/images/recipes/693959bdc92924105eca2ab5-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio. Agrega el pollo, salpimienta y cocina 5-6 min o hasta que esté dorado y bien cocinado. Retira de la sartén y reserva.\nMientras tanto, retira las raíces del puerro y córtalo por la mitad a lo largo. Corta en medias lunas.\nPela la cebolla y córtala en tiras finas. \nPela y pica el ajo.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>pollo, salpimienta</strong> y cocina 5-6 min <span style=\"color: rgb(224, 62, 45)\"><span style=\"color: rgb(0, 0, 0)\">o</span> </span>hasta que esté dorado y bien cocinado. Retira de la sartén y reserva.</li>\n<li dir=\"ltr\">Mientras tanto, retira las raíces del <strong>puerro</strong> y córtalo por la mitad a lo largo. Corta en medias lunas.</li>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en tiras finas. </li>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega el <strong>pollo, salpimienta</strong> y cocina 5-6 min <span style=\"color: rgb(224, 62, 45)\"><span style=\"color: rgb(0, 0, 0)\">o</span> </span>hasta que esté dorado y bien cocinado. Retira de la sartén y reserva.</li>\n<li dir=\"ltr\">Mientras tanto, retira las raíces del <strong>puerro</strong> y córtalo por la mitad a lo largo. Corta en medias lunas.</li>\n<li dir=\"ltr\">Pela la <strong>cebolla</strong> y córtala en tiras finas. </li>\n<li dir=\"ltr\">Pela y pica el <strong>ajo</strong>.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/693959bdc92924105eca2ab5/step-c75d4f10.jpg",
+          "path": "/693959bdc92924105eca2ab5/step-c75d4f10.jpg",
+          "caption": "Pollo al fuego",
+          "localImage": "/images/recipes/693959bdc92924105eca2ab5-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la sartén, agrega un chorrito de aceite y el ajo. Calienta a fuego medio y cocina 1-2 min.\nAñade el puerro y la cebolla, salpimienta y cocina tapado 3 min.\nCocina 4 min más sin la tapa, hasta que las verduras estén tiernas.\nAgrega la nata líquida y la nuez moscada.\nMezcla y lleva a ebullición, luego, cocina a fuego medio-alto 3-4 min o hasta que la salsa espese, removiendo.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Añade el <strong>puerro</strong> y la<strong> cebolla,</strong> <strong>sal</strong><strong>pimienta</strong> y cocina tapado 3 min.</li>\n<li dir=\"ltr\">Cocina 4 min más sin la tapa, hasta que las <strong>verduras</strong> estén tiernas.</li>\n<li dir=\"ltr\">Agrega la <strong>nata líquida </strong>y la <strong>nuez moscada.</strong></li>\n<li dir=\"ltr\">Mezcla y lleva a ebullición, luego, cocina a fuego medio-alto 3-4 min o hasta que la <strong>salsa</strong> espese, removiendo.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la sartén, agrega un chorrito de <strong>aceite</strong> y el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Añade el <strong>puerro</strong> y la<strong> cebolla,</strong> <strong>sal</strong><strong>pimienta</strong> y cocina tapado 3 min.</li>\n<li dir=\"ltr\">Cocina 4 min más sin la tapa, hasta que las <strong>verduras</strong> estén tiernas.</li>\n<li dir=\"ltr\">Agrega la <strong>nata líquida </strong>y la <strong>nuez moscada.</strong></li>\n<li dir=\"ltr\">Mezcla y lleva a ebullición, luego, cocina a fuego medio-alto 3-4 min o hasta que la <strong>salsa</strong> espese, removiendo.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/693959bdc92924105eca2ab5/step-82a22220.jpg",
+          "path": "/693959bdc92924105eca2ab5/step-82a22220.jpg",
+          "caption": "¡Al salseo!",
+          "localImage": "/images/recipes/693959bdc92924105eca2ab5-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nSirve la quinoa tricolor en un lado de los platos,\nAl otro lado, por separado, coloca el pollo y la salsa cremosa de puerro.\nAcaba el plato con el orégano.\n",
+      "instructionsHTML": "<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">Sirve la <strong>quinoa tricolor</strong> en un lado de los platos,</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Al otro lado, por separado, coloca el <strong>pollo</strong> y la <strong>salsa</strong> cremosa de <strong>puerro.</strong></span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Acaba el plato con el <strong>orégano.</strong></span></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">Sirve la <strong>quinoa tricolor</strong> en un lado de los platos,</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Al otro lado, por separado, coloca el <strong>pollo</strong> y la <strong>salsa</strong> cremosa de <strong>puerro.</strong></span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Acaba el plato con el <strong>orégano.</strong></span></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/693959bdc92924105eca2ab5/step-13ea1e30.jpg",
+          "path": "/693959bdc92924105eca2ab5/step-13ea1e30.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/693959bdc92924105eca2ab5-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESFQC0112-DP-1-2",
+  "updatedAt": "2025-12-11T07:37:09+00:00",
+  "utensils": [
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    }
+  ],
+  "uuid": "563f7a60-c9e3-406b-a7ff-cbb9f9a9b12b",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/extra-de-dados-de-pollo-con-salsa-cremosa-de-puerro-693959bdc92924105eca2ab5",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "660c47363f0f2e6d306d88d8",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 200,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 0.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "660c47363f0f2e6d306d88d8",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437b2268bc1bff0d3cd1",
+          "amount": 1800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "660c47363f0f2e6d306d88d8",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997960",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "6340437341033266d7be9520",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043742268bc1bff0d3cbc",
+          "amount": 1.5,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 900,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/693959bdc92924105eca2ab5-Extra de dados de pollo con salsa cremosa de puerro.jpg"
+}

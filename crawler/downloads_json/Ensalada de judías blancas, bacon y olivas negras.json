@@ -1,0 +1,773 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.3,
+  "canonical": "6808a4a13a1db6f3d2ac4772",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ensalada-de-judias-blancas-con-bacon-aceitunas-y-canonigos-6808a4a13a1db6f3d2ac4772",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/682c9afa7fe6dd267e29d787-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6808a4a13a1db6f3d2ac4772",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-05-20T15:08:43+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterránea ",
+      "slug": "mediterranea ",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg"
+    }
+  ],
+  "description": "¿Buscas una receta completa, sabrosa y, sobre todo, extremadamente rápida? Descubre esta ensalada en la que se combinan unas judías salteadas con bacon con olivas negras, tomate y canónigos para ofrecerte una cena saciante y diferente. ¡Que nunca más te aburra una ensalada!",
+  "descriptionHTML": "<p>¿Buscas una receta completa, sabrosa y, sobre todo, extremadamente rápida? Descubre esta ensalada en la que se combinan unas judías salteadas con bacon con olivas negras, tomate y canónigos para ofrecerte una cena saciante y diferente. ¡Que nunca más te aburra una ensalada!</p>",
+  "descriptionMarkdown": "¿Buscas una receta completa, sabrosa y, sobre todo, extremadamente rápida? Descubre esta ensalada en la que se combinan unas judías salteadas con bacon con olivas negras, tomate y canónigos para ofrecerte una cena saciante y diferente. ¡Que nunca más te aburra una ensalada!",
+  "difficulty": 1,
+  "favoritesCount": 8,
+  "headline": "con vinagreta de mostaza y miel",
+  "id": "682c9afa7fe6dd267e29d787",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R17_W31_ES_ESCFQP43704-2_Main_3_high-7501d966.jpg",
+  "imagePath": "/image/HF_Y25_R17_W31_ES_ESCFQP43704-2_Main_3_high-7501d966.jpg",
+  "ingredients": [
+    {
+      "id": "6437b676b11f6c1474a8a014",
+      "uuid": "02a11a36-e514-5fc6-9647-3567c5aae492",
+      "name": "Bacon",
+      "type": "bacon-lardons",
+      "slug": "bacon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6437b676b11f6c1474a8a014-9702ce9f.png",
+      "imagePath": "/ingredient/6437b676b11f6c1474a8a014-9702ce9f.png",
+      "shipped": true,
+      "allergens": [
+        "5b0532aaae08b52eb9420552",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6437b676b11f6c1474a8a014-Bacon.png"
+    },
+    {
+      "id": "63566c5eb174d9ebd3c35bc8",
+      "uuid": "180dba5b-4f37-51f9-80a9-efb9c27c5351",
+      "name": "Judías blancas",
+      "type": "cannellini-beans",
+      "slug": "judias-blancas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63566c5eb174d9ebd3c35bc8-f34b7bec.png",
+      "imagePath": "/ingredient/63566c5eb174d9ebd3c35bc8-f34b7bec.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63566c5eb174d9ebd3c35bc8-Judías blancas.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "634043722268bc1bff0d3cb3",
+      "uuid": "6fbc1448-f335-5219-86c6-01f9402a9f10",
+      "name": "Miel",
+      "type": "honey",
+      "slug": "miel",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb3-abb9484e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043722268bc1bff0d3cb3-Miel.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "63404374233160a36674ba11",
+      "uuid": "7667f2f1-c8ec-57dc-8f4f-d5213eae1e10",
+      "name": "Olivas negras",
+      "type": "olives",
+      "slug": "olivas-negras",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba11-4ca12fc7.png",
+      "imagePath": "/ingredient/63404374233160a36674ba11-4ca12fc7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba11-Olivas negras.png"
+    },
+    {
+      "id": "634043732268bc1bff0d3cb6",
+      "uuid": "2d495436-fcfc-468b-aaf8-dbb3a7c1018e",
+      "name": "Canónigos",
+      "type": "lambs-lettuce",
+      "slug": "canonigos",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043732268bc1bff0d3cb6-96d82224.jpg",
+      "imagePath": "/ingredient/634043732268bc1bff0d3cb6-96d82224.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043732268bc1bff0d3cb6-Canónigos.jpg"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Exprés",
+    "handle": "super-quick",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/682c9afa7fe6dd267e29d787",
+  "name": "Ensalada de judías blancas, bacon y olivas negras",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2339,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 559,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 37.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 8.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 39.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 10.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 20.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.95,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT15M",
+  "promotion": null,
+  "ratingsCount": 11,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 398,
+  "slug": "ensalada-de-judias-blancas-bacon-y-olivas-negras",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nEn una sartén, calienta un chorrito de aceite a fuego medio. Cocina el bacon 4-5 min, removiendo, hasta que esté crujiente.\nEscurre las judías blancas y añádelas a la sartén.\nSalpimienta y cocina 3 min, removiendo.\nRetira de la sartén y reserva.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>bacon</strong> 4-5 min, removiendo, hasta que esté crujiente.</li>\n<li>Escurre las <strong>judías blancas</strong> y añádelas a la sartén.</li>\n<li><strong>Salpimienta</strong> y cocina 3 min, removiendo.</li>\n<li>Retira de la sartén y reserva.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>bacon</strong> 4-5 min, removiendo, hasta que esté crujiente.</li>\n<li>Escurre las <strong>judías blancas</strong> y añádelas a la sartén.</li>\n<li><strong>Salpimienta</strong> y cocina 3 min, removiendo.</li>\n<li>Retira de la sartén y reserva.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375",
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9afa7fe6dd267e29d787/step-43177b00.jpg",
+          "path": "/682c9afa7fe6dd267e29d787/step-43177b00.jpg",
+          "caption": "Cocina el bacon",
+          "localImage": "/images/recipes/682c9afa7fe6dd267e29d787-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nCorta el tomate en dados pequeños.\nEn una ensaladera, mezcla con varillas la mostaza, la miel, el vinagre balsámico, un chorrito de aceite, sal y pimienta.\n",
+      "instructionsHTML": "<ul>\n<li>Corta el <strong>tomate</strong> en dados pequeños.</li>\n<li>En una ensaladera, mezcla con varillas la <strong>mostaza,</strong> la <strong>miel,</strong> el <strong>vinagre balsámico,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Corta el <strong>tomate</strong> en dados pequeños.</li>\n<li>En una ensaladera, mezcla con varillas la <strong>mostaza,</strong> la <strong>miel,</strong> el <strong>vinagre balsámico,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305384",
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9afa7fe6dd267e29d787/step-9d0ce310.jpg",
+          "path": "/682c9afa7fe6dd267e29d787/step-9d0ce310.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/682c9afa7fe6dd267e29d787-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn la ensaladera, agrega las judías blancas con bacon, el tomate y las olivas negras y mezcla.\nAñade los canónigos y mezcla de nuevo con cuidado.\n",
+      "instructionsHTML": "<ul>\n<li>En la ensaladera, agrega las <strong>judías blancas</strong> con <strong>bacon,</strong> el <strong>tomate</strong> y las <strong>olivas negras</strong> y mezcla.</li>\n<li>Añade los <strong>canónigos</strong> y mezcla de nuevo con cuidado.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la ensaladera, agrega las <strong>judías blancas</strong> con <strong>bacon,</strong> el <strong>tomate</strong> y las <strong>olivas negras</strong> y mezcla.</li>\n<li>Añade los <strong>canónigos</strong> y mezcla de nuevo con cuidado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9afa7fe6dd267e29d787/step-62514a20.jpg",
+          "path": "/682c9afa7fe6dd267e29d787/step-62514a20.jpg",
+          "caption": "Acaba la ensalada",
+          "localImage": "/images/recipes/682c9afa7fe6dd267e29d787-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nPrueba la ensalada y rectifica de sal y pimienta.\nSirve la ensalada de judías blancas en platos.\n",
+      "instructionsHTML": "<ul>\n<li>Prueba la <strong>ensalada</strong> y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Sirve la <strong>ensalada</strong> de <strong>judías blancas</strong> en platos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Prueba la <strong>ensalada</strong> y rectifica de <strong>sal</strong> y <strong>pimienta.</strong></li>\n<li>Sirve la <strong>ensalada</strong> de <strong>judías blancas</strong> en platos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/682c9afa7fe6dd267e29d787/step-a9ad4d30.jpg",
+          "path": "/682c9afa7fe6dd267e29d787/step-a9ad4d30.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/682c9afa7fe6dd267e29d787-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "6566f7d63bae852974651021",
+      "type": "prepped-in-10",
+      "name": "Preparación en 10'",
+      "slug": "preparacion-en-10",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "62163c70143a35226e03d85e",
+      "type": "super-quick",
+      "name": "Exprés",
+      "slug": "expres",
+      "colorHandle": "quickPrep",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT10M",
+  "uniqueRecipeCode": "ESCFQP43704-2",
+  "updatedAt": "2026-01-29T17:48:55+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "b1a8f7de-2b8a-4e85-a191-ca27ce364747",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ensalada-de-judias-blancas-bacon-y-olivas-negras-682c9afa7fe6dd267e29d787",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6437b676b11f6c1474a8a014",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63566c5eb174d9ebd3c35bc8",
+          "amount": 390,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba11",
+          "amount": 1,
+          "unit": "paquete"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb6",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6437b676b11f6c1474a8a014",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63566c5eb174d9ebd3c35bc8",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba11",
+          "amount": 2,
+          "unit": "paquete"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb6",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6437b676b11f6c1474a8a014",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63566c5eb174d9ebd3c35bc8",
+          "amount": 1170,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043722268bc1bff0d3cb3",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63404374233160a36674ba11",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "634043732268bc1bff0d3cb6",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 2,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/682c9afa7fe6dd267e29d787-Ensalada de judías blancas, bacon y olivas negras.jpg",
+  "localCard": "/pdf/682c9afa7fe6dd267e29d787-Ensalada de judías blancas, bacon y olivas negras.pdf"
+}

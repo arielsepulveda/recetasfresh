@@ -1,0 +1,830 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f8",
+      "name": "Cacahuetes",
+      "type": "peanuts",
+      "slug": "cacahuetes",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.1,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/66b335f0a1293bffe8e02d92-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "65d5c13e2fd93ee7e59ee118",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-09-19T07:03:35+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusión",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg"
+    }
+  ],
+  "description": "La mezcla de queso y dulce es una combinación que ha existido por siglos y que ha tenido éxito por la adictiva combinación del salado del queso con la dulzura, en este caso, de la mermelada. Desde mesas mediterráneas hasta la cocina francesa, esta delicia sigue siendo popular y versátil, siendo perfecta para picar o como parte de un postre.",
+  "descriptionHTML": "<p>La mezcla de queso y dulce es una combinación que ha existido por siglos y que ha tenido éxito por la adictiva combinación del salado del queso con la dulzura, en este caso, de la mermelada. Desde mesas mediterráneas hasta la cocina francesa, esta delicia sigue siendo popular y versátil, siendo perfecta para picar o como parte de un postre.</p>",
+  "descriptionMarkdown": "La mezcla de queso y dulce es una combinación que ha existido por siglos y que ha tenido éxito por la adictiva combinación del salado del queso con la dulzura, en este caso, de la mermelada. Desde mesas mediterráneas hasta la cocina francesa, esta delicia sigue siendo popular y versátil, siendo perfecta para picar o como parte de un postre.",
+  "difficulty": 1,
+  "favoritesCount": 26,
+  "headline": "con patatas asadas y ensalada",
+  "id": "66b335f0a1293bffe8e02d92",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R09_W43_ES_ESFVV23170-2_Main_high-4ea7658a.jpg",
+  "imagePath": "/image/HF_Y24_R09_W43_ES_ESFVV23170-2_Main_high-4ea7658a.jpg",
+  "ingredients": [
+    {
+      "id": "6340437141033266d7be9519",
+      "uuid": "d2e5fa55-596e-4c1c-9284-209ef34a844b",
+      "name": "Queso estilo chipriota",
+      "type": "grill-cheese",
+      "slug": "queso-estilo-chipriota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437141033266d7be9519-79039dfb.png",
+      "imagePath": "/ingredient/6340437141033266d7be9519-79039dfb.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437141033266d7be9519-Queso estilo chipriota.png"
+    },
+    {
+      "id": "63404376233160a36674ba18",
+      "uuid": "d67e98f2-2774-5b94-b51a-359ed028712e",
+      "name": "Patata",
+      "type": "potato",
+      "slug": "patata",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "imagePath": "/ingredient/63404376233160a36674ba18-5b9855bb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba18-Patata.png"
+    },
+    {
+      "id": "6369182b27b0db08e0fb84ac",
+      "uuid": "f13fc02a-596a-5a90-8e09-1a8cc459126b",
+      "name": "Panko",
+      "type": "panko-breadcrumbs",
+      "slug": "panko",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6369182b27b0db08e0fb84ac-6854f2b5.png",
+      "imagePath": "/ingredient/6369182b27b0db08e0fb84ac-6854f2b5.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6369182b27b0db08e0fb84ac-Panko.png"
+    },
+    {
+      "id": "636bc5ee371ed3efb1da61da",
+      "uuid": "14c309a3-f0b6-54cd-bd8a-8616ef0b8482",
+      "name": "Cacahuetes salados",
+      "type": "salted-peanuts",
+      "slug": "cacahuetes-salados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636bc5ee371ed3efb1da61da-1367b68c.png",
+      "imagePath": "/ingredient/636bc5ee371ed3efb1da61da-1367b68c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f8",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636bc5ee371ed3efb1da61da-Cacahuetes salados.png"
+    },
+    {
+      "id": "6340436b41033266d7be9505",
+      "uuid": "9a94a307-a64d-5b85-962a-663dff0b143e",
+      "name": "Cogollos de lechuga",
+      "type": "baby-gem-lettuce",
+      "slug": "cogollos-de-lechuga",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9505-Cogollos de lechuga.png"
+    },
+    {
+      "id": "65085f3f53d80a0362113850",
+      "uuid": "72987973-23de-4d00-95f8-bb9d5368161e",
+      "name": "Confitura de fresa",
+      "type": "strawberry-jam",
+      "slug": "confitura-de-fresa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65085f3f53d80a0362113850-d63a941a.png",
+      "imagePath": "/ingredient/65085f3f53d80a0362113850-d63a941a.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65085f3f53d80a0362113850-Confitura de fresa.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "6401bf4110ddad6ab9e14a04",
+      "uuid": "f84f0b08-d735-4233-a241-ae019419e3ff",
+      "name": "Harina",
+      "type": "flour-in-tbsp",
+      "slug": "harina",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "imagePath": "/ingredient/6401bf4110ddad6ab9e14a04-5982311f.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6401bf4110ddad6ab9e14a04-Harina.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    },
+    {
+      "id": "634928a2e9568549b78497e1",
+      "uuid": "f099a1c2-6d5f-42a2-a188-cad2ad1b6d5f",
+      "name": "Aceite para freír",
+      "type": "sunflower-oil",
+      "slug": "aceite-para-freir",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "imagePath": "/ingredient/634928a2e9568549b78497e1-9470fcdf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634928a2e9568549b78497e1-Aceite para freír.png"
+    },
+    {
+      "id": "63492b7fe9568549b78497e6",
+      "uuid": "3d1a4c15-472d-444c-a346-4ef47b09f8bf",
+      "name": "Vinagre",
+      "type": "red-wine-vinegar",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "imagePath": "/ingredient/63492b7fe9568549b78497e6-48f3c421.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b7fe9568549b78497e6-Vinagre.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/66b335f0a1293bffe8e02d92",
+  "name": "Queso estilo chipriota frito con mermelada",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 4640,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 1109,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 77.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 23.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 65.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 17.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 2.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 31.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.62,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 27,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 552,
+  "slug": "queso-chipriota-frito-mermelada-ensalada-patatas",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las patatas por la mitad a lo largo, luego, apoya la patata por la parte plana y corta en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de aceite, sal y pimienta. Mezcla y hornea a media altura 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las <strong>patatas</strong> por la mitad a lo largo, luego, apoya la <strong>patata</strong> por la parte plana y corta en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Mezcla y hornea a media altura 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 220ºC. Corta las <strong>patatas</strong> por la mitad a lo largo, luego, apoya la <strong>patata</strong> por la parte plana y corta en gajos de 1-2 cm de grosor. Colócalos en una bandeja de horno con papel de horno y agrega un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Mezcla y hornea a media altura 20-25 min o hasta que estén doradas. Dales la vuelta a mitad de cocción.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f0a1293bffe8e02d92/step-ca05b300.jpg",
+          "path": "/66b335f0a1293bffe8e02d92/step-ca05b300.jpg",
+          "caption": "Hornea las patatas",
+          "localImage": "/images/recipes/66b335f0a1293bffe8e02d92-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Seca el queso estilo chipriota con papel de cocina y córtalo en cubos de 2 cm. En un plato, agrega la harina (ver cantidad en ingredientes). En un plato hondo, bate el huevo (ver cantidad en ingredientes). Finalmente, en otro plato, agrega el panko. Luego, enharina el queso y, a continuación, agrégalo al plato del huevo y cúbrelo. Por último, rebózalo en panko. Presiona ligeramente para que el panko quede bien adherido.",
+      "instructionsHTML": "<p>Seca el <strong>queso estilo chipriota</strong> con papel de cocina y córtalo en cubos de 2 cm. En un plato, agrega la <strong>harina</strong> (ver cantidad en ingredientes). En un plato hondo, bate el <strong>huevo</strong> (ver cantidad en ingredientes). Finalmente, en otro plato, agrega el <strong>panko.</strong> Luego, enharina el <strong>queso</strong> y, a continuación, agrégalo al plato del <strong>huevo</strong> y cúbrelo. Por último, rebózalo en <strong>panko.</strong> Presiona ligeramente para que el <strong>panko</strong> quede bien adherido.</p>",
+      "instructionsMarkdown": "<p>Seca el <strong>queso estilo chipriota</strong> con papel de cocina y córtalo en cubos de 2 cm. En un plato, agrega la <strong>harina</strong> (ver cantidad en ingredientes). En un plato hondo, bate el <strong>huevo</strong> (ver cantidad en ingredientes). Finalmente, en otro plato, agrega el <strong>panko.</strong> Luego, enharina el <strong>queso</strong> y, a continuación, agrégalo al plato del <strong>huevo</strong> y cúbrelo. Por último, rebózalo en <strong>panko.</strong> Presiona ligeramente para que el <strong>panko</strong> quede bien adherido.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff525",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f0a1293bffe8e02d92/step-4c4ba710.jpg",
+          "path": "/66b335f0a1293bffe8e02d92/step-4c4ba710.jpg",
+          "caption": "Reboza el queso",
+          "localImage": "/images/recipes/66b335f0a1293bffe8e02d92-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En una sartén, calienta el aceite para freír (ver cantidad en ingredientes) a fuego medio. Una vez caliente, fríe el queso rebozado 3-4 min, girándolo ocasionalmente, hasta que se dore toda la superficie. Retira con pinzas cuando esté listo y reserva en un plato con papel de cocina para eliminar el exceso de grasa.",
+      "instructionsHTML": "<p>En una sartén, calienta el <strong>aceite para freír</strong> (ver cantidad en ingredientes) a fuego medio. Una vez caliente, fríe el <strong>queso</strong> rebozado 3-4 min, girándolo ocasionalmente, hasta que se dore toda la superficie. Retira con pinzas cuando esté listo y reserva en un plato con papel de cocina para eliminar el exceso de grasa.</p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta el <strong>aceite para freír</strong> (ver cantidad en ingredientes) a fuego medio. Una vez caliente, fríe el <strong>queso</strong> rebozado 3-4 min, girándolo ocasionalmente, hasta que se dore toda la superficie. Retira con pinzas cuando esté listo y reserva en un plato con papel de cocina para eliminar el exceso de grasa.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b",
+        "57e2674fb7e8697d4b305375",
+        "59d49a9419279f8fe60e867b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f0a1293bffe8e02d92/step-10ccd920.jpg",
+          "path": "/66b335f0a1293bffe8e02d92/step-10ccd920.jpg",
+          "caption": "Fríe el queso",
+          "localImage": "/images/recipes/66b335f0a1293bffe8e02d92-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Con la base de un cazo, aplasta los cacahuetes en su propia bolsa para picarlos. Corta los cogollos de lechuga por la mitad a lo largo, luego, apoya la parte plana y corta en tiras finas. En una ensaladera, mezcla los cacahuetes, el vinagre de vino tinto (ver cantidad en ingredientes), un chorrito de aceite, sal y pimienta. Luego, agrega la lechuga y mezcla bien.",
+      "instructionsHTML": "<p>Con la base de un cazo, aplasta los <strong>cacahuetes</strong> en su propia bolsa para picarlos. Corta los <strong>cogollos de lechuga</strong> por la mitad a lo largo, luego, apoya la parte plana y corta en tiras finas. En una ensaladera, mezcla los <strong>cacahuetes,</strong> el <strong>vinagre de vino tinto</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Luego, agrega la <strong>lechuga</strong> y mezcla bien.</p>",
+      "instructionsMarkdown": "<p>Con la base de un cazo, aplasta los <strong>cacahuetes</strong> en su propia bolsa para picarlos. Corta los <strong>cogollos de lechuga</strong> por la mitad a lo largo, luego, apoya la parte plana y corta en tiras finas. En una ensaladera, mezcla los <strong>cacahuetes,</strong> el <strong>vinagre de vino tinto</strong> (ver cantidad en ingredientes), un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong> Luego, agrega la <strong>lechuga</strong> y mezcla bien.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f0a1293bffe8e02d92/step-475ee430.jpg",
+          "path": "/66b335f0a1293bffe8e02d92/step-475ee430.jpg",
+          "caption": "Prepara la ensalada",
+          "localImage": "/images/recipes/66b335f0a1293bffe8e02d92-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En un bol, mezcla la confitura de fresa junto con un chorrito de agua, de forma que quede más líquida.",
+      "instructionsHTML": "<p>En un bol, mezcla la <strong>confitura de fresa</strong> junto con un chorrito de <strong>agua,</strong> de forma que quede más líquida.</p>",
+      "instructionsMarkdown": "<p>En un bol, mezcla la <strong>confitura de fresa</strong> junto con un chorrito de <strong>agua,</strong> de forma que quede más líquida.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f0a1293bffe8e02d92/step-4a880840.jpg",
+          "path": "/66b335f0a1293bffe8e02d92/step-4a880840.jpg",
+          "caption": "Prepara la salsa",
+          "localImage": "/images/recipes/66b335f0a1293bffe8e02d92-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Sirve las patatas al horno y la ensalada en un lado de los platos, por separado. Al otro lado, coloca el queso frito y acompaña con la confitura de fresa.",
+      "instructionsHTML": "<p>Sirve las <strong>patatas</strong> al horno y la <strong>ensalada</strong> en un lado de los platos, por separado. Al otro lado, coloca el <strong>queso</strong> frito y acompaña con la <strong>confitura</strong> <strong>de fresa</strong>.</p>",
+      "instructionsMarkdown": "<p>Sirve las <strong>patatas</strong> al horno y la <strong>ensalada</strong> en un lado de los platos, por separado. Al otro lado, coloca el <strong>queso</strong> frito y acompaña con la <strong>confitura</strong> <strong>de fresa</strong>.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/66b335f0a1293bffe8e02d92/step-79adb750.jpg",
+          "path": "/66b335f0a1293bffe8e02d92/step-79adb750.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/66b335f0a1293bffe8e02d92-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "633d9cf602350052370f895a",
+      "type": "climate-conscious",
+      "name": "Menos CO2",
+      "slug": "menos-co2",
+      "colorHandle": "veggie",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "5f195acee60c1276593d855b",
+      "type": "new",
+      "name": "Novedad",
+      "slug": "novedad",
+      "colorHandle": "regular",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESFVV23170-2",
+  "updatedAt": "2026-01-21T14:00:20+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "5e3ad24dfcf61c18c30ff525",
+      "type": null,
+      "name": "Plato hondo"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Plato"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "59d49a9419279f8fe60e867b",
+      "type": "tongs",
+      "name": "Pinzas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "b8583659-b7ca-4aec-ba3d-38f4eeecbbcc",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/queso-chipriota-frito-mermelada-ensalada-patatas-66b335f0a1293bffe8e02d92",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437141033266d7be9519",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6369182b27b0db08e0fb84ac",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "65085f3f53d80a0362113850",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 150,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437141033266d7be9519",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404376233160a36674ba18",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6369182b27b0db08e0fb84ac",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 440,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "65085f3f53d80a0362113850",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "6401bf4110ddad6ab9e14a04",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634928a2e9568549b78497e1",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b7fe9568549b78497e6",
+          "amount": 4,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/66b335f0a1293bffe8e02d92-Queso estilo chipriota frito con mermelada.jpg",
+  "localCard": "/pdf/66b335f0a1293bffe8e02d92-Queso estilo chipriota frito con mermelada.pdf"
+}

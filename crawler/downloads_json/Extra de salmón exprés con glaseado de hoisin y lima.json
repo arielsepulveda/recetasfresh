@@ -1,0 +1,747 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "name": "Pescado",
+      "type": "fish",
+      "slug": "pescado",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "65f1c33a97477827aca4f1a1",
+  "canonicalLink": "https://www.hellofresh.es/recipes/salmon-glaseado-con-salsa-hoisin-con-pack-choi-en-vinagreta-citrica-65f1c33a97477827aca4f1a1",
+  "cardLink": null,
+  "category": null,
+  "clonedFrom": "6945197a39d4849fb457552a",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-22T13:50:27+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiática",
+      "slug": "asiatica",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg"
+    }
+  ],
+  "description": "¿Conocías el pak choi? Si te entusiasma la gastronomía asiática, probablemente ya lo hayas probado, pues este ingrediente es originario de China, donde hacen uso de él en variedad de platos y preparaciones. En esta receta, acompaña un salmón con glaseado de hoisin y lima que podrás preparar en tan solo 15 minutos.",
+  "descriptionHTML": "<p>¿Conocías el pak choi? Si te entusiasma la gastronomía asiática, probablemente ya lo hayas probado, pues este ingrediente es originario de China, donde hacen uso de él en variedad de platos y preparaciones. En esta receta, acompaña un salmón con glaseado de hoisin y lima que podrás preparar en tan solo 15 minutos.</p>",
+  "descriptionMarkdown": "¿Conocías el pak choi? Si te entusiasma la gastronomía asiática, probablemente ya lo hayas probado, pues este ingrediente es originario de China, donde hacen uso de él en variedad de platos y preparaciones. En esta receta, acompaña un salmón con glaseado de hoisin y lima que podrás preparar en tan solo 15 minutos.",
+  "difficulty": 1,
+  "favoritesCount": 2,
+  "headline": "con pak choi, mayonesa cítrica y arroz con zanahoria",
+  "id": "69494ca23e57376810f983ef",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R24_W05_ES_ESCQF23787-4_Main_high-4e8678d4.jpg",
+  "imagePath": "/image/HF_Y26_R24_W05_ES_ESCQF23787-4_Main_high-4e8678d4.jpg",
+  "ingredients": [
+    {
+      "id": "6340437241033266d7be951d",
+      "uuid": "ff045bdb-fe2c-58b4-bd0c-c0ccbddd8a2d",
+      "name": "Arroz jazmín",
+      "type": "jasmine-rice",
+      "slug": "arroz-jazmin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "imagePath": "/ingredient/6340437241033266d7be951d-ad6b8a9f.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437241033266d7be951d-Arroz jazmín.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "6340437541033266d7be9524",
+      "uuid": "f76c5fff-a3b7-56d0-b342-50d61ca74613",
+      "name": "Pak choi",
+      "type": "pak-choi",
+      "slug": "pak-choi",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437541033266d7be9524-0efffda2.jpg",
+      "imagePath": "/ingredient/6340437541033266d7be9524-0efffda2.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437541033266d7be9524-Pak choi.jpg"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "686db75ca5a49c635d8a15ef",
+      "uuid": "e27b110b-467b-50bb-90ba-de73cb061683",
+      "name": "Salsa hoisin",
+      "type": "hoisin-sauce",
+      "slug": "salsa-hoisin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb2-ed9e85f9.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb2-ed9e85f9.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052fe",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/686db75ca5a49c635d8a15ef-Salsa hoisin.png"
+    },
+    {
+      "id": "635f88bb5ebcac2718d2fee9",
+      "uuid": "a69c7668-a546-418e-a0af-ec9b23156b6b",
+      "name": "Salmón noruego",
+      "type": "salmon",
+      "slug": "salmon-noruego",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/635f88bb5ebcac2718d2fee9-2c8d6e62.png",
+      "imagePath": "/ingredient/635f88bb5ebcac2718d2fee9-2c8d6e62.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f7"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/635f88bb5ebcac2718d2fee9-Salmón noruego.png"
+    },
+    {
+      "id": "67bd8172c26c652538b7bb06",
+      "uuid": "299fb038-5b86-57dd-95ba-4be0826d42cb",
+      "name": "Mayonesa",
+      "type": "mayonnaise",
+      "slug": "mayonesa",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "imagePath": "/ingredient/67bd8172c26c652538b7bb06-660658a2.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f6"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67bd8172c26c652538b7bb06-Mayonesa.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Exprés",
+    "handle": "super-quick",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#1A5DB6",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/69494ca23e57376810f983ef",
+  "name": "Extra de salmón exprés con glaseado de hoisin y lima",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3989,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 953,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 57.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 9.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 79.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 50.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 0.94,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT15M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 475,
+  "slug": "extra-de-salmon-expres-con-glaseado-de-hoisin-y-lima",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nLlena un cazo con el agua y añade sal. Tápalo y llévalo a ebullición.\nCuando hierva, añade el arroz, y cocina a fuego a medio-bajo 12 min. Remueve ocasionalmente.\nUna vez cocinado, déjalo reposar. Después, remueve y reserva en el cazo tapado.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua</strong> y añade <strong>sal.</strong> Tápalo y llévalo a ebullición.</li>\n<li>Cuando hierva, añade el <strong>arroz,</strong> y cocina a fuego a medio-bajo 12 min. Remueve ocasionalmente.</li>\n<li>Una vez cocinado, déjalo reposar. Después, remueve y reserva en el cazo tapado.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Llena un cazo con el <strong>agua</strong> y añade <strong>sal.</strong> Tápalo y llévalo a ebullición.</li>\n<li>Cuando hierva, añade el <strong>arroz,</strong> y cocina a fuego a medio-bajo 12 min. Remueve ocasionalmente.</li>\n<li>Una vez cocinado, déjalo reposar. Después, remueve y reserva en el cazo tapado.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538",
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69494ca23e57376810f983ef/step-22235e00.jpg",
+          "path": "/69494ca23e57376810f983ef/step-22235e00.jpg",
+          "caption": "Arroz en marcha",
+          "localImage": "/images/recipes/69494ca23e57376810f983ef-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nRalla la zanahoria.\nCorta el pak choi por la mitad a lo largo.\nRalla la piel de la mitad de la lima. \nEn una sartén, calienta un chorrito de aceite a fuego medio. Agrega el pak choi y cocina 2-3 min por lado, hasta que se dore.\nAgrega un chorrito de agua, tapa y cocina 3 min más o hasta que quede tierno.\nSalpimienta y retira de la sartén.\n",
+      "instructionsHTML": "<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">Ralla la <strong>zanahoria.</strong></span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Corta el <strong>pak choi</strong> por la mitad a lo largo.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Ralla la piel de la mitad de la <strong>lima</strong>. </span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. </span><span style=\"color: rgb(0, 0, 0)\">Agrega el <strong>pak choi</strong> y cocina 2-3 min por lado, hasta que se dore.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Agrega un chorrito de <strong>agua,</strong> tapa y cocina 3 min más o hasta que quede tierno.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\"><strong>Salpimienta</strong> y retira de la sartén.</span></li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">Ralla la <strong>zanahoria.</strong></span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Corta el <strong>pak choi</strong> por la mitad a lo largo.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Ralla la piel de la mitad de la <strong>lima</strong>. </span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. </span><span style=\"color: rgb(0, 0, 0)\">Agrega el <strong>pak choi</strong> y cocina 2-3 min por lado, hasta que se dore.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Agrega un chorrito de <strong>agua,</strong> tapa y cocina 3 min más o hasta que quede tierno.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\"><strong>Salpimienta</strong> y retira de la sartén.</span></li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "57e2674fb7e8697d4b305375",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69494ca23e57376810f983ef/step-9b7ba410.jpg",
+          "path": "/69494ca23e57376810f983ef/step-9b7ba410.jpg",
+          "caption": "Pak choi al fuego",
+          "localImage": "/images/recipes/69494ca23e57376810f983ef-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn un bol, mezcla la salsa hoisin, un chorrito de agua y zumo de lima al gusto.\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Agrega el salmón, salpimienta y cocina 2 min por lado, hasta que quede dorado por fuera y cocinado por dentro.\nAgrega la salsa del bol y cocina 30 segundos, hasta que espese y cubra el salmón.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.",
+      "instructionsHTML": "<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">En un bol, mezcla la <strong>salsa hoisin</strong>, un chorrito de <strong>agua</strong> y zumo de <strong>lima</strong> al gusto.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>salmón</strong>, <strong>salpimienta</strong> y cocina 2 min por lado, hasta que quede dorado por fuera y cocinado por dentro.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Agrega la <strong>salsa</strong> del bol y cocina 30 segundos, hasta que espese y cubra el <strong>salmón.</strong></span></li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "instructionsMarkdown": "<ul>\n<li><span style=\"color: rgb(0, 0, 0)\">En un bol, mezcla la <strong>salsa hoisin</strong>, un chorrito de <strong>agua</strong> y zumo de <strong>lima</strong> al gusto.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Agrega el <strong>salmón</strong>, <strong>salpimienta</strong> y cocina 2 min por lado, hasta que quede dorado por fuera y cocinado por dentro.</span></li>\n<li><span style=\"color: rgb(0, 0, 0)\">Agrega la <strong>salsa</strong> del bol y cocina 30 segundos, hasta que espese y cubra el <strong>salmón.</strong></span></li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular pescado crudo.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69494ca23e57376810f983ef/step-1c0d6420.jpg",
+          "path": "/69494ca23e57376810f983ef/step-1c0d6420.jpg",
+          "caption": "Turno del salmón",
+          "localImage": "/images/recipes/69494ca23e57376810f983ef-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nUna vez el arroz esté listo, agrega la zanahoria al cazo y mezcla bien.\nSirve el arroz en platos y coloca el salmón y el pak choi a un lado.\nEn un bol, mezcla la mayonesa, ralladura de lima y zumo de lima al gusto.\nAñade al plato la mayonesa cítrica y zumo de lima al gusto.\n",
+      "instructionsHTML": "<ul>\n<li>Una vez el <strong>arroz</strong> esté listo, agrega la <strong>zanahoria</strong> al cazo y mezcla bien.</li>\n<li>Sirve el <strong>arroz</strong> en platos y coloca el <strong>salmón</strong> y el <strong>pak choi</strong> a un lado.</li>\n<li>En un bol, mezcla la <strong>mayonesa</strong>, ralladura de <strong>lima</strong> y zumo de <strong>lima</strong> al gusto.</li>\n<li>Añade al plato la <strong>mayonesa</strong> <strong>cítrica</strong> y zumo de <strong>lima</strong> al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Una vez el <strong>arroz</strong> esté listo, agrega la <strong>zanahoria</strong> al cazo y mezcla bien.</li>\n<li>Sirve el <strong>arroz</strong> en platos y coloca el <strong>salmón</strong> y el <strong>pak choi</strong> a un lado.</li>\n<li>En un bol, mezcla la <strong>mayonesa</strong>, ralladura de <strong>lima</strong> y zumo de <strong>lima</strong> al gusto.</li>\n<li>Añade al plato la <strong>mayonesa</strong> <strong>cítrica</strong> y zumo de <strong>lima</strong> al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/69494ca23e57376810f983ef/step-0b8b5130.jpg",
+          "path": "/69494ca23e57376810f983ef/step-0b8b5130.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/69494ca23e57376810f983ef-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "62163c70143a35226e03d85e",
+      "type": "super-quick",
+      "name": "Exprés",
+      "slug": "expres",
+      "colorHandle": "quickPrep",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "5ed7c2835744cb08f60b5d8d",
+      "type": "quick-prep",
+      "name": "Preparación en 15'",
+      "slug": "preparacion-en-15",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT15M",
+  "uniqueRecipeCode": "ESCQF23787-DP-1-2",
+  "updatedAt": "2026-01-23T15:19:52+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "c6443dcf-35fc-4f6b-83a4-44e1c1712cd5",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/extra-de-salmon-expres-con-glaseado-de-hoisin-y-lima-69494ca23e57376810f983ef",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437541033266d7be9524",
+          "amount": 110,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "686db75ca5a49c635d8a15ef",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 300,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437541033266d7be9524",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "686db75ca5a49c635d8a15ef",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 600,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340437241033266d7be951d",
+          "amount": 450,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437541033266d7be9524",
+          "amount": 330,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "686db75ca5a49c635d8a15ef",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "635f88bb5ebcac2718d2fee9",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "67bd8172c26c652538b7bb06",
+          "amount": 9,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 900,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/69494ca23e57376810f983ef-Extra de salmón exprés con glaseado de hoisin y lima.jpg"
+}

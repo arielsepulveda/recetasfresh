@@ -1,0 +1,741 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "name": "Apio",
+      "type": "celery",
+      "slug": "apio",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.7,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/orzo-chalota-portobello-queso-638a21156f291b76a7d59177-fa2afb6b.pdf",
+  "category": null,
+  "clonedFrom": "6347ef44e9568549b7849795",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2022-12-02T16:00:21+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterránea ",
+      "slug": "mediterranea ",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg"
+    }
+  ],
+  "description": "Aunque puede que ya conozcas el orzo, te proponemos que lo pruebes en esta receta en la que se cocina para que quede cremoso y lo combinamos con setas portobello y chalota frita que, además de aportar un gran sabor al plato, proporciona una textura que contrasta con el orzo y las setas, creando un plato diferente y divertido.",
+  "descriptionHTML": "<p>Aunque puede que ya conozcas el orzo, te proponemos que lo pruebes en esta receta en la que se cocina para que quede cremoso y lo combinamos con setas portobello y chalota frita que, además de aportar un gran sabor al plato, proporciona una textura que contrasta con el orzo y las setas, creando un plato diferente y divertido.</p>",
+  "descriptionMarkdown": "Aunque puede que ya conozcas el orzo, te proponemos que lo pruebes en esta receta en la que se cocina para que quede cremoso y lo combinamos con setas portobello y chalota frita que, además de aportar un gran sabor al plato, proporciona una textura que contrasta con el orzo y las setas, creando un plato diferente y divertido.",
+  "difficulty": 1,
+  "favoritesCount": 45,
+  "headline": "queso crema al limón y queso italiano curado",
+  "id": "638a21156f291b76a7d59177",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF210618_R14_W31_NL_R1205-8_MB_Main_high-660034da.jpg",
+  "imagePath": "/image/HF210618_R14_W31_NL_R1205-8_MB_Main_high-660034da.jpg",
+  "ingredients": [
+    {
+      "id": "634043782268bc1bff0d3ccb",
+      "uuid": "26d69601-21cf-5e86-bf40-c3c5f44f95b1",
+      "name": "Chalota",
+      "type": "shallot",
+      "slug": "chalota",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "imagePath": "/ingredient/634043782268bc1bff0d3ccb-7b2009d7.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043782268bc1bff0d3ccb-Chalota.png"
+    },
+    {
+      "id": "63404376233160a36674ba19",
+      "uuid": "87dc56ae-88e0-530d-bd62-be00baab053b",
+      "name": "Portobello",
+      "type": "portobello-mushroom",
+      "slug": "portobello",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404376233160a36674ba19-66c19148.png",
+      "imagePath": "/ingredient/63404376233160a36674ba19-66c19148.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404376233160a36674ba19-Portobello.png"
+    },
+    {
+      "id": "6340437341033266d7be9521",
+      "uuid": "8f9a7fd7-c4e7-5238-9e69-a27831a2b2b0",
+      "name": "Limón",
+      "type": "lemon",
+      "slug": "limon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "imagePath": "/ingredient/6340437341033266d7be9521-3db8c1f8.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9521-Limón.png"
+    },
+    {
+      "id": "63404379233160a36674ba26",
+      "uuid": "e9bd46be-d9c7-575a-9fa6-a07770922b8d",
+      "name": "Estragón",
+      "type": "tarragon",
+      "slug": "estragon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba26-3709d4c1.jpg",
+      "imagePath": "/ingredient/63404379233160a36674ba26-3709d4c1.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba26-Estragón.jpg"
+    },
+    {
+      "id": "634d1e6cebf08332f1bff1a0",
+      "uuid": "a60633dc-e736-5ba7-af65-c2ad6efa5fc0",
+      "name": "Orzo",
+      "type": "orzo",
+      "slug": "orzo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1e6cebf08332f1bff1a0-4e790a00.png",
+      "imagePath": "/ingredient/634d1e6cebf08332f1bff1a0-4e790a00.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1e6cebf08332f1bff1a0-Orzo.png"
+    },
+    {
+      "id": "6340436f2268bc1bff0d3ca7",
+      "uuid": "0573d27a-3723-5510-a6f6-87800ca747ff",
+      "name": "Queso crema",
+      "type": "cream-cheese",
+      "slug": "queso-crema",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "imagePath": "/ingredient/6340436f2268bc1bff0d3ca7-6e92e5d7.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f2268bc1bff0d3ca7-Queso crema.png"
+    },
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "63481b08bb36093c54997962",
+      "uuid": "a5b290da-5743-43b6-8c7c-f9474186eb52",
+      "name": "Caldo vegetal",
+      "type": "granular-vegetable-broth",
+      "slug": "caldo-vegetal",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "imagePath": "/ingredient/63481b08bb36093c54997962-580054bd.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fc"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63481b08bb36093c54997962-Caldo vegetal.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63492815ebf08332f1bff156",
+      "uuid": "70c9720a-4de7-435e-a86d-f56f0e45d92e",
+      "name": "Aceite de oliva",
+      "type": "olive-oil-no-usar",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "imagePath": "/ingredient/63492815ebf08332f1bff156-6316c261.jpeg",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492815ebf08332f1bff156-Aceite de oliva.jpeg"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/638a21156f291b76a7d59177",
+  "name": "Orzo cremoso con chalota frita y portobello",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 524,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2191,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 13.29,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 8.13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 81.22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 11.33,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 4.69,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 20.45,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 1.47,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 81,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 332,
+  "slug": "orzo-cremoso-con-chalota-frita-y-portobello",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Pela y corta la chalota en trozos grandes. Limpia las setas portobello con ayuda de un paño húmedo y córtalas en rodajas. Ralla la mitad del limón (doble para 4p). Pica la mitad del estragón (doble para 4p) en trozos no demasiado pequeños.",
+      "instructionsHTML": "<p>Pela y corta la <strong>chalota</strong> en trozos grandes. Limpia las setas <strong>portobello</strong> con ayuda de un paño húmedo y córtalas en rodajas. Ralla la mitad del <strong>limón</strong> (doble para 4p). Pica la mitad del <strong>estragón</strong> (doble para 4p) en trozos no demasiado pequeños.</p>",
+      "instructionsMarkdown": "<p>Pela y corta la <strong>chalota</strong> en trozos grandes. Limpia las setas <strong>portobello</strong> con ayuda de un paño húmedo y córtalas en rodajas. Ralla la mitad del <strong>limón</strong> (doble para 4p). Pica la mitad del <strong>estragón</strong> (doble para 4p) en trozos no demasiado pequeños.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5c0a9a5edbdd9fc57e863cd6"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21156f291b76a7d59177/step-39bd4300.jpg",
+          "path": "/638a21156f291b76a7d59177/step-39bd4300.jpg",
+          "caption": "Prepara los vegetales",
+          "localImage": "/images/recipes/638a21156f291b76a7d59177-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén grande, calienta un chorrito de aceite a fuego medio. Agrega la chalota y saltea 10-12 min, hasta que esté dorada. Añade las setas portobello y saltea 5-6 min más, hasta que se doren. Salpimienta al gusto.",
+      "instructionsHTML": "<p>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>chalota</strong> y saltea 10-12 min, hasta que esté dorada. Añade las setas <strong>portobello</strong> y saltea 5-6 min más, hasta que se doren. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>En una sartén grande, calienta un chorrito de <strong>aceite</strong> a fuego medio. Agrega la <strong>chalota</strong> y saltea 10-12 min, hasta que esté dorada. Añade las setas <strong>portobello</strong> y saltea 5-6 min más, hasta que se doren. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "636bd5d9d7cc354a94046877"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21156f291b76a7d59177/step-bcce4310.jpg",
+          "path": "/638a21156f291b76a7d59177/step-bcce4310.jpg",
+          "caption": "Saltea las setas",
+          "localImage": "/images/recipes/638a21156f291b76a7d59177-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Calienta a fuego medio un cazo, sin aceite, y agrega el orzo. Cocínalo por 1 min y agrega el agua (ver cantidad en ingredientes) y el caldo vegetal en polvo y lleva a ebullición. Remueve ocasionalmente. Cuando hierva, reduce el fuego y cocina el orzo, 12-13 min, con la tapa puesta, hasta que se seque. Luego, retira del fuego y deja que repose tapado unos 2 min.",
+      "instructionsHTML": "<p>Calienta a fuego medio un cazo, sin <strong>aceite</strong>, y agrega el <strong>orzo</strong>. Cocínalo por 1 min y agrega el <strong>agua</strong> (ver cantidad en ingredientes) y el <strong>caldo vegetal</strong> en polvo y lleva a ebullición. Remueve ocasionalmente. Cuando hierva, reduce el fuego y cocina el <strong>orzo</strong>, 12-13 min, con la tapa puesta, hasta que se seque. Luego, retira del fuego y deja que repose tapado unos 2 min.</p>",
+      "instructionsMarkdown": "<p>Calienta a fuego medio un cazo, sin <strong>aceite</strong>, y agrega el <strong>orzo</strong>. Cocínalo por 1 min y agrega el <strong>agua</strong> (ver cantidad en ingredientes) y el <strong>caldo vegetal</strong> en polvo y lleva a ebullición. Remueve ocasionalmente. Cuando hierva, reduce el fuego y cocina el <strong>orzo</strong>, 12-13 min, con la tapa puesta, hasta que se seque. Luego, retira del fuego y deja que repose tapado unos 2 min.</p>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "6351278800ba8b8f1c369774",
+        "6351496300ba8b8f1cc869fe"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21156f291b76a7d59177/step-58310d20.jpg",
+          "path": "/638a21156f291b76a7d59177/step-58310d20.jpg",
+          "caption": "Cocina el orzo",
+          "localImage": "/images/recipes/638a21156f291b76a7d59177-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "En un bol pequeño, mezcla el queso crema con el queso rallado y 1/2 cucharadita de ralladura de limón (doble para 4p) y el zumo de un cuarto del limón (doble para 4p). Salpimienta al gusto.",
+      "instructionsHTML": "<p>En un bol pequeño, mezcla el <strong>queso crema</strong> con el <strong>queso rallado</strong> y 1/2 cucharadita de ralladura de <strong>limón</strong> (doble para 4p) y el zumo de un cuarto del <strong>limón</strong> (doble para 4p). <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>En un bol pequeño, mezcla el <strong>queso crema</strong> con el <strong>queso rallado</strong> y 1/2 cucharadita de ralladura de <strong>limón</strong> (doble para 4p) y el zumo de un cuarto del <strong>limón</strong> (doble para 4p). <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21156f291b76a7d59177/step-14bad930.jpg",
+          "path": "/638a21156f291b76a7d59177/step-14bad930.jpg",
+          "caption": "Prepara el queso al limón",
+          "localImage": "/images/recipes/638a21156f291b76a7d59177-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "En la sartén de los portobello, agrega la mitad del estragón picado, la mitad del queso al limón, el orzo y, de forma opcional, la mantequilla (ver cantidad en ingredientes). Mezcla bien para que se integren los ingredientes.",
+      "instructionsHTML": "<p>En la sartén de los <strong>portobello</strong>, agrega la mitad del <strong>estragón</strong> picado, la mitad del <strong>queso al limón</strong>, el <strong>orzo</strong> y, de forma opcional, la <strong>mantequilla</strong> (ver cantidad en ingredientes). Mezcla bien para que se integren los ingredientes.</p>",
+      "instructionsMarkdown": "<p>En la sartén de los <strong>portobello</strong>, agrega la mitad del <strong>estragón</strong> picado, la mitad del <strong>queso al limón</strong>, el <strong>orzo</strong> y, de forma opcional, la <strong>mantequilla</strong> (ver cantidad en ingredientes). Mezcla bien para que se integren los ingredientes.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21156f291b76a7d59177/step-a5642c40.jpg",
+          "path": "/638a21156f291b76a7d59177/step-a5642c40.jpg",
+          "caption": "Agrega el orzo y combina",
+          "localImage": "/images/recipes/638a21156f291b76a7d59177-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Divide el orzo cremoso entre los platos y agrega el queso al limón encima. Espolvorea con el estragón restante y la ralladura de limón restante. Agrega zumo de limón al gusto.",
+      "instructionsHTML": "<p>Divide el <strong>orzo cremoso</strong> entre los platos y agrega el <strong>queso al limón</strong> encima. Espolvorea con el <strong>estragón</strong> restante y la <strong>ralladura de limón</strong> restante. Agrega <strong>zumo de limón</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p>Divide el <strong>orzo cremoso</strong> entre los platos y agrega el <strong>queso al limón</strong> encima. Espolvorea con el <strong>estragón</strong> restante y la <strong>ralladura de limón</strong> restante. Agrega <strong>zumo de limón</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/638a21156f291b76a7d59177/step-e5c2e550.jpg",
+          "path": "/638a21156f291b76a7d59177/step-e5c2e550.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/638a21156f291b76a7d59177-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESVV0044-2",
+  "updatedAt": "2026-02-17T02:24:21+00:00",
+  "utensils": [
+    {
+      "id": "5c0a9a5edbdd9fc57e863cd6",
+      "type": "box-greater",
+      "name": "Rallador"
+    },
+    {
+      "id": "636bd5d9d7cc354a94046877",
+      "type": "large-frying-pan",
+      "name": "Sartén grande"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "6351496300ba8b8f1cc869fe",
+      "type": "lidded-saucepan",
+      "name": "Lidded saucepan"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    }
+  ],
+  "uuid": "b07eec60-6bdf-4bf5-aefc-2c0211f91aa7",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/orzo-cremoso-con-chalota-frita-y-portobello-638a21156f291b76a7d59177",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba26",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1e6cebf08332f1bff1a0",
+          "amount": 180,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 3,
+          "unit": "paquete"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 1,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 350,
+          "unit": "mililitro(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "634043782268bc1bff0d3ccb",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404376233160a36674ba19",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437341033266d7be9521",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba26",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634d1e6cebf08332f1bff1a0",
+          "amount": 360,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f2268bc1bff0d3ca7",
+          "amount": 6,
+          "unit": "paquete"
+        },
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63481b08bb36093c54997962",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63492815ebf08332f1bff156",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 700,
+          "unit": "mililitro(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/638a21156f291b76a7d59177-Orzo cremoso con chalota frita y portobello.jpg",
+  "localCard": "/pdf/638a21156f291b76a7d59177-Orzo cremoso con chalota frita y portobello.pdf"
+}

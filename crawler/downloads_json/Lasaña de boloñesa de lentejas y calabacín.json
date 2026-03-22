@@ -1,0 +1,716 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3.2,
+  "canonical": "64a674e3b22c4a8c591970d7",
+  "canonicalLink": "https://www.hellofresh.es/recipes/lasana-de-bolonesa-de-lentejas-y-calabacin-64a674e3b22c4a8c591970d7",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/669fcb67180815c793277d95-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6400cc7610ddad6ab9e149fb",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2024-08-20T09:52:48+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "En esta versión de la lasaña, sustituimos las láminas de pasta por rodajas de calabacín salteado y preparamos una boloñesa con verduras y salsa de tomate en la que reemplazamos la carne por lentejas. De esta forma, te ofrecemos una alternativa vegetariana y menos calórica de este famoso plato sin sacrificar el sabor.",
+  "descriptionHTML": "<p>En esta versión de la lasaña, sustituimos las láminas de pasta por rodajas de calabacín salteado y preparamos una boloñesa con verduras y salsa de tomate en la que reemplazamos la carne por lentejas. De esta forma, te ofrecemos una alternativa vegetariana y menos calórica de este famoso plato sin sacrificar el sabor.</p>",
+  "descriptionMarkdown": "En esta versión de la lasaña, sustituimos las láminas de pasta por rodajas de calabacín salteado y preparamos una boloñesa con verduras y salsa de tomate en la que reemplazamos la carne por lentejas. De esta forma, te ofrecemos una alternativa vegetariana y menos calórica de este famoso plato sin sacrificar el sabor.",
+  "difficulty": 1,
+  "favoritesCount": 25,
+  "headline": "con queso gratinado y cebollino",
+  "id": "669fcb67180815c793277d95",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y23_R10_W28_ES_ESVFV15184-2_Main_6_high-d82a2082.jpg",
+  "imagePath": "/image/HF_Y23_R10_W28_ES_ESVFV15184-2_Main_6_high-d82a2082.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f0",
+      "uuid": "49d1ae88-5dea-5aa5-be78-86a06abe0582",
+      "name": "Lentejas",
+      "type": "brown-lentils",
+      "slug": "lentejas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f0-e2a5950e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f0-Lentejas.png"
+    },
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "659c8d3fc7596f421e5449b1",
+      "uuid": "7a4c3ae4-ca74-4022-aa86-32db0c83d59f",
+      "name": "Queso rallado",
+      "type": "grated-cheese",
+      "slug": "queso-rallado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/659c8d3fc7596f421e5449b1-d8f6d2b4.png",
+      "imagePath": "/ingredient/659c8d3fc7596f421e5449b1-d8f6d2b4.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/659c8d3fc7596f421e5449b1-Queso rallado.png"
+    },
+    {
+      "id": "6340436e41033266d7be950e",
+      "uuid": "b443c50a-b3b3-510c-93ac-01d6610777a3",
+      "name": "Cebollino",
+      "type": "chives",
+      "slug": "cebollino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "imagePath": "/ingredient/6340436e41033266d7be950e-a3dfc0be.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be950e-Cebollino.png"
+    },
+    {
+      "id": "64afc5bc565e2133abaa58a3",
+      "uuid": "27bdf929-2223-5877-8919-3bd93eb85c24",
+      "name": "Passata de tomate",
+      "type": "tomato-passata",
+      "slug": "passata-de-tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "imagePath": "/ingredient/64afc5bc565e2133abaa58a3-c0be1f60.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64afc5bc565e2133abaa58a3-Passata de tomate.png"
+    },
+    {
+      "id": "6340436f41033266d7be9511",
+      "uuid": "90f7a2a9-7adb-51b5-8f53-022f3a2ef9d8",
+      "name": "Calabacín",
+      "type": "courgette",
+      "slug": "calabacin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9511-4f5b0560.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9511-Calabacín.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/669fcb67180815c793277d95",
+  "name": "Lasaña de boloñesa de lentejas y calabacín",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2707,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 647,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 24.4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 7.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 75.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 21.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 36.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.12,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT40M",
+  "promotion": null,
+  "ratingsCount": 29,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 897,
+  "slug": "lasana-bolonesa-lentejas-verduras",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 200ºC con la opción de gratinar. Pela y ralla el ajo (ver cantidad en ingredientes). Pela y ralla la zanahoria. Pela la cebolla, divídela en dos y córtala en daditos pequeños. Retira los extremos del calabacín y córtalo en rodajas de 0,5 cm.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 200ºC con la opción de gratinar. Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Pela y ralla la <strong>zanahoria</strong>. Pela la <strong>cebolla</strong>, divídela en dos y córtala en daditos pequeños. Retira los extremos del <strong>calabacín</strong> y córtalo en rodajas de 0,5 cm.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta! Precalienta el horno a 200ºC con la opción de gratinar. Pela y ralla el <strong>ajo</strong> (ver cantidad en ingredientes). Pela y ralla la <strong>zanahoria</strong>. Pela la <strong>cebolla</strong>, divídela en dos y córtala en daditos pequeños. Retira los extremos del <strong>calabacín</strong> y córtalo en rodajas de 0,5 cm.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e",
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb67180815c793277d95/step-c1fe3700.jpg",
+          "path": "/669fcb67180815c793277d95/step-c1fe3700.jpg",
+          "caption": "Prepara los ingredientes",
+          "localImage": "/images/recipes/669fcb67180815c793277d95-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "En una sartén, calienta un chorrito de aceite a fuego medio. Salpimienta las rodajas de calabacín y cocina 2 min por lado o hasta que se doren ligeramente. En otra sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min. Agrega la cebolla, la zanahoria y una pizca de sal y cocina 4-5 min, removiendo ocasionalmente, hasta que las verduras empiecen a abladarse.",
+      "instructionsHTML": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. <strong>Salpimienta</strong> las rodajas de <strong>calabacín</strong> y cocina 2 min por lado o hasta que se doren ligeramente. En otra sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Agrega la <strong>cebolla</strong>, la <strong>zanahoria</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo ocasionalmente, hasta que las <strong>verduras</strong> empiecen a abladarse.</p>",
+      "instructionsMarkdown": "<p>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. <strong>Salpimienta</strong> las rodajas de <strong>calabacín</strong> y cocina 2 min por lado o hasta que se doren ligeramente. En otra sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min. Agrega la <strong>cebolla</strong>, la <strong>zanahoria</strong> y una pizca de <strong>sal</strong> y cocina 4-5 min, removiendo ocasionalmente, hasta que las <strong>verduras</strong> empiecen a abladarse.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375",
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb67180815c793277d95/step-62887a10.jpg",
+          "path": "/669fcb67180815c793277d95/step-62887a10.jpg",
+          "caption": "Cocina las verduras",
+          "localImage": "/images/recipes/669fcb67180815c793277d95-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "Escurre las lentejas y agrégalas a la sartén con la cebolla y zanahoria. Cocina a fuego medio 2-3 min, removiendo ocasionalmente. Agrega la passata de tomate y el orégano (ver cantidad en ingredientes) y mezcla bien. Cocina durante 5-6 min con la sartén tapada, hasta que la salsa se reduzca ligeramente. Salpimienta al gusto.",
+      "instructionsHTML": "<p dir=\"ltr\">Escurre las <strong>lentejas</strong> y agrégalas a la sartén con la <strong>cebolla</strong> y <strong>zanahoria</strong>. Cocina a fuego medio 2-3 min, removiendo ocasionalmente. Agrega la <strong>passata de tomate</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes) y mezcla bien. Cocina durante 5-6 min con la sartén tapada, hasta que la <strong>salsa</strong> se reduzca ligeramente. <strong>Salpimienta</strong> al gusto.</p>",
+      "instructionsMarkdown": "<p dir=\"ltr\">Escurre las <strong>lentejas</strong> y agrégalas a la sartén con la <strong>cebolla</strong> y <strong>zanahoria</strong>. Cocina a fuego medio 2-3 min, removiendo ocasionalmente. Agrega la <strong>passata de tomate</strong> y el <strong>orégano</strong> (ver cantidad en ingredientes) y mezcla bien. Cocina durante 5-6 min con la sartén tapada, hasta que la <strong>salsa</strong> se reduzca ligeramente. <strong>Salpimienta</strong> al gusto.</p>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24efcf61c18c30ff538"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb67180815c793277d95/step-47904020.jpg",
+          "path": "/669fcb67180815c793277d95/step-47904020.jpg",
+          "caption": "Agrega las lentejas y la salsa",
+          "localImage": "/images/recipes/669fcb67180815c793277d95-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Agrega un chorrito de aceite en la base de una fuente de horno. Coloca una capa de rodajas de calabacín y cubre con una capa del sofrito de verduras y lentejas. Repite el proceso una vez más, de manera que tengas dos capas de calabacín y una última capa de sofrito.",
+      "instructionsHTML": "<p>Agrega un chorrito de <strong>aceite</strong> en la base de una fuente de horno. Coloca una capa de <strong>rodajas de calabacín</strong> y cubre con una capa del <strong>sofrito de verduras y lentejas.</strong> Repite el proceso una vez más, de manera que tengas dos capas de <strong>calabacín</strong> y una última capa de <strong>sofrito</strong>.</p>",
+      "instructionsMarkdown": "<p>Agrega un chorrito de <strong>aceite</strong> en la base de una fuente de horno. Coloca una capa de <strong>rodajas de calabacín</strong> y cubre con una capa del <strong>sofrito de verduras y lentejas.</strong> Repite el proceso una vez más, de manera que tengas dos capas de <strong>calabacín</strong> y una última capa de <strong>sofrito</strong>.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb67180815c793277d95/step-c8bf8830.jpg",
+          "path": "/669fcb67180815c793277d95/step-c8bf8830.jpg",
+          "caption": "Monta la lasaña",
+          "localImage": "/images/recipes/669fcb67180815c793277d95-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Espolvorea el queso rallado sobre la lasaña. Hornea a media altura durante 10-12 min, hasta que el queso se gratine. Mientras tanto, pica finamente la mitad del cebollino (doble para 4p).",
+      "instructionsHTML": "<p>Espolvorea el <strong>queso rallado</strong> sobre la <strong>lasaña</strong>. Hornea a media altura durante 10-12 min, hasta que el <strong>queso</strong> se gratine. Mientras tanto, pica finamente la mitad del <strong>cebollino</strong> (doble para 4p).</p>",
+      "instructionsMarkdown": "<p>Espolvorea el <strong>queso rallado</strong> sobre la <strong>lasaña</strong>. Hornea a media altura durante 10-12 min, hasta que el <strong>queso</strong> se gratine. Mientras tanto, pica finamente la mitad del <strong>cebollino</strong> (doble para 4p).</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb67180815c793277d95/step-c2012b40.jpg",
+          "path": "/669fcb67180815c793277d95/step-c2012b40.jpg",
+          "caption": "Añade el queso y hornea",
+          "localImage": "/images/recipes/669fcb67180815c793277d95-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "Cuando la lasaña esté lista, sácala del horno y espolvorea el cebollino al gusto por encima. Sirve porciones de lasaña de calabacín y lentejas en los platos.",
+      "instructionsHTML": "<p>Cuando la <strong>lasaña</strong> esté lista, sácala del horno y espolvorea el <strong>cebollino</strong> al gusto por encima. Sirve porciones de <strong>lasaña de calabacín y lentejas </strong>en los platos.</p>",
+      "instructionsMarkdown": "<p>Cuando la <strong>lasaña</strong> esté lista, sácala del horno y espolvorea el <strong>cebollino</strong> al gusto por encima. Sirve porciones de <strong>lasaña de calabacín y lentejas </strong>en los platos.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/669fcb67180815c793277d95/step-b65ada50.jpg",
+          "path": "/669fcb67180815c793277d95/step-b65ada50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/669fcb67180815c793277d95-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57ea6f333a58fe2e422681e0",
+      "type": "lunch",
+      "name": "Lunch ",
+      "slug": "lunch",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "57d13370b7e8697d4b305321",
+      "type": "high-protein",
+      "name": "Proteico",
+      "slug": "proteico",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "61bcc274f0aa2a6e79272a5a",
+      "type": "extra-vegetables",
+      "name": ">250g de vegetales",
+      "slug": "250g-de-vegetales",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Nutritivo y sano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT30M",
+  "uniqueRecipeCode": "ESVFV15184-15",
+  "updatedAt": "2026-01-21T17:18:41+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Rallador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    },
+    {
+      "id": "5e3ad24efcf61c18c30ff538",
+      "type": null,
+      "name": "Colador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Fuente para el horno"
+    }
+  ],
+  "uuid": "ed6c8307-c158-4c81-b0ed-29376bd5bd62",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/lasana-bolonesa-lentejas-verduras-669fcb67180815c793277d95",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 780,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "659c8d3fc7596f421e5449b1",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 210,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f0",
+          "amount": 1560,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "659c8d3fc7596f421e5449b1",
+          "amount": 120,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be950e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "64afc5bc565e2133abaa58a3",
+          "amount": 420,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9511",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/669fcb67180815c793277d95-Lasaña de boloñesa de lentejas y calabacín.jpg",
+  "localCard": "/pdf/669fcb67180815c793277d95-Lasaña de boloñesa de lentejas y calabacín.pdf"
+}

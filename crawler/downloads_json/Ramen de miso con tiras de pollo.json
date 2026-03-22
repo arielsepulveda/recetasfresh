@@ -1,0 +1,1005 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "63aaf3d492c25465fb350ce1",
+  "canonicalLink": "https://www.hellofresh.es/recipes/ramen-casero-de-pollo-63aaf3d492c25465fb350ce1",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68a4b0f7ff4c5f79fb509e08-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347efe6e9568549b78497c5",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-08-19T17:14:31+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ad",
+      "type": "japanese",
+      "name": "Japonesa",
+      "slug": "japonesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ad-3f36131f.jpg"
+    }
+  ],
+  "description": "Viaja a Japón con esta sopa asiática con caldo de pollo acompañada de verduras y huevo duro para comer con palillos (o con tenedor, nadie tiene que saberlo). Si te gusta aventurarte con la comida, puede que ya hayas probado este plato antes, pero HelloFresh te ofrece la posibilidad de cocinarlo tú mismo y compartirlo con quien tú quieras.",
+  "descriptionHTML": "<p>Viaja a Japón con esta sopa asiática con caldo de pollo acompañada de verduras y huevo duro para comer con palillos (o con tenedor, nadie tiene que saberlo). Si te gusta aventurarte con la comida, puede que ya hayas probado este plato antes, pero HelloFresh te ofrece la posibilidad de cocinarlo tú mismo y compartirlo con quien tú quieras.</p>",
+  "descriptionMarkdown": "Viaja a Japón con esta sopa asiática con caldo de pollo acompañada de verduras y huevo duro para comer con palillos (o con tenedor, nadie tiene que saberlo). Si te gusta aventurarte con la comida, puede que ya hayas probado este plato antes, pero HelloFresh te ofrece la posibilidad de cocinarlo tú mismo y compartirlo con quien tú quieras.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con ajo tierno, chili en escamas y lima",
+  "id": "68a4b0f7ff4c5f79fb509e08",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF221011_R01_W48_ES_MB_Main_add_chiliflakes_edit_high-39474065.jpg",
+  "imagePath": "/image/HF221011_R01_W48_ES_MB_Main_add_chiliflakes_edit_high-39474065.jpg",
+  "ingredients": [
+    {
+      "id": "6340436d233160a36674b9f8",
+      "uuid": "0a12b986-df91-548e-b747-8585b80eacb3",
+      "name": "Pechuga de pollo",
+      "type": "chicken-breast",
+      "slug": "pechuga-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f8-aaa228da.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f8-Pechuga de pollo.png"
+    },
+    {
+      "id": "63404379233160a36674ba27",
+      "uuid": "62332e06-1bd9-5362-a8bd-eb869fce3bea",
+      "name": "Mix de especias tailandesas",
+      "type": "thai-style-spice-blend",
+      "slug": "mix-de-especias-tailandesas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "imagePath": "/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba27-Mix de especias tailandesas.png"
+    },
+    {
+      "id": "6340437941033266d7be952e",
+      "uuid": "5039a7c1-5de6-5cc1-995f-aebbb994e544",
+      "name": "Ajo tierno",
+      "type": "spring-onion",
+      "slug": "ajo-tierno",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "imagePath": "/ingredient/6340437941033266d7be952e-4f683c4e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be952e-Ajo tierno.png"
+    },
+    {
+      "id": "6340437041033266d7be9516",
+      "uuid": "230d08ff-162f-5b15-bf19-bbf3ef5e6210",
+      "name": "Jengibre",
+      "type": "ginger",
+      "slug": "jengibre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "imagePath": "/ingredient/6340437041033266d7be9516-e45bc810.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437041033266d7be9516-Jengibre.png"
+    },
+    {
+      "id": "67aa98e1d479b9c2257734c2",
+      "uuid": "d52fa5aa-1f49-5c06-a714-c71690aeec3e",
+      "name": "Pasta de Miso",
+      "type": "miso-paste",
+      "slug": "pasta-de-miso",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/67aa98e1d479b9c2257734c2-658e01d1.png",
+      "imagePath": "/ingredient/67aa98e1d479b9c2257734c2-658e01d1.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/67aa98e1d479b9c2257734c2-Pasta de Miso.png"
+    },
+    {
+      "id": "68d11b051040d6c32b9bf3fd",
+      "uuid": "24b03259-ca4b-5338-bf7a-132e30d306ba",
+      "name": "Salsa de soja dulce",
+      "type": "ketjap-manis",
+      "slug": "salsa-de-soja-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437241033266d7be951f-3eec6a3a.png",
+      "imagePath": "/ingredient/6340437241033266d7be951f-3eec6a3a.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "60368d89cdbdf450236ad8cd",
+        "57962a07b7e8697d4b3052f9"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/68d11b051040d6c32b9bf3fd-Salsa de soja dulce.png"
+    },
+    {
+      "id": "634043702268bc1bff0d3cac",
+      "uuid": "2997390d-092d-51cb-8c47-094ce228c87a",
+      "name": "Caldo de pollo",
+      "type": "granulated-chicken-broth",
+      "slug": "caldo-de-pollo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "imagePath": "/ingredient/634043702268bc1bff0d3cac-b70e674c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043702268bc1bff0d3cac-Caldo de pollo.png"
+    },
+    {
+      "id": "634fc20ad60c92f32eff1cb4",
+      "uuid": "4d08f895-ac4f-5922-af38-c2693b40797f",
+      "name": "Fideos udon",
+      "type": "udon-noodles",
+      "slug": "fideos-udon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634fc20ad60c92f32eff1cb4-ed8f5c92.png",
+      "imagePath": "/ingredient/634fc20ad60c92f32eff1cb4-ed8f5c92.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634fc20ad60c92f32eff1cb4-Fideos udon.png"
+    },
+    {
+      "id": "688c9b871cc5cea71281245a",
+      "uuid": "ec2276be-64f8-485c-a464-8da34d88aa6c",
+      "name": "Chili seco en escamas",
+      "type": "chilli-flakes-dried",
+      "slug": "chili-seco-en-escamas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "imagePath": "/ingredient/688c9b871cc5cea71281245a-5b36d4dc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/688c9b871cc5cea71281245a-Chili seco en escamas.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "634929a2e9568549b78497e2",
+      "uuid": "2af813b2-c4fc-484a-8f81-7c4a28d04108",
+      "name": "Huevo",
+      "type": "egg",
+      "slug": "huevo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "imagePath": "/ingredient/634929a2e9568549b78497e2-ee4b9d9a.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634929a2e9568549b78497e2-Huevo.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    },
+    {
+      "id": "63492f3de9568549b78497e7",
+      "uuid": "c5f68a39-9913-451a-9da5-9375e84ff8c5",
+      "name": "Agua",
+      "type": "water",
+      "slug": "agua",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "imagePath": "/ingredient/63492f3de9568549b78497e7-6d900ebf.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492f3de9568549b78497e7-Agua.png"
+    },
+    {
+      "id": "63492b20ebf08332f1bff159",
+      "uuid": "08ceffd0-2e66-4780-9f51-06cbf162582c",
+      "name": "Mantequilla",
+      "type": "butter-optional",
+      "slug": "mantequilla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "imagePath": "/ingredient/63492b20ebf08332f1bff159-a0371574.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b20ebf08332f1bff159-Mantequilla.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "HECHO CON CARIÑO",
+    "handle": "made-with-love",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#067A46",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68a4b0f7ff4c5f79fb509e08",
+  "name": "Ramen de miso con tiras de pollo",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2490,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 595,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 23.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 3.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 56,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 0.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 49.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Colesterol",
+      "amount": 0.2,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 4.06,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": {
+    "title": "3 AÑOS COCINANDO CONTIGO",
+    "description": "Las recetas mejor valoradas de estos 3 años",
+    "image": "https://d3hvwccx09j84u.cloudfront.net/0,0/promotion/68a4b0f7ff4c5f79fb509e08-d44dc029.png",
+    "alternativeText": "s",
+    "additionalInformation": {
+      "text": "Disfrútalas durante el mes de noviembre"
+    }
+  },
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 429,
+  "slug": "ramen-de-miso-con-tiras-de-pollo",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nSeca el pollo y colócalo en un bol.\nAgrega las especias tailandesas, salpimienta y mezcla.\nEn una olla, calienta un chorrito de aceite a fuego medio. Cocina el pollo 3-4 min por lado, hasta que esté bien cocinado. Retira de la olla y reserva.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Seca el<strong> pollo</strong> y colócalo en un bol.</li>\n<li>Agrega las <strong>especias tailandesas</strong>, <strong>sal</strong><strong>pimienta</strong> y mezcla.</li>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>pollo</strong> 3-4 min por lado, hasta que esté bien cocinado. Retira de la olla y reserva.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Seca el<strong> pollo</strong> y colócalo en un bol.</li>\n<li>Agrega las <strong>especias tailandesas</strong>, <strong>sal</strong><strong>pimienta</strong> y mezcla.</li>\n<li>En una olla, calienta un chorrito de <strong>aceite</strong> a fuego medio. Cocina el <strong>pollo</strong> 3-4 min por lado, hasta que esté bien cocinado. Retira de la olla y reserva.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305372",
+        "57e2674fb7e8697d4b30537c",
+        "57e2674fb7e8697d4b305376"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0f7ff4c5f79fb509e08/step-3a89f600.jpg",
+          "path": "/68a4b0f7ff4c5f79fb509e08/step-3a89f600.jpg",
+          "caption": "Dale color al pollo",
+          "localImage": "/images/recipes/68a4b0f7ff4c5f79fb509e08-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nMientras tanto, agrega en un cazo suficiente agua como para hervir los huevos.\nAgrega una pizca de sal y lleva a ebullición con el cazo tapado.\nCuando el agua hierva, agrega los huevos y cocina 11-12 min sin la tapa.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Mientras tanto, agrega en un cazo suficiente <strong>agua</strong> como para hervir los <strong>huevos</strong>.</li>\n<li dir=\"ltr\">Agrega una pizca de <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li dir=\"ltr\">Cuando el agua hierva, agrega los <strong>huevos</strong> y cocina 11-12 min sin la tapa.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Mientras tanto, agrega en un cazo suficiente <strong>agua</strong> como para hervir los <strong>huevos</strong>.</li>\n<li dir=\"ltr\">Agrega una pizca de <strong>sal</strong> y lleva a ebullición con el cazo tapado.</li>\n<li dir=\"ltr\">Cuando el agua hierva, agrega los <strong>huevos</strong> y cocina 11-12 min sin la tapa.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "6351278800ba8b8f1c369774"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0f7ff4c5f79fb509e08/step-b0942910.jpg",
+          "path": "/68a4b0f7ff4c5f79fb509e08/step-b0942910.jpg",
+          "caption": "Huevos en marcha",
+          "localImage": "/images/recipes/68a4b0f7ff4c5f79fb509e08-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nCorta el ajo tierno en rodajas finas.\nPela y ralla el ajo y el jengibre.\nEn un bol pequeño, mezcla con varillas la pasta de miso y un chorrito de agua caliente.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Corta el <strong>ajo tierno</strong> en rodajas finas.</li>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong> y el <strong>jengibre</strong><strong>.</strong></li>\n<li dir=\"ltr\">En un bol pequeño, mezcla con varillas la <strong>pasta de miso</strong> y un chorrito de <strong>agua</strong> caliente.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Corta el <strong>ajo tierno</strong> en rodajas finas.</li>\n<li dir=\"ltr\">Pela y ralla el <strong>ajo</strong> y el <strong>jengibre</strong><strong>.</strong></li>\n<li dir=\"ltr\">En un bol pequeño, mezcla con varillas la <strong>pasta de miso</strong> y un chorrito de <strong>agua</strong> caliente.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305385",
+        "57e2674fb7e8697d4b305384",
+        "57e2674fb7e8697d4b305380"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0f7ff4c5f79fb509e08/step-9d885220.jpg",
+          "path": "/68a4b0f7ff4c5f79fb509e08/step-9d885220.jpg",
+          "caption": "Aprovecha el tiempo",
+          "localImage": "/images/recipes/68a4b0f7ff4c5f79fb509e08-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn la olla, agrega un chorrito de aceite, mantequilla al gusto, el ajo y el jengibre. Calienta a fuego medio y cocina 1-2 min.\nAgrega la salsa de soja dulce, el caldo de pollo en polvo y el agua.\nCubre la olla y lleva a ebullición.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En la olla, agrega un chorrito de <strong>aceite</strong>, <strong>mantequilla</strong> al gusto, el <strong>ajo</strong> y el <strong>jengibre</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Agrega la <strong>salsa de soja dulce</strong>, el <strong>caldo de pollo</strong> en polvo y el <strong>agua</strong>.</li>\n<li dir=\"ltr\">Cubre la olla y lleva a ebullición.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En la olla, agrega un chorrito de <strong>aceite</strong>, <strong>mantequilla</strong> al gusto, el <strong>ajo</strong> y el <strong>jengibre</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li dir=\"ltr\">Agrega la <strong>salsa de soja dulce</strong>, el <strong>caldo de pollo</strong> en polvo y el <strong>agua</strong>.</li>\n<li dir=\"ltr\">Cubre la olla y lleva a ebullición.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "623c805661a1b9d0034f9066",
+        "57e2674fb7e8697d4b30536b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0f7ff4c5f79fb509e08/step-a37df830.jpg",
+          "path": "/68a4b0f7ff4c5f79fb509e08/step-a37df830.jpg",
+          "caption": "Dale forma al ramen",
+          "localImage": "/images/recipes/68a4b0f7ff4c5f79fb509e08-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nPela los huevos y córtalos por la mitad.\nCorta el pollo en tiras de 2 cm.\nCuando el caldo hierva, agrega a la olla los fideos udon, remueve para separarlos y cocina 1-2 min.\nRetira la sopa del fuego y añade la pasta de miso, mezcla bien.\nPrueba la sopa y rectifica de sal y pimienta.\n\nSABÍAS QUE: Para obtener un bocado de carne más tierno, córtala en el sentido contrario al de las fibras para romperlas.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Pela los <strong>huevos</strong> y córtalos por la mitad.</li>\n<li dir=\"ltr\">Corta el <strong>pollo</strong> en tiras de 2 cm.</li>\n<li dir=\"ltr\">Cuando el <strong>caldo</strong> hierva, agrega a la olla los <strong>fideos udon</strong>, remueve para separarlos y cocina 1-2 min.</li>\n<li dir=\"ltr\">Retira la <strong>sopa</strong> del fuego y añade la <strong>pasta de miso</strong>, mezcla bien.</li>\n<li dir=\"ltr\">Prueba la <strong>sopa</strong> y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>\n<p>SABÍAS QUE: Para obtener un bocado de carne más tierno, córtala en el sentido contrario al de las fibras para romperlas.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Pela los <strong>huevos</strong> y córtalos por la mitad.</li>\n<li dir=\"ltr\">Corta el <strong>pollo</strong> en tiras de 2 cm.</li>\n<li dir=\"ltr\">Cuando el <strong>caldo</strong> hierva, agrega a la olla los <strong>fideos udon</strong>, remueve para separarlos y cocina 1-2 min.</li>\n<li dir=\"ltr\">Retira la <strong>sopa</strong> del fuego y añade la <strong>pasta de miso</strong>, mezcla bien.</li>\n<li dir=\"ltr\">Prueba la <strong>sopa</strong> y rectifica de <strong>sal</strong> y <strong>pimienta</strong>.</li>\n</ul>\n<p>SABÍAS QUE: Para obtener un bocado de carne más tierno, córtala en el sentido contrario al de las fibras para romperlas.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0f7ff4c5f79fb509e08/step-c6f4cf40.jpg",
+          "path": "/68a4b0f7ff4c5f79fb509e08/step-c6f4cf40.jpg",
+          "caption": "Cuchillo en mano",
+          "localImage": "/images/recipes/68a4b0f7ff4c5f79fb509e08-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la sopa en platos hondos y coloca las tiras de pollo y el huevo encima.\nPor último, agrega el ajo tierno y el chili en escamas al gusto.\nCorta la lima en gajos y añade zumo al gusto.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Sirve la <strong>sopa</strong> en platos hondos y coloca las tiras de <strong>pollo</strong> y el <strong>huevo</strong> encima.</li>\n<li dir=\"ltr\">Por último, agrega el <strong>ajo tierno</strong> y el <strong>chili</strong> <strong>en escamas</strong> al gusto.</li>\n<li dir=\"ltr\">Corta la <strong>lima</strong> en gajos y añade zumo al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Sirve la <strong>sopa</strong> en platos hondos y coloca las tiras de <strong>pollo</strong> y el <strong>huevo</strong> encima.</li>\n<li dir=\"ltr\">Por último, agrega el <strong>ajo tierno</strong> y el <strong>chili</strong> <strong>en escamas</strong> al gusto.</li>\n<li dir=\"ltr\">Corta la <strong>lima</strong> en gajos y añade zumo al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68a4b0f7ff4c5f79fb509e08/step-353e0350.jpg",
+          "path": "/68a4b0f7ff4c5f79fb509e08/step-353e0350.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68a4b0f7ff4c5f79fb509e08-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531c",
+      "type": "egg-free",
+      "name": "Huevos no incluidos",
+      "slug": "huevos-no-incluidos",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESC0175-35",
+  "updatedAt": "2025-11-13T22:42:30+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Bol grande"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Olla"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Papel de cocina"
+    },
+    {
+      "id": "6351278800ba8b8f1c369774",
+      "type": "lidded-saucepan",
+      "name": "Cazo con tapa"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305385",
+      "type": "zester",
+      "name": "Rallador fino"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Varillas"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Bol pequeño"
+    },
+    {
+      "id": "623c805661a1b9d0034f9066",
+      "type": "measuringjug",
+      "name": "Jarra medidora"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536b",
+      "type": "lid",
+      "name": "Tapa"
+    }
+  ],
+  "uuid": "e7124e32-5196-4b09-b818-b8f3630249d4",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/ramen-de-miso-con-tiras-de-pollo-68a4b0f7ff4c5f79fb509e08",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67aa98e1d479b9c2257734c2",
+          "amount": 25,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68d11b051040d6c32b9bf3fd",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 2,
+          "unit": "unit"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 800,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67aa98e1d479b9c2257734c2",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68d11b051040d6c32b9bf3fd",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 600,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 4,
+          "unit": "unit"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 1600,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340436d233160a36674b9f8",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437941033266d7be952e",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437041033266d7be9516",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "67aa98e1d479b9c2257734c2",
+          "amount": 75,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "68d11b051040d6c32b9bf3fd",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634043702268bc1bff0d3cac",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "634fc20ad60c92f32eff1cb4",
+          "amount": 900,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "688c9b871cc5cea71281245a",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "634929a2e9568549b78497e2",
+          "amount": 6,
+          "unit": "unit"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492f3de9568549b78497e7",
+          "amount": 2400,
+          "unit": "mililitro(s)"
+        },
+        {
+          "id": "63492b20ebf08332f1bff159",
+          "amount": null,
+          "unit": "Al gusto"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68a4b0f7ff4c5f79fb509e08-Ramen de miso con tiras de pollo.jpg",
+  "localCard": "/pdf/68a4b0f7ff4c5f79fb509e08-Ramen de miso con tiras de pollo.pdf"
+}

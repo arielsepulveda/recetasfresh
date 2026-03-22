@@ -1,0 +1,895 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f8",
+      "name": "Cacahuetes",
+      "type": "peanuts",
+      "slug": "cacahuetes",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 3.5,
+  "canonical": "63aaf2ec7409f63ef1b32faa",
+  "canonicalLink": "https://www.hellofresh.es/recipes/hamburguesas-a-la-plancha-con-especias-tailandesas-63aaf2ec7409f63ef1b32faa",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68fb93cc29be8924040c2fd1-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "6347ef44bb36093c5499791e",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-24T14:57:17+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b3",
+      "type": "thai",
+      "name": "Tailandesa",
+      "slug": "tailandesa",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b3-3b2b2add.jpg"
+    }
+  ],
+  "description": "Estas hamburguesas a la plancha no te dejarán indiferente, pues las especias tailandesas que la acompañan hacen que esta receta te traslade a Asia, a la vez que te ofrece una versión más ligera de un plato conocido por todos. Los sabrosos bastones de boniato y la ensalada completan una receta concebida para contribuir a un estilo de vida más equilibrado.",
+  "descriptionHTML": "<p>Estas hamburguesas a la plancha no te dejarán indiferente, pues las especias tailandesas que la acompañan hacen que esta receta te traslade a Asia, a la vez que te ofrece una versión más ligera de un plato conocido por todos. Los sabrosos bastones de boniato y la ensalada completan una receta concebida para contribuir a un estilo de vida más equilibrado.</p>",
+  "descriptionMarkdown": "Estas hamburguesas a la plancha no te dejarán indiferente, pues las especias tailandesas que la acompañan hacen que esta receta te traslade a Asia, a la vez que te ofrece una versión más ligera de un plato conocido por todos. Los sabrosos bastones de boniato y la ensalada completan una receta concebida para contribuir a un estilo de vida más equilibrado.",
+  "difficulty": 1,
+  "favoritesCount": 5,
+  "headline": "con boniato asado, ensalada y cacahuetes",
+  "id": "68fb93cc29be8924040c2fd1",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y26_R27_W04_ES_ESCCLB0011-6_Main_high-3345763e.jpg",
+  "imagePath": "/image/HF_Y26_R27_W04_ES_ESCCLB0011-6_Main_high-3345763e.jpg",
+  "ingredients": [
+    {
+      "id": "6340437941033266d7be9531",
+      "uuid": "61a2604a-ad14-5a3c-b00f-f81d58cb0c90",
+      "name": "Boniato",
+      "type": "sweet-potato",
+      "slug": "boniato",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "imagePath": "/ingredient/6340437941033266d7be9531-e5ab0143.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9531-Boniato.png"
+    },
+    {
+      "id": "6340436e41033266d7be9510",
+      "uuid": "56e34095-fc33-5521-84c7-6a9df58106aa",
+      "name": "Cilantro",
+      "type": "coriander",
+      "slug": "cilantro",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "imagePath": "/ingredient/6340436e41033266d7be9510-16c6c31c.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436e41033266d7be9510-Cilantro.png"
+    },
+    {
+      "id": "6340437341033266d7be9522",
+      "uuid": "666e029a-22e8-527e-86c7-ec6f33d41327",
+      "name": "Lima",
+      "type": "lime",
+      "slug": "lima",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "imagePath": "/ingredient/6340437341033266d7be9522-c76ef6e3.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437341033266d7be9522-Lima.png"
+    },
+    {
+      "id": "6340436c2268bc1bff0d3ca4",
+      "uuid": "edb45406-e818-56a4-b9b9-2022a79d3087",
+      "name": "Carne de ternera picada",
+      "type": "beef-mince",
+      "slug": "carne-de-ternera-picada",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436c2268bc1bff0d3ca4-2bd5c4ce.png",
+      "imagePath": "/ingredient/6340436c2268bc1bff0d3ca4-2bd5c4ce.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436c2268bc1bff0d3ca4-Carne de ternera picada.png"
+    },
+    {
+      "id": "63404379233160a36674ba27",
+      "uuid": "62332e06-1bd9-5362-a8bd-eb869fce3bea",
+      "name": "Mix de especias tailandesas",
+      "type": "thai-style-spice-blend",
+      "slug": "mix-de-especias-tailandesas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "imagePath": "/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba27-Mix de especias tailandesas.png"
+    },
+    {
+      "id": "680d749a80e0f84c774cad60",
+      "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+      "name": "Salsa de soja",
+      "type": "soy-sauce",
+      "slug": "salsa-de-soja",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "imagePath": "/ingredient/680d749a80e0f84c774cad60-b59b94f0.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/680d749a80e0f84c774cad60-Salsa de soja.png"
+    },
+    {
+      "id": "6340437641033266d7be9528",
+      "uuid": "2904fadb-88de-569e-9c92-a87c61848fdb",
+      "name": "Chile",
+      "type": "red-chilli",
+      "slug": "chile",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437641033266d7be9528-12333c56.png",
+      "imagePath": "/ingredient/6340437641033266d7be9528-12333c56.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437641033266d7be9528-Chile.png"
+    },
+    {
+      "id": "636bc5ee371ed3efb1da61da",
+      "uuid": "14c309a3-f0b6-54cd-bd8a-8616ef0b8482",
+      "name": "Cacahuetes salados",
+      "type": "salted-peanuts",
+      "slug": "cacahuetes-salados",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/636bc5ee371ed3efb1da61da-1367b68c.png",
+      "imagePath": "/ingredient/636bc5ee371ed3efb1da61da-1367b68c.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f8",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b305302",
+        "5acf972fae08b54d333ac322"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/636bc5ee371ed3efb1da61da-Cacahuetes salados.png"
+    },
+    {
+      "id": "6340437941033266d7be9532",
+      "uuid": "e4b1a01a-6e1c-55ff-b4a6-59bdd48c4989",
+      "name": "Salsa de chile dulce",
+      "type": "sweet-chili-sauce",
+      "slug": "salsa-de-chile-dulce",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437941033266d7be9532-b0077af3.jpg",
+      "imagePath": "/ingredient/6340437941033266d7be9532-b0077af3.jpg",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437941033266d7be9532-Salsa de chile dulce.jpg"
+    },
+    {
+      "id": "6340436b41033266d7be9505",
+      "uuid": "9a94a307-a64d-5b85-962a-663dff0b143e",
+      "name": "Cogollos de lechuga",
+      "type": "baby-gem-lettuce",
+      "slug": "cogollos-de-lechuga",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "imagePath": "/ingredient/6340436b41033266d7be9505-4c4231e4.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b41033266d7be9505-Cogollos de lechuga.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/68fb93cc29be8924040c2fd1",
+  "name": "La asiática: hamburguesa al plato con cilantro",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2853,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 682,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 40.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 11.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 67.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 19.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 10.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 31.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.94,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 16,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 555,
+  "slug": "hamburguesa-casera-de-ternera-al-estilo-asiatico",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPrecalienta el horno a 200°C.\nCorta el boniato en gajos de 1-2 cm de grosor y colócalos en una bandeja de horno con papel de horno.\nAdereza con un chorrito de aceite, sal y pimienta.\nRemueve y hornea a media altura 20-25 min, hasta que se doren. Da la vuelta a mitad de cocción.\n",
+      "instructionsHTML": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 200°C.</li>\n<li dir=\"ltr\">Corta el <strong>boniato</strong> en gajos de 1-2 cm de grosor y colócalos en una bandeja de horno con papel de horno.</li>\n<li dir=\"ltr\">Adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li dir=\"ltr\">Remueve y hornea a media altura 20-25 min, hasta que se doren. Da la vuelta a mitad de cocción.</li>\n</ul>",
+      "instructionsMarkdown": "<p dir=\"ltr\">¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li dir=\"ltr\">Precalienta el horno a 200°C.</li>\n<li dir=\"ltr\">Corta el <strong>boniato</strong> en gajos de 1-2 cm de grosor y colócalos en una bandeja de horno con papel de horno.</li>\n<li dir=\"ltr\">Adereza con un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li dir=\"ltr\">Remueve y hornea a media altura 20-25 min, hasta que se doren. Da la vuelta a mitad de cocción.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "5e3ad24dfcf61c18c30ff522"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93cc29be8924040c2fd1/step-d832f800.jpg",
+          "path": "/68fb93cc29be8924040c2fd1/step-d832f800.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68fb93cc29be8924040c2fd1-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nDeshoja y pica el cilantro.\nRalla la piel de la lima y corta la lima por la mitad.\nEn un bol grande, añade la carne picada, ralladura de lima al gusto, las especias tailandesas, la mitad del cilantro, la mitad de la salsa de soja, sal y pimienta.\nMezcla y forma hamburguesa de 1 cm de grosor por persona.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Deshoja y pica el <strong>cilantro</strong>.</li>\n<li dir=\"ltr\">Ralla la piel de la <strong>lima</strong> y corta la <strong>lima</strong> por la mitad.</li>\n<li dir=\"ltr\">En un bol grande, añade la <strong>carne picada,</strong> ralladura de <strong>lima</strong> al gusto, las <strong>especias tailandesas,</strong> la mitad del <strong>cilantro</strong>, la mitad de la <strong>salsa</strong> <strong>de soja, sal</strong> y <strong>pimienta.</strong></li>\n<li dir=\"ltr\">Mezcla y forma <strong>hamburguesa</strong> de 1 cm de grosor por persona.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Deshoja y pica el <strong>cilantro</strong>.</li>\n<li dir=\"ltr\">Ralla la piel de la <strong>lima</strong> y corta la <strong>lima</strong> por la mitad.</li>\n<li dir=\"ltr\">En un bol grande, añade la <strong>carne picada,</strong> ralladura de <strong>lima</strong> al gusto, las <strong>especias tailandesas,</strong> la mitad del <strong>cilantro</strong>, la mitad de la <strong>salsa</strong> <strong>de soja, sal</strong> y <strong>pimienta.</strong></li>\n<li dir=\"ltr\">Mezcla y forma <strong>hamburguesa</strong> de 1 cm de grosor por persona.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e",
+        "59d49a9319279f8fe60e866f"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93cc29be8924040c2fd1/step-76019910.jpg",
+          "path": "/68fb93cc29be8924040c2fd1/step-76019910.jpg",
+          "caption": "Da forma a las hamburguesas",
+          "localImage": "/images/recipes/68fb93cc29be8924040c2fd1-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio-alto. Cocina las hamburguesas 2-3 min por lado, hasta que queden doradas y bien cocinadas en el interior.\n\nRECUERDA: Las hamburguesas están cocidas cuando ya no están rosadas en el medio. ",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina las <strong>hamburguesas</strong> 2-3 min por lado, hasta que queden doradas y bien cocinadas en el interior.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Las hamburguesas están cocidas cuando ya no están rosadas en el medio. </p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina las <strong>hamburguesas</strong> 2-3 min por lado, hasta que queden doradas y bien cocinadas en el interior.</li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Las hamburguesas están cocidas cuando ya no están rosadas en el medio. </p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93cc29be8924040c2fd1/step-5f4a2a20.jpg",
+          "path": "/68fb93cc29be8924040c2fd1/step-5f4a2a20.jpg",
+          "caption": "Hamburguesas al fuego",
+          "localImage": "/images/recipes/68fb93cc29be8924040c2fd1-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nPica el chile.\nPica los cacahuetes.\nEn una ensaladera, exprime el zumo de la mitad de la lima, la salsa de soja restante, el cilantro restante, la mitad de los cacahuetes, la salsa de chile dulce, chile al gusto y un chorrito de aceite. \n\nRECUERDA: Lávate bien las manos después de manipular el chile.",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Pica el <strong>chile.</strong></li>\n<li dir=\"ltr\">Pica los <strong>cacahuetes</strong>.</li>\n<li dir=\"ltr\">En una ensaladera, exprime el zumo de la mitad de la <strong>lima</strong>, la <strong>salsa de soja</strong> restante, el <strong>cilantro</strong> restante, la mitad de los <strong>cacahuetes</strong>, la <strong>salsa de chile dulce</strong>, <strong>chile</strong> al gusto y un chorrito de<strong> aceite</strong>. </li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate bien las manos después de manipular el chile.</p>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Pica el <strong>chile.</strong></li>\n<li dir=\"ltr\">Pica los <strong>cacahuetes</strong>.</li>\n<li dir=\"ltr\">En una ensaladera, exprime el zumo de la mitad de la <strong>lima</strong>, la <strong>salsa de soja</strong> restante, el <strong>cilantro</strong> restante, la mitad de los <strong>cacahuetes</strong>, la <strong>salsa de chile dulce</strong>, <strong>chile</strong> al gusto y un chorrito de<strong> aceite</strong>. </li>\n</ul>\n<p dir=\"ltr\">RECUERDA: Lávate bien las manos después de manipular el chile.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93cc29be8924040c2fd1/step-f46e2c30.jpg",
+          "path": "/68fb93cc29be8924040c2fd1/step-f46e2c30.jpg",
+          "caption": "Da vida al aderezo",
+          "localImage": "/images/recipes/68fb93cc29be8924040c2fd1-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nCorta los cogollos de lechuga en tiras finas.\nCorta el tomate en daditos.\nAgrega la lechuga y el tomate a la ensaladera y mezcla bien.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Corta los <strong>cogollos de lechuga</strong> en tiras finas.</li>\n<li dir=\"ltr\">Corta el <strong>tomate</strong> en daditos.</li>\n<li dir=\"ltr\">Agrega la <strong>lechuga</strong> y el <strong>tomate</strong> a la ensaladera y mezcla bien.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Corta los <strong>cogollos de lechuga</strong> en tiras finas.</li>\n<li dir=\"ltr\">Corta el <strong>tomate</strong> en daditos.</li>\n<li dir=\"ltr\">Agrega la <strong>lechuga</strong> y el <strong>tomate</strong> a la ensaladera y mezcla bien.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93cc29be8924040c2fd1/step-578d3040.jpg",
+          "path": "/68fb93cc29be8924040c2fd1/step-578d3040.jpg",
+          "caption": "Que no falte el verde",
+          "localImage": "/images/recipes/68fb93cc29be8924040c2fd1-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nSirve la hamburguesa, el boniato asado y la ensalada en platos, por separado.\nCubre el plato con los cacahuetes y el chile restante al gusto.\nAñade gajos de lima al plato para exprimir su zumo al gusto.\n",
+      "instructionsHTML": "<ul>\n<li dir=\"ltr\">Sirve la <strong>hamburguesa,</strong> el <strong>boniato</strong> asado y la <strong>ensalada</strong> en platos, por separado.</li>\n<li dir=\"ltr\">Cubre el plato con los <strong>cacahuetes</strong> y el <strong>chile</strong> restante al gusto.</li>\n<li dir=\"ltr\">Añade gajos de <strong>lima</strong> al plato para exprimir su zumo al gusto.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li dir=\"ltr\">Sirve la <strong>hamburguesa,</strong> el <strong>boniato</strong> asado y la <strong>ensalada</strong> en platos, por separado.</li>\n<li dir=\"ltr\">Cubre el plato con los <strong>cacahuetes</strong> y el <strong>chile</strong> restante al gusto.</li>\n<li dir=\"ltr\">Añade gajos de <strong>lima</strong> al plato para exprimir su zumo al gusto.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb93cc29be8924040c2fd1/step-ccae6a50.jpg",
+          "path": "/68fb93cc29be8924040c2fd1/step-ccae6a50.jpg",
+          "caption": "¡A la mesa!",
+          "localImage": "/images/recipes/68fb93cc29be8924040c2fd1-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "6040bf55eda37d5a22154e52",
+      "type": "optional-spice",
+      "name": "Picante opcional",
+      "slug": "picante-opcional",
+      "colorHandle": "spicy",
+      "preferences": [],
+      "displayLabel": true
+    },
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCCLB0011-6",
+  "updatedAt": "2026-02-05T09:09:33+00:00",
+  "utensils": [
+    {
+      "id": "5e3ad24dfcf61c18c30ff522",
+      "type": null,
+      "name": "Bandeja de horno con papel de horno"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Rallador"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866f",
+      "type": "medium-bowl",
+      "name": "Bol mediano"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "fa8e3e09-f3d7-45ec-b56d-0a5e9e8f20fc",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/hamburguesa-casera-de-ternera-al-estilo-asiatico-68fb93cc29be8924040c2fd1",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9532",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 220,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9532",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 440,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "6340437941033266d7be9531",
+          "amount": 1200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436e41033266d7be9510",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340437341033266d7be9522",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436c2268bc1bff0d3ca4",
+          "amount": 750,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "680d749a80e0f84c774cad60",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437641033266d7be9528",
+          "amount": 1.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "636bc5ee371ed3efb1da61da",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340437941033266d7be9532",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b41033266d7be9505",
+          "amount": 660,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68fb93cc29be8924040c2fd1-La asiática hamburguesa al plato con cilantro.jpg",
+  "localCard": "/pdf/68fb93cc29be8924040c2fd1-La asiática hamburguesa al plato con cilantro.pdf"
+}

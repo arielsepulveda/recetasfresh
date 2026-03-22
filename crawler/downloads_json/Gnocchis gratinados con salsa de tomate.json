@@ -1,0 +1,732 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "name": "Sulfitos",
+      "type": "sulphites",
+      "slug": "sulfitos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    }
+  ],
+  "averageRating": 3,
+  "canonical": null,
+  "canonicalLink": null,
+  "cardLink": "https://www.hellofresh.es/recipecards/card/gnocchis-salsa-tomate-ensalada-63ca9c268c142fdfd13ed29a-b97ee227.pdf",
+  "category": null,
+  "clonedFrom": "6347ef6ee9568549b78497a3",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2023-01-20T13:50:30+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Los gnocchis son un tipo de pasta que combina harina y patata para crear una textura esponjosa que acompaña de maravilla cualquier salsa que puedas crear. En este caso, apostamos por una salsa de tomate y un gratinado de queso sobre la pasta, que acompañamos con una ensalada fresca con cintas de zanahoria y vinagreta balsámica.",
+  "descriptionHTML": "<p>Los gnocchis son un tipo de pasta que combina harina y patata para crear una textura esponjosa que acompaña de maravilla cualquier salsa que puedas crear. En este caso, apostamos por una salsa de tomate y un gratinado de queso sobre la pasta, que acompañamos con una ensalada fresca con cintas de zanahoria y vinagreta balsámica.</p>",
+  "descriptionMarkdown": "Los gnocchis son un tipo de pasta que combina harina y patata para crear una textura esponjosa que acompaña de maravilla cualquier salsa que puedas crear. En este caso, apostamos por una salsa de tomate y un gratinado de queso sobre la pasta, que acompañamos con una ensalada fresca con cintas de zanahoria y vinagreta balsámica.",
+  "difficulty": 1,
+  "favoritesCount": 16,
+  "headline": "y ensalada de zanahoria con vinagreta balsámica",
+  "id": "63ca9c268c142fdfd13ed29a",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF211105_R209_W48_FR_RFR29803881-_KB_Main_Reshoot_high-4a21e5e1.jpg",
+  "imagePath": "/image/HF211105_R209_W48_FR_RFR29803881-_KB_Main_Reshoot_high-4a21e5e1.jpg",
+  "ingredients": [
+    {
+      "id": "6364ef331c8a9adf8ea7f79e",
+      "uuid": "6939977c-68b0-5e37-ab54-1be0ffa14129",
+      "name": "Queso italiano rallado curado",
+      "type": "grated-hard-italian-style-cheese",
+      "slug": "queso-italiano-rallado-curado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "imagePath": "/ingredient/6364ef331c8a9adf8ea7f79e-db13f577.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6364ef331c8a9adf8ea7f79e-Queso italiano rallado curado.png"
+    },
+    {
+      "id": "6340436f41033266d7be9512",
+      "uuid": "ecae5103-44da-5d53-a901-8a34d154b23d",
+      "name": "Tomate triturado",
+      "type": "crushed-tomatoes",
+      "slug": "tomate-triturado",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9512-3b126949.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9512-Tomate triturado.png"
+    },
+    {
+      "id": "63eb9aca49bd0d0a6b225fa9",
+      "uuid": "1caec975-6da0-5803-bca6-6e86b575541d",
+      "name": "Gnocchi",
+      "type": "gnocchi",
+      "slug": "gnocchi",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63eb9aca49bd0d0a6b225fa9-088e2832.png",
+      "imagePath": "/ingredient/63eb9aca49bd0d0a6b225fa9-088e2832.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63eb9aca49bd0d0a6b225fa9-Gnocchi.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "634814de4eacd7e8b5e77c23",
+      "uuid": "a7c08829-97e8-5550-befa-38b97ea37667",
+      "name": "Mostaza",
+      "type": "mustard",
+      "slug": "mostaza",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "imagePath": "/ingredient/634814de4eacd7e8b5e77c23-9dddcd26.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634814de4eacd7e8b5e77c23-Mostaza.png"
+    },
+    {
+      "id": "6340436b233160a36674b9ed",
+      "uuid": "20250c8b-8691-53f6-9d76-89aefba3524f",
+      "name": "Vinagre balsámico",
+      "type": "balsamic-vinegar",
+      "slug": "vinagre-balsamico",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "imagePath": "/ingredient/6340436b233160a36674b9ed-83581994.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052ff"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436b233160a36674b9ed-Vinagre balsámico.png"
+    },
+    {
+      "id": "6340437841033266d7be952c",
+      "uuid": "827bd110-c089-50ac-9b7a-346ec7b98257",
+      "name": "Mezclum",
+      "type": "salad-mix",
+      "slug": "mezclum",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "imagePath": "/ingredient/6340437841033266d7be952c-a41f16c9.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340437841033266d7be952c-Mezclum.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/63ca9c268c142fdfd13ed29a",
+  "name": "Gnocchis gratinados con salsa de tomate",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 561,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2348,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 9.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 4.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 60.3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 13.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 5.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 14.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 3.31,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT30M",
+  "promotion": null,
+  "ratingsCount": 35,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 501,
+  "slug": "gnocchis-gratinados-con-salsa-de-tomate",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "Precalienta el horno a 220ºC en la opción de gratinado. Pela y pica el ajo (ver cantidad en ingredientes).",
+      "instructionsHTML": "<p>Precalienta el horno a 220ºC en la opción de gratinado. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "instructionsMarkdown": "<p>Precalienta el horno a 220ºC en la opción de gratinado. Pela y pica el <strong>ajo</strong> (ver cantidad en ingredientes).</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c268c142fdfd13ed29a/step-69551700.jpg",
+          "path": "/63ca9c268c142fdfd13ed29a/step-69551700.jpg",
+          "caption": "Prepara el ajo",
+          "localImage": "/images/recipes/63ca9c268c142fdfd13ed29a-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "Agrega un chorrito de aceite en la base de una fuente para el horno. En una sartén, calienta a fuego medio un chorrito de aceite. Una vez caliente, agrega los gnocchis y saltea durante 4-5 min, hasta que empiecen a dorarse. Una vez listos, reserva en la fuente para el horno.",
+      "instructionsHTML": "<p>Agrega un chorrito de <strong>aceite</strong> en la base de una fuente para el horno. En una sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Una vez caliente, agrega los <strong>gnocchis</strong> y saltea durante 4-5 min, hasta que empiecen a dorarse. Una vez listos, reserva en la fuente para el horno.</p>",
+      "instructionsMarkdown": "<p>Agrega un chorrito de <strong>aceite</strong> en la base de una fuente para el horno. En una sartén, calienta a fuego medio un chorrito de <strong>aceite</strong>. Una vez caliente, agrega los <strong>gnocchis</strong> y saltea durante 4-5 min, hasta que empiecen a dorarse. Una vez listos, reserva en la fuente para el horno.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305386",
+        "59d49a9319279f8fe60e866e"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c268c142fdfd13ed29a/step-b67a5610.jpg",
+          "path": "/63ca9c268c142fdfd13ed29a/step-b67a5610.jpg",
+          "caption": "Saltea los gnocchis",
+          "localImage": "/images/recipes/63ca9c268c142fdfd13ed29a-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "En la misma sartén, agrega un chorrito de aceite junto con el ajo. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega el tomate triturado, el azúcar (ver cantidad en ingredientes), el orégano (ver cantidad en ingredientes) y salpimienta a tu gusto. Remueve y cocina a fuego medio-bajo 6-7 min, hasta que la salsa espese.",
+      "instructionsHTML": "<p>En la misma sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega el <strong>tomate triturado</strong>, el <strong>azúcar</strong> (ver cantidad en ingredientes), el <strong>orégano</strong> (ver cantidad en ingredientes) y <strong>salpimienta</strong> a tu gusto. Remueve y cocina a fuego medio-bajo 6-7 min, hasta que la <strong>salsa</strong> espese.</p>",
+      "instructionsMarkdown": "<p>En la misma sartén, agrega un chorrito de <strong>aceite</strong> junto con el <strong>ajo</strong>. Calienta a fuego medio y cocina 1-2 min o hasta que se dore. Luego, agrega el <strong>tomate triturado</strong>, el <strong>azúcar</strong> (ver cantidad en ingredientes), el <strong>orégano</strong> (ver cantidad en ingredientes) y <strong>salpimienta</strong> a tu gusto. Remueve y cocina a fuego medio-bajo 6-7 min, hasta que la <strong>salsa</strong> espese.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c268c142fdfd13ed29a/step-f266ff20.jpg",
+          "path": "/63ca9c268c142fdfd13ed29a/step-f266ff20.jpg",
+          "caption": "Cocina la salsa",
+          "localImage": "/images/recipes/63ca9c268c142fdfd13ed29a-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "Cuando la salsa haya espesado, agrégala a la fuente con los gnocchis. Remueve bien, hasta que los gnocchis queden bien cubiertos por la salsa y cubre con el queso italiano rallado. Hornea 4-5 min en la parte superior del horno, hasta que el queso esté bien dorado.",
+      "instructionsHTML": "<p>Cuando la <strong>salsa</strong> haya espesado, agrégala a la fuente con los <strong>gnocchis</strong>. Remueve bien, hasta que los <strong>gnocchis</strong> queden bien cubiertos por la <strong>salsa</strong> y cubre con el <strong>queso italiano rallado</strong>. Hornea 4-5 min en la parte superior del horno, hasta que el <strong>queso</strong> esté bien dorado.</p>",
+      "instructionsMarkdown": "<p>Cuando la <strong>salsa</strong> haya espesado, agrégala a la fuente con los <strong>gnocchis</strong>. Remueve bien, hasta que los <strong>gnocchis</strong> queden bien cubiertos por la <strong>salsa</strong> y cubre con el <strong>queso italiano rallado</strong>. Hornea 4-5 min en la parte superior del horno, hasta que el <strong>queso</strong> esté bien dorado.</p>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c268c142fdfd13ed29a/step-539b8230.jpg",
+          "path": "/63ca9c268c142fdfd13ed29a/step-539b8230.jpg",
+          "caption": "Gratina los gnocchis",
+          "localImage": "/images/recipes/63ca9c268c142fdfd13ed29a-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "Mientras tanto, pela la zanahoria y, con ayuda del pelador, córtala en cintas longitudinales. En una ensaladera, mezcla la mostaza con un chorrito de aceite y el vinagre balsámico. Salpimienta a tu gusto. Justo antes de comer, agrega la mitad del mezclum (doble para 4p) y las cintas de zanahoria. Mezcla bien, de forma que la ensalada quede bien aderezada.",
+      "instructionsHTML": "<p>Mientras tanto, pela la <strong>zanahoria</strong> y, con ayuda del pelador, córtala en cintas longitudinales. En una ensaladera, mezcla la <strong>mostaza</strong> con un chorrito de <strong>aceite</strong> y el <strong>vinagre balsámico</strong>. <strong>Salpimienta</strong> a tu gusto. Justo antes de comer, agrega la mitad del <strong>mezclum</strong> (doble para 4p) y las <strong>cintas de zanahoria</strong>. Mezcla bien, de forma que la <strong>ensalada</strong> quede bien aderezada.</p>",
+      "instructionsMarkdown": "<p>Mientras tanto, pela la <strong>zanahoria</strong> y, con ayuda del pelador, córtala en cintas longitudinales. En una ensaladera, mezcla la <strong>mostaza</strong> con un chorrito de <strong>aceite</strong> y el <strong>vinagre balsámico</strong>. <strong>Salpimienta</strong> a tu gusto. Justo antes de comer, agrega la mitad del <strong>mezclum</strong> (doble para 4p) y las <strong>cintas de zanahoria</strong>. Mezcla bien, de forma que la <strong>ensalada</strong> quede bien aderezada.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c268c142fdfd13ed29a/step-b5664b40.jpg",
+          "path": "/63ca9c268c142fdfd13ed29a/step-b5664b40.jpg",
+          "caption": "Prepara la ensalada",
+          "localImage": "/images/recipes/63ca9c268c142fdfd13ed29a-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\n \n\nCuando estén bien gratinados, sirve los gnocchis con salsa de tomate en platos y acompaña con la ensalada a un lado.",
+      "instructionsHTML": "<p><div>\n<div> </div>\n</div>\n<div>Cuando estén bien gratinados, sirve los <strong>gnocchis</strong> con <strong>salsa de tomate</strong> en platos y acompaña con la <strong>ensalada</strong> a un lado.</div></p>",
+      "instructionsMarkdown": "<div>\n<div> </div>\n</div>\n<div>Cuando estén bien gratinados, sirve los <strong>gnocchis</strong> con <strong>salsa de tomate</strong> en platos y acompaña con la <strong>ensalada</strong> a un lado.</div>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/63ca9c268c142fdfd13ed29a/step-43bd5a50.jpg",
+          "path": "/63ca9c268c142fdfd13ed29a/step-43bd5a50.jpg",
+          "caption": "Emplata y disfruta",
+          "localImage": "/images/recipes/63ca9c268c142fdfd13ed29a-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "5efb7686bd5c0d38b0058739",
+      "type": "family-friendly",
+      "name": "Familia",
+      "slug": "familia",
+      "colorHandle": "familyFriendly",
+      "preferences": [
+        "Familia"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "veggie",
+      "name": "Vegetariano",
+      "slug": "vegetariano",
+      "colorHandle": "veggie",
+      "preferences": [
+        "Vegetariano"
+      ],
+      "displayLabel": true
+    },
+    {
+      "id": "64b7dbda8c02aa03441416af",
+      "type": "seo",
+      "name": "SEO",
+      "slug": "seo",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESFVV0095-2",
+  "updatedAt": "2026-01-21T17:18:13+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305386",
+      "type": "ovendish",
+      "name": "Plato para horno"
+    },
+    {
+      "id": "59d49a9319279f8fe60e866e",
+      "type": "medium-pan",
+      "name": "Sartén mediana"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "087c9cdb-38cd-44e2-96fc-14bb03bafca6",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/gnocchis-gratinados-con-salsa-de-tomate-63ca9c268c142fdfd13ed29a",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 400,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63eb9aca49bd0d0a6b225fa9",
+          "amount": 250,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 0.5,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "6364ef331c8a9adf8ea7f79e",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9512",
+          "amount": 800,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63eb9aca49bd0d0a6b225fa9",
+          "amount": 500,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634814de4eacd7e8b5e77c23",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436b233160a36674b9ed",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340437841033266d7be952c",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/63ca9c268c142fdfd13ed29a-Gnocchis gratinados con salsa de tomate.jpg",
+  "localCard": "/pdf/63ca9c268c142fdfd13ed29a-Gnocchis gratinados con salsa de tomate.pdf"
+}

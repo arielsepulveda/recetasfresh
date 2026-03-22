@@ -1,0 +1,837 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "name": "Leche",
+      "type": "milk",
+      "slug": "leche",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5b0532aaae08b52eb9420552",
+      "name": "Soja",
+      "type": "traces-of-soya",
+      "slug": "traces-of-soja",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf97b7ae08b54d88061162",
+      "name": "Leche",
+      "type": "traces-of-milk",
+      "slug": "traces-of-leche",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    },
+    {
+      "id": "5de91d27f4c17e42c17aef94",
+      "name": "Mostaza",
+      "type": "traces-of-mustard",
+      "slug": "traces-of-mostaza",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5acf972fae08b54d333ac322",
+      "name": "Sésamo",
+      "type": "traces-of-sesame",
+      "slug": "traces-of-sesamo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "666c26f177d4ed4ef249d77c",
+  "canonicalLink": "https://www.hellofresh.es/recipes/piadinas-de-bacon-y-pera-salteada-666c26f177d4ed4ef249d77c",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/6942e56035efa043add8c6a4-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "65ae92a0b1758b5c6f8909bb",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-12-17T17:16:17+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italiana",
+      "slug": "italiana",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg"
+    }
+  ],
+  "description": "Atrévete a probar un plato fresco y sencillo con esta receta de piadinas con bacon, cebolla y pera salteada, a las que añadimos ensalada con vinagreta de pecorino y cebollita crujiente. Este plato no solo es rápido de preparar, sino que además podrás disfrutarlo con la seguridad de que contribuye a mantener una dieta equilibrada y completa.",
+  "descriptionHTML": "<p>Atrévete a probar un plato fresco y sencillo con esta receta de piadinas con bacon, cebolla y pera salteada, a las que añadimos ensalada con vinagreta de pecorino y cebollita crujiente. Este plato no solo es rápido de preparar, sino que además podrás disfrutarlo con la seguridad de que contribuye a mantener una dieta equilibrada y completa.</p>",
+  "descriptionMarkdown": "Atrévete a probar un plato fresco y sencillo con esta receta de piadinas con bacon, cebolla y pera salteada, a las que añadimos ensalada con vinagreta de pecorino y cebollita crujiente. Este plato no solo es rápido de preparar, sino que además podrás disfrutarlo con la seguridad de que contribuye a mantener una dieta equilibrada y completa.",
+  "difficulty": 1,
+  "favoritesCount": 0,
+  "headline": "con ensalada con aderezo de pecorino",
+  "id": "6942e56035efa043add8c6a4",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y24_R15_W18_ES_ESCFP22368-2_Main_edit_high-c35103de.jpg",
+  "imagePath": "/image/HF_Y24_R15_W18_ES_ESCFP22368-2_Main_edit_high-c35103de.jpg",
+  "ingredients": [
+    {
+      "id": "63404374233160a36674ba12",
+      "uuid": "e5f7a84f-9f36-538d-af4e-3633bd6ec5d8",
+      "name": "Cebolla",
+      "type": "onion",
+      "slug": "cebolla",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "imagePath": "/ingredient/63404374233160a36674ba12-114ae9b5.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404374233160a36674ba12-Cebolla.png"
+    },
+    {
+      "id": "634043752268bc1bff0d3cc2",
+      "uuid": "97ef93ce-ab9e-5f68-9948-93c496545795",
+      "name": "Pera",
+      "type": "pear",
+      "slug": "pera",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043752268bc1bff0d3cc2-6164f404.png",
+      "imagePath": "/ingredient/634043752268bc1bff0d3cc2-6164f404.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634043752268bc1bff0d3cc2-Pera.png"
+    },
+    {
+      "id": "63404379233160a36674ba29",
+      "uuid": "2a486e38-5998-51dd-b175-8383b12a3ec3",
+      "name": "Tomate",
+      "type": "tomato",
+      "slug": "tomate",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "imagePath": "/ingredient/63404379233160a36674ba29-5cf45994.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba29-Tomate.png"
+    },
+    {
+      "id": "6437b676b11f6c1474a8a014",
+      "uuid": "02a11a36-e514-5fc6-9647-3567c5aae492",
+      "name": "Bacon",
+      "type": "bacon-lardons",
+      "slug": "bacon",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6437b676b11f6c1474a8a014-9702ce9f.png",
+      "imagePath": "/ingredient/6437b676b11f6c1474a8a014-9702ce9f.png",
+      "shipped": true,
+      "allergens": [
+        "5b0532aaae08b52eb9420552",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b3052f3"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6437b676b11f6c1474a8a014-Bacon.png"
+    },
+    {
+      "id": "65a5166d70cc438cf4f7d21a",
+      "uuid": "ba765ed8-7344-4b46-bd37-25eddb1421de",
+      "name": "Pecorino italiano",
+      "type": "pecorino-vegetariano",
+      "slug": "pecorino-italiano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65a5166d70cc438cf4f7d21a-88693f84.png",
+      "imagePath": "/ingredient/65a5166d70cc438cf4f7d21a-88693f84.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052fa"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65a5166d70cc438cf4f7d21a-Pecorino italiano.png"
+    },
+    {
+      "id": "634d1b67971d5eddb3ff71bc",
+      "uuid": "0e54259d-82bb-566a-bcc5-4b8c6419a5fd",
+      "name": "Rúcula",
+      "type": "rocket",
+      "slug": "rucula",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "imagePath": "/ingredient/634d1b67971d5eddb3ff71bc-a61e37cc.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/634d1b67971d5eddb3ff71bc-Rúcula.png"
+    },
+    {
+      "id": "69722e91e916540da61b285c",
+      "uuid": "85c45981-51eb-5688-8659-b3f9bbf4116b",
+      "name": "Tortillas de trigo",
+      "type": "flour-tortillas",
+      "slug": "tortillas-de-trigo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/69722e91e916540da61b285c-2c452949.png",
+      "imagePath": "/ingredient/69722e91e916540da61b285c-2c452949.png",
+      "shipped": true,
+      "allergens": [
+        "5de91d27f4c17e42c17aef94",
+        "5b0532aaae08b52eb9420552",
+        "5acf97b7ae08b54d88061162",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/69722e91e916540da61b285c-Tortillas de trigo.png"
+    },
+    {
+      "id": "686e3eed69ddbf20131a6a7d",
+      "uuid": "0a15cb9b-a6c5-4fce-b32c-1f756821800c",
+      "name": "Cebolla frita",
+      "type": "crispy-onions",
+      "slug": "cebolla-frita",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/686e3eed69ddbf20131a6a7d-90217169.png",
+      "imagePath": "/ingredient/686e3eed69ddbf20131a6a7d-90217169.png",
+      "shipped": true,
+      "allergens": [
+        "5acf972fae08b54d333ac322",
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/686e3eed69ddbf20131a6a7d-Cebolla frita.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "63492a7de9568549b78497e3",
+      "uuid": "cf89ce0c-05c2-44f3-bbbc-e9acb5a2f520",
+      "name": "Azúcar",
+      "type": "sugar",
+      "slug": "azucar",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "imagePath": "/ingredient/63492a7de9568549b78497e3-cbe4274b.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492a7de9568549b78497e3-Azúcar.png"
+    },
+    {
+      "id": "63492b51ebf08332f1bff15a",
+      "uuid": "0fd054ad-aba8-479a-8d3a-d98e5948195f",
+      "name": "Orégano",
+      "type": "oregano",
+      "slug": "oregano",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "imagePath": "/ingredient/63492b51ebf08332f1bff15a-0cd71341.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b51ebf08332f1bff15a-Orégano.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": null,
+  "link": "https://hellofresh.com/recipes/6942e56035efa043add8c6a4",
+  "name": "Piadinas de bacon, pera salteada y cebolla crujiente",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 2420,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 578,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 42.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 13.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 43.1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 9.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 7.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 16.5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.62,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT20M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 385,
+  "slug": "piadinas-de-bacon-pera-salteada-y-cebolla-crujiente",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nPela la cebolla y córtala en tiras finas.\nCorta la pera en dados de 1 cm.\nCorta el tomate en cubos pequeños.\n",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Corta la <strong>pera</strong> en dados de 1 cm.</li>\n<li>Corta el <strong>tomate</strong> en cubos pequeños.</li>\n</ul>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Pela la <strong>cebolla</strong> y córtala en tiras finas.</li>\n<li>Corta la <strong>pera</strong> en dados de 1 cm.</li>\n<li>Corta el <strong>tomate</strong> en cubos pequeños.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e56035efa043add8c6a4/step-85f31500.jpg",
+          "path": "/6942e56035efa043add8c6a4/step-85f31500.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/6942e56035efa043add8c6a4-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nEn una sartén, calienta un chorrito de aceite a fuego medio. Añade el bacon y cocina a fuego alto 3-5 min, hasta que quede dorado y crujiente.\nAgrega la cebolla, la pera, sal y el azúcar y cocina 6-7 min más, removiendo, hasta que la cebolla y la pera se ablanden y doren.\n",
+      "instructionsHTML": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Añade el <strong>bacon</strong> y cocina a fuego alto 3-5 min, hasta que quede dorado y crujiente.</li>\n<li>Agrega la <strong>cebolla</strong>, la <strong>pera, </strong><strong>sal</strong> y el <strong>azúcar </strong>y cocina 6-7 min más, removiendo, hasta que la <strong>cebolla</strong> y la <strong>pera</strong> se ablanden y doren.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio. Añade el <strong>bacon</strong> y cocina a fuego alto 3-5 min, hasta que quede dorado y crujiente.</li>\n<li>Agrega la <strong>cebolla</strong>, la <strong>pera, </strong><strong>sal</strong> y el <strong>azúcar </strong>y cocina 6-7 min más, removiendo, hasta que la <strong>cebolla</strong> y la <strong>pera</strong> se ablanden y doren.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e56035efa043add8c6a4/step-2d9cda10.jpg",
+          "path": "/6942e56035efa043add8c6a4/step-2d9cda10.jpg",
+          "caption": "Bacon y cebolla al fuego",
+          "localImage": "/images/recipes/6942e56035efa043add8c6a4-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una ensaladera, agrega el queso pecorino, un chorrito generoso de aceite y el orégano. Salpimienta y mezcla.\nAñade la rúcula y el tomate y mezcla.\n",
+      "instructionsHTML": "<ul>\n<li>En una ensaladera, agrega el <strong>queso pecorino</strong>, un chorrito generoso de <strong>aceite</strong> y el <strong>orégano</strong>. <strong>Salpimienta</strong> y mezcla.</li>\n<li>Añade la <strong>rúcula</strong> y el <strong>tomate</strong> y mezcla.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una ensaladera, agrega el <strong>queso pecorino</strong>, un chorrito generoso de <strong>aceite</strong> y el <strong>orégano</strong>. <strong>Salpimienta</strong> y mezcla.</li>\n<li>Añade la <strong>rúcula</strong> y el <strong>tomate</strong> y mezcla.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e56035efa043add8c6a4/step-ec791720.jpg",
+          "path": "/6942e56035efa043add8c6a4/step-ec791720.jpg",
+          "caption": "Que no falte el verde",
+          "localImage": "/images/recipes/6942e56035efa043add8c6a4-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nExtiende las tortillas de trigo en un plato y caliéntalas en el microondas a máxima potencia 30 segundos.\nSobre cada tortilla, agrega el bacon con cebolla y pera, ensalada y cebolla frita al gusto.\nSirve la ensalada restante en un bol y añade la cebolla frita restante.\n",
+      "instructionsHTML": "<ul>\n<li>Extiende las <strong>tortillas de trigo</strong> en un plato y caliéntalas en el microondas a máxima potencia 30 segundos.</li>\n<li>Sobre cada <strong>tortilla</strong>, agrega el <strong>bacon</strong> con <strong>cebolla</strong> y <strong>pera</strong>, <strong>ensalada</strong> y <strong>cebolla frita</strong> al gusto.</li>\n<li>Sirve la <strong>ensalada</strong> restante en un bol y añade la <strong>cebolla frita</strong> restante.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Extiende las <strong>tortillas de trigo</strong> en un plato y caliéntalas en el microondas a máxima potencia 30 segundos.</li>\n<li>Sobre cada <strong>tortilla</strong>, agrega el <strong>bacon</strong> con <strong>cebolla</strong> y <strong>pera</strong>, <strong>ensalada</strong> y <strong>cebolla frita</strong> al gusto.</li>\n<li>Sirve la <strong>ensalada</strong> restante en un bol y añade la <strong>cebolla frita</strong> restante.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/6942e56035efa043add8c6a4/step-8df15d30.jpg",
+          "path": "/6942e56035efa043add8c6a4/step-8df15d30.jpg",
+          "caption": "Monta las piadinas y disfruta",
+          "localImage": "/images/recipes/6942e56035efa043add8c6a4-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "659d6bc4849449eb80c0050c",
+      "type": "internal-balanced",
+      "name": "Balanced",
+      "slug": "balanced",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "64809de2d26957317c9b6da7",
+      "type": "dinners",
+      "name": "Dinner",
+      "slug": "dinner",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "619f65dae9aadf39547f9f65",
+      "type": "under-650-calories",
+      "name": "Bajo en calorías",
+      "slug": "bajo-en-calorias",
+      "colorHandle": "calorieSmart",
+      "preferences": [
+        "Calorie Smart"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "596df0032c3e08133541c5d3",
+      "type": "one-pan",
+      "name": "Una sartén",
+      "slug": "una-sarten",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": true
+    }
+  ],
+  "totalTime": "PT20M",
+  "uniqueRecipeCode": "ESCFP22368-23",
+  "updatedAt": "2026-03-06T09:15:04+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Sartén"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    }
+  ],
+  "uuid": "6d1b9aea-ccb2-440d-9339-59bbeeb0b89c",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/piadinas-de-bacon-pera-salteada-y-cebolla-crujiente-6942e56035efa043add8c6a4",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043752268bc1bff0d3cc2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6437b676b11f6c1474a8a014",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "65a5166d70cc438cf4f7d21a",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 50,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "69722e91e916540da61b285c",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 1,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043752268bc1bff0d3cc2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6437b676b11f6c1474a8a014",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "65a5166d70cc438cf4f7d21a",
+          "amount": 40,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "69722e91e916540da61b285c",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 2,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "63404374233160a36674ba12",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "634043752268bc1bff0d3cc2",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba29",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6437b676b11f6c1474a8a014",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "65a5166d70cc438cf4f7d21a",
+          "amount": 60,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "634d1b67971d5eddb3ff71bc",
+          "amount": 150,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "69722e91e916540da61b285c",
+          "amount": 24,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "686e3eed69ddbf20131a6a7d",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492a7de9568549b78497e3",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        },
+        {
+          "id": "63492b51ebf08332f1bff15a",
+          "amount": 3,
+          "unit": "cucharadita(s)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/6942e56035efa043add8c6a4-Piadinas de bacon, pera salteada y cebolla crujiente.jpg",
+  "localCard": "/pdf/6942e56035efa043add8c6a4-Piadinas de bacon, pera salteada y cebolla crujiente.pdf"
+}

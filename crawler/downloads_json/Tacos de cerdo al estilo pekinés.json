@@ -1,0 +1,888 @@
+{
+  "active": true,
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "name": "Sésamo",
+      "type": "sesame",
+      "slug": "sesamo",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "name": "Gluten",
+      "type": "gluten",
+      "slug": "gluten",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "name": "Soja",
+      "type": "soya",
+      "slug": "soja",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "60368d89cdbdf450236ad8cd",
+      "name": "Trigo",
+      "type": "wheat",
+      "slug": "trigo",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": false
+    },
+    {
+      "id": "5a9614ab30006c2c026cf562",
+      "name": "Cacahuetes",
+      "type": "traces-of-peanuts",
+      "slug": "traces-of-cacahuetes",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b305302",
+      "name": "Frutos secos",
+      "type": "traces-of-nuts",
+      "slug": "traces-of-frutos-secos",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "iconPath": "/allergens/57962a07b7e8697d4b305302-20b4388c.png",
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "62cc417a2f15d58ec3559423",
+      "name": "Gluten",
+      "type": "traces-of-gluten",
+      "slug": "traces-of-gluten",
+      "iconPath": null,
+      "triggersTracesOf": false,
+      "tracesOf": true
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "name": "Puede contener trazas de alérgenos",
+      "type": "maycontaintracesofallergens",
+      "slug": "may-contain-traces-of-allergens",
+      "iconPath": null,
+      "triggersTracesOf": true,
+      "tracesOf": true
+    }
+  ],
+  "averageRating": 0,
+  "canonical": "66f3e60282b96706355a6802",
+  "canonicalLink": "https://www.hellofresh.es/recipes/tacos-de-cerdo-con-salsa-hoisin-y-verduras-acompanados-con-judias-salteadas-66f3e60282b96706355a6802",
+  "cardLink": "https://www.hellofresh.es/recipecards/card/68fb937e87218af402500f53-es-ES.pdf",
+  "category": null,
+  "clonedFrom": "66f3e60282b96706355a6802",
+  "comment": null,
+  "country": "ES",
+  "createdAt": "2025-10-24T14:55:58+00:00",
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a6",
+      "type": "chinese",
+      "name": "China",
+      "slug": "china",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a6-846a76df.jpg"
+    }
+  ],
+  "description": "Quizá hayas probado el pato pekin en un restaurante asiático, un plato lleno de umami gracias a la intensidad de la salsa y la frescura de las verduras. En esta ocasión, te ofrecemos una versión con cerdo marinado para que puedas preparar esta receta desde tu cocina sin sacrificar el sabor.",
+  "descriptionHTML": "<p>Quizá hayas probado el pato pekin en un restaurante asiático, un plato lleno de umami gracias a la intensidad de la salsa y la frescura de las verduras. En esta ocasión, te ofrecemos una versión con cerdo marinado para que puedas preparar esta receta desde tu cocina sin sacrificar el sabor.</p>",
+  "descriptionMarkdown": "Quizá hayas probado el pato pekin en un restaurante asiático, un plato lleno de umami gracias a la intensidad de la salsa y la frescura de las verduras. En esta ocasión, te ofrecemos una versión con cerdo marinado para que puedas preparar esta receta desde tu cocina sin sacrificar el sabor.",
+  "difficulty": 1,
+  "favoritesCount": 1,
+  "headline": "con judías verdes salteadas y ensalada",
+  "id": "68fb937e87218af402500f53",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/HF_Y25_R21_W16_ES_ESSSFP33335-4_Main_F1_high-96a14a7b.jpg",
+  "imagePath": "/image/HF_Y25_R21_W16_ES_ESSSFP33335-4_Main_F1_high-96a14a7b.jpg",
+  "ingredients": [
+    {
+      "id": "64a7ea4148c7b9302c331446",
+      "uuid": "c732f542-c4b9-4bbd-b5bf-edc5078538be",
+      "name": "Cabeza de lomo",
+      "type": "pork-loin-head",
+      "slug": "cabeza-de-lomo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/64a7ea4148c7b9302c331446-c04a2217.png",
+      "imagePath": "/ingredient/64a7ea4148c7b9302c331446-c04a2217.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/64a7ea4148c7b9302c331446-Cabeza de lomo.png"
+    },
+    {
+      "id": "63404379233160a36674ba27",
+      "uuid": "62332e06-1bd9-5362-a8bd-eb869fce3bea",
+      "name": "Mix de especias tailandesas",
+      "type": "thai-style-spice-blend",
+      "slug": "mix-de-especias-tailandesas",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "imagePath": "/ingredient/63404379233160a36674ba27-bf8890eb.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404379233160a36674ba27-Mix de especias tailandesas.png"
+    },
+    {
+      "id": "6340436f41033266d7be9513",
+      "uuid": "822e0f6e-0b50-54d0-9774-fee0a98b0271",
+      "name": "Pepino",
+      "type": "cucumber",
+      "slug": "pepino",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "imagePath": "/ingredient/6340436f41033266d7be9513-07f8b826.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436f41033266d7be9513-Pepino.png"
+    },
+    {
+      "id": "6340436d233160a36674b9f4",
+      "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+      "name": "Zanahoria",
+      "type": "carrot",
+      "slug": "zanahoria",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "imagePath": "/ingredient/6340436d233160a36674b9f4-42891636.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6340436d233160a36674b9f4-Zanahoria.png"
+    },
+    {
+      "id": "66f6779e409e10e80694a8a2",
+      "uuid": "e3d17a31-dc7d-43e6-9d11-4f47e31b8102",
+      "name": "Cebolleta",
+      "type": "green-onion",
+      "slug": "cebolleta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/66f6779e409e10e80694a8a2-6cadf58e.png",
+      "imagePath": "/ingredient/66f6779e409e10e80694a8a2-6cadf58e.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/66f6779e409e10e80694a8a2-Cebolleta.png"
+    },
+    {
+      "id": "660c9e473f0f2e6d306d9c5e",
+      "uuid": "b2650fbb-77ee-5228-a70d-a2f8d7a9b5d5",
+      "name": "Semillas de sésamo negras",
+      "type": "black-sesame-seeds",
+      "slug": "semillas-de-sesamo-negras",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/660c9e473f0f2e6d306d9c5e-17818691.png",
+      "imagePath": "/ingredient/660c9e473f0f2e6d306d9c5e-17818691.png",
+      "shipped": true,
+      "allergens": [
+        "5a9614ab30006c2c026cf562",
+        "57962a07b7e8697d4b305302",
+        "62cc417a2f15d58ec3559423",
+        "57962a07b7e8697d4b3052f3",
+        "57962a07b7e8697d4b3052fe"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/660c9e473f0f2e6d306d9c5e-Semillas de sésamo negras.png"
+    },
+    {
+      "id": "63404371233160a36674ba05",
+      "uuid": "0af471b0-f5b6-53c8-bf79-1fa315f20bf3",
+      "name": "Judías verdes",
+      "type": "green-beans",
+      "slug": "judias-verdes",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63404371233160a36674ba05-1e297429.png",
+      "imagePath": "/ingredient/63404371233160a36674ba05-1e297429.png",
+      "shipped": true,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63404371233160a36674ba05-Judías verdes.png"
+    },
+    {
+      "id": "6348219ebb36093c54997964",
+      "uuid": "1f59d4e9-83f7-5dac-abec-916f5f2c6d99",
+      "name": "Tortillas de trigo",
+      "type": "6-pack-tortilla",
+      "slug": "tortillas-de-trigo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/6348219ebb36093c54997964-209def95.png",
+      "imagePath": "/ingredient/6348219ebb36093c54997964-209def95.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/6348219ebb36093c54997964-Tortillas de trigo.png"
+    },
+    {
+      "id": "686db75ca5a49c635d8a15ef",
+      "uuid": "e27b110b-467b-50bb-90ba-de73cb061683",
+      "name": "Salsa hoisin",
+      "type": "hoisin-sauce",
+      "slug": "salsa-hoisin",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/634043722268bc1bff0d3cb2-ed9e85f9.png",
+      "imagePath": "/ingredient/634043722268bc1bff0d3cb2-ed9e85f9.png",
+      "shipped": true,
+      "allergens": [
+        "57962a07b7e8697d4b3052f5",
+        "57962a07b7e8697d4b3052f9",
+        "57962a07b7e8697d4b3052fe",
+        "60368d89cdbdf450236ad8cd"
+      ],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/686db75ca5a49c635d8a15ef-Salsa hoisin.png"
+    },
+    {
+      "id": "63492adae9568549b78497e4",
+      "uuid": "b3504f64-cf53-439f-9d59-679038a5335b",
+      "name": "Sal y pimienta",
+      "type": "salt-and-pepper",
+      "slug": "sal-y-pimienta",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "imagePath": "/ingredient/63492adae9568549b78497e4-ac7712b4.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492adae9568549b78497e4-Sal y pimienta.png"
+    },
+    {
+      "id": "63da35c085a76906e4f26b5e",
+      "uuid": "1c3f0766-6d08-44f5-92e5-f14e4cab5f37",
+      "name": "Aceite de oliva",
+      "type": "aceite-de-oliva",
+      "slug": "aceite-de-oliva",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "imagePath": "/ingredient/63da35c085a76906e4f26b5e-d7b475c9.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63da35c085a76906e4f26b5e-Aceite de oliva.png"
+    },
+    {
+      "id": "65b9f37ed1da3988cdd8ea2e",
+      "uuid": "2172102e-c765-43f0-a8ee-369a17e6ad6f",
+      "name": "Vinagre",
+      "type": "vinegar-in-tbsp",
+      "slug": "vinagre",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "imagePath": "/ingredient/65b9f37ed1da3988cdd8ea2e-3bf588f7.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/65b9f37ed1da3988cdd8ea2e-Vinagre.png"
+    },
+    {
+      "id": "63492b6ae9568549b78497e5",
+      "uuid": "281de50b-8852-4d18-8ca8-a01295338b1c",
+      "name": "Ajo",
+      "type": "garlic",
+      "slug": "ajo",
+      "country": "ES",
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "imagePath": "/ingredient/63492b6ae9568549b78497e5-5d7b13d5.png",
+      "shipped": false,
+      "allergens": [],
+      "family": {
+        "id": "6299e0f4f7cd25bc1c024384",
+        "uuid": "9996416b-db42-55fe-b207-53e1a696a180",
+        "name": "none",
+        "slug": "none",
+        "type": "none",
+        "priority": 0,
+        "iconLink": null,
+        "iconPath": null
+      },
+      "localImage": "/images/ingredients/63492b6ae9568549b78497e5-Ajo.png"
+    }
+  ],
+  "isAddon": false,
+  "isComplete": null,
+  "isPublished": true,
+  "label": {
+    "text": "Street Food",
+    "handle": "street-food",
+    "foregroundColor": "#FFFFFF",
+    "backgroundColor": "#333332",
+    "displayLabel": true
+  },
+  "link": "https://hellofresh.com/recipes/68fb937e87218af402500f53",
+  "name": "Tacos de cerdo al estilo pekinés",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Valor energético (kJ)",
+      "amount": 3640,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Valor energético (kcal)",
+      "amount": 870,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Grasas",
+      "amount": 60.8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "de las cuales saturadas",
+      "amount": 16.6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Carbohidratos",
+      "amount": 62.9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "de los cuales azúcares",
+      "amount": 21.2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Fibra",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Proteínas",
+      "amount": 11.7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Sodio",
+      "amount": 2.73,
+      "unit": "mg"
+    }
+  ],
+  "prepTime": "PT25M",
+  "promotion": null,
+  "ratingsCount": 0,
+  "seoDescription": null,
+  "seoName": null,
+  "servingSize": 662,
+  "slug": "tacos-de-cerdo-al-estilo-pekines",
+  "steps": [
+    {
+      "index": 1,
+      "instructions": "¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!\n\nCorta la cabeza de lomo en tiras finas de 1 cm de grosor.\nEn un bol, agrega la cabeza de lomo, la mitad de las especias tailandesas, un chorrito de aceite, sal y pimienta.\nMezcla y reserva en la nevera hasta el paso 5.\n\nRECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.",
+      "instructionsHTML": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Corta la <strong>cabeza de lomo</strong> en tiras finas de 1 cm de grosor.</li>\n<li>En un bol, agrega la <strong>cabeza de lomo</strong>, la mitad de las <strong>especias tailandesas,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y reserva en la nevera hasta el paso 5.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "instructionsMarkdown": "<p>¡Asegúrate de utilizar las cantidades indicadas a la izquierda para preparar tu receta!</p>\n<ul>\n<li>Corta la <strong>cabeza de lomo</strong> en tiras finas de 1 cm de grosor.</li>\n<li>En un bol, agrega la <strong>cabeza de lomo</strong>, la mitad de las <strong>especias tailandesas,</strong> un chorrito de <strong>aceite, sal</strong> y <strong>pimienta.</strong></li>\n<li>Mezcla y reserva en la nevera hasta el paso 5.</li>\n</ul>\n<p>RECUERDA: Lávate las manos y los utensilios de cocina después de manipular carne cruda.</p>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937e87218af402500f53/step-42f0ab00.jpg",
+          "path": "/68fb937e87218af402500f53/step-42f0ab00.jpg",
+          "caption": "3, 2, 1, ¡a cocinar!",
+          "localImage": "/images/recipes/68fb937e87218af402500f53-step-1-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "instructions": "\nRetira los extremos del pepino y córtalo por la mitad a lo largo.\nCorta una mitad en bastones de 1 cm de grosor y 2-3 cm de longitud.\nCorta la otra mitad en medias lunas de 0,5 cm de grosor.\nPela la zanahoria y repite el proceso, obteniendo mitad en bastones y mitad en medias lunas.\nCorta la cebolleta por la mitad, luego, corta en tiras muy finas.\n",
+      "instructionsHTML": "<ul>\n<li>Retira los extremos del <strong>pepino</strong> y córtalo por la mitad a lo largo.</li>\n<li>Corta una mitad en bastones de 1 cm de grosor y 2-3 cm de longitud.</li>\n<li>Corta la otra mitad en medias lunas de 0,5 cm de grosor.</li>\n<li>Pela la <strong>zanahoria</strong> y repite el proceso, obteniendo mitad en bastones y mitad en medias lunas.</li>\n<li>Corta la <strong>cebolleta</strong> por la mitad, luego, corta en tiras muy finas.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>Retira los extremos del <strong>pepino</strong> y córtalo por la mitad a lo largo.</li>\n<li>Corta una mitad en bastones de 1 cm de grosor y 2-3 cm de longitud.</li>\n<li>Corta la otra mitad en medias lunas de 0,5 cm de grosor.</li>\n<li>Pela la <strong>zanahoria</strong> y repite el proceso, obteniendo mitad en bastones y mitad en medias lunas.</li>\n<li>Corta la <strong>cebolleta</strong> por la mitad, luego, corta en tiras muy finas.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305379"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937e87218af402500f53/step-3e504610.jpg",
+          "path": "/68fb937e87218af402500f53/step-3e504610.jpg",
+          "caption": "Cuchillo en mano",
+          "localImage": "/images/recipes/68fb937e87218af402500f53-step-2-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 3,
+      "instructions": "\nEn una ensaladera, agrega la zanahoria y el pepino en medias lunas, las semillas de sésamo negras, el vinagre, un chorrito de aceite, sal y pimienta. Remueve.\nRetira las puntas de las judías verdes y córtalas en tercios.\nPela y pica el ajo.\n",
+      "instructionsHTML": "<ul>\n<li>En una ensaladera, agrega la <strong>zanahoria</strong> y el <strong>pepino</strong> en medias lunas, las <strong>semillas de sésamo negras</strong>, el <strong>vinagre</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> Remueve.</li>\n<li>Retira las puntas de las <strong>judías verdes </strong>y córtalas en tercios.</li>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una ensaladera, agrega la <strong>zanahoria</strong> y el <strong>pepino</strong> en medias lunas, las <strong>semillas de sésamo negras</strong>, el <strong>vinagre</strong>, un chorrito de <strong>aceite</strong>, <strong>sal</strong> y <strong>pimienta.</strong> Remueve.</li>\n<li>Retira las puntas de las <strong>judías verdes </strong>y córtalas en tercios.</li>\n<li>Pela y pica el <strong>ajo</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538d"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937e87218af402500f53/step-3bad1620.jpg",
+          "path": "/68fb937e87218af402500f53/step-3bad1620.jpg",
+          "caption": "Que no falte el verde",
+          "localImage": "/images/recipes/68fb937e87218af402500f53-step-3-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "instructions": "\nEn una sartén, añade el ajo, la mitad de la cebolleta y un chorrito de aceite. Calienta a fuego medio y cocina 1-2 min.\nAgrega las judías verdes y cocina 1-2 min.\nAñade un chorrito de agua, las especias tailandesas restantes y tapa la sartén. Cocina 4-5 min más, removiendo, hasta que las judías estén tiernas.\nSalpimienta al gusto y retira de la sartén.\n",
+      "instructionsHTML": "<ul>\n<li>En una sartén, añade el <strong>ajo,</strong> la mitad de la <strong>cebolleta</strong> y un chorrito de <strong>aceite</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega las <strong>judías verdes</strong> y cocina 1-2 min.</li>\n<li>Añade un chorrito de <strong>agua,</strong> las <strong>especias tailandesas</strong> restantes y tapa la sartén. Cocina 4-5 min más, removiendo, hasta que las <strong>judías</strong> estén tiernas.</li>\n<li><strong>Salpimienta</strong> al gusto y retira de la sartén.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En una sartén, añade el <strong>ajo,</strong> la mitad de la <strong>cebolleta</strong> y un chorrito de <strong>aceite</strong>. Calienta a fuego medio y cocina 1-2 min.</li>\n<li>Agrega las <strong>judías verdes</strong> y cocina 1-2 min.</li>\n<li>Añade un chorrito de <strong>agua,</strong> las <strong>especias tailandesas</strong> restantes y tapa la sartén. Cocina 4-5 min más, removiendo, hasta que las <strong>judías</strong> estén tiernas.</li>\n<li><strong>Salpimienta</strong> al gusto y retira de la sartén.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937e87218af402500f53/step-82af9330.jpg",
+          "path": "/68fb937e87218af402500f53/step-82af9330.jpg",
+          "caption": "Judías al fuego",
+          "localImage": "/images/recipes/68fb937e87218af402500f53-step-4-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "instructions": "\nEn la sartén, calienta un chorrito de aceite a fuego medio-alto. Cocina la cabeza de lomo marinada 2-3 min, removiendo, hasta que se dore.\nExtiende las tortillas de trigo en un plato y caliéntalas en el microondas a máxima potencia durante 30 segundos.\n",
+      "instructionsHTML": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina la <strong>cabeza de lomo</strong> marinada 2-3 min, removiendo, hasta que se dore.</li>\n<li>Extiende las <strong>tortillas de trigo</strong> en un plato y caliéntalas en el microondas a máxima potencia durante 30 segundos.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la sartén, calienta un chorrito de <strong>aceite</strong> a fuego medio-alto. Cocina la <strong>cabeza de lomo</strong> marinada 2-3 min, removiendo, hasta que se dore.</li>\n<li>Extiende las <strong>tortillas de trigo</strong> en un plato y caliéntalas en el microondas a máxima potencia durante 30 segundos.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937e87218af402500f53/step-55794440.jpg",
+          "path": "/68fb937e87218af402500f53/step-55794440.jpg",
+          "caption": "Turno del cerdo",
+          "localImage": "/images/recipes/68fb937e87218af402500f53-step-5-1.jpg"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "index": 6,
+      "instructions": "\nEn la base de las tortillas, extiende salsa hoisin y cubre con el cerdo, los bastones de pepino y zanahoria y la cebolleta restante.\nSirve los tacos en platos y acompaña con la ensalada y las judías verdes.\n",
+      "instructionsHTML": "<ul>\n<li>En la base de las <strong>tortillas,</strong> extiende <strong>salsa hoisin</strong> y cubre con el <strong>cerdo</strong>, los bastones de <strong>pepino</strong> y <strong>zanahoria</strong> y la <strong>cebolleta</strong> restante.</li>\n<li>Sirve los <strong>tacos</strong> en platos y acompaña con la <strong>ensalada</strong> y las <strong>judías verdes</strong>.</li>\n</ul>",
+      "instructionsMarkdown": "<ul>\n<li>En la base de las <strong>tortillas,</strong> extiende <strong>salsa hoisin</strong> y cubre con el <strong>cerdo</strong>, los bastones de <strong>pepino</strong> y <strong>zanahoria</strong> y la <strong>cebolleta</strong> restante.</li>\n<li>Sirve los <strong>tacos</strong> en platos y acompaña con la <strong>ensalada</strong> y las <strong>judías verdes</strong>.</li>\n</ul>",
+      "ingredients": [],
+      "utensils": [],
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/68fb937e87218af402500f53/step-6ddd8b50.jpg",
+          "path": "/68fb937e87218af402500f53/step-6ddd8b50.jpg",
+          "caption": "Listo para disfrutar",
+          "localImage": "/images/recipes/68fb937e87218af402500f53-step-6-1.jpg"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "64db377d7e32e9eeac7125f5",
+      "type": "dinner-lunch",
+      "name": "Lunch/Dinner",
+      "slug": "lunch-dinner",
+      "colorHandle": "text",
+      "preferences": [],
+      "displayLabel": false
+    },
+    {
+      "id": "594be44bc6243b76f8440332",
+      "type": "quick",
+      "name": "Rápido",
+      "slug": "rapido",
+      "colorHandle": "quickPrep",
+      "preferences": [
+        "Fácil y rápido"
+      ],
+      "displayLabel": false
+    },
+    {
+      "id": "66f543f5acea206f785d315e",
+      "type": "special",
+      "name": "Especialidades",
+      "slug": "especialidades",
+      "colorHandle": null,
+      "preferences": [],
+      "displayLabel": false
+    }
+  ],
+  "totalTime": "PT25M",
+  "uniqueRecipeCode": "ESSSFP33335-9",
+  "updatedAt": "2026-01-22T04:03:59+00:00",
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Bol"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305379",
+      "type": "peeler",
+      "name": "Pelador"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Ensaladera"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Sartén con tapa"
+    }
+  ],
+  "uuid": "05ee43d6-688c-4bab-9c26-1073399e20c3",
+  "videoLink": null,
+  "websiteUrl": "https://www.hellofresh.es/recipes/tacos-de-cerdo-al-estilo-pekines-68fb937e87218af402500f53",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "64a7ea4148c7b9302c331446",
+          "amount": 4,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 1,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "66f6779e409e10e80694a8a2",
+          "amount": 1,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 10,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 100,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 6,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "686db75ca5a49c635d8a15ef",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 2,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 1,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "64a7ea4148c7b9302c331446",
+          "amount": 8,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 2,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "66f6779e409e10e80694a8a2",
+          "amount": 2,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 20,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 200,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "686db75ca5a49c635d8a15ef",
+          "amount": 6,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 8,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 4,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 2,
+          "unit": "unidad(es)"
+        }
+      ]
+    },
+    {
+      "yields": 6,
+      "ingredients": [
+        {
+          "id": "64a7ea4148c7b9302c331446",
+          "amount": 12,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "63404379233160a36674ba27",
+          "amount": 3,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "6340436f41033266d7be9513",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "6340436d233160a36674b9f4",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "66f6779e409e10e80694a8a2",
+          "amount": 3,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "660c9e473f0f2e6d306d9c5e",
+          "amount": 30,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "63404371233160a36674ba05",
+          "amount": 300,
+          "unit": "gramo(s)"
+        },
+        {
+          "id": "6348219ebb36093c54997964",
+          "amount": 18,
+          "unit": "unidad(es)"
+        },
+        {
+          "id": "686db75ca5a49c635d8a15ef",
+          "amount": 9,
+          "unit": "sobre(s)"
+        },
+        {
+          "id": "63492adae9568549b78497e4",
+          "amount": 1,
+          "unit": "pizca(s)"
+        },
+        {
+          "id": "63da35c085a76906e4f26b5e",
+          "amount": 12,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "65b9f37ed1da3988cdd8ea2e",
+          "amount": 6,
+          "unit": "cucharada(s)"
+        },
+        {
+          "id": "63492b6ae9568549b78497e5",
+          "amount": 3,
+          "unit": "unidad(es)"
+        }
+      ]
+    }
+  ],
+  "localImage": "/images/recipes/68fb937e87218af402500f53-Tacos de cerdo al estilo pekinés.jpg",
+  "localCard": "/pdf/68fb937e87218af402500f53-Tacos de cerdo al estilo pekinés.pdf"
+}
